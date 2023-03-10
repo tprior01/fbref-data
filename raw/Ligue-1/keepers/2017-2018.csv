@@ -1,0 +1,44 @@
+id,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
+9260926b,Ibrahim Amadou,fr FRA,"MF,DF",Lille,24,1993,1,0,17,26.7,2,10.59,3,1,66.7,0,0,0,0,,1,1,0,0,0.0,Matches
+2f965a72,Alphonse Areola,fr FRA,GK,Paris S-G,24,1993,34,34,3060,34.0,25,0.74,102,77,76.5,26,6,2,17,50.0,3,1,1,1,50.0,Matches
+b7e7937d,Diego Benaglio,ch SUI,GK,Monaco,33,1983,3,2,225,2.5,0,0.00,6,6,100.0,2,0,0,3,150.0,0,0,0,0,,Matches
+8a2248b4,Walter Benítez,ar ARG,GK,Nice,24,1993,28,28,2520,28.0,36,1.29,113,76,70.8,12,8,8,7,25.0,5,3,2,0,40.0,Matches
+15285503,Quentin Beunardeau,fr FRA,GK,Metz,23,1994,1,0,38,0.4,2,4.74,4,2,50.0,0,0,0,0,,0,0,0,0,,Matches
+e65dd8dc,Landry Bonnefoi,fr FRA,GK,Strasbourg,33,1983,4,3,271,3.0,6,1.99,17,11,64.7,2,0,1,0,0.0,0,0,0,0,,Matches
+96908f80,Jean-Christophe Bouet,fr FRA,GK,Amiens,34,1983,1,1,90,1.0,1,1.00,7,6,85.7,0,0,1,0,0.0,0,0,0,0,,Matches
+26975a92,Ludovic Butelle,fr FRA,GK,Angers,34,1983,19,19,1653,18.4,22,1.20,68,48,72.1,6,5,8,4,21.1,3,3,0,0,0.0,Matches
+950ff24d,Yoan Cardinale,fr FRA,GK,Nice,23,1994,10,10,900,10.0,16,1.60,41,26,61.0,3,1,6,3,30.0,0,0,0,0,,Matches
+2434f24a,Benoît Costil,fr FRA,GK,Bordeaux,30,1987,36,36,3240,36.0,45,1.25,123,75,66.7,16,7,13,10,27.8,8,4,4,0,50.0,Matches
+26383ea5,Abdoulaye Diallo,sn SEN,GK,Rennes,25,1992,3,3,270,3.0,5,1.67,15,10,73.3,0,2,1,0,0.0,1,1,0,0,0.0,Matches
+a3d524cb,Thomas Didillon,fr FRA,GK,Metz,21,1995,9,9,810,9.0,14,1.56,35,22,68.6,1,1,7,2,22.2,3,3,0,0,0.0,Matches
+0e12089d,Maxime Dupé,fr FRA,GK,Nantes,24,1993,1,1,90,1.0,3,3.00,5,2,60.0,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+4d3e9033,Mathieu Gorgelin,fr FRA,GK,Lyon,26,1990,4,4,360,4.0,6,1.50,13,7,53.8,2,1,1,1,25.0,0,0,0,0,,Matches
+bc270726,Régis Gurtner,fr FRA,GK,Amiens,30,1986,37,37,3330,37.0,41,1.11,171,130,78.4,12,9,16,11,29.7,4,4,0,0,0.0,Matches
+a56bd2ee,Karl-Johan Johnsson,se SWE,GK,Guingamp,27,1990,38,38,3420,38.0,59,1.55,171,111,68.4,12,11,15,11,28.9,7,5,2,0,28.6,Matches
+3814120d,Bingourou Kamara,sn SEN,GK,Strasbourg,20,1996,19,19,1692,18.8,32,1.70,86,54,65.1,4,6,9,2,10.5,2,2,0,0,0.0,Matches
+a4527d33,Eiji Kawashima,jp JPN,GK,Metz,34,1983,29,29,2569,28.5,60,2.10,167,106,64.1,5,7,17,2,6.9,2,0,2,0,100.0,Matches
+faf873a7,Hervé Koffi,bf BFA,GK,Lille,20,1996,4,4,360,4.0,11,2.75,20,10,50.0,0,1,3,0,0.0,1,1,0,0,0.0,Matches
+dc366c36,Tomáš Koubek,cz CZE,GK,Rennes,24,1992,34,34,3060,34.0,36,1.06,127,91,73.2,16,8,10,10,29.4,5,2,2,1,50.0,Matches
+4e7db402,Alban Lafont,fr FRA,GK,Toulouse,18,1999,38,38,3420,38.0,54,1.42,158,106,69.6,9,10,19,12,31.6,6,6,0,0,0.0,Matches
+2fa2a875,Benjamin Lecomte,fr FRA,GK,Montpellier,26,1991,38,38,3420,38.0,33,0.87,117,84,76.1,11,18,9,14,36.8,6,5,0,1,0.0,Matches
+96fcd380,Alexandre Letellier,fr FRA,GK,Angers,26,1990,13,13,1170,13.0,17,1.31,44,28,65.9,2,7,4,1,7.7,2,2,0,0,0.0,Matches
+f00de885,Anthony Lopes,pt POR,GK,Lyon,26,1990,34,34,3060,34.0,37,1.09,137,101,76.6,21,8,5,14,41.2,8,5,2,1,28.6,Matches
+c121a641,Raïs M'Bolhi,dz ALG,GK,Rennes,31,1986,1,1,90,1.0,3,3.00,6,3,83.3,0,0,1,0,0.0,2,2,0,0,0.0,Matches
+fcb38f57,Mike Maignan,fr FRA,GK,Lille,22,1995,34,34,3032,33.7,53,1.57,160,107,68.8,10,7,17,5,14.7,5,3,2,0,40.0,Matches
+1d2d5cc8,Steve Mandanda,fr FRA,GK,Marseille,32,1985,31,31,2706,30.0,37,1.23,114,77,70.2,18,9,4,11,35.5,5,3,1,1,25.0,Matches
+e39f8724,Mathieu Michel,fr FRA,GK,Angers,25,1991,7,6,597,6.6,13,1.96,26,14,57.7,1,2,3,1,16.7,2,2,0,0,0.0,Matches
+28a65a2c,Jessy Moulin,fr FRA,GK,Saint-Étienne,31,1986,4,3,304,3.4,6,1.78,29,23,82.8,1,0,2,1,33.3,1,1,0,0,0.0,Matches
+ae7d0ecd,Alexandre Oukidja,dz ALG,GK,Strasbourg,29,1988,17,16,1457,16.2,29,1.79,71,41,64.8,3,5,8,2,12.5,5,4,1,0,20.0,Matches
+76806215,Yohann Pelé,fr FRA,GK,Marseille,34,1982,9,7,714,8.2,10,1.26,27,18,66.7,4,2,1,3,42.9,1,1,0,0,0.0,Matches
+b0547a87,Nicolas de Préville,fr FRA,"FW,MF",Lille,26,1991,1,0,11,3.2,1,8.18,2,1,50.0,0,0,0,0,,0,0,0,0,,Matches
+1061c207,Jérôme Prior,fr FRA,GK,Bordeaux,21,1995,2,2,180,2.0,3,1.50,9,6,66.7,0,0,2,0,0.0,0,0,0,0,,Matches
+bcf1b2e9,Baptiste Reynet,fr FRA,GK,Dijon,26,1990,38,38,3420,38.0,73,1.92,201,128,69.2,13,9,16,5,13.2,14,11,3,0,21.4,Matches
+cac76a72,Stéphane Ruffier,fr FRA,GK,Saint-Étienne,30,1986,35,35,3112,34.6,44,1.27,150,106,74.0,14,10,11,12,34.3,6,5,1,0,16.7,Matches
+cfe852d8,Mamadou Samassa,ml MLI,GK,Troyes,27,1990,21,21,1890,21.0,31,1.48,101,70,71.3,6,3,12,5,23.8,3,2,1,0,33.3,Matches
+60d90c55,Brice Samba,cg CGO,GK,Caen,23,1994,4,3,315,3.5,4,1.14,19,15,84.2,1,1,1,2,66.7,1,1,0,0,0.0,Matches
+f6db3bd5,Danijel Subašić,hr CRO,GK,Monaco,32,1984,34,34,2940,32.7,41,1.26,125,85,70.4,21,8,5,10,29.4,4,4,0,0,0.0,Matches
+8417953b,Seydou Sy,sn SEN,GK,Monaco,21,1995,3,2,255,2.8,4,1.41,16,12,81.3,1,0,1,1,50.0,1,1,0,0,0.0,Matches
+b056e3da,Ciprian Tătărușanu,ro ROU,GK,Nantes,31,1986,37,37,3330,37.0,38,1.03,133,96,72.9,14,10,13,12,32.4,3,2,0,1,0.0,Matches
+ce17b5eb,Kevin Trapp,de GER,GK,Paris S-G,27,1990,4,4,360,4.0,4,1.00,17,13,88.2,3,0,1,1,25.0,2,2,0,0,0.0,Matches
+1d0900d4,Rémy Vercoutre,fr FRA,GK,Caen,37,1980,35,35,3103,34.5,48,1.39,132,88,66.7,9,7,19,11,31.4,4,4,0,0,0.0,Matches
+e750cba4,Erwin Zelazny,fr FRA,GK,Troyes,25,1991,17,17,1530,17.0,28,1.65,92,64,71.7,3,3,11,3,17.6,2,2,0,0,0.0,Matches
