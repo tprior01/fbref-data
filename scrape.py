@@ -11,66 +11,76 @@ from serpapi import GoogleSearch
 import os
 
 load_dotenv()
-search = GoogleSearch({})
-location_list = search.get_location("Austin", 3)
 
 GoogleSearch.SERP_API_KEY = os.environ["serapi_key"]
 
-seasons = ["2017-2018",
-           "2018-2019",
-           "2019-2020",
-           "2020-2021",
-           "2021-2022"]
+seasons = [
+    "2017-2018",
+    "2018-2019",
+    "2019-2020",
+    "2020-2021",
+    "2021-2022",
+    "2022-2023"
+]
 
 # fbref competitions and their corresponding id number
-comps = {"Premier-League": 9,
-         "Serie-A": 11,
-         "La-Liga": 12,
-         "Ligue-1": 13,
-         "Bundesliga": 20,
-         "Champions-League": 8,
-         "Europa-League": 19}
+comps = {
+    "Premier-League": 9,
+    "Serie-A": 11,
+    "La-Liga": 12,
+    "Ligue-1": 13,
+    "Bundesliga": 20,
+    "Champions-League": 8,
+    "Europa-League": 19
+}
 
 # fbref categories and a list of that tables items which are 'totals' i.e. not derived from other properties
-cats = {"keepers": ['GA', 'SoTA', 'Saves', 'W', 'D', 'L', 'CS', 'PKatt', 'PKA', 'PKsv', 'PKm'],
-        "keepersadv": ['FK', 'CK', 'OG', 'PSxG', 'PSxG+/-', 'Cmp', 'Att', 'Att.1', 'Thr', 'Att.2', 'Opp', 'Stp', '#OPA'],
-        "shooting": ['Gls', 'Sh', 'SoT', 'Dist', 'FK', 'PK', 'PKatt', 'xG', 'npxG', 'G-xG', 'np:G-xG'],
-        "passing": ['Cmp', 'Att', 'TotDist', 'PrgDist', 'Cmp.1', 'Att.1', 'Cmp.2', 'Att.2', 'Cmp.3', 'Att.3', 'Ast', 'xAG', 'xA', 'A-xAG', 'KP', '1/3', 'PPA', 'CrsPA', 'PrgP'],
-        "passing_types": ['Att', 'Live', 'Dead', 'FK', 'TB', 'Sw', 'Crs', 'TI', 'CK', 'In', 'Out', 'Str', 'Cmp', 'Off', 'Blocks'],
-        "gca": ['SCA', 'PassLive', 'PassDead', 'TO', 'Sh', 'Fld', 'Def', 'GCA', 'PassLive.1', 'PassDead.1', 'TO.1', 'Sh.1', 'Fld.1', 'Def.1', 'Matches'],
-        "defense": ['Tkl', 'TklW', 'Def 3rd', 'Mid 3rd', 'Att 3rd', 'Tkl.1', 'Att', 'Lost', 'Blocks', 'Sh', 'Pass', 'Int', 'Tkl+Int', 'Clr', 'Err'],
-        "possession": ['Touches', 'Def Pen', 'Def 3rd', 'Mid 3rd', 'Att 3rd', 'Att Pen', 'Live', 'Att', 'Succ', 'Tkld', 'Carries', 'TotDist', 'PrgDist', 'PrgC', '1/3', 'CPA', 'Mis', 'Dis', 'Rec', 'PrgR'],
-        "playingtime": ['MP', 'Min', '90s', 'Starts', 'Compl', 'Subs', 'unSub', 'PPM', 'onG', 'onGA', '+/-', 'On-Off', 'onxG', 'onxGA', 'xG+/-', 'On-Off.1'],
-        "misc": ['CrdY', 'CrdR', '2CrdY', 'Fls', 'Fld', 'Off', 'PKwon', 'PKcon', 'OG']}
+cats = {
+    "stats",
+    "keepers",
+    "keepersadv",
+    "shooting",
+    "passing",
+    "passing_types",
+    "gca",
+    "defense",
+    "possession",
+    "playingtime",
+    "misc"
+}
 
 
 def scrape_fbref_player_table(url, output):
     """Scrapes an individual player table for a valid fbref url and saves it as csv."""
     response = requests.get(url)
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(response.text, 'html.parser')
     comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-    for each in comments:
-        if "table" in str(each):
+    for i, each in enumerate(comments):
+        if 'table' in str(each):
             try:
                 players = BeautifulSoup(each, "html.parser").find_all("tr")
-                player_ids = [x.find("td")["raw-append-csv"] for x in players if x.find("td")]
+                player_ids = [x.find("td")["data-append-csv"] for x in players if x.find("td")]
                 df = pd.read_html(str(each), header=1)[0]
-                df = df[df["Rk"].ne("Rk")].reset_index(drop=True)
-                df.set_index("Rk", inplace=True)
+                df = df[df['Rk'].ne('Rk')].reset_index(drop=True)
+                df.set_index('Rk', inplace=True)
                 df["id"] = player_ids
-                df = df.set_index("id")
             except:
                 continue
+            df = df.set_index("id")
             df.to_csv(output)
             time.sleep(3)
 
 
 def scrape_fbref_player_tables(cats, comps, seasons):
     """Iterates through fbref categories, competitions and seasons, saving each corresponding player table as a csv."""
-    for cat in cats.keys():
+    for cat in cats:
         for comp in comps:
             for season in seasons:
-                url = f"https://fbref.com/en/comps/{comps[comp]}/{season}/{cat}/{season}-{comp}-stats"
+                if season == "2022-23":
+                    url = f"https://fbref.com/en/comps/{comps[comp]}/{cat}/{comp}-stats"
+                else:
+                    url = f"https://fbref.com/en/comps/{comps[comp]}/{season}/{cat}/{season}-{comp}-stats"
+
                 scrape_fbref_player_table(url, f"raw/{comp}/{cat}/{season}.csv")
 
 
@@ -140,20 +150,22 @@ def scrape_transfermarkt_pages():
                 url = df_ad.loc[id].url
             else:
                 print("trying...")
-                params = {
-                    "engine": "google",
-                    "q": f"transfermarkt {df_fb.loc[id].Player} {df_fb.loc[id].Nation} {df_fb.loc[id].Born}",
-                    "hl": "en",
-                    "gl": "uk",
-                    "num": 1,
-                }
-                search = GoogleSearch(params)
-                results = search.get_dict()
-                url = results['organic_results'][0]['link']
-                write_line('transfermarkt_urls.csv', [id, url])
-                time.sleep(6)
+                # params = {
+                #     "engine": "google",
+                #     "q": f"transfermarkt {df_fb.loc[id].Player} {df_fb.loc[id].Nation} {df_fb.loc[id].Born}",
+                #     "hl": "en",
+                #     "gl": "uk",
+                #     "num": 1,
+                # }
+                # search = GoogleSearch(params)
+                # results = search.get_dict()
+                # url = results['organic_results'][0]['link']
+                # write_line('transfermarkt_urls.csv', [id, url])
+                # time.sleep(6)
+                continue
             write_line('data/transfermarkt_data.csv', [id, *scrape_transfermarkt_page(url, random.choice(user_agent_list))])
-        except:
+        except Exception as e:
+            print(e)
             continue
 
 
@@ -168,7 +180,26 @@ def write_line(csv, line):
 
 def main():
     # scrape_fbref_player_tables(cats, comps, seasons)
-    scrape_transfermarkt_pages()
+    # scrape_transfermarkt_pages()
+    df_tm = get_map()
+
+    # dataframe containing player information from fbref (we have parsed this from scraped data)
+    df_fb = pd.read_csv("data/player_info.csv", index_col=0)
+
+    # dataframe of additional transfermarkt urls not in df_tm (we also remove any new overlap between df_tm and df_ad)
+    df_ad = pd.read_csv("data/transfermarkt_urls.csv", index_col=0)
+    df_ad = df_ad[~df_ad.index.isin(df_tm.index)]
+    df_ad.to_csv("data/transfermarkt_urls.csv")
+
+    # dataframe to which we will append transfermarkt information (we also remove any duplicates)
+    df = pd.read_csv("data/transfermarkt_data.csv", index_col=0)
+    df = df[~df.index.duplicated(keep="last")]
+    df.to_csv("data/transfermarkt_data.csv")
+
+    ids = list(set(df_fb.index.to_list()).difference(df.index.to_list()))
+    df = pd.DataFrame(ids, columns =['id'])
+    df = df.set_index("id")
+
 
 
 if __name__ == "__main__":

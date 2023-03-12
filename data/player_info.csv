@@ -26,6 +26,7 @@ id,Player,Nation
 008a6e6d,Ragnar Klavan,Estonia
 00963611,Konstantinos Mavropanos,Greece
 009a4f60,Julian Ryerson,Norway
+00a17eba,Samuele Perisan,Italy
 00a6485f,Andreas Beck,Germany
 00a8d210,Przemysław Frankowski,Poland
 00b0bb87,Fabrizio Cacciatore,Italy
@@ -430,7 +431,7 @@ id,Player,Nation
 0d99c6e1,Tyron Tormin,France
 0d9b2d31,Pedri,Spain
 0da32a38,Nils Seufert,Germany
-0da5076f,Albert Gronbaek Erlykke,Denmark
+0da5076f,Albert Erlykke,Denmark
 0da6a13e,Theo Bongonda,DR Congo
 0daa34cc,Francisco Daniel Simões Rodrigues,Portugal
 0dabaf14,Dženis Burnić,Germany
@@ -1029,6 +1030,7 @@ id,Player,Nation
 1f079188,Rubén Peña,Spain
 1f1229a9,Ernest Muçi,Albania
 1f1c8a15,José Juan Macías,Mexico
+1f2c7b55,Merlin Röhl,Germany
 1f2d714c,Ajdin Hrustic,Australia
 1f3afdcb,Odilon Kossonou,Ivory Coast
 1f44ac21,Erling Haaland,Norway
@@ -1552,9 +1554,11 @@ id,Player,Nation
 2ef637bd,Pierre-Yves Polomat,France
 2ef7c612,Charles De Ketelaere,Belgium
 2f061b36,Raúl Gudiño,Mexico
+2f18d0b8,Timon Wellenreuther,Germany
 2f33776f,Cisse Sandra,Belgium
 2f3452eb,Elseid Hysaj,Albania
 2f3e911a,Aarón Martín,Spain
+2f45300d,Karim Zedadka,France
 2f4c5a52,Harry Arter,Republic of Ireland
 2f52874b,Mohamed Bouchouari,Belgium
 2f557579,Lorenzo Insigne,Italy
@@ -1942,6 +1946,7 @@ id,Player,Nation
 3935e52e,Sead Kolašinac,Bosnia and Herzegovina
 393a257c,Ondřej Čelůstka,Czech Republic
 394854c4,George Baldock,Greece
+394be156,Ousmane Diomande,Ivory Coast
 394c5d32,Ali Çamdalı,Turkey
 395451fc,Daizen Maeda,Japan
 3958025f,Dimo Bakalov,Bulgaria
@@ -1991,6 +1996,7 @@ id,Player,Nation
 3b12b11f,Alessandro Zanoli,Italy
 3b15ef2d,Medhi Benatia,Morocco
 3b1ed320,Angelo Stiller,Germany
+3b216df2,Nikolai Baden Frederiksen,Denmark
 3b333ac3,Hans Hateboer,Netherlands
 3b387cc7,Gianluca Gaetano,Italy
 3b3cbebb,Yacine Qasmi,Morocco
@@ -3780,6 +3786,7 @@ id,Player,Nation
 701a15f5,Noah Crétier,France
 7033ca08,Manuel Gasparini,Italy
 70438d35,Adrián Diéguez,Spain
+705a1642,Reda Belahyane,France
 705f5269,Panagiotis Tsintotas,Greece
 706722a8,Martin Doležal,Czech Republic
 70678132,Eduard Löwen,Germany
@@ -3869,6 +3876,7 @@ id,Player,Nation
 731bf16a,Mykyta Shevchenko,Ukraine
 731e29b8,Daniel Kolář,Czech Republic
 73221bb0,Doug Bergqvist,Sweden
+7328bee5,Samet Akaydın,Turkey
 7329018e,Papakouli Diop,Senegal
 732b0cf9,Timur Zhamaletdinov,Russia
 73341ace,Bobby Clark,England
@@ -6258,6 +6266,7 @@ b9ae8560,Niklas Schmidt,Germany
 b9beb6c5,William Clem,Denmark
 b9c19ad9,Thomas Oude Kotte,Netherlands
 b9d0446f,Nikola Maraš,Serbia
+b9e11c1d,Simone Perilli,Italy
 b9ebc83e,Shawn Parker,Germany
 b9ec784d,Yevhenii Smyrnyi,Ukraine
 b9f92e76,Eric Ramírez,Venezuela
@@ -7280,6 +7289,7 @@ d8f5dc3d,Manuel Schmiedebach,Germany
 d8fc044e,Mickaël Panos,France
 d8feae4a,Christian Luyindama,DR Congo
 d8ff3b2c,Darko Velkovski,North Macedonia
+d9235a45,Diego Mariño,Spain
 d92ab59f,Libor Holík,Czech Republic
 d92b0327,Jordi Gómez,Spain
 d93c2511,Scott McTominay,Scotland
