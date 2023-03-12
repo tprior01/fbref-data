@@ -9,7 +9,7 @@ cats = {
     "keepersadv": {'FK': 'int', 'CK': 'int', 'OG': 'int', 'PSxG': 'float', 'PSxG+/-': 'float', 'Cmp': 'int', 'Att': 'int', 'Att.1': 'int', 'Thr': 'int', 'Att.2': 'int', 'Opp': 'int', 'Stp': 'int', '#OPA': 'int'},
     "shooting": {'Gls': 'int', 'Sh': 'int', 'SoT': 'int', 'FK': 'int', 'PK': 'int', 'PKatt': 'int', 'xG': 'float', 'npxG': 'float', 'G-xG': 'float', 'np:G-xG': 'float'},
     "passing": {'Cmp': 'int', 'Att': 'int', 'TotDist': 'float', 'PrgDist': 'float', 'Cmp.1': 'int', 'Att.1': 'int', 'Cmp.2': 'int', 'Att.2': 'int', 'Cmp.3': 'int', 'Att.3': 'int', 'Ast': 'int', 'xAG': 'float', 'xA': 'float', 'A-xAG': 'float', 'KP': 'int', '1/3': 'int', 'PPA': 'int', 'CrsPA': 'int', 'PrgP': 'int'},
-    "passing_types": {'Att': 'int', 'Live': 'int', 'Dead': 'int', 'FK': 'int', 'TB': 'int', 'Sw': 'int', 'Crs': 'int', 'TI': 'int', 'CK': 'int', 'In': 'int', 'Out': 'int', 'Str': 'int', 'Cmp': 'int', 'Off': 'int', 'Blocks': 'int'},
+    "passing_types": {'Live': 'int', 'Dead': 'int', 'FK': 'int', 'TB': 'int', 'Sw': 'int', 'Crs': 'int', 'TI': 'int', 'CK': 'int', 'In': 'int', 'Out': 'int', 'Str': 'int', 'Off': 'int', 'Blocks': 'int'},
     "gca": {'SCA': 'int', 'PassLive': 'int', 'PassDead': 'int', 'TO': 'int', 'Sh': 'int', 'Fld': 'int', 'Def': 'int', 'GCA': 'int', 'PassLive.1': 'int', 'PassDead.1': 'int', 'TO.1': 'int', 'Sh.1': 'int', 'Fld.1': 'int', 'Def.1': 'int'},
     "defense": {'Tkl': 'int', 'TklW': 'int', 'Def 3rd': 'int', 'Mid 3rd': 'int', 'Att 3rd': 'int', 'Tkl.1': 'int', 'Att': 'int', 'Lost': 'int', 'Blocks': 'int', 'Sh': 'int', 'Pass': 'int', 'Int': 'int', 'Tkl+Int': 'int', 'Clr': 'int', 'Err': 'int'},
     "possession": {'Touches': 'int', 'Def Pen': 'int', 'Def 3rd': 'int', 'Mid 3rd': 'int', 'Att 3rd': 'int', 'Att Pen': 'int', 'Live': 'int', 'Att': 'int', 'Succ': 'int', 'Tkld': 'int', 'Carries': 'int', 'TotDist': 'float', 'PrgDist': 'float', 'PrgC': 'int', '1/3': 'int', 'CPA': 'int', 'Mis': 'int', 'Dis': 'int', 'Rec': 'int', 'PrgR': 'int'},
@@ -32,7 +32,7 @@ def clean_data():
         for comp in comps:
             for season in seasons:
                 df = open_and_group_by(f"raw/{comp}/{cat}/{season}.csv")
-                df = df[list(totals.keys())]
+                df = df[totals.keys()]
                 df = df.astype(cats[cat])
                 directory = f"data/{comp}/{cat}"
                 if not os.path.exists(directory):
@@ -59,11 +59,11 @@ def avg_to_total():
 
 
 def gk_mins():
-    """Merges duplicate players if they have played for two teams. Adds goalkeeper minutes to playingtime."""
+    """Adds goalkeeper minutes to playingtime."""
     for comp in comps:
         for season in seasons:
-            df_raw = pd.read_csv(f"raw/{comp}/keepers/{season}.csv")
-            df_clean = pd.read_csv(f"data/{comp}/playingtime/{season}.csv")
+            df_raw = open_and_group_by(f"raw/{comp}/keepers/{season}.csv")
+            df_clean = pd.read_csv(f"data/{comp}/playingtime/{season}.csv", index_col=0)
             for key in ["Min", "MP", "Starts", "90s"]:
                 df_clean[f"{key}GK"] = df_raw[key]
             df_clean = df_clean.fillna(0)
@@ -74,23 +74,30 @@ def gk_mins():
             df_clean.to_csv(f"data/{comp}/playingtime/{season}.csv")
 
 
+def recoveries_to_defense():
+    """Adds recoveries to defense"""
+    for comp in comps:
+        for season in seasons:
+            df_misc = open_and_group_by(f"raw/{comp}/misc/{season}.csv")
+            df_def = pd.read_csv(f"data/{comp}/defense/{season}.csv", index_col=0)
+            df_def["recov"] = df_misc["Recov"].astype(int)
+            df_def.to_csv(f"data/{comp}/defense/{season}.csv")
+
+
 def player_info():
     """Cleans and concatenates player info into a single csv"""
     types = {"id": "string", "Player": "string", "Nation": "string", "Min": "int32"}
-    aggregate = {"Player": "last", "Nation": "last", "Season": lambda x: '/'.join(x.unique())}
+    aggregate = {"Player": "last", "Nation": "last"}
     dfs = []
     for comp in comps:
         for season in seasons:
             df = pd.read_csv(f"raw/{comp}/stats/{season}.csv").fillna(0)[types.keys()]
             df = df.astype(types)
-            df["Season"] = "2022-2023" if season == "" else season
             df = df[df["Min"] > 0]
             dfs.append(df)
     df = pd.concat(dfs, ignore_index=True).groupby(["id"], as_index=True).agg(aggregate)
     nations = pd.read_csv("data/nation_abbreviations.csv", index_col="abbr")
     df["Nation"] = np.vectorize(lambda x: nations.loc[(x.split()[-1]).strip(), "name"])(df["Nation"])
-    df["Season"] = np.vectorize(lambda x: int([y for y in x.split("/") if y != ""][-1][-2:]))(df["Season"])
-    df = df.drop(columns=["Season"])
     df.to_csv("data/player_info.csv")
 
 
@@ -108,6 +115,7 @@ def main():
     clean_data()
     avg_to_total()
     gk_mins()
+    recoveries_to_defense()
     player_info()
 
 
