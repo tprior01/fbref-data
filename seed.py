@@ -145,6 +145,58 @@ def copy_defense(comp, season):
                CSV HEADER;"""
 
 
+def possession(comp, season):
+    return f"""CREATE TABLE {comp}{season}possession (id VARCHAR(30) PRIMARY KEY, touch SMALLINT, touch_def_pen SMALLINT, 
+               touch_def SMALLINT, touch_mid SMALLINT, touch_att SMALLINT, touch_att_pen SMALLINT,  touch_live SMALLINT, 
+               att_take_on SMALLINT, cmp_take_on SMALLINT, uns_take_on SMALLINT, carry SMALLINT, carry_dist DECIMAL(7,1), 
+               carry_prog_dist DECIMAL(7,1), carry_prog SMALLINT, carry_att_third SMALLINT, carry_opp_pen SMALLINT,
+               miscontrol SMALLINT, disposs SMALLINT, received SMALLINT, prog_received SMALLINT)"""
+
+
+def copy_possession(comp, season):
+    return f"""COPY {comp}{season}possession(id, touch, touch_def_pen, touch_def, touch_mid, touch_att, touch_att_pen, 
+               touch_live, att_take_on, cmp_take_on, uns_take_on, carry, carry_dist, carry_prog_dist, carry_prog, 
+               carry_att_third, carry_opp_pen, miscontrol, disposs, received, prog_received)
+               FROM '/Users/tom/Documents/Personal/fbref-4/data/{comps[comp]}/possession/20{season-1}-20{season}.csv'
+               DELIMITER ','
+               CSV HEADER;"""
+
+
+def playingtime(comp, season):
+    return f"""CREATE TABLE {comp}{season}playingtime (id VARCHAR(30) PRIMARY KEY, matches SMALLINT, minutes SMALLINT, 
+               nineties SMALLINT, starts SMALLINT, completed SMALLINT, sub SMALLINT,  sub_unused SMALLINT, 
+               onpitch_goals SMALLINT, onpitch_goals_ag SMALLINT, onpitch_goals_delta SMALLINT, onpitch_xG DECIMAL(6,1), 
+               onpitch_xGA DECIMAL(6,1), onpitch_xG_delta DECIMAL(6,1), matches_gk SMALLINT, minutes_gk SMALLINT, starts_gk SMALLINT, 
+               nineties_gk SMALLINT)"""
+
+
+def copy_playingtime(comp, season):
+    return f"""COPY {comp}{season}playingtime(id, matches, minutes, nineties, starts, completed, sub,  sub_unused, 
+               onpitch_goals, onpitch_goals_ag, onpitch_goals_delta, onpitch_xG, onpitch_xGA, onpitch_xG_delta, 
+               matches_gk, minutes_gk, starts_gk, nineties_gk)
+               FROM '/Users/tom/Documents/Personal/fbref-4/data/{comps[comp]}/playingtime/20{season-1}-20{season}.csv'
+               DELIMITER ','
+               CSV HEADER;"""
+
+
+def misc(comp, season):
+    return f"""CREATE TABLE {comp}{season}misc (id VARCHAR(30) PRIMARY KEY, y_card SMALLINT, r_card SMALLINT, 
+               two_y_card SMALLINT, fouls SMALLINT, fouled SMALLINT, offside SMALLINT,  pens_won SMALLINT, 
+               pens_con SMALLINT, own_goal SMALLINT)"""
+
+
+def copy_misc(comp, season):
+    return f"""COPY {comp}{season}misc(id, y_card, r_card, two_y_card, fouls, fouled, offside,  pens_won, pens_con, 
+               own_goal)
+               FROM '/Users/tom/Documents/Personal/fbref-4/data/{comps[comp]}/misc/20{season-1}-20{season}.csv'
+               DELIMITER ','
+               CSV HEADER;"""
+
+
+create = [keeper, keeperadv, shooting, passing, passing_types, gca, defense, possession, playingtime, misc]
+copy = [copy_keeper, copy_keeperadv, copy_shooting, copy_passing, copy_passing_types, copy_gca, copy_defense, copy_possession, copy_playingtime, copy_misc]
+
+
 def execute_commands(*coms):
     """ create tables in the postgresql database"""
     conn = None
@@ -172,24 +224,10 @@ if __name__ == '__main__':
     execute_commands(drop_all_tables)
     create_tables = (
         player_info,
-        *[keeper(comp, season) for comp in comps.keys() for season in seasons],
-        *[keeperadv(comp, season) for comp in comps.keys() for season in seasons],
-        *[shooting(comp, season) for comp in comps.keys() for season in seasons],
-        *[passing(comp, season) for comp in comps.keys() for season in seasons],
-        *[passing_types(comp, season) for comp in comps.keys() for season in seasons],
-        *[gca(comp, season) for comp in comps.keys() for season in seasons],
-        *[defense(comp, season) for comp in comps.keys() for season in seasons],
-
+        *[func(comp, season) for comp in comps.keys() for season in seasons for func in create],
     )
     execute_commands(*create_tables)
     copy_tables = (
-        *[copy_keeper(comp, season) for comp in comps.keys() for season in seasons],
-        *[copy_keeperadv(comp, season) for comp in comps.keys() for season in seasons],
-        *[copy_shooting(comp, season) for comp in comps.keys() for season in seasons],
-        *[copy_passing(comp, season) for comp in comps.keys() for season in seasons],
-        *[copy_passing_types(comp, season) for comp in comps.keys() for season in seasons],
-        *[copy_gca(comp, season) for comp in comps.keys() for season in seasons],
-        *[copy_defense(comp, season) for comp in comps.keys() for season in seasons],
-
+        *[func(comp, season) for comp in comps.keys() for season in seasons for func in copy],
     )
     execute_commands(*copy_tables)
