@@ -180,26 +180,7 @@ def write_line(csv, line):
 
 def main():
     # scrape_fbref_player_tables(cats, comps, seasons)
-    # scrape_transfermarkt_pages()
-    df_tm = get_map()
-
-    # dataframe containing player information from fbref (we have parsed this from scraped data)
-    df_fb = pd.read_csv("data/player_info.csv", index_col=0)
-
-    # dataframe of additional transfermarkt urls not in df_tm (we also remove any new overlap between df_tm and df_ad)
-    df_ad = pd.read_csv("data/transfermarkt_urls.csv", index_col=0)
-    df_ad = df_ad[~df_ad.index.isin(df_tm.index)]
-    df_ad.to_csv("data/transfermarkt_urls.csv")
-
-    # dataframe to which we will append transfermarkt information (we also remove any duplicates)
-    df = pd.read_csv("data/transfermarkt_data.csv", index_col=0)
-    df = df[~df.index.duplicated(keep="last")]
-    df.to_csv("data/transfermarkt_data.csv")
-
-    ids = list(set(df_fb.index.to_list()).difference(df.index.to_list()))
-    df = pd.DataFrame(ids, columns =['id'])
-    df = df.set_index("id")
-
+    scrape_transfermarkt_pages()
 
 
 if __name__ == "__main__":
