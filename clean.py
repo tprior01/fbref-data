@@ -13,7 +13,7 @@ cats = {
     "gca": {'SCA': 'int', 'PassLive': 'int', 'PassDead': 'int', 'TO': 'int', 'Sh': 'int', 'Fld': 'int', 'Def': 'int', 'GCA': 'int', 'PassLive.1': 'int', 'PassDead.1': 'int', 'TO.1': 'int', 'Sh.1': 'int', 'Fld.1': 'int', 'Def.1': 'int'},
     "defense": {'Tkl': 'int', 'TklW': 'int', 'Def 3rd': 'int', 'Mid 3rd': 'int', 'Att 3rd': 'int', 'Tkl.1': 'int', 'Att': 'int', 'Lost': 'int', 'Blocks': 'int', 'Sh': 'int', 'Pass': 'int', 'Int': 'int', 'Tkl+Int': 'int', 'Clr': 'int', 'Err': 'int'},
     "possession": {'Touches': 'int', 'Def Pen': 'int', 'Def 3rd': 'int', 'Mid 3rd': 'int', 'Att 3rd': 'int', 'Att Pen': 'int', 'Live': 'int', 'Att': 'int', 'Succ': 'int', 'Tkld': 'int', 'Carries': 'int', 'TotDist': 'float', 'PrgDist': 'float', 'PrgC': 'int', '1/3': 'int', 'CPA': 'int', 'Mis': 'int', 'Dis': 'int', 'Rec': 'int', 'PrgR': 'int'},
-    "playingtime": {'MP': 'int', 'Min': 'int', '90s': 'int', 'Starts': 'int', 'Compl': 'int', 'Subs': 'int', 'unSub': 'int', 'PPM': 'int', 'onG': 'int', 'onGA': 'int', '+/-': 'int', 'onxG': 'float', 'onxGA': 'float', 'xG+/-': 'float'},
+    "playingtime": {'MP': 'int', 'Min': 'int', '90s': 'int', 'Starts': 'int', 'Compl': 'int', 'Subs': 'int', 'unSub': 'int', 'onG': 'int', 'onGA': 'int', '+/-': 'int', 'onxG': 'float', 'onxGA': 'float', 'xG+/-': 'float'},
     "misc": {'CrdY': 'int', 'CrdR': 'int', '2CrdY': 'int', 'Fls': 'int', 'Fld': 'int', 'Off': 'int', 'PKwon': 'int', 'PKcon': 'int', 'OG': 'int'}
 }
 
@@ -67,7 +67,7 @@ def gk_mins():
             for key in ["Min", "MP", "Starts", "90s"]:
                 df_clean[f"{key}GK"] = df_raw[key]
             df_clean = df_clean.fillna(0)
-            for key in ["90s", "90sGK", "PPM"]:
+            for key in ["90s", "90sGK"]:
                 df_clean[key] = df_clean[key].round(2)
             for key in ["Min", "onG", "MinGK", "MPGK", "StartsGK", "90sGK"]:
                 df_clean[key] = df_clean[key].astype(int)
