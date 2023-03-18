@@ -1,3 +1,3 @@
-# FBREF to PostgreSQL
+# FBREF  
 
-Creates a PostgreSQL db from scraped FBREF data.
+fbref data by competition and season
