@@ -1,0 +1,33 @@
+id,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
+7a2e46a8,Alisson,br BRA,GK,Liverpool,30-166,1992,26,26,2340,26.0,29,1.12,105,77,74.3,12,6,8,10,38.5,3,2,1,0,33.3,Matches
+2f965a72,Alphonse Areola,fr FRA,GK,West Ham,30-018,1993,5,2,309,3.4,7,2.04,16,9,68.8,0,1,1,1,50.0,2,2,0,0,0.0,Matches
+28d596a0,Kepa Arrizabalaga,es ESP,GK,Chelsea,28-165,1994,18,18,1575,17.5,14,0.80,69,57,79.7,7,6,5,8,44.4,0,0,0,0,,Matches
+c91441dc,Gavin Bazunu,ie IRL,GK,Southampton,21-025,2002,27,27,2430,27.0,43,1.59,100,60,57.0,6,4,17,4,14.8,1,0,1,0,100.0,Matches
+7b4de647,Asmir Begović,ba BIH,GK,Everton,35-270,1987,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+3a949a25,Martin Dúbravka,sk SVK,GK,Newcastle Utd,34-061,1989,1,0,67,0.7,0,0.00,5,5,100.0,0,0,0,0,,0,0,0,0,,Matches
+3bb7b8b4,Ederson,br BRA,GK,Manchester City,29-212,1993,27,27,2430,27.0,25,0.93,60,36,63.3,19,4,4,10,37.0,3,3,0,0,0.0,Matches
+9328b835,Łukasz Fabiański,pl POL,GK,West Ham,37-333,1985,24,24,2031,22.6,27,1.20,94,67,72.3,6,5,13,4,16.7,2,1,1,0,50.0,Matches
+c3e39f12,Fraser Forster,eng ENG,GK,Tottenham,35-000,1988,6,6,540,6.0,8,1.33,23,14,65.2,3,1,2,2,33.3,1,0,1,0,100.0,Matches
+7ba6d84e,David de Gea,es ESP,GK,Manchester Utd,32-130,1990,26,26,2340,26.0,35,1.35,104,70,67.3,15,5,6,11,42.3,1,1,0,0,0.0,Matches
+ab13a5aa,Vicente Guaita,es ESP,GK,Crystal Palace,36-066,1987,26,26,2340,26.0,33,1.27,114,83,72.8,6,9,11,6,23.1,2,2,0,0,0.0,Matches
+e5a76dfe,Dean Henderson,eng ENG,GK,Nott'ham Forest,26-005,1997,18,18,1620,18.0,31,1.72,85,52,65.9,5,5,8,6,33.3,5,2,2,1,50.0,Matches
+76eca7e2,Wayne Hennessey,wls WAL,GK,Nott'ham Forest,36-052,1987,2,2,180,2.0,4,2.00,11,7,63.6,0,1,1,0,0.0,0,0,0,0,,Matches
+2628fd2b,Bernd Leno,de GER,GK,Fulham,31-013,1992,25,25,2250,25.0,35,1.40,134,99,76.9,11,4,10,7,28.0,4,4,0,0,0.0,Matches
+8f62b6ee,Hugo Lloris,fr FRA,GK,Tottenham,36-081,1986,21,21,1890,21.0,29,1.38,95,67,70.5,12,2,7,7,33.3,1,1,0,0,0.0,Matches
+7956236f,Emiliano Martínez,ar ARG,GK,Aston Villa,30-196,1992,24,24,2104,23.4,32,1.37,93,64,68.8,9,5,10,6,25.0,4,3,1,0,25.0,Matches
+33887998,Edouard Mendy,sn SEN,GK,Chelsea,31-016,1992,9,8,765,8.5,12,1.41,37,25,67.6,3,1,4,1,12.5,0,0,0,0,,Matches
+6b625ac2,Illan Meslier,fr FRA,GK,Leeds United,23-015,2000,26,26,2340,26.0,42,1.62,115,74,65.2,5,8,13,5,19.2,2,2,0,0,0.0,Matches
+ecada4fc,Keylor Navas,cr CRC,GK,Nott'ham Forest,36-092,1986,6,6,540,6.0,12,2.00,28,16,64.3,1,2,3,1,16.7,2,2,0,0,0.0,Matches
+a9dc785c,Neto,br BRA,GK,Bournemouth,33-241,1989,16,16,1395,15.5,20,1.29,76,57,78.9,4,6,6,4,25.0,5,4,0,1,0.0,Matches
+e7ee38c3,Robin Olsen,se SWE,GK,Aston Villa,33-068,1990,3,2,236,2.6,7,2.67,16,9,62.5,1,0,1,1,50.0,1,1,0,0,0.0,Matches
+4806ec67,Jordan Pickford,eng ENG,GK,Everton,29-010,1994,26,26,2340,26.0,38,1.46,126,88,72.2,5,7,14,6,23.1,3,3,0,0,0.0,Matches
+4b40d9ca,Nick Pope,eng ENG,GK,Newcastle Utd,30-332,1992,25,25,2181,24.2,18,0.74,76,58,77.6,11,11,3,12,48.0,2,1,0,1,0.0,Matches
+466fb2c5,Aaron Ramsdale,eng ENG,GK,Arsenal,24-307,1998,27,27,2430,27.0,25,0.93,85,61,72.9,21,3,3,12,44.4,3,2,0,1,0.0,Matches
+98ea5115,David Raya,es ESP,GK,Brentford,27-183,1995,26,26,2340,26.0,33,1.27,139,108,77.0,10,11,5,9,34.6,1,1,0,0,0.0,Matches
+17acc2ed,Marek Rodák,sk SVK,GK,Fulham,26-094,1996,2,2,180,2.0,2,1.00,4,2,50.0,0,2,0,1,50.0,0,0,0,0,,Matches
+903b6e8b,José Sá,pt POR,GK,Wolves,30-059,1993,27,27,2430,27.0,37,1.37,116,78,69.0,7,6,14,7,25.9,3,1,2,0,66.7,Matches
+6a713852,Robert Sánchez,es ESP,GK,Brighton,25-119,1997,22,22,1980,22.0,29,1.32,72,45,66.7,10,5,7,6,27.3,6,5,1,0,16.7,Matches
+28300a16,Jason Steele,eng ENG,GK,Brighton,32-211,1990,3,3,270,3.0,2,0.67,9,7,77.8,2,1,0,2,66.7,0,0,0,0,,Matches
+fe558029,Mark Travers,ie IRL,GK,Bournemouth,23-303,1999,11,10,945,10.5,31,2.95,60,31,51.7,2,0,8,2,20.0,2,2,0,0,0.0,Matches
+d3ce0e89,Danny Ward,wls WAL,GK,Leicester City,29-268,1993,26,26,2340,26.0,46,1.77,119,75,63.0,7,3,16,6,23.1,3,2,1,0,33.3,Matches
+3f847d95,Joseph Whitworth,eng ENG,GK,Crystal Palace,19-016,2004,1,1,90,1.0,1,1.00,5,4,80.0,0,0,1,0,0.0,0,0,0,0,,Matches
