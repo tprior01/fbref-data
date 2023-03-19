@@ -1,0 +1,58 @@
+id,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
+65d62814,Antonio Adán,es ESP,GK,pt Sporting CP,35-310,1987,4,4,390,4.3,4,0.92,19,16,78.9,1,3,0,1,25.0,0,0,0,0,,Matches
+9e17ccff,Doğan Alemdar,tr TUR,GK,fr Rennes,20-141,2002,2,1,129,1.4,3,2.09,6,3,50.0,0,1,0,0,0.0,0,0,0,0,,Matches
+dbd1b101,Noah Atubolu,de GER,GK,de Freiburg,20-298,2002,1,1,90,1.0,1,1.00,5,4,80.0,0,1,0,0,0.0,0,0,0,0,,Matches
+072e68ed,Altay Bayındır,tr TUR,GK,tr Fenerbahçe,24-339,1998,8,8,720,8.0,9,1.13,22,13,63.6,5,2,1,3,37.5,1,1,0,0,0.0,Matches
+8a2248b4,Walter Benítez,ar ARG,GK,nl PSV Eindhoven,30-059,1993,7,7,630,7.0,6,0.86,29,23,79.3,4,1,2,3,42.9,0,0,0,0,,Matches
+53d93280,Justin Bijlow,nl NED,GK,nl Feyenoord,25-056,1998,6,6,540,6.0,9,1.50,27,18,66.7,2,2,2,2,33.3,0,0,0,0,,Matches
+5e8936be,Milan Borjan,ca CAN,GK,rs Red Star,35-147,1987,6,6,540,6.0,11,1.83,29,19,65.5,2,0,4,0,0.0,1,1,0,0,0.0,Matches
+f6798fc3,Yassine Bounou,ma MAR,GK,es Sevilla,31-348,1991,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+1e064bfb,Denys Boyko,ua UKR,GK,ua Dynamo Kyiv,35-049,1988,2,2,180,2.0,3,1.50,10,7,70.0,0,0,2,0,0.0,0,0,0,0,,Matches
+10072610,Claudio Bravo,cl CHI,GK,es Betis,39-340,1983,6,6,540,6.0,8,1.33,32,24,78.1,4,1,1,2,33.3,1,1,0,0,0.0,Matches
+6115fddd,Yanick Brecher,ch SUI,GK,ch Zürich,29-298,1993,6,6,540,6.0,16,2.67,34,19,52.9,1,0,5,0,0.0,0,0,0,0,,Matches
+eb2b33aa,Heorhiy Bushchan,ua UKR,GK,ua Dynamo Kyiv,28-292,1994,2,2,180,2.0,4,2.00,10,6,60.0,0,0,2,0,0.0,0,0,0,0,,Matches
+f63a8347,Uğurcan Çakır,tr TUR,GK,tr Trabzonspor,26-348,1996,5,5,450,5.0,6,1.20,19,13,73.7,3,0,2,2,40.0,1,1,0,0,0.0,Matches
+2edbd8d5,Dumitru Celeadnic,md MDA,GK,md Sheriff Tiraspol,30-330,1992,1,1,90,1.0,3,3.00,8,5,62.5,0,0,1,0,0.0,0,0,0,0,,Matches
+a04e2dd2,Johan Dahlin,se SWE,GK,se Malmö,36-192,1986,2,2,180,2.0,5,2.50,18,13,72.2,0,0,2,0,0.0,0,0,0,0,,Matches
+a9107589,Ismael Diawara,ml MLI,GK,se Malmö,28-128,1994,4,4,360,4.0,6,1.50,26,20,84.6,0,0,4,0,0.0,2,2,0,0,0.0,Matches
+4030c7ae,Dénes Dibusz,hu HUN,GK,hu Ferencváros,32-123,1990,8,8,720,8.0,13,1.62,43,30,72.1,3,1,4,1,12.5,1,1,0,0,0.0,Matches
+ac295d9e,Marko Dmitrović,rs SRB,GK,es Sevilla,31-054,1992,3,3,270,3.0,3,1.00,13,10,84.6,1,0,2,1,33.3,1,1,0,0,0.0,Matches
+510c6a3f,Joel Drommel,nl NED,GK,nl PSV Eindhoven,26-123,1996,1,1,90,1.0,1,1.00,3,2,66.7,1,0,0,0,0.0,0,0,0,0,,Matches
+54bb5c3f,Fabiano,br BRA,GK,cy AC Omonia,35-018,1988,3,3,225,2.5,6,2.40,14,8,57.1,0,0,3,0,0.0,0,0,0,0,,Matches
+a92ab7be,Mark Flekken,nl NED,GK,de Freiburg,29-279,1993,7,7,630,7.0,5,0.71,29,24,86.2,4,1,2,3,42.9,1,1,0,0,0.0,Matches
+7ba6d84e,David de Gea,es ESP,GK,eng Manchester Utd,32-132,1990,10,10,900,10.0,7,0.70,29,22,82.8,8,1,1,5,50.0,2,2,0,0,0.0,Matches
+37998008,Lennart Grill,de GER,GK,de Union Berlin,24-053,1999,1,0,45,0.5,0,0.00,1,1,100.0,0,0,0,1,,0,0,0,0,,Matches
+60831426,Nikita Haikin,ru RUS,GK,no Bodø/Glimt,27-251,1995,6,6,540,6.0,10,1.67,31,22,67.7,1,1,4,0,0.0,0,0,0,0,,Matches
+10161491,Conor Hazard,nir NIR,GK,fi HJK,25-014,1998,6,6,540,6.0,13,2.17,40,28,70.0,0,1,5,0,0.0,1,1,0,0,0.0,Matches
+ad3389d5,Lukáš Hrádecký,fi FIN,GK,de Leverkusen,33-115,1989,4,4,390,4.3,5,1.15,12,8,66.7,3,0,1,2,50.0,1,1,0,0,0.0,Matches
+ff74841d,Philipp Köhn,ch SUI,GK,at RB Salzburg,24-351,1998,2,2,180,2.0,2,1.00,9,7,77.8,1,0,1,1,50.0,0,0,0,0,,Matches
+60713cb3,Maksym Koval,ua UKR,GK,md Sheriff Tiraspol,30-100,1992,5,5,450,5.0,7,1.40,22,15,72.7,2,0,3,2,40.0,1,1,0,0,0.0,Matches
+4e7db402,Alban Lafont,fr FRA,GK,fr Nantes,24-055,1999,8,8,720,8.0,15,1.87,50,36,74.0,3,1,4,1,12.5,2,2,0,0,0.0,Matches
+939bc634,Jonas Lössl,dk DEN,GK,dk Midtjylland,34-046,1989,8,8,720,8.0,13,1.62,36,23,66.7,2,3,3,1,12.5,2,1,1,0,50.0,Matches
+1d2d5cc8,Steve Mandanda,fr FRA,GK,fr Rennes,37-356,1985,7,7,621,6.9,8,1.16,16,9,62.5,4,2,1,1,14.3,2,2,0,0,0.0,Matches
+ef3909cd,Matheus,br BRA,GK,pt Braga,30-243,1992,6,6,540,6.0,7,1.17,23,16,73.9,3,1,2,2,33.3,1,1,0,0,0.0,Matches
+99351886,Anthony Moris,lu LUX,GK,be Union SG,32-324,1990,8,8,720,8.0,10,1.25,34,23,70.6,5,2,1,3,37.5,1,0,1,0,100.0,Matches
+0880e10b,Ruslan Neshcheret,ua UKR,GK,ua Dynamo Kyiv,21-056,2002,2,2,180,2.0,4,2.00,7,3,42.9,0,1,1,0,0.0,0,0,0,0,,Matches
+afb0c500,Alexander Nübel,de GER,GK,fr Monaco,26-170,1996,8,8,750,8.3,13,1.56,40,28,70.0,4,1,3,1,12.5,1,1,0,0,0.0,Matches
+be855308,Sergio Padt,nl NED,GK,bg Ludogorets,32-286,1990,6,6,540,6.0,9,1.50,31,22,77.4,2,1,3,1,16.7,2,2,0,0,0.0,Matches
+4c5039bd,Alexandros Paschalakis,gr GRE,GK,gr Olympiacos,33-234,1989,2,2,180,2.0,1,0.50,8,7,87.5,0,2,0,1,50.0,0,0,0,0,,Matches
+79b0d6a0,Rui Patrício,pt POR,GK,it Roma,35-032,1988,9,9,810,9.0,6,0.67,24,18,75.0,5,2,2,4,44.4,0,0,0,0,,Matches
+00b86f5e,Kenan Pirić,ba BIH,GK,cy AÉK Lárnaka,28-255,1994,6,6,540,6.0,10,1.67,31,21,71.0,1,2,3,1,16.7,2,1,1,0,50.0,Matches
+277da414,Ivan Provedel,it ITA,GK,it Lazio,29-002,1994,6,6,540,6.0,11,1.83,28,16,67.9,2,2,2,1,16.7,3,2,1,0,33.3,Matches
+466fb2c5,Aaron Ramsdale,eng ENG,GK,eng Arsenal,24-309,1998,3,3,300,3.3,3,0.90,9,6,66.7,1,1,1,1,33.3,0,0,0,0,,Matches
+374ee424,Álex Remiro,es ESP,GK,es Real Sociedad,27-360,1995,8,8,720,8.0,4,0.50,12,8,66.7,5,1,2,5,62.5,0,0,0,0,,Matches
+625c144a,Gerónimo Rulli,ar ARG,GK,nl Ajax,30-303,1992,2,2,180,2.0,3,1.50,9,6,77.8,0,1,1,1,50.0,1,1,0,0,0.0,Matches
+a70b8345,Frederik Rønnow,dk DEN,GK,de Union Berlin,30-227,1992,10,10,855,9.5,9,0.95,28,19,67.9,5,2,3,4,40.0,0,0,0,0,,Matches
+595ccab1,Məhəmmədəliyev Şahruddin Maqomedoviç,az AZE,GK,az Qarabağ Ağdam,28-280,1994,6,6,540,6.0,5,0.83,26,21,88.5,2,2,2,3,50.0,2,2,0,0,0.0,Matches
+b69dfb42,Jörg Siebenhandl,at AUT,GK,at Sturm Graz,33-060,1990,6,6,540,6.0,10,1.67,24,14,62.5,2,2,2,3,50.0,1,1,0,0,0.0,Matches
+ea83bfa6,Rui Silva,pt POR,GK,es Betis,29-040,1994,2,2,180,2.0,1,0.50,7,6,85.7,1,0,1,1,50.0,0,0,0,0,,Matches
+bcf5058a,Mile Svilar,rs SRB,GK,it Roma,23-204,1999,1,1,90,1.0,2,2.00,3,1,33.3,0,0,1,0,0.0,0,0,0,0,,Matches
+01b8a2b2,Wojciech Szczęsny,pl POL,GK,it Juventus,32-335,1990,4,4,360,4.0,1,0.25,9,8,88.9,3,1,0,3,75.0,0,0,0,0,,Matches
+31139973,Muhammet Taha Tepe,tr TUR,GK,tr Trabzonspor,22-077,2001,1,1,90,1.0,3,3.00,5,2,60.0,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+6f51e382,Marc-André ter Stegen,de GER,GK,es Barcelona,30-323,1992,2,2,180,2.0,4,2.00,10,7,60.0,0,1,1,0,0.0,0,0,0,0,,Matches
+41f0b196,Anatolii Trubin,ua UKR,GK,ua Shakhtar,21-230,2001,4,4,390,4.3,11,2.54,31,20,67.7,1,1,2,0,0.0,1,1,0,0,0.0,Matches
+4a51ba65,Matt Turner,us USA,GK,eng Arsenal,28-268,1994,5,5,450,5.0,3,0.60,14,11,85.7,4,1,0,3,60.0,1,1,0,0,0.0,Matches
+9052e98c,Kostas Tzolakis,gr GRE,GK,gr Olympiacos,20-131,2002,2,2,180,2.0,5,2.50,15,10,66.7,0,0,2,0,0.0,0,0,0,0,,Matches
+cfd68aa7,Francis Uzoho,ng NGA,GK,cy AC Omonia,24-142,1998,4,3,315,3.5,6,1.71,22,16,77.3,0,0,3,0,0.0,1,1,0,0,0.0,Matches
+7b456af7,Tomáš Vaclík,cz CZE,GK,gr Olympiacos,33-355,1989,2,2,180,2.0,5,2.50,13,8,61.5,0,0,2,0,0.0,0,0,0,0,,Matches
+2f18d0b8,Timon Wellenreuther,de GER,GK,nl Feyenoord,27-106,1995,2,2,180,2.0,2,1.00,3,1,33.3,1,1,0,0,0.0,0,0,0,0,,Matches
