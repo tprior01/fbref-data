@@ -1,581 +1,581 @@
 id,Player,Nation,Pos,Squad,Age,Born,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-32c2d95f,Yunis Abdelhamid,ma MAR,DF,Reims,35-172,1987,27.0,65,39,37,27,1,32,40,80.0,8,55,20,35,49,114,98,1,Matches
-7978cbf0,Himad Abdelli,fr FRA,"MF,FW",Angers,23-122,1999,14.0,40,21,14,20,6,19,33,57.6,14,18,1,17,15,55,9,0,Matches
-82464ce3,Salis Abdul Samed,gh GHA,MF,Lens,22-358,2000,26.0,39,22,15,20,4,22,39,56.4,17,30,7,23,25,64,17,0,Matches
-31626657,Laurent Abergel,fr FRA,MF,Lorient,30-046,1993,16.2,67,39,44,21,2,24,54,44.4,30,23,5,18,18,85,22,0,Matches
-0e46fa2f,Matthis Abline,fr FRA,FW,Auxerre,19-356,2003,5.7,3,1,0,2,1,0,5,0.0,5,5,1,4,1,4,1,0,Matches
-0e46fa2f,Matthis Abline,fr FRA,"FW,MF",Rennes,19-356,2003,1.2,1,1,0,0,1,1,1,100.0,0,1,0,1,2,3,1,0,Matches
-c2a6033c,Zakaria Aboukhlal,ma MAR,"FW,MF",Toulouse,23-029,2000,22.2,26,19,11,6,9,9,35,25.7,26,14,1,13,19,45,18,0,Matches
-1e93fc5d,Mohamed Achi,fr FRA,FW,Nantes,21-062,2002,0.4,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
-7587446d,Martin Adeline,fr FRA,"MF,FW",Reims,19-107,2003,1.2,3,3,2,1,0,3,4,75.0,1,3,1,2,3,6,3,0,Matches
-75f1ed80,Emmanuel Agbadou,ci CIV,DF,Reims,25-275,1997,18.8,48,30,37,10,1,29,42,69.0,13,22,9,13,23,71,78,2,Matches
-8bc8829a,Lucien Agoume,fr FRA,MF,Troyes,21-038,2002,6.2,23,11,10,7,6,10,14,71.4,4,5,1,4,15,38,14,0,Matches
-3dd738a1,Ruben Aguilar,fr FRA,DF,Monaco,29-327,1993,8.6,15,6,7,3,5,6,15,40.0,9,5,0,5,13,28,22,0,Matches
-22396615,Amar Ahmed,se SWE,FW,Troyes,19-028,2004,0.2,1,1,0,1,0,0,1,0.0,1,0,0,0,1,2,0,0,Matches
-48b28bfd,Jean-Eudes Aholou,ci CIV,MF,Strasbourg,28-364,1994,11.0,23,16,8,12,3,8,22,36.4,14,16,0,16,19,42,8,0,Matches
-462475ed,Ludovic Ajorque,fr FRA,FW,Strasbourg,29-022,1994,8.6,5,4,1,4,0,3,9,33.3,6,3,1,2,2,7,7,0,Matches
-b625b241,Maghnes Akliouche,fr FRA,"MF,FW",Monaco,21-022,2002,3.4,6,3,3,3,0,1,5,20.0,4,2,0,2,3,9,2,0,Matches
-9e17ccff,Doğan Alemdar,tr TUR,GK,Rennes,20-141,2002,2.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches
-1956b948,Jim Allevinah,ga GAB,"DF,FW",Clermont Foot,28-020,1995,17.4,33,21,18,11,4,16,47,34.0,31,21,1,20,12,45,13,0,Matches
-0a63446f,Mickaël Alphonse,gp GLP,DF,Ajaccio,33-250,1989,11.6,27,18,16,7,4,18,26,69.2,8,13,3,10,26,53,32,1,Matches
-9260926b,Ibrahim Amadou,fr FRA,"DF,MF",Angers,29-347,1993,4.7,10,7,6,3,1,7,10,70.0,3,7,3,4,10,20,20,0,Matches
-ae11ba3d,Ayoub Amraoui,fr FRA,DF,Nice,18-309,2004,2.1,3,2,2,1,0,2,5,40.0,3,1,0,1,4,7,4,0,Matches
-ef9c1c95,Benjamin André,fr FRA,MF,Lille,32-228,1990,24.5,96,52,36,48,12,50,98,51.0,48,43,7,36,31,127,48,0,Matches
-af3ddb2e,Komnen Andrić,rs SRB,FW,Clermont Foot,27-261,1995,15.2,13,5,2,7,4,2,14,14.3,12,7,1,6,8,21,11,0,Matches
-a5db0bec,Houssem Aouar,fr FRA,MF,Lyon,24-262,1998,4.9,9,4,3,4,2,3,5,60.0,2,10,1,9,6,15,3,0,Matches
-b94b8be1,Adil Aouchiche,fr FRA,"MF,FW",Lorient,20-247,2002,1.1,2,0,1,0,1,0,3,0.0,3,1,0,1,1,3,0,0,Matches
-feb5d3ab,Dennis Appiah,fr FRA,"DF,MF",Nantes,30-283,1992,8.8,21,11,14,7,0,10,27,37.0,17,13,5,8,10,31,16,0,Matches
-42f0113f,Stredair Appuah,fr FRA,MF,Nantes,18-265,2004,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
-c5e6c017,Taïryk Arconte,fr FRA,FW,Brest,19-127,2003,1.4,1,1,0,0,1,0,3,0.0,3,1,0,1,0,1,2,0,Matches
-508a9011,Mohamed El Arouch,fr FRA,MF,Lyon,18-347,2004,0.0,1,1,1,0,0,0,0,,0,0,0,0,0,1,0,0,Matches
-b026bbf6,Lorenz Assignon,tg TOG,DF,Rennes,22-270,2000,2.2,6,2,4,2,0,2,4,50.0,2,4,0,4,2,8,3,0,Matches
-6a827d8e,Youcef Atal,dz ALG,"DF,MF",Nice,26-306,1996,7.1,34,19,16,14,4,21,27,77.8,6,6,0,6,11,45,11,0,Matches
-6b5edd5d,Valentin Atangana Edoa,fr FRA,MF,Reims,17-206,2005,0.0,2,1,0,0,2,1,1,100.0,0,0,0,0,0,2,0,0,Matches
-7dfbba27,Mathias Autret,fr FRA,"MF,FW",Auxerre,32-018,1991,14.0,22,10,10,10,2,7,16,43.8,9,13,2,11,12,34,12,0,Matches
-a94d93be,Cédric Avinel,gp GLP,DF,Ajaccio,36-189,1986,16.2,11,5,6,5,0,6,8,75.0,2,15,10,5,12,23,67,1,Matches
-114bbdee,Loïc Bade,fr FRA,DF,Rennes,22-342,2000,1.0,1,1,1,0,0,0,0,,0,0,0,0,1,2,3,0,Matches
-06df8256,Benoît Badiashile,fr FRA,DF,Monaco,21-358,2001,9.3,10,8,6,4,0,5,10,50.0,5,9,6,3,17,27,40,1,Matches
-a1232f4e,Eric Bailly,ci CIV,DF,Marseille,28-341,1994,4.8,10,8,4,5,1,6,6,100.0,0,14,11,3,11,21,14,0,Matches
-5065d67d,Dénys Bain,fr FRA,DF,Auxerre,29-260,1993,1.4,4,3,3,1,0,1,2,50.0,1,2,1,1,2,6,4,0,Matches
-7e3e825e,Brandon Baiye,be BEL,MF,Clermont Foot,22-082,2000,0.6,3,2,2,1,0,2,3,66.7,1,1,0,1,1,4,3,0,Matches
-0af4dcf0,Cédric Bakambu,cd COD,MF,Marseille,31-342,1991,0.7,2,1,2,0,0,2,2,100.0,0,0,0,0,0,2,0,0,Matches
-3975195f,Thierno Balde,fr FRA,DF,Troyes,20-282,2002,17.1,26,13,18,4,4,17,27,63.0,10,13,3,10,17,43,28,0,Matches
-a1390d2f,Carlos Baleba,cm CMR,MF,Lille,19-075,2004,3.2,11,10,1,8,2,8,11,72.7,3,11,2,9,1,12,2,2,Matches
-7c3ed041,Leonardo Balerdi,ar ARG,DF,Marseille,24-052,1999,22.9,40,26,28,10,2,22,33,66.7,11,41,26,15,48,88,71,0,Matches
-31822f8c,Folarin Balogun,eng ENG,FW,Reims,21-259,2001,22.5,6,3,0,4,2,1,12,8.3,11,16,1,15,2,8,11,0,Matches
-7fecbcdb,Abdoulaye Bamba,ci CIV,DF,Angers,32-328,1990,7.2,16,8,10,5,1,11,11,100.0,0,4,1,3,10,26,12,0,Matches
-b2bd0f6c,Jonathan Bamba,fr FRA,FW,Lille,26-358,1996,22.0,27,12,9,10,8,12,31,38.7,19,29,1,28,17,44,9,0,Matches
-a0d55a09,Bradley Barcola,fr FRA,"FW,MF",Lyon,20-198,2002,8.6,15,11,4,8,3,5,20,25.0,15,18,0,18,9,24,6,0,Matches
-1ddbc7ca,Melvin Bard,fr FRA,DF,Nice,22-133,2000,18.6,66,41,40,21,5,41,59,69.5,18,25,1,24,38,104,31,1,Matches
-3a24769f,Ross Barkley,eng ENG,"MF,FW",Nice,29-104,1993,7.8,10,5,4,2,4,5,9,55.6,4,6,1,5,4,14,5,0,Matches
-e3844ecb,Mickaël Barreto,fr FRA,MF,Ajaccio,32-060,1991,6.9,19,12,6,10,3,5,25,20.0,20,8,0,8,10,29,6,0,Matches
-20e0dd86,Cyrille Bayala,bf BFA,MF,Ajaccio,26-299,1996,17.7,47,34,14,17,16,20,38,52.6,18,20,3,17,21,68,12,0,Matches
-5e6355f8,Yanis Begraoui,fr FRA,"FW,MF",Toulouse,21-258,2001,0.7,2,0,1,0,1,1,2,50.0,1,0,0,0,1,3,0,0,Matches
-4a5e83ad,Alexis Beka Beka,fr FRA,"MF,DF",Nice,21-355,2001,3.8,10,4,5,5,0,2,9,22.2,7,5,1,4,7,17,2,0,Matches
-5680bf3f,Jérémie Bela,ao ANG,"DF,MF",Clermont Foot,29-345,1993,7.5,6,4,2,1,3,3,4,75.0,1,9,1,8,7,13,7,0,Matches
-705a1642,Reda Belahyane,fr FRA,MF,Nice,18-291,2004,0.1,1,0,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0,Matches
-1a248246,Youcef Belaïli,dz ALG,"MF,FW",Ajaccio,31-005,1992,11.4,15,9,2,7,6,7,19,36.8,12,9,1,8,5,20,4,0,Matches
-1a248246,Youcef Belaïli,dz ALG,"FW,MF",Brest,31-005,1992,4.0,5,2,3,2,0,2,7,28.6,5,2,0,2,1,6,1,0,Matches
-2b1bed19,Haris Belkebla,dz ALG,MF,Brest,29-050,1994,19.8,59,35,26,29,4,35,59,59.3,24,25,4,21,34,93,13,3,Matches
-10f0fdd3,Jean-Ricner Bellegarde,fr FRA,MF,Strasbourg,24-265,1998,17.7,31,17,13,13,5,6,15,40.0,9,15,2,13,21,52,17,0,Matches
-c678ddd7,Jeanöel Belocian,fr FRA,DF,Rennes,18-030,2005,1.1,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,4,0,Matches
-3bd65247,Eliesse Ben Seghir,fr FRA,"FW,MF",Monaco,18-031,2005,6.8,14,9,4,9,1,3,8,37.5,5,9,0,9,2,16,0,0,Matches
-1f6298f2,Salim Ben Seghir,fr FRA,MF,Marseille,20-023,2003,0.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
-942b4f90,Wissam Ben Yedder,fr FRA,FW,Monaco,32-219,1990,15.5,9,5,2,1,6,2,9,22.2,7,13,0,13,4,13,0,0,Matches
-3189f61a,Nabil Bentaleb,dz ALG,MF,Angers,28-115,1994,21.2,64,36,28,31,5,31,47,66.0,16,28,8,20,37,101,24,3,Matches
-e4114f5d,Patrick Berg,no NOR,"MF,FW",Lens,25-115,1997,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
-0b2c9aec,Mitchell van Bergen,nl NED,"FW,DF",Reims,23-204,1999,8.3,14,6,5,6,3,6,18,33.3,12,6,2,4,4,18,8,0,Matches
-3916b09c,Quentin Bernard,fr FRA,DF,Auxerre,33-255,1989,7.0,9,7,4,2,3,7,15,46.7,8,9,1,8,15,24,17,0,Matches
-28dabd43,Paul Bernardoni,fr FRA,GK,Angers,25-335,1997,20.0,2,0,2,0,0,2,2,100.0,0,1,0,1,1,3,9,1,Matches
-433dc9a2,Juan Bernat,es ESP,DF,Paris S-G,30-018,1993,12.1,23,12,15,6,2,16,28,57.1,12,8,1,7,7,30,14,0,Matches
-03e91055,Jason Berthomier,fr FRA,MF,Clermont Foot,33-072,1990,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-47c609d5,El Bilal Touré,ml MLI,FW,Reims,21-167,2001,1.0,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0,Matches
-a3e1d20d,Jean-Claude Billong,cm CMR,MF,Clermont Foot,29-081,1993,0.3,0,0,0,0,0,0,0,,0,1,1,0,1,1,0,0,Matches
-636247ca,Veljko Birmančević,rs SRB,"FW,MF",Toulouse,25-014,1998,3.6,11,7,3,5,3,8,15,53.3,7,11,2,9,6,17,0,0,Matches
-3d214e5f,Marco Bizot,nl NED,GK,Brest,32-009,1991,26.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,18,4,Matches
-967f34d3,Rubén Blanco,es ESP,GK,Marseille,27-237,1995,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-6191093d,Ludovic Blas,fr FRA,"FW,MF",Nantes,25-078,1997,22.8,36,24,13,15,8,14,35,40.0,21,21,1,20,14,50,6,0,Matches
-3cdfc63e,Miha Blažič,si SVN,DF,Angers,29-315,1993,19.7,6,5,6,0,0,6,12,50.0,6,24,18,6,21,27,68,1,Matches
-6a9e4913,Joaquín Blázquez,ar ARG,GK,Brest,22-050,2001,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
-5b479568,Myron Boadu,nl NED,FW,Monaco,22-064,2001,1.5,1,1,0,0,1,0,4,0.0,4,0,0,0,0,1,1,0,Matches
-2db2fd7b,Jérôme Boateng,de GER,DF,Lyon,34-197,1988,3.5,2,0,1,1,0,1,3,33.3,2,4,2,2,5,7,15,0,Matches
-7d937aa1,Antonin Bobichon,fr FRA,MF,Angers,27-186,1995,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
-f6496133,Quentin Boisgard,fr FRA,MF,Lorient,26-002,1997,2.0,6,2,1,4,1,3,4,75.0,1,3,1,2,4,10,2,0,Matches
-9f936061,Neto Borges,br BRA,DF,Clermont Foot,26-187,1996,23.0,60,37,39,16,5,34,56,60.7,22,33,9,24,33,93,45,1,Matches
-c03b7266,Kenji-Van Boto,mg MAD,DF,Auxerre,27-012,1996,1.0,1,1,1,0,0,1,2,50.0,1,0,0,0,1,2,1,0,Matches
-65fcf987,Kouamé Botué,bf BFA,"FW,MF",Ajaccio,20-224,2002,2.5,4,2,2,1,1,0,2,0.0,2,1,0,1,0,4,1,0,Matches
-0400dd2f,Badredine Bouanani,dz ALG,"FW,MF",Nice,18-101,2004,3.6,3,2,1,1,1,2,6,33.3,4,2,0,2,0,3,0,0,Matches
-f9d5908e,Hicham Boudaoui,dz ALG,MF,Nice,23-177,1999,12.3,41,20,23,16,2,25,32,78.1,7,22,5,17,22,63,12,0,Matches
-4fb18ca4,Franci Bouebari,fr FRA,DF,Strasbourg,19-188,2003,0.8,3,0,1,2,0,3,5,60.0,2,0,0,0,2,5,2,0,Matches
-b0c71810,Sofiane Boufal,ma MAR,"FW,MF",Angers,29-183,1993,9.3,14,9,7,4,3,3,12,25.0,9,6,0,6,5,19,1,0,Matches
-62e02107,Ismaëlben Boura,fr FRA,"DF,FW",Lens,22-217,2000,1.0,6,4,4,2,0,5,6,83.3,1,2,1,1,2,8,3,0,Matches
-20e73fac,Benjamin Bourigeaud,fr FRA,"MF,FW",Rennes,29-064,1994,23.4,30,21,11,16,3,13,42,31.0,29,29,1,28,21,51,20,0,Matches
-02bcaf8e,Bilal Brahimi,dz ALG,"FW,MF",Nice,23-005,2000,5.6,4,2,1,2,1,0,3,0.0,3,3,0,3,3,7,0,0,Matches
-5b146df3,Lilian Brassier,fr FRA,DF,Brest,23-137,1999,23.4,29,17,23,4,2,15,24,62.5,9,29,13,16,41,70,96,0,Matches
-b088d5d3,Andreas Bruus,dk DEN,"DF,FW",Troyes,24-062,1999,14.1,11,5,8,3,0,8,13,61.5,5,11,1,10,16,27,14,0,Matches
-af69e7f0,Joe Bryan,eng ENG,"MF,DF",Nice,29-183,1993,1.8,5,4,3,2,0,4,4,100.0,0,2,0,2,1,6,1,0,Matches
-3b676989,Adam Buksa,pl POL,"FW,MF",Lens,26-250,1996,0.7,1,0,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
-7b082ec2,Maxime Busi,be BEL,DF,Reims,23-156,1999,7.1,16,12,8,7,1,10,16,62.5,6,8,3,5,7,23,15,0,Matches
-db87a2c4,Marcin Bułka,pl POL,GK,Nice,23-166,1999,2.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
-148e136f,Rémy Cabella,fr FRA,"MF,FW",Lille,33-011,1990,19.1,48,28,17,20,11,20,42,47.6,22,32,2,30,13,61,6,1,Matches
-46359159,Jimmy Cabot,fr FRA,"DF,MF",Lens,28-335,1994,5.7,20,12,10,8,2,12,26,46.2,14,5,0,5,4,24,12,0,Matches
-928a4a61,Jens Cajuste,se SWE,MF,Reims,23-221,1999,11.0,38,19,20,11,7,19,36,52.8,17,21,5,16,15,53,15,0,Matches
-94f8d10c,Duje Ćaleta-Car,hr CRO,DF,Marseille,26-183,1996,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-8577e60a,Mahdi Camara,fr FRA,MF,Brest,24-262,1998,15.3,43,24,11,29,3,17,28,60.7,11,33,3,30,28,71,14,0,Matches
-489e80e3,Mohamed Camara,ml MLI,MF,Monaco,23-072,2000,16.4,57,34,24,30,3,30,53,56.6,23,35,4,31,18,75,10,0,Matches
-5a6b06cd,Ousmane Camara,gn GUI,"FW,MF",Auxerre,21-136,2001,0.3,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
-7d3dfdfd,Ousmane Camara,fr FRA,DF,Angers,20-013,2003,4.6,7,4,3,4,0,4,10,40.0,6,4,2,2,10,17,13,0,Matches
-9f4a940f,Axel Camblan,fr FRA,"FW,MF",Brest,19-201,2003,0.8,2,2,1,1,0,0,1,0.0,1,0,0,0,0,2,0,0,Matches
-79b2399c,Pierrick Capelle,fr FRA,"MF,DF",Angers,35-338,1987,12.6,33,19,16,14,3,21,44,47.7,23,14,2,12,13,46,22,0,Matches
-f81ef10d,Maxence Caqueret,fr FRA,MF,Lyon,23-032,2000,21.9,65,35,19,27,19,35,83,42.2,48,31,2,29,22,87,18,0,Matches
-5e080f73,Irvin Cardona,fr FRA,"FW,MF",Brest,25-223,1997,2.6,2,0,1,1,0,0,3,0.0,3,3,0,3,2,4,2,0,Matches
-e3e32fbb,Igor Carioca,br BRA,"DF,MF",Lorient,26-210,1996,2.4,12,7,8,2,2,9,14,64.3,5,5,0,5,3,15,11,0,Matches
-8608f269,Matis Carvalho,pt POR,GK,Montpellier,23-325,1999,1.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-e0f3a1f6,Jean-Charles Castelletto,cm CMR,DF,Nantes,28-052,1995,19.5,33,19,24,7,2,17,26,65.4,9,24,14,10,43,76,62,0,Matches
-4db5915d,Yoann Cathline,fr FRA,"FW,MF",Lorient,20-240,2002,8.1,11,7,4,4,3,2,4,50.0,2,5,0,5,6,17,5,1,Matches
-c92c24f0,Maximiliano Caufriez,be BEL,DF,Clermont Foot,26-031,1997,15.4,20,11,15,5,0,13,18,72.2,5,23,11,12,24,44,53,0,Matches
-3c6bbbab,Fabien Centonze,fr FRA,DF,Nantes,27-062,1996,12.6,33,23,17,14,2,18,26,69.2,8,16,6,10,34,67,36,0,Matches
-f5dfc256,Leonardo César Jardim,br BRA,GK,Lille,27-364,1995,6.0,,0,,,,,,,,,,,0,,,,Matches
-5d9577aa,Florian Chabrolle,fr FRA,MF,Ajaccio,24-346,1998,3.6,6,4,1,5,0,2,3,66.7,1,3,0,3,6,12,1,0,Matches
-2180c761,El Chadaille Bitshiabu,fr FRA,DF,Paris S-G,17-307,2005,2.5,7,4,5,1,1,1,4,25.0,3,5,3,2,7,14,4,1,Matches
-357103bd,Fares Chaïbi,fr FRA,"FW,MF",Toulouse,20-111,2002,19.1,21,10,5,9,7,11,36,30.6,25,27,3,24,16,37,23,1,Matches
-18ebca4b,Gaëtan Charbonnier,fr FRA,"FW,MF",Auxerre,34-082,1988,2.8,2,1,0,2,0,0,4,0.0,4,2,0,2,0,2,5,0,Matches
-16aa7d4c,Brendan Chardonnet,fr FRA,DF,Brest,28-087,1994,17.5,29,17,18,11,0,12,21,57.1,9,25,11,14,36,65,49,1,Matches
-279ddf6a,Xavier Chavalerin,fr FRA,MF,Troyes,32-012,1991,20.0,63,39,26,25,12,25,60,41.7,35,21,5,16,31,94,13,0,Matches
-b34c63a5,Rayan Cherki,fr FRA,"MF,FW",Lyon,19-214,2003,12.5,11,6,1,4,6,6,13,46.2,7,3,0,3,4,15,0,0,Matches
-9d498560,Ilyes Cheti,dz ALG,DF,Angers,28-056,1995,2.3,6,4,4,0,2,5,8,62.5,3,5,1,4,4,10,7,0,Matches
-b3d76d84,Lucas Chevalier,fr FRA,GK,Lille,21-133,2001,22.0,1,1,1,0,0,1,1,100.0,0,1,0,1,2,3,5,2,Matches
-68a26d51,Pedro Chirivella,es ESP,MF,Nantes,25-300,1997,20.5,27,19,11,12,4,14,36,38.9,22,22,1,21,20,47,6,0,Matches
-7909ffa4,Joris Chotard,fr FRA,MF,Montpellier,21-176,2001,18.0,41,19,23,15,3,25,44,56.8,19,24,8,16,24,65,28,0,Matches
-7495aba7,Yanis Cimignani,fr FRA,"MF,DF",Ajaccio,21-056,2002,3.1,11,5,3,7,1,4,5,80.0,1,5,1,4,2,13,2,0,Matches
-ff4d0258,Souleymane Cissé,fr FRA,DF,Clermont Foot,20-223,2002,0.4,1,1,1,0,0,1,1,100.0,0,1,1,0,1,2,2,0,Matches
-741418c3,Alexis Claude-Maurice,fr FRA,FW,Nice,24-286,1998,0.7,3,2,2,1,0,3,3,100.0,0,0,0,0,2,5,1,0,Matches
-741418c3,Alexis Claude-Maurice,fr FRA,"MF,FW",Lens,24-286,1998,5.4,10,6,5,4,1,4,9,44.4,5,5,0,5,1,11,1,0,Matches
-5219ab4a,Jonathan Clauss,fr FRA,DF,Marseille,30-175,1992,19.0,29,18,10,13,6,12,29,41.4,17,18,2,16,21,50,26,2,Matches
-3010aefb,Marcus Coco,fr FRA,"DF,FW",Nantes,26-268,1996,3.6,11,5,5,2,4,3,9,33.3,6,8,3,5,8,19,4,0,Matches
-c4065f40,Alexandre Coeff,fr FRA,DF,Auxerre,31-027,1992,6.5,10,5,6,4,0,4,9,44.4,5,9,4,5,8,18,35,1,Matches
-cfa49cc1,Abdu Conté,pt POR,DF,Troyes,24-360,1998,12.1,21,14,12,6,3,11,20,55.0,9,11,6,5,6,27,21,0,Matches
-0e7ccfc4,Sébastien Corchia,fr FRA,"DF,MF",Nantes,32-138,1990,6.9,14,6,9,1,4,10,20,50.0,10,7,2,5,7,21,17,0,Matches
-59948ef7,David Pereira da Costa,pt POR,"MF,FW",Lens,22-073,2001,15.0,13,7,1,10,2,7,19,36.8,12,17,0,17,11,24,6,0,Matches
-bfb2056e,Logan Costa,cv CPV,"DF,MF",Toulouse,21-352,2001,0.6,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-909222de,Nuno da Costa,cv CPV,"FW,MF",Auxerre,32-037,1991,14.4,33,17,9,17,7,8,30,26.7,22,16,0,16,12,45,8,0,Matches
-2434f24a,Benoît Costil,fr FRA,GK,Auxerre,35-259,1987,19.0,2,0,2,0,0,2,4,50.0,2,0,0,0,0,2,5,0,Matches
-ef8ae23b,Mathieu Coutadeur,fr FRA,MF,Ajaccio,36-364,1986,13.9,16,9,9,7,0,4,9,44.4,5,11,1,10,13,29,12,0,Matches
-8f325097,Nicolas Cozza,fr FRA,DF,Montpellier,24-070,1999,14.2,38,21,27,9,2,26,36,72.2,10,11,5,6,21,59,35,1,Matches
-1ec7e1c5,Damien Da Silva,fr FRA,DF,Lyon,34-306,1988,3.8,8,7,5,3,0,3,3,100.0,0,4,3,1,5,13,12,0,Matches
-29c02c9f,Colin Dagba,fr FRA,DF,Strasbourg,24-191,1998,7.4,23,14,11,9,3,13,16,81.3,3,15,2,13,10,33,11,0,Matches
-b70afb45,Thijs Dallinga,nl NED,FW,Toulouse,22-228,2000,18.4,7,5,2,2,3,1,8,12.5,7,10,2,8,2,9,14,0,Matches
-7ef972c3,Flavius Daniliuc,at AUT,DF,Nice,21-326,2001,1.0,2,0,2,0,0,1,1,100.0,0,4,1,3,0,2,1,0,Matches
-6e33125f,Kevin Danso,at AUT,DF,Lens,24-181,1998,28.0,31,16,19,11,1,15,25,60.0,10,33,23,10,28,59,96,0,Matches
-fd2bc67d,Dante,br BRA,DF,Nice,39-152,1983,26.0,40,24,26,11,3,17,33,51.5,16,40,23,17,38,78,95,1,Matches
-5069b796,Achraf Dari,ma MAR,DF,Brest,23-317,1999,13.8,19,14,13,5,1,13,18,72.2,5,15,10,5,18,37,59,2,Matches
-ce50fd99,Jonathan David,ca CAN,FW,Lille,23-064,2000,25.4,16,11,4,7,5,7,17,41.2,10,16,2,14,6,22,12,0,Matches
-5fdcb075,Thibault De Smet,be BEL,DF,Reims,24-287,1998,12.8,22,16,8,14,0,11,27,40.7,16,21,4,17,14,36,27,0,Matches
-4ca4f601,Brecht Dejaegere,be BEL,MF,Toulouse,31-294,1991,17.9,36,22,9,17,10,15,45,33.3,30,22,5,17,13,49,10,0,Matches
-0be95d34,Romain Del Castillo,fr FRA,"FW,MF",Brest,26-355,1996,9.7,23,14,8,8,7,9,19,47.4,10,10,1,9,8,31,4,0,Matches
-8332db56,Thomas Delaine,fr FRA,DF,Strasbourg,30-360,1992,8.6,18,11,12,2,4,10,17,58.8,7,7,2,5,6,24,6,0,Matches
-e4448c8c,Sacha Delaye,fr FRA,"FW,MF",Montpellier,20-330,2002,0.2,1,0,0,0,1,1,1,100.0,0,0,0,0,0,1,0,0,Matches
-d33c706e,Andy Delort,dz ALG,FW,Nice,31-161,1991,8.7,2,0,1,1,0,1,2,50.0,1,0,0,0,1,3,7,0,Matches
-d33c706e,Andy Delort,dz ALG,FW,Nantes,31-161,1991,2.3,2,1,1,1,0,0,1,0.0,1,1,0,1,0,2,0,0,Matches
-7304f3b1,Karamoko Dembele,sct SCO,"FW,MF",Brest,20-025,2003,1.8,2,0,1,1,0,2,2,100.0,0,0,0,0,1,3,0,0,Matches
-e7986081,Moussa Dembélé,fr FRA,"FW,MF",Lyon,26-250,1996,9.3,7,4,2,3,2,4,7,57.1,3,5,0,5,2,9,6,0,Matches
-11f54bd5,Siriki Dembélé,ci CIV,MF,Auxerre,26-193,1996,2.0,2,1,1,0,1,2,6,33.3,4,0,0,0,1,3,1,0,Matches
-99d660b2,Branco van den Boomen,nl NED,MF,Toulouse,27-241,1995,26.1,54,28,20,24,10,26,67,38.8,41,23,4,19,10,64,22,1,Matches
-477e50ce,Rémy Descamps,fr FRA,GK,Nantes,26-267,1996,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-1d5c96f8,Mikkel Desler,dk DEN,DF,Toulouse,28-028,1995,18.4,54,29,27,19,8,30,47,63.8,17,27,5,22,31,85,31,1,Matches
-1bfb6fef,Bafodé Diakité,fr FRA,DF,Lille,22-072,2001,21.8,43,29,19,18,6,24,43,55.8,19,27,5,22,12,55,45,0,Matches
-d8c19a60,Ibrahim Diakité,gn GUI,DF,Reims,19-139,2003,1.5,3,3,3,0,0,2,3,66.7,1,0,0,0,5,8,6,0,Matches
-fb55f63a,Baila Diallo,fr FRA,"DF,MF",Clermont Foot,21-268,2001,0.9,0,0,0,0,0,0,0,,0,1,1,0,0,0,1,0,Matches
-6605d143,Habib Diallo,sn SEN,FW,Strasbourg,27-274,1995,22.1,12,7,3,6,3,5,10,50.0,5,15,3,12,10,22,10,0,Matches
-b3244eeb,Ismael Diallo,ci CIV,DF,Ajaccio,26-049,1997,19.0,32,23,23,8,1,22,43,51.2,21,21,10,11,22,54,35,1,Matches
-6d0fe035,Mouhamadou Diarra,sn SEN,MF,Strasbourg,19-075,2004,9.8,15,10,7,7,1,11,17,64.7,6,11,1,10,9,24,10,0,Matches
-698f11e3,Moussa Diarra,ml MLI,DF,Toulouse,22-129,2000,11.6,19,9,9,8,2,8,14,57.1,6,21,7,14,17,36,22,1,Matches
-29939a1d,Stéphane Diarra,fr FRA,"FW,MF",Lorient,24-100,1998,10.8,22,15,12,8,2,11,28,39.3,17,13,1,12,20,42,8,0,Matches
-8104e41e,Krépin Diatta,sn SEN,"MF,FW",Monaco,24-022,1999,18.1,21,14,3,11,7,10,22,45.5,12,24,1,23,13,34,8,0,Matches
-f41a69e6,Mory Diaw,sn SEN,GK,Clermont Foot,29-270,1993,27.0,0,0,0,0,0,0,3,0.0,3,0,0,0,2,2,10,4,Matches
-40774c6b,Bamba Dieng,sn SEN,"FW,MF",Marseille,22-361,2000,2.2,4,4,2,1,1,3,4,75.0,1,5,1,4,0,4,0,0,Matches
-40774c6b,Bamba Dieng,sn SEN,FW,Lorient,22-361,2000,4.0,10,6,2,7,1,1,5,20.0,4,3,0,3,2,12,3,0,Matches
-92b56413,Tristan Dingomé,cm CMR,MF,Troyes,32-030,1991,1.1,1,1,0,1,0,0,2,0.0,2,0,0,0,0,1,0,0,Matches
-6de23ab0,Sinaly Diomande,ci CIV,DF,Lyon,21-344,2001,14.4,28,14,15,12,1,19,28,67.9,9,16,9,7,32,60,52,1,Matches
-4be0b467,Lois Diony,fr FRA,FW,Angers,30-089,1992,4.9,1,0,0,1,0,1,3,33.3,2,2,0,2,0,1,1,0,Matches
-37143438,Edan Diop,fr FRA,DF,Monaco,18-203,2004,0.7,3,1,0,1,2,2,2,100.0,0,3,0,3,1,4,0,0,Matches
-19053e31,Sofiane Diop,fr FRA,"MF,FW",Nice,22-283,2000,11.2,18,10,8,6,4,6,15,40.0,9,13,2,11,11,29,4,0,Matches
-19053e31,Sofiane Diop,fr FRA,MF,Monaco,22-283,2000,0.7,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-eedea60b,Yehvann Diouf,fr FRA,GK,Reims,23-123,1999,20.0,1,0,1,0,0,1,2,50.0,1,0,0,0,0,1,10,4,Matches
-ad82197c,Axel Disasi,fr FRA,DF,Monaco,25-008,1998,26.0,26,17,11,11,4,14,23,60.9,9,39,23,16,45,71,84,1,Matches
-b2336681,Tiago Djaló,pt POR,DF,Lille,22-344,2000,22.4,31,21,23,7,1,13,20,65.0,7,17,11,6,23,54,60,1,Matches
-43e7a164,Alexander Djiku,gh GHA,DF,Strasbourg,28-222,1994,23.0,44,28,29,15,0,21,35,60.0,14,36,13,23,49,93,111,3,Matches
-627b570a,Moussa Djitte,sn SEN,FW,Ajaccio,23-166,1999,1.3,1,0,0,0,1,1,2,50.0,1,0,0,0,0,1,0,0,Matches
-1bd5bdc4,Alan Do Marcolino,ga GAB,FW,Rennes,21-000,2002,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-fffea3e5,Jeremy Doku,be BEL,"MF,FW",Rennes,20-296,2002,6.7,13,10,4,5,4,8,15,53.3,7,6,0,6,4,17,2,0,Matches
-836dc4a8,Kyliane Dong,fr FRA,"DF,MF",Troyes,18-173,2004,0.6,2,1,0,1,1,1,1,100.0,0,0,0,0,0,2,0,0,Matches
-1b5b32d2,Jordan Dongmo,cm CMR,MF,Troyes,22-048,2001,0.2,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
-08f5afaa,Gianluigi Donnarumma,it ITA,GK,Paris S-G,24-022,1999,27.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,8,2,Matches
-a1dbfcb1,Jodel Dossou,bj BEN,"MF,DF",Clermont Foot,31-002,1992,2.9,7,4,3,2,2,4,4,100.0,0,2,1,1,1,8,0,0,Matches
-dff0c299,Lohann Doucet,fr FRA,"MF,FW",Nantes,20-186,2002,1.0,3,0,2,0,1,3,4,75.0,1,2,0,2,2,5,4,0,Matches
-92d90c8f,Ckene Doucouré,km COM,"FW,MF",Lorient,20-345,2002,1.0,2,2,2,0,0,1,1,100.0,0,0,0,0,1,3,0,0,Matches
-9e7483ff,Désiré Doué,fr FRA,"MF,FW",Rennes,17-289,2005,10.4,32,15,8,20,4,9,20,45.0,11,15,1,14,9,41,2,0,Matches
-b4ef3fb5,Guela Doué,fr FRA,FW,Rennes,20-153,2002,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-0512a60a,Ismaël Doukouré,fr FRA,DF,Strasbourg,19-238,2003,15.3,26,11,13,11,2,13,17,76.5,4,14,5,9,17,43,33,0,Matches
-9226aa22,Kamory Doumbia,ml MLI,MF,Reims,20-029,2003,10.1,22,11,6,10,6,9,26,34.6,17,12,1,11,12,34,1,0,Matches
-9daeac61,Souleyman Doumbia,ci CIV,"DF,FW",Angers,26-176,1996,19.0,41,28,28,12,1,15,28,53.6,13,19,2,17,24,65,27,1,Matches
-6d7ede84,Rémy Dugimont,fr FRA,"FW,MF",Auxerre,36-261,1986,1.2,2,1,0,1,1,1,2,50.0,1,3,0,3,0,2,5,0,Matches
-0e12089d,Maxime Dupé,fr FRA,GK,Toulouse,30-015,1993,28.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,6,3,Matches
-0cbc8baa,Jean-Kevin Duverne,fr FRA,DF,Brest,25-250,1997,18.4,51,29,34,14,3,31,49,63.3,18,22,5,17,16,67,44,0,Matches
-5b92d896,Hugo Ekitike,fr FRA,FW,Paris S-G,20-272,2002,8.8,10,4,1,8,1,4,12,33.3,8,10,0,10,4,14,2,0,Matches
-104b4ad3,Alberth Elis,hn HON,"MF,FW",Brest,27-035,1996,2.5,4,3,1,2,1,1,7,14.3,6,1,0,1,1,5,2,0,Matches
-0d7b6576,Sepe Elye Wahi,fr FRA,FW,Montpellier,20-076,2003,19.5,7,3,2,3,2,3,7,42.9,4,10,2,8,3,10,4,0,Matches
-0b4f388a,Breel Embolo,ch SUI,FW,Monaco,26-033,1997,18.5,14,8,2,6,6,5,9,55.6,4,13,3,10,5,19,12,0,Matches
-1a066e69,Maxime Estève,fr FRA,DF,Montpellier,20-297,2002,15.1,23,12,16,5,2,12,16,75.0,4,25,15,10,31,54,73,0,Matches
-bc7b4580,Fábio,br BRA,"DF,MF",Nantes,32-253,1990,2.5,4,2,1,2,1,4,6,66.7,2,2,0,2,3,7,11,0,Matches
-83f03b07,Noah Fadiga,sn SEN,DF,Brest,23-106,1999,12.3,25,17,14,8,3,12,23,52.2,11,12,6,6,22,47,17,0,Matches
-9c221d14,Wout Faes,be BEL,DF,Reims,24-350,1998,3.0,1,1,1,0,0,1,2,50.0,1,6,3,3,7,8,19,0,Matches
-745ca0a3,Romain Faivre,fr FRA,"FW,MF",Lorient,24-248,1998,4.4,7,4,2,3,2,2,5,40.0,3,5,0,5,0,7,3,0,Matches
-745ca0a3,Romain Faivre,fr FRA,MF,Lyon,24-248,1998,3.3,6,3,2,2,2,1,3,33.3,2,3,0,3,0,6,0,0,Matches
-faf00ab8,Khalil Fayad,fr FRA,MF,Montpellier,18-283,2004,5.9,28,14,10,16,2,12,17,70.6,5,6,1,5,6,34,3,0,Matches
-4b792f35,Cheikh Faye,sn SEN,FW,Montpellier,24-051,1999,0.4,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-375622c5,Jordan Ferri,fr FRA,MF,Montpellier,31-007,1992,21.6,45,29,27,14,4,25,59,42.4,34,17,6,11,16,61,12,0,Matches
-50ac8941,Karol Fila,pl POL,DF,Strasbourg,24-279,1998,0.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches
-caef7840,Alexis Flips,fr FRA,"DF,FW",Reims,23-060,2000,14.7,32,17,10,13,9,14,40,35.0,26,27,5,22,21,53,10,0,Matches
-5313ed43,Seko Fofana,ci CIV,MF,Lens,27-316,1995,25.1,21,8,5,15,1,9,26,34.6,17,12,3,9,17,38,9,0,Matches
-9d420dad,Yahia Fofana,fr FRA,GK,Angers,22-210,2000,8.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,1,Matches
-822d51d7,Youssouf Fofana,fr FRA,MF,Monaco,24-068,1999,24.4,64,31,26,33,5,31,59,52.5,28,33,3,30,31,95,26,0,Matches
-90eb507d,Thomas Foket,be BEL,DF,Reims,28-175,1994,11.9,21,14,8,8,5,11,21,52.4,10,12,5,7,20,41,13,1,Matches
-90f87966,José Fonte,pt POR,DF,Lille,39-087,1983,20.8,21,16,18,2,1,10,18,55.6,8,21,11,10,19,40,82,2,Matches
-574aa9ec,Steven Fortes,cv CPV,DF,Lens,30-336,1992,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-00a8d210,Przemysław Frankowski,pl POL,"DF,MF",Lens,27-341,1995,22.7,59,38,27,25,7,31,58,53.4,27,24,4,20,33,92,30,2,Matches
-4b96c347,Angelo Fulgini,fr FRA,"MF,FW",Lens,26-211,1996,4.6,6,2,1,1,4,2,7,28.6,5,5,0,5,4,10,1,0,Matches
-db3164e1,Gauthier Gallon,fr FRA,GK,Troyes,29-330,1993,20.0,2,2,2,0,0,2,3,66.7,1,0,0,0,2,4,13,0,Matches
-42276181,Kévin Gameiro,fr FRA,FW,Strasbourg,35-314,1987,19.9,17,8,4,10,3,7,20,35.0,13,9,1,8,8,25,0,0,Matches
-23c63b7f,Ignatius Ganago,cm CMR,FW,Nantes,24-031,1999,12.7,8,6,2,2,4,4,7,57.1,3,10,0,10,1,9,10,0,Matches
-23c63b7f,Ignatius Ganago,cm CMR,FW,Lens,24-031,1999,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-868eaba0,Johan Gastien,fr FRA,MF,Clermont Foot,35-053,1988,17.9,40,23,20,17,3,25,67,37.3,42,24,6,18,22,62,17,1,Matches
-badcdcae,Denis Genreau,au AUS,MF,Toulouse,23-302,1999,1.7,14,6,5,6,3,3,8,37.5,5,6,0,6,3,17,5,0,Matches
-ea0ff634,Valère Germain,fr FRA,"FW,MF",Montpellier,32-336,1990,7.1,9,8,1,3,5,3,10,30.0,7,8,0,8,6,15,11,0,Matches
-8827bf46,Gerson,br BRA,MF,Marseille,25-303,1997,4.6,6,4,1,4,1,3,5,60.0,2,5,0,5,2,8,4,0,Matches
-5b3cfa12,Ismaël Gharbi,es ESP,"MF,FW",Paris S-G,18-343,2004,0.5,0,0,0,0,0,0,2,0.0,2,1,0,1,3,3,0,0,Matches
-c5adc293,Faouzi Ghoulam,dz ALG,DF,Angers,32-046,1991,3.0,1,1,0,0,1,1,3,33.3,2,3,1,2,4,5,6,0,Matches
-41eebdf5,Samuel Gigot,fr FRA,DF,Marseille,29-158,1993,14.5,28,15,15,11,2,6,9,66.7,3,20,6,14,37,65,56,1,Matches
-3befc2b6,Andrei Girotto,br BRA,"DF,MF",Nantes,31-030,1992,26.8,96,58,60,31,5,58,102,56.9,44,43,17,26,61,157,141,1,Matches
-3708e9fa,Aleksandr Golovin,ru RUS,"MF,FW",Monaco,26-293,1996,20.9,48,27,13,26,9,21,55,38.2,34,23,0,23,28,76,10,0,Matches
-1961b2aa,André Gomes,pt POR,MF,Lille,29-232,1993,13.5,28,16,8,14,6,14,42,33.3,28,18,5,13,9,37,15,1,Matches
-645a3363,Angel Gomes,eng ENG,MF,Lille,22-200,2000,23.5,32,17,9,15,8,14,38,36.8,24,17,2,15,10,42,10,1,Matches
-b8c1de25,Maxime Gonalons,fr FRA,MF,Clermont Foot,34-009,1989,8.7,23,13,9,12,2,9,22,40.9,13,9,1,8,10,33,4,1,Matches
-a9d4c241,Oumar Gonzalez,cm CMR,DF,Ajaccio,25-022,1998,19.6,36,17,23,10,3,19,28,67.9,9,22,9,13,33,69,45,0,Matches
-aad56ca3,Amine Gouiri,fr FRA,"FW,MF",Nice,23-031,2000,2.5,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,3,0,Matches
-aad56ca3,Amine Gouiri,fr FRA,FW,Rennes,23-031,2000,18.6,22,12,6,7,9,4,15,26.7,11,12,0,12,6,28,5,0,Matches
-06c48679,Jonathan Gradit,fr FRA,DF,Lens,30-115,1992,21.4,33,21,13,14,6,15,29,51.7,14,21,12,9,29,62,52,0,Matches
-49136c42,Andrew Gravillon,gp GLP,DF,Reims,25-039,1998,11.5,16,8,9,6,1,8,13,61.5,5,18,9,9,21,37,36,0,Matches
-4a987ffa,Adrian Grbić,at AUT,"MF,FW",Lorient,26-227,1996,0.3,0,0,0,0,0,0,1,0.0,1,3,0,3,0,0,0,0,Matches
-d5d22a58,Gabriel Gudmundsson,se SWE,"DF,FW",Lille,23-324,1999,4.8,11,8,5,5,1,7,13,53.8,6,7,2,5,7,18,8,0,Matches
-f6857b4f,Axel Gueguin,fr FRA,"FW,MF",Montpellier,17-360,2005,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
-5ea8ef20,Mattéo Guendouzi,fr FRA,MF,Marseille,23-339,1999,18.1,29,14,6,17,6,10,29,34.5,19,9,3,6,19,48,11,0,Matches
-b73f17f8,Evann Guessand,fr FRA,"FW,MF",Nantes,21-261,2001,12.4,20,14,8,10,2,6,12,50.0,6,15,1,14,6,26,5,0,Matches
-7155e3e1,Pape Gueye,sn SEN,"MF,DF",Marseille,24-054,1999,5.5,18,7,10,7,1,7,15,46.7,8,9,2,7,9,27,2,0,Matches
-5d8d7454,Frederic Guilbert,fr FRA,DF,Strasbourg,28-085,1994,6.6,17,11,8,6,3,10,17,58.8,7,8,1,7,17,34,14,1,Matches
-923f4dda,Sehrou Guirassy,gn GUI,MF,Rennes,27-007,1996,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-7091324a,Rafik Guitane,fr FRA,FW,Reims,23-297,1999,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-d56b9520,Malo Gusto,fr FRA,DF,Lyon,19-304,2003,16.0,34,21,17,10,7,15,32,46.9,17,21,4,17,24,58,21,1,Matches
-576817b7,Jaouen Hadjam,fr FRA,DF,Nantes,19-358,2003,7.1,21,16,10,8,3,12,21,57.1,9,8,2,6,9,30,11,0,Matches
-5167c97e,Massadio Haïdara,ml MLI,"DF,MF",Lens,30-107,1992,14.8,21,14,8,8,5,9,17,52.9,8,22,7,15,29,50,28,0,Matches
-e42d61c7,Achraf Hakimi,ma MAR,"DF,MF",Paris S-G,24-135,1998,16.8,40,24,14,16,10,23,38,60.5,15,25,1,24,9,49,9,0,Matches
-a94571f6,Mathis Hamdi,fr FRA,DF,Troyes,19-152,2003,0.8,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,1,0,Matches
-0b4d8274,Romain Hamouma,fr FRA,"FW,MF",Ajaccio,35-355,1987,9.5,6,2,2,2,2,2,4,50.0,2,4,0,4,2,8,1,0,Matches
-52cd0e88,Saïd Hamulic,nl NED,FW,Toulouse,22-127,2000,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-e7d59f4f,Amine Harit,ma MAR,"MF,FW",Marseille,25-274,1997,5.7,6,4,0,3,3,3,7,42.9,4,4,1,3,4,10,6,0,Matches
-07ace8c3,Rhys Healey,wls WAL,FW,Toulouse,28-103,1994,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-563fcd6b,Gauthier Hein,fr FRA,"MF,FW",Auxerre,26-224,1996,12.6,18,13,10,6,2,12,28,42.9,16,8,0,8,6,24,5,0,Matches
-f28474a4,Henrique,br BRA,DF,Lyon,28-328,1994,1.5,4,1,1,0,3,3,5,60.0,2,1,0,1,1,5,2,0,Matches
-3681cfff,Christophe Hérelle,mq MTQ,DF,Brest,30-209,1992,11.8,10,4,7,2,1,4,13,30.8,9,16,11,5,20,30,48,0,Matches
-61b77d0a,Noah Holm,no NOR,"FW,MF",Reims,21-300,2001,2.2,6,4,2,2,2,2,5,40.0,3,0,0,0,0,6,5,0,Matches
-db7849ca,Franck Honorat,fr FRA,"FW,MF",Brest,26-220,1996,21.1,30,20,16,6,8,14,28,50.0,14,17,1,16,18,48,14,0,Matches
-00891164,Cédric Hountondji,bj BEN,DF,Angers,29-059,1994,27.2,38,27,21,15,2,13,20,65.0,7,33,18,15,41,79,94,0,Matches
-910e3cad,Ilyes Housni,fr FRA,FW,Paris S-G,17-309,2005,0.1,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
-d14229f3,Adrien Hunou,fr FRA,"FW,MF",Angers,29-059,1994,19.6,34,18,16,13,5,13,32,40.6,19,26,0,26,3,37,7,0,Matches
-fb0ee44e,Mounaim El Idrissy,fr FRA,FW,Ajaccio,24-037,1999,20.7,25,17,3,15,7,9,25,36.0,16,11,0,11,9,34,16,0,Matches
-c9f49454,Rareş Ilie,ro ROU,"MF,FW",Nice,19-334,2003,1.6,3,3,0,1,2,2,4,50.0,2,2,0,2,1,4,1,0,Matches
-546bb36e,Bonke Innocent,ng NGA,MF,Lorient,27-058,1996,10.2,25,14,13,11,1,10,28,35.7,18,17,4,13,18,43,24,0,Matches
-cf182add,Ismaily,br BRA,DF,Lille,33-067,1990,16.1,38,16,14,15,9,15,26,57.7,11,21,4,17,17,55,29,0,Matches
-dbd3a428,Junya Ito,jp JPN,FW,Reims,30-010,1993,21.7,30,15,10,11,9,13,43,30.2,30,23,1,22,6,36,2,0,Matches
-a0415710,Ismail Jakobs,sn SEN,"DF,MF",Monaco,23-214,1999,7.2,5,2,3,2,0,2,6,33.3,4,4,1,3,4,9,7,0,Matches
-96f4ebc0,Marin Jakoliš,hr CRO,FW,Angers,26-083,1996,0.3,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
-eeba07f8,Luis Javier Suárez,co COL,FW,Marseille,25-107,1997,3.3,4,1,1,2,1,1,3,33.3,2,1,0,1,3,7,6,0,Matches
-300ec91c,Dany Jean,ht HAI,"DF,MF",Strasbourg,20-111,2002,0.1,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches
-5cb215fc,Julian Jeanvier,gn GUI,DF,Auxerre,30-353,1992,13.8,25,11,20,5,0,10,15,66.7,5,14,12,2,17,42,61,1,Matches
-45cce300,Jefferson,br BRA,FW,Lyon,23-079,1999,0.6,1,0,0,1,0,1,2,50.0,1,2,0,2,1,2,0,0,Matches
-5b4bc323,Paul Joly,fr FRA,DF,Auxerre,22-285,2000,9.6,33,21,21,10,2,19,35,54.3,16,13,2,11,24,57,29,2,Matches
-56ae428b,Jubal,br BRA,DF,Auxerre,29-202,1993,24.7,26,15,17,8,1,14,21,66.7,7,37,24,13,40,66,129,0,Matches
-f323d995,Christopher Jullien,fr FRA,DF,Montpellier,29-362,1993,20.9,37,23,25,10,2,21,37,56.8,16,27,14,13,22,59,86,1,Matches
-c066d1a5,Issa Kaboré,bf BFA,DF,Marseille,21-311,2001,6.5,17,12,8,8,1,13,20,65.0,7,9,1,8,7,24,12,1,Matches
-32f3d97e,Abdoul Kader Bamba,fr FRA,"FW,MF",Nantes,28-298,1994,0.9,0,0,0,0,0,0,2,0.0,2,3,1,2,0,0,1,0,Matches
-5b1bf5e3,Gaël Kakuta,cd COD,FW,Lens,31-271,1991,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-bf4c41f9,Arnaud Kalimuendo,fr FRA,FW,Rennes,21-058,2002,14.3,10,4,2,4,4,3,12,25.0,9,14,1,13,2,12,7,0,Matches
-dd211559,Gedeon Kalulu,cd COD,DF,Lorient,25-202,1997,22.0,54,30,36,11,7,26,41,63.4,15,27,2,25,27,81,61,1,Matches
-a426a912,Waren Kamanzi,no NOR,DF,Toulouse,22-128,2000,2.0,3,1,2,1,0,2,3,66.7,1,3,2,1,4,7,2,0,Matches
-3814120d,Bingourou Kamara,sn SEN,GK,Montpellier,26-149,1996,4.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
-c5908bc4,Nordine Kandil,fr FRA,"MF,FW",Strasbourg,21-139,2001,0.9,3,2,1,2,0,0,2,0.0,2,2,0,2,1,4,0,0,Matches
-c43a8336,Kévin Keben Biakolo,cm CMR,DF,Toulouse,19-052,2004,3.4,3,2,2,0,1,0,1,0.0,1,1,0,1,4,7,8,0,Matches
-c9f2f83a,Check Keita,fr FRA,DF,Reims,19-351,2003,5.1,5,3,3,2,0,1,5,20.0,4,3,3,0,3,8,18,1,Matches
-796b1c41,Saîf-Eddine Khaoui,tn TUN,MF,Clermont Foot,27-326,1995,17.7,36,19,11,20,5,11,33,33.3,22,16,2,14,26,62,5,0,Matches
-2677a1de,Wahbi Khazri,tn TUN,"FW,MF",Montpellier,32-039,1991,12.3,16,9,6,7,3,3,14,21.4,11,10,1,9,8,24,9,0,Matches
-3670aa71,Anthony Khelifa,fr FRA,DF,Ajaccio,17-180,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-aef6e670,Presnel Kimpembe,fr FRA,DF,Paris S-G,27-218,1995,8.1,17,8,9,6,2,9,13,69.2,4,12,7,5,13,30,9,1,Matches
-3935e52e,Sead Kolašinac,ba BIH,DF,Marseille,29-272,1993,15.5,38,28,22,13,3,17,24,70.8,7,16,2,14,28,66,22,0,Matches
-1361e5bc,Cheick Konaté,ci CIV,DF,Clermont Foot,19-016,2004,4.0,10,5,5,3,2,6,9,66.7,3,4,0,4,8,18,7,0,Matches
-04bb2b06,Ibrahima Koné,ml MLI,FW,Lorient,23-276,1999,10.5,8,4,2,5,1,3,7,42.9,4,7,0,7,3,11,9,0,Matches
-e6eadfb8,Youssouf Koné,ml MLI,DF,Ajaccio,27-257,1995,5.8,20,13,17,3,0,10,15,66.7,5,6,2,4,8,28,19,1,Matches
-86a2ba20,Rominigue Kouamé,ml MLI,MF,Troyes,26-092,1996,20.8,30,20,22,6,2,11,23,47.8,12,25,8,17,39,69,30,0,Matches
-562a4799,Boubakar Kouyaté,ml MLI,DF,Montpellier,25-338,1997,6.8,11,6,4,5,2,9,14,64.3,5,6,3,3,19,30,33,1,Matches
-c385bf49,Sael Kumbedi,fr FRA,DF,Lyon,17-358,2005,7.9,24,13,14,6,4,8,14,57.1,6,13,5,8,5,29,11,0,Matches
-397ba086,Grejohn Kyei,fr FRA,FW,Clermont Foot,27-219,1995,14.7,10,3,1,7,2,2,5,40.0,3,7,2,5,3,13,10,0,Matches
-c90f380c,Rémy Labeau Lascary,gp GLP,"FW,MF",Lens,20-016,2003,1.3,4,2,4,0,0,0,0,,0,4,0,4,0,4,0,0,Matches
-7cdda3bf,Gaëtan Laborde,fr FRA,FW,Nice,28-320,1994,18.3,28,14,8,14,6,12,23,52.2,11,19,2,17,7,35,11,0,Matches
-7cdda3bf,Gaëtan Laborde,fr FRA,FW,Rennes,28-320,1994,2.8,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,1,0,Matches
-9dbb75ca,Alexandre Lacazette,fr FRA,FW,Lyon,31-295,1991,22.8,35,19,7,13,15,9,24,37.5,15,17,0,17,13,48,4,0,Matches
-eb0db257,Qazim Laçi,al ALB,MF,Ajaccio,27-059,1996,2.4,6,3,2,3,1,4,9,44.4,5,5,0,5,2,8,3,0,Matches
-4e7db402,Alban Lafont,fr FRA,GK,Nantes,24-055,1999,27.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,14,2,Matches
-770d7eb8,Kenny Lala,fr FRA,DF,Brest,31-167,1991,6.7,16,7,13,3,0,12,22,54.5,10,6,3,3,11,27,16,0,Matches
-01870104,Mohamed Lamine Bayo,gn GUI,"FW,MF",Lille,24-288,1998,5.4,2,2,0,1,1,0,11,0.0,11,1,1,0,0,2,1,0,Matches
-f066022d,Julien Laporte,fr FRA,DF,Lorient,29-135,1993,17.1,21,15,17,3,1,16,22,72.7,6,29,25,4,18,39,108,2,Matches
-0ed063d6,Yasser Larouci,dz ALG,"DF,FW",Troyes,22-077,2001,13.2,13,8,8,4,1,6,8,75.0,2,10,1,9,17,30,24,0,Matches
-2d22cea7,Armand Lauriente,fr FRA,FW,Lorient,24-105,1998,3.0,8,7,3,4,1,3,7,42.9,4,5,1,4,4,12,1,0,Matches
-afe39ca8,Théo Le Bris,fr FRA,"MF,DF",Lorient,20-169,2002,12.3,24,15,13,9,2,13,28,46.4,15,18,1,17,14,38,17,0,Matches
-547a72ad,Julien Le Cardinal,fr FRA,DF,Lens,25-228,1997,1.6,6,4,5,0,1,4,6,66.7,2,3,0,3,2,8,4,0,Matches
-88c4d190,Jérémy Le Douaron,fr FRA,"FW,MF",Brest,24-332,1998,14.4,10,6,3,6,1,1,19,5.3,18,17,2,15,6,16,24,0,Matches
-6f806d99,Enzo Le Fée,fr FRA,MF,Lorient,23-044,2000,25.9,91,54,45,35,11,35,89,39.3,54,40,4,36,27,118,30,1,Matches
-2321ea6e,Vincent Le Goff,fr FRA,DF,Lorient,33-155,1989,26.0,52,23,38,12,2,34,45,75.6,11,20,5,15,29,81,78,1,Matches
-321a71a7,Maxime Le Marchand,fr FRA,DF,Strasbourg,33-159,1989,17.4,36,23,22,12,2,17,26,65.4,9,20,12,8,29,65,61,0,Matches
-5bf26efc,Paolo Lebas,pt POR,MF,Ajaccio,19-333,2003,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-2fa2a875,Benjamin Lecomte,fr FRA,GK,Montpellier,31-327,1991,8.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
-f5044e54,Pierre Lees-Melou,fr FRA,MF,Brest,29-298,1993,20.7,58,36,30,25,3,31,72,43.1,41,33,7,26,40,98,30,1,Matches
-8ca9415f,Félix Lemaréchal,ci CIV,MF,Brest,19-224,2003,1.2,2,2,2,0,0,0,2,0.0,2,4,0,4,0,2,1,0,Matches
-2b471f99,Mario Lemina,ga GAB,"MF,DF",Nice,29-199,1993,9.3,32,21,11,14,7,12,18,66.7,6,13,5,8,11,43,20,0,Matches
-1e52971c,Johann Lepenant,fr FRA,MF,Lyon,20-148,2002,17.5,50,28,22,21,7,29,61,47.5,32,26,5,21,23,73,12,1,Matches
-1e7aea56,Benjamin Leroy,fr FRA,GK,Ajaccio,33-346,1989,23.1,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,9,1,Matches
-fcc84a07,Léo Leroy,fr FRA,MF,Montpellier,23-033,2000,9.1,39,27,16,21,2,25,41,61.0,16,20,2,18,8,47,4,0,Matches
-17e25e72,Ruan Levine,br BRA,MF,Ajaccio,24-059,1999,0.3,1,1,0,1,0,0,0,,0,1,0,1,2,3,0,0,Matches
-f7691f63,Dimitri Liénard,fr FRA,"DF,MF",Strasbourg,35-034,1988,15.7,41,25,19,15,7,31,51,60.8,20,26,4,22,13,54,23,0,Matches
-fd78b105,Mateusz Lis,pl POL,GK,Troyes,26-020,1997,7.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,3,0,Matches
-40221fa7,Banzouzi Locko,fr FRA,DF,Reims,20-317,2002,11.8,32,16,22,4,6,16,27,59.3,11,17,4,13,20,52,21,0,Matches
-40221fa7,Banzouzi Locko,fr FRA,DF,Brest,20-317,2002,1.5,3,2,2,1,0,2,2,100.0,0,1,0,1,1,4,6,0,Matches
-f00de885,Anthony Lopes,pt POR,GK,Lyon,32-169,1990,21.3,1,0,1,0,0,1,2,50.0,1,0,0,0,2,3,8,0,Matches
-7c2965bb,Rony Lopes,pt POR,"MF,FW",Troyes,27-081,1995,18.2,15,8,5,8,2,6,25,24.0,19,10,2,8,4,19,6,0,Matches
-20b9f052,Pau López,es ESP,GK,Marseille,28-096,1994,23.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,1,Matches
-64c14d49,Dion Lopy,sn SEN,MF,Reims,21-045,2002,11.9,33,19,16,12,5,19,48,39.6,29,21,2,19,19,52,18,0,Matches
-fc4cf6a7,Jordan Lotomba,ch SUI,DF,Nice,24-171,1998,21.5,47,29,26,17,4,26,36,72.2,10,32,8,24,26,73,41,0,Matches
-1a2935f6,Dejan Lovren,hr CRO,DF,Lyon,33-257,1989,10.7,16,14,15,1,0,12,18,66.7,6,9,7,2,15,31,47,1,Matches
-a99138af,Jean Lucas,br BRA,MF,Monaco,24-270,1998,3.2,9,5,3,5,1,6,12,50.0,6,2,1,1,4,13,2,0,Matches
-5b9512c5,Castello Lukeba,fr FRA,DF,Lyon,20-092,2002,24.2,25,16,15,6,4,13,17,76.5,4,30,17,13,46,71,59,0,Matches
-e05082d1,Youssouf M'Changama,km COM,MF,Auxerre,32-202,1990,7.2,15,7,5,9,1,4,9,44.4,5,4,0,4,7,22,3,1,Matches
-b3f8bdef,Deiver Machado,co COL,"DF,MF",Lens,29-198,1993,18.7,42,25,15,20,7,18,31,58.1,13,16,4,12,16,58,22,0,Matches
-dfc5d4fa,Soungoutou Magassa,ml MLI,MF,Monaco,19-162,2003,0.8,3,1,2,1,0,1,2,50.0,1,2,0,2,1,4,1,0,Matches
-d4d35152,Hugo Magnetti,fr FRA,MF,Brest,24-293,1998,14.6,36,22,16,19,1,20,50,40.0,30,16,1,15,20,56,12,0,Matches
-caa7aaea,Yohann Magnin,fr FRA,MF,Clermont Foot,25-271,1997,22.5,71,43,26,38,7,42,85,49.4,43,43,10,33,21,92,42,0,Matches
-fc46aab1,Lovro Majer,hr CRO,"MF,FW",Rennes,25-061,1998,11.8,22,11,10,8,4,3,16,18.8,13,13,1,12,16,38,5,1,Matches
-22bfb57e,Jean-Victor Makengo,fr FRA,MF,Lorient,24-280,1998,5.8,9,3,3,6,0,5,13,38.5,8,2,1,1,8,17,6,0,Matches
-654f49ca,Béni Makouana,cg CGO,"FW,MF",Montpellier,20-172,2002,2.2,1,0,0,1,0,0,2,0.0,2,3,1,2,0,1,1,0,Matches
-48d5bd33,Ruslan Malinovskyi,ua UKR,"MF,FW",Marseille,29-319,1993,6.8,13,6,2,8,3,5,11,45.5,6,6,0,6,1,14,6,0,Matches
-0f86995c,Hianga Mananga Mbock,fr FRA,MF,Brest,23-081,1999,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
-1d2d5cc8,Steve Mandanda,fr FRA,GK,Rennes,37-356,1985,24.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,6,2,Matches
-c801616a,Thomas Mangani,fr FRA,MF,Ajaccio,35-324,1987,9.9,19,12,6,10,3,9,24,37.5,15,13,1,12,21,40,14,1,Matches
-c4173f1a,Vito Mannone,it ITA,GK,Lorient,35-017,1988,13.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,2,Matches
-706a60e1,Myziane Maolida,fr FRA,"FW,MF",Reims,24-033,1999,1.7,3,1,0,2,1,3,7,42.9,4,1,0,1,2,5,0,0,Matches
-e54a9890,Faitout Maouassa,fr FRA,"FW,DF",Montpellier,24-256,1998,17.3,37,24,17,17,3,13,26,50.0,13,26,2,24,15,52,21,0,Matches
-740f00ac,Vincent Marchetti,fr FRA,MF,Ajaccio,25-258,1997,20.4,44,22,22,17,5,20,47,42.6,27,13,1,12,15,59,16,0,Matches
-d9764034,Guillermo Maripán,cl CHI,DF,Monaco,28-317,1994,16.5,32,19,18,14,0,10,23,43.5,13,25,17,8,27,59,50,0,Matches
-d5f2f82b,Marquinhos,br BRA,DF,Paris S-G,28-309,1994,22.1,22,15,11,9,2,14,19,73.7,5,29,18,11,20,42,59,2,Matches
-468fdbad,Jonas Martin,fr FRA,MF,Lille,32-344,1990,2.1,7,6,4,3,0,5,12,41.7,7,2,1,1,5,12,3,0,Matches
-3ef0fa48,Gelson Martins,pt POR,"MF,FW",Monaco,27-312,1995,3.8,15,8,6,4,5,4,13,30.8,9,4,1,3,3,18,2,0,Matches
-eba1e557,Han-Noah Massengo,fr FRA,MF,Auxerre,21-255,2001,5.9,17,8,7,9,1,4,10,40.0,6,8,2,6,9,26,2,0,Matches
-6ea05ca7,Yanis Massolin,fr FRA,MF,Clermont Foot,20-180,2002,0.7,2,1,1,0,1,0,1,0.0,1,1,0,1,2,4,0,0,Matches
-15944afd,Eliot Matazo,be BEL,MF,Monaco,21-032,2002,9.0,13,5,5,8,0,5,13,38.5,8,10,3,7,10,23,10,1,Matches
-cf1ef7ec,Chrislain Matsima,fr FRA,"DF,MF",Lorient,20-308,2002,2.5,0,0,0,0,0,0,0,,0,3,3,0,2,2,7,0,Matches
-cf1ef7ec,Chrislain Matsima,fr FRA,DF,Monaco,20-308,2002,1.4,3,2,1,1,1,1,2,50.0,1,1,1,0,1,4,3,0,Matches
-70d4c949,Jean Mattéo Bahoya,fr FRA,"FW,MF",Angers,17-316,2005,0.3,2,1,0,1,1,1,1,100.0,0,2,0,2,0,2,0,0,Matches
-a17a94d6,Azor Matusiwa,nl NED,MF,Reims,24-325,1998,19.2,53,36,25,22,6,30,45,66.7,15,22,7,15,36,89,36,0,Matches
-87d31635,Aïman Maurer,ma MAR,MF,Clermont Foot,18-175,2004,3.7,2,1,1,1,0,1,5,20.0,4,0,0,0,2,4,5,0,Matches
-30144daa,Stephy Mavididi,eng ENG,FW,Montpellier,24-292,1998,9.7,15,12,6,6,3,10,19,52.6,9,14,0,14,3,18,8,0,Matches
-2c70d915,Christian Mawissa,fr FRA,DF,Toulouse,17-335,2005,1.1,2,0,1,1,0,1,3,33.3,2,0,0,0,3,5,1,0,Matches
-b20cc590,Fernand Mayembo,cg CGO,DF,Ajaccio,27-069,1996,6.0,4,2,3,1,0,2,4,50.0,2,2,0,2,6,10,32,0,Matches
-42fd9c7f,Kylian Mbappé,fr FRA,FW,Paris S-G,24-089,1998,20.3,6,2,0,2,4,2,9,22.2,7,4,0,4,3,9,3,0,Matches
-e76cb9cc,Chancel Mbemba,cd COD,DF,Marseille,28-223,1994,24.4,33,21,20,12,1,18,25,72.0,7,24,12,12,34,67,75,0,Matches
-890bc029,Jason Mbock,fr FRA,"MF,FW",Angers,23-138,1999,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-46750e9c,Nathanael Mbuku,fr FRA,"FW,MF",Reims,21-003,2002,0.7,2,1,2,0,0,2,2,100.0,0,0,0,0,0,2,0,0,Matches
-6f5ec8bb,Facundo Medina,ar ARG,DF,Lens,23-295,1999,21.9,24,15,11,13,0,8,24,33.3,16,14,5,9,18,42,47,1,Matches
-04ac78d2,Bamo Meïté,ci CIV,DF,Lorient,21-272,2001,7.8,5,2,4,0,1,3,7,42.9,4,14,11,3,3,8,28,0,Matches
-d21e361a,Farid El Melali,dz ALG,"DF,FW",Angers,25-318,1997,6.8,17,11,5,10,2,8,12,66.7,4,11,0,11,7,24,3,0,Matches
-70c52749,Birger Meling,no NOR,DF,Rennes,28-092,1994,7.3,16,9,6,8,2,8,12,66.7,4,9,2,7,12,28,15,0,Matches
-f20e4cc9,Nuno Mendes,pt POR,"DF,MF",Paris S-G,20-273,2002,13.1,34,24,22,10,2,25,33,75.8,8,12,2,10,12,46,13,0,Matches
-c6e5d20f,Thiago Mendes,br BRA,"MF,DF",Lyon,31-004,1992,17.9,40,20,19,19,2,28,33,84.8,5,20,8,12,40,80,40,3,Matches
-3322e296,Antoine Mendy,fr FRA,DF,Nice,18-296,2004,1.9,7,5,4,3,0,4,8,50.0,4,3,0,3,1,8,7,0,Matches
-9f0f4b49,Arial Mendy,sn SEN,DF,Clermont Foot,28-132,1994,2.5,4,2,3,0,1,2,2,100.0,0,2,0,2,4,8,4,0,Matches
-e472a6f6,Batista Mendy,fr FRA,"MF,DF",Angers,23-066,2000,22.8,50,19,26,17,7,30,39,76.9,9,24,4,20,16,66,19,0,Matches
-9bdd8118,Gideon Mensah,gh GHA,DF,Auxerre,24-244,1998,17.9,61,33,33,24,4,34,52,65.4,18,23,7,16,31,92,31,0,Matches
-0bfca6a1,Quentin Merlin,fr FRA,DF,Nantes,20-307,2002,14.1,22,13,14,6,2,12,25,48.0,13,18,4,14,18,40,21,0,Matches
-d70ce98e,Lionel Messi,ar ARG,"FW,MF",Paris S-G,35-268,1987,21.5,20,14,1,10,9,7,19,36.8,12,8,0,8,0,20,0,0,Matches
-85613cf0,Arkadiusz Milik,pl POL,FW,Marseille,29-019,1994,1.4,1,1,0,0,1,0,1,0.0,1,0,0,0,0,1,2,0,Matches
-f833a830,Takumi Minamino,jp JPN,"MF,FW",Monaco,28-062,1995,5.5,11,5,3,5,3,6,24,25.0,18,14,0,14,5,16,3,0,Matches
-065dc209,Terem Moffi,ng NGA,FW,Nice,23-298,1999,5.5,1,0,0,1,0,0,4,0.0,4,0,0,0,0,1,1,0,Matches
-065dc209,Terem Moffi,ng NGA,FW,Lorient,23-298,1999,15.4,8,5,1,4,3,3,5,60.0,2,11,3,8,3,11,10,0,Matches
-595e6f3e,Mostafa Mohamed,eg EGY,FW,Nantes,25-111,1997,15.9,14,9,5,4,5,7,14,50.0,7,15,1,14,5,19,28,0,Matches
-7e82a78f,Florent Mollet,fr FRA,MF,Nantes,31-120,1991,6.5,4,2,2,0,2,1,6,16.7,5,7,0,7,4,8,7,0,Matches
-8499c713,Marlos Moreno,co COL,"MF,DF",Troyes,26-180,1996,0.1,2,2,2,0,0,2,3,66.7,1,1,1,0,0,2,0,0,Matches
-3eaf8817,Lebo Mothiba,za RSA,"FW,MF",Strasbourg,27-050,1996,3.3,1,0,1,0,0,0,1,0.0,1,2,0,2,0,1,4,0,Matches
-19ba6c6d,Steve Mounié,bj BEN,FW,Brest,28-171,1994,7.7,5,2,0,3,2,0,7,0.0,7,7,3,4,3,8,11,0,Matches
-71d10572,Bevic Moussiti-Oko,cg CGO,FW,Ajaccio,28-050,1995,7.8,3,1,1,1,1,1,2,50.0,1,5,3,2,2,5,8,0,Matches
-af0c835b,Samuel Moutoussamy,cd COD,MF,Nantes,26-219,1996,17.7,46,26,18,21,7,14,46,30.4,32,17,2,15,19,65,8,0,Matches
-ac73ec79,Nordi Mukiele,fr FRA,DF,Paris S-G,25-138,1997,12.6,31,23,16,6,9,19,29,65.5,10,22,9,13,14,45,16,0,Matches
-2acf0cd7,Marshall Munetsi,zw ZIM,MF,Reims,26-270,1996,19.5,40,19,9,22,9,15,34,44.1,19,22,5,17,17,57,28,1,Matches
-dc29b608,Yvon Mvogo,ch SUI,GK,Lorient,28-286,1994,13.1,0,0,0,0,0,0,0,,0,0,0,0,2,2,3,2,Matches
-e110ea4b,Nathan N'Goumou,fr FRA,FW,Toulouse,23-005,2000,1.0,3,2,2,1,0,1,1,100.0,0,2,0,2,2,5,0,0,Matches
-65c55288,Youssouf Ndayishimiye,bi BDI,"DF,MF",Nice,24-143,1998,4.4,10,7,5,5,0,3,5,60.0,2,7,4,3,8,18,19,0,Matches
-87e9c7cd,Papa Ndiaga Yade,sn SEN,"DF,MF",Troyes,23-073,2000,4.3,8,5,5,1,2,7,16,43.8,9,9,2,7,7,15,7,0,Matches
-69384e5d,Neymar,br BRA,"MF,FW",Paris S-G,31-042,1992,17.2,22,14,6,9,7,9,19,47.4,10,7,1,6,4,26,1,1,Matches
-46faabfa,Ibrahima Niane,sn SEN,FW,Angers,24-008,1999,5.1,2,0,0,2,0,0,2,0.0,2,2,0,2,1,3,3,0,Matches
-2054d037,M'Baye Niang,sn SEN,FW,Auxerre,28-090,1994,12.7,10,6,1,6,3,3,10,30.0,7,16,1,15,1,11,17,0,Matches
-3f319bb9,Rasmus Nicolaisen,dk DEN,DF,Toulouse,26-003,1997,26.3,43,19,31,12,0,26,37,70.3,11,40,32,8,42,85,120,0,Matches
-7b9a9e25,Arnaud Nordin,fr FRA,"FW,MF",Montpellier,24-275,1998,16.5,15,6,7,7,1,8,13,61.5,5,14,0,14,7,22,4,0,Matches
-374fbf7d,Riad Nouri,fr FRA,MF,Ajaccio,37-285,1985,14.0,18,10,4,10,4,9,21,42.9,12,4,1,3,13,31,9,0,Matches
-afb0c500,Alexander Nübel,de GER,GK,Monaco,26-170,1996,27.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,5,3,Matches
-6043997c,Gerzino Nyamsi,fr FRA,DF,Strasbourg,26-056,1997,12.4,16,11,9,5,2,7,8,87.5,1,15,10,5,8,24,48,1,Matches
-35516eac,Wilson Odobert,fr FRA,"MF,FW",Troyes,18-111,2004,13.1,16,13,7,7,2,6,18,33.3,12,9,0,9,12,28,4,0,Matches
-6993927b,Florent Ogier,fr FRA,DF,Clermont Foot,33-363,1989,14.5,22,13,14,7,1,14,28,50.0,14,18,10,8,12,34,43,1,Matches
-4534a352,Warmed Omari,fr FRA,DF,Rennes,22-330,2000,5.1,4,2,3,1,0,3,5,60.0,2,6,2,4,6,10,14,1,Matches
-c631f952,Jonas Omlin,ch SUI,GK,Montpellier,29-068,1994,13.0,1,0,1,0,0,0,0,,0,0,0,0,0,1,8,1,Matches
-ff4df82e,Ado Onaiwu,jp JPN,FW,Toulouse,27-131,1995,7.8,6,3,0,3,3,2,7,28.6,5,2,0,2,0,6,4,0,Matches
-b5bb8188,Jean Onana,cm CMR,MF,Lens,23-070,2000,4.2,13,8,2,11,0,4,6,66.7,2,5,1,4,7,20,6,0,Matches
-8652a85c,Loïs Openda,be BEL,FW,Lens,23-031,2000,18.8,7,7,1,5,1,2,9,22.2,7,7,0,7,1,8,1,0,Matches
-2f9e4435,Dango Ouattara,bf BFA,"FW,MF",Lorient,21-036,2002,17.2,41,26,20,11,10,15,28,53.6,13,24,6,18,19,60,21,0,Matches
-6b4436ba,Zinédine Ould Khaled,fr FRA,"MF,FW",Angers,23-064,2000,0.5,0,0,0,0,0,0,1,0.0,1,0,0,0,2,2,0,0,Matches
-83299cc0,Azzedine Ounahi,ma MAR,"MF,FW",Marseille,22-334,2000,1.0,2,1,1,1,0,0,2,0.0,2,1,0,1,0,2,0,0,Matches
-83299cc0,Azzedine Ounahi,ma MAR,"MF,FW",Angers,22-334,2000,12.5,19,8,5,13,1,10,20,50.0,10,8,0,8,15,34,4,1,Matches
-ed90babd,Adam Ounas,dz ALG,FW,Lille,26-128,1996,9.7,16,9,3,8,5,4,9,44.4,5,13,0,13,6,22,4,0,Matches
-cd9b37a3,Ante Palaversa,hr CRO,MF,Troyes,22-347,2000,0.1,1,1,1,0,0,0,0,,0,0,0,0,1,2,0,0,Matches
-779847d6,Nicolas Pallois,fr FRA,DF,Nantes,35-181,1987,18.0,54,36,41,11,2,32,49,65.3,17,32,16,16,20,74,88,2,Matches
-e5c1e0ca,Erik Palmer-Brown,us USA,DF,Troyes,25-329,1997,24.5,31,19,24,6,1,13,21,61.9,8,41,19,22,19,50,124,0,Matches
-9b6f7fd5,Lucas Paquetá,br BRA,MF,Lyon,25-204,1997,1.8,5,4,0,5,0,1,3,33.3,2,2,0,2,1,6,3,0,Matches
-dff153a4,Leandro Paredes,ar ARG,MF,Paris S-G,28-263,1994,0.6,1,1,1,0,0,1,1,100.0,0,2,1,1,1,2,0,0,Matches
-58ae47b2,Dimitri Payet,fr FRA,"MF,FW",Marseille,35-355,1987,7.9,4,3,1,2,1,2,7,28.6,5,4,0,4,0,4,2,0,Matches
-f8ce97ca,Timothee Pembele,fr FRA,DF,Paris S-G,20-191,2002,2.4,4,4,3,0,1,2,4,50.0,2,2,0,2,4,8,2,0,Matches
-0810b6df,Patrick Pentz,at AUT,GK,Reims,26-076,1997,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-57e3f0c7,Nicolas Pépé,ci CIV,"FW,MF",Nice,27-294,1995,13.6,16,8,9,4,3,8,17,47.1,9,15,0,15,1,17,1,0,Matches
-5c42e7ce,Brayann Pereira,fr FRA,DF,Auxerre,19-302,2003,2.0,6,5,5,1,0,1,5,20.0,4,2,2,0,2,8,8,1,Matches
-8fd9996f,Danilo Pereira,pt POR,"DF,MF",Paris S-G,31-191,1991,16.2,23,12,10,10,3,12,15,80.0,3,16,11,5,22,45,34,0,Matches
-8846a40f,Mathias Pereira Lage,pt POR,"MF,FW",Brest,26-109,1996,12.0,17,7,5,11,1,9,26,34.6,17,8,1,7,14,31,11,0,Matches
-10dd88f9,Gaëtan Perrin,fr FRA,"MF,FW",Auxerre,26-285,1996,11.5,14,5,4,6,4,6,23,26.1,17,12,0,12,8,22,7,0,Matches
-49070d66,Lucas Perrin,fr FRA,DF,Strasbourg,24-120,1998,12.2,29,17,18,9,2,16,32,50.0,16,7,5,2,18,47,34,0,Matches
-64ba07c0,Ronaël Pierre-Gabriel,fr FRA,DF,Strasbourg,24-279,1998,7.3,25,18,11,12,2,15,17,88.2,2,16,3,13,9,34,22,0,Matches
-e546b2e3,Julien Ponceau,fr FRA,MF,Lorient,22-111,2000,14.9,20,13,7,10,3,9,24,37.5,15,22,2,20,11,31,6,0,Matches
-be98f358,Łukasz Poręba,pl POL,MF,Lens,23-006,2000,2.7,5,4,2,1,2,2,3,66.7,1,3,0,3,3,8,2,0,Matches
-7d704e92,Jackson Porozo,ec ECU,DF,Troyes,22-227,2000,16.4,29,17,21,7,1,12,28,42.9,16,19,14,5,32,61,68,0,Matches
-51c30111,Sanjin Prcić,ba BIH,MF,Strasbourg,29-119,1993,16.7,26,12,6,17,3,18,28,64.3,10,21,7,14,21,47,18,0,Matches
-7be7c08b,Mehdi Puch Herrantz,fr FRA,MF,Ajaccio,19-058,2004,0.3,1,1,0,0,1,0,0,,0,1,0,1,1,2,0,0,Matches
-1b729a98,Ghjuvanni Quilichini,fr FRA,GK,Ajaccio,20-199,2002,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-67f649be,Ionuț Radu,ro ROU,GK,Auxerre,25-295,1997,8.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches
-ed8cecc9,Simon Ramet,fr FRA,DF,Lille,20-006,2003,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-8dbff17c,Adil Rami,fr FRA,DF,Troyes,37-082,1985,9.3,12,9,8,3,1,11,21,52.4,10,7,5,2,12,24,37,1,Matches
-08511d65,Sergio Ramos,es ESP,DF,Paris S-G,36-354,1986,21.0,29,21,12,15,2,20,36,55.6,16,22,9,13,24,53,56,2,Matches
-ef619b0b,Aaron Ramsey,wls WAL,MF,Nice,32-083,1990,12.8,39,20,16,16,7,12,24,50.0,12,19,4,15,13,52,13,0,Matches
-79a793b7,Lilian Raolisoa,fr FRA,"MF,DF",Angers,22-276,2000,0.5,1,1,0,0,1,1,1,100.0,0,0,0,0,2,3,0,0,Matches
-25749008,Elba Rashani,xk KVX,"MF,DF",Clermont Foot,29-314,1993,16.0,24,14,7,13,4,6,20,30.0,14,16,2,14,17,41,13,0,Matches
-40ef7347,Rafael Ratão,br BRA,FW,Toulouse,27-109,1995,15.6,40,31,20,15,5,19,50,38.0,31,29,0,29,19,59,4,0,Matches
-fb3236a7,Rayan Raveloson,mg MAD,"DF,MF",Auxerre,26-062,1997,16.2,23,12,15,7,1,14,19,73.7,5,21,5,16,28,51,43,0,Matches
-d504b3e1,Jeff Reine-Adélaïde,fr FRA,MF,Troyes,25-061,1998,1.1,1,0,0,1,0,0,0,,0,1,0,1,1,2,0,0,Matches
-d504b3e1,Jeff Reine-Adélaïde,fr FRA,MF,Lyon,25-061,1998,3.7,8,5,1,5,2,5,9,55.6,4,4,0,4,6,14,0,0,Matches
-102c9665,Alexsandro Ribeiro,br BRA,DF,Lille,23-222,1999,8.9,18,13,13,5,0,8,11,72.7,3,5,1,4,14,32,30,0,Matches
-7f41ee30,Rémy Riou,fr FRA,GK,Lyon,35-225,1987,6.7,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0,Matches
-beae3a73,Renaud Ripart,fr FRA,"FW,MF",Troyes,30-005,1993,13.6,36,22,12,18,6,16,45,35.6,29,26,0,26,7,43,5,0,Matches
-8d62d31a,Joe Rodon,wls WAL,DF,Rennes,25-148,1997,13.7,10,6,8,2,0,4,10,40.0,6,15,11,4,9,19,45,1,Matches
-ed45c4a5,Valentin Rongier,fr FRA,MF,Marseille,28-102,1994,23.7,59,35,19,34,6,28,53,52.8,25,36,7,29,36,95,22,1,Matches
-1a6b7ea4,Pablo Rosario,nl NED,"MF,DF",Nice,26-071,1997,12.5,28,16,12,12,4,11,18,61.1,7,9,3,6,15,43,21,0,Matches
-9b545925,Anthony Rouault,fr FRA,DF,Toulouse,21-294,2001,27.9,52,32,43,8,1,25,48,52.1,23,44,21,23,43,95,100,4,Matches
-90a9cc01,Kays Ruiz,ma MAR,MF,Auxerre,20-205,2002,0.7,1,1,1,0,0,0,1,0.0,1,2,1,1,3,4,0,0,Matches
-c0c7ff58,Fabián Ruiz Peña,es ESP,MF,Paris S-G,26-350,1996,14.1,44,19,16,23,5,33,54,61.1,21,19,1,18,9,53,12,1,Matches
-8299e363,Halid Šabanović,ba BIH,"DF,FW",Angers,23-209,1999,3.7,4,2,4,0,0,3,5,60.0,2,4,1,3,4,8,7,0,Matches
-6388e356,Falaye Sacko,ml MLI,DF,Montpellier,27-322,1995,19.0,38,20,19,14,5,25,35,71.4,10,31,10,21,25,63,45,1,Matches
-90fcf472,Wesley Saïd,fr FRA,"FW,MF",Lens,27-334,1995,6.6,4,1,1,2,1,2,5,40.0,3,4,0,4,1,5,1,0,Matches
-93c942fb,Théo Sainte-Luce,fr FRA,DF,Montpellier,24-150,1998,3.9,7,5,3,4,0,4,10,40.0,6,4,2,2,4,11,5,0,Matches
-c9151d66,Hamza Sakhi,ma MAR,MF,Auxerre,26-285,1996,17.7,43,22,21,17,5,21,40,52.5,19,15,1,14,24,67,8,0,Matches
-87935cf3,Mamadou Sakho,fr FRA,DF,Montpellier,33-034,1990,6.0,7,3,3,4,0,2,4,50.0,2,9,7,2,5,12,25,1,Matches
-cad3fd4d,Ibrahim Salah,be BEL,"FW,MF",Rennes,21-201,2001,1.3,4,1,3,1,0,0,5,0.0,5,2,0,2,2,6,0,0,Matches
-bc7cc472,Amine Salama,fr FRA,"FW,MF",Angers,22-244,2000,13.9,11,9,3,7,1,2,12,16.7,10,8,2,6,10,21,2,0,Matches
-c3725db2,Yoann Salmier,gf GUF,DF,Troyes,30-118,1992,23.9,39,22,25,10,4,18,27,66.7,9,27,17,10,31,70,96,0,Matches
-fb14aa28,Mama Samba Baldé,gw GNB,FW,Troyes,27-133,1995,20.7,36,16,11,16,9,10,19,52.6,9,22,3,19,4,40,8,0,Matches
-60d90c55,Brice Samba,cg CGO,GK,Lens,28-328,1994,28.0,1,0,1,0,0,1,1,100.0,0,1,0,1,0,1,8,1,Matches
-032f894e,Renato Sanches,pt POR,MF,Paris S-G,25-213,1997,4.7,3,0,0,1,2,1,5,20.0,4,6,0,6,8,11,3,0,Matches
-2c0f8e9e,Alexis Sánchez,cl CHI,FW,Marseille,34-090,1988,20.0,19,13,4,12,3,1,10,10.0,9,7,0,7,2,21,3,0,Matches
-6e7f1353,Morgan Sanson,fr FRA,MF,Strasbourg,28-213,1994,5.2,13,9,4,4,5,3,12,25.0,9,11,1,10,11,24,4,0,Matches
-5e22e2a4,Baptiste Santamaria,fr FRA,MF,Rennes,28-010,1995,13.5,33,18,10,19,4,15,31,48.4,16,12,3,9,16,49,14,0,Matches
-9744ff80,Pablo Sarabia,es ESP,"FW,MF",Paris S-G,30-312,1992,4.1,5,4,2,2,1,1,7,14.3,6,3,0,3,2,7,0,0,Matches
-f527a32c,Muhammed Saracevic Cham,at AUT,MF,Clermont Foot,22-174,2000,16.1,24,11,12,3,9,10,27,37.0,17,12,0,12,6,30,5,0,Matches
-d5326924,Amin Sarr,se SWE,FW,Lyon,22-008,2001,4.6,6,5,0,4,2,0,1,0.0,1,2,0,2,0,6,2,0,Matches
-4315f30d,Malang Sarr,fr FRA,DF,Monaco,24-055,1999,8.0,6,3,5,1,0,1,5,20.0,4,11,7,4,15,21,29,2,Matches
-6bde367b,Téji Savanier,fr FRA,MF,Montpellier,31-087,1991,21.0,36,24,15,16,5,17,47,36.2,30,22,2,20,25,61,9,1,Matches
-53af52f3,Kasper Schmeichel,dk DEN,GK,Nice,36-134,1986,25.0,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,7,0,Matches
-cea59f02,Alidu Seidu,gh GHA,DF,Clermont Foot,22-288,2000,19.5,36,23,24,9,3,22,34,64.7,12,20,13,7,37,73,38,2,Matches
-834b5c4c,Matz Sels,be BEL,GK,Strasbourg,31-021,1992,27.0,2,1,2,0,0,2,2,100.0,0,0,0,0,3,5,18,0,Matches
-1d383c10,Marvin Senaya,tg TOG,DF,Strasbourg,22-050,2001,0.1,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,1,0,Matches
-9c2b1f11,Kaj Sierhuis,nl NED,"FW,MF",Reims,24-326,1998,0.6,2,2,1,0,1,0,3,0.0,3,1,0,1,0,2,1,0,Matches
-92ffb8f9,Vincent Sierro,ch SUI,"MF,FW",Toulouse,27-162,1995,0.7,2,1,1,1,0,1,5,20.0,4,7,1,6,1,3,0,1,Matches
-30af8b93,Caio Henrique Oliveira Silva,br BRA,DF,Monaco,25-231,1997,22.5,53,38,30,20,3,32,54,59.3,22,21,7,14,15,68,45,1,Matches
-fdbde523,Abdallah Sima,sn SEN,FW,Angers,21-275,2001,14.9,14,8,2,9,3,4,11,36.4,7,6,0,6,3,17,14,0,Matches
-5f3eaaf5,Moses Simon,ng NGA,"FW,MF",Nantes,27-250,1995,20.2,18,9,6,7,5,7,11,63.6,4,10,1,9,6,24,3,0,Matches
-5e5249c8,Lassine Sinayoko,ml MLI,"MF,FW",Auxerre,23-101,1999,14.1,30,14,13,10,7,19,31,61.3,12,12,0,12,11,41,17,0,Matches
-0f8418aa,Ibrahima Sissoko,fr FRA,MF,Strasbourg,25-143,1997,9.5,20,12,7,10,3,9,23,39.1,14,13,4,9,5,25,15,0,Matches
-2acd49b9,Moussa Sissoko,fr FRA,MF,Nantes,33-215,1989,16.4,23,16,16,5,2,12,16,75.0,4,17,5,12,13,36,12,0,Matches
-d7547531,Naatan Skyttä,fi FIN,MF,Toulouse,20-316,2002,0.3,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-ffec9769,Islam Slimani,dz ALG,FW,Brest,34-274,1988,11.0,5,3,2,2,1,0,3,0.0,3,2,0,2,1,6,11,0,Matches
-2ccd89a3,Eduard Sobol,ua UKR,DF,Strasbourg,27-333,1995,5.5,10,6,4,4,2,3,5,60.0,2,3,0,3,4,14,12,0,Matches
-fed17f5a,Carlos Soler,es ESP,MF,Paris S-G,26-076,1997,9.4,13,9,4,7,2,8,15,53.3,7,6,2,4,3,16,2,0,Matches
-f19f32b1,François-Joseph Sollacaro,fr FRA,GK,Ajaccio,28-363,1994,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-7a42d0df,Florian Sotoca,fr FRA,"FW,MF",Lens,32-145,1990,25.5,36,17,10,15,11,14,32,43.8,18,37,1,36,23,59,32,0,Matches
-86a49468,Moussa Soumano,fr FRA,"FW,MF",Ajaccio,17-253,2005,1.5,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
-4e0afc5d,Arnaud Souquet,fr FRA,"DF,FW",Montpellier,31-035,1992,4.0,22,16,13,7,2,11,14,78.6,3,8,3,5,4,26,4,0,Matches
-a45a5d95,Kevin Spadanuda,ch SUI,"MF,FW",Ajaccio,26-062,1997,5.6,11,8,6,4,1,3,10,30.0,7,6,0,6,5,16,3,0,Matches
-9bc9a519,Djed Spence,eng ENG,DF,Rennes,22-222,2000,5.4,13,6,7,2,4,10,16,62.5,6,9,3,6,3,16,13,0,Matches
-a08985b8,Stijn Spierings,nl NED,MF,Toulouse,27-007,1996,28.0,77,52,26,46,5,36,83,43.4,47,44,12,32,41,118,37,0,Matches
-8f7e6783,Calvin Stengs,nl NED,FW,Nice,24-091,1998,2.4,2,2,1,0,1,1,2,50.0,1,0,0,0,0,2,0,0,Matches
-39b326ed,Gabriel Suazo,cl CHI,DF,Toulouse,25-222,1997,6.8,21,13,10,9,2,14,34,41.2,20,14,4,10,11,32,10,0,Matches
-a62f8bf1,Kamaldeen Sulemana,gh GHA,"FW,MF",Rennes,21-032,2002,3.6,6,3,1,4,1,1,5,20.0,4,2,0,2,4,10,2,0,Matches
-b99bec05,Issiaga Sylla,gn GUI,DF,Montpellier,29-077,1994,6.0,15,9,10,5,0,8,15,53.3,7,6,1,5,15,30,12,0,Matches
-b99bec05,Issiaga Sylla,gn GUI,DF,Toulouse,29-077,1994,15.2,28,15,14,9,5,15,34,44.1,19,15,5,10,38,66,38,0,Matches
-f0661424,Nicolás Tagliafico,ar ARG,DF,Lyon,30-200,1992,25.7,78,46,33,35,10,42,64,65.6,22,31,6,25,50,128,28,0,Matches
-95192fe4,Waniss Taibi,fr FRA,MF,Angers,21-012,2002,2.1,7,4,4,2,1,2,4,50.0,2,0,0,0,2,9,2,0,Matches
-a0f9b535,Flavien Tait,fr FRA,MF,Rennes,30-045,1993,15.8,28,14,7,16,5,18,35,51.4,17,15,3,12,19,47,11,0,Matches
-a4a44eb0,Montassar Talbi,tn TUN,DF,Lorient,24-297,1998,27.0,35,16,28,7,0,17,26,65.4,9,32,21,11,24,59,121,3,Matches
-ed39121c,Florian Tardieu,fr FRA,MF,Troyes,30-331,1992,11.2,31,20,19,12,0,12,29,41.4,17,19,4,15,23,54,15,0,Matches
-a65c844b,Nuno Tavares,pt POR,"DF,MF",Marseille,23-052,2000,20.5,43,22,16,20,7,20,42,47.6,22,27,4,23,14,57,20,0,Matches
-7f783431,Enzo Tchato,cm CMR,DF,Montpellier,20-116,2002,10.6,22,15,11,10,1,10,16,62.5,6,13,1,12,6,28,28,0,Matches
-5148dcc5,Martin Terrier,fr FRA,"FW,MF",Rennes,26-015,1997,14.7,25,11,7,9,9,13,24,54.2,11,15,2,13,14,39,6,0,Matches
-7120a04d,Tetê,br BRA,"FW,MF",Lyon,23-032,2000,12.3,21,10,8,5,8,10,19,52.6,9,9,0,9,13,34,2,0,Matches
-df8d6029,Arthur Theate,be BEL,DF,Rennes,22-298,2000,25.9,25,16,15,7,3,16,24,66.7,8,18,8,10,23,48,83,2,Matches
-f4bc42b1,Sada Thioub,sn SEN,"FW,MF",Angers,27-291,1995,6.4,14,6,7,5,2,4,8,50.0,4,7,0,7,2,16,3,0,Matches
-c76b7567,Adrien Thomasson,fr FRA,MF,Strasbourg,29-099,1993,10.4,20,9,9,6,5,10,30,33.3,20,18,0,18,3,23,2,0,Matches
-c76b7567,Adrien Thomasson,fr FRA,"MF,FW",Lens,29-099,1993,6.6,16,13,5,7,4,7,17,41.2,10,14,0,14,3,19,4,0,Matches
-7d9397f8,Khéphren Thuram-Ulie,fr FRA,MF,Nice,21-358,2001,21.3,39,20,17,20,2,16,35,45.7,19,22,8,14,28,67,27,0,Matches
-ca6f4846,Alexis Tibidi,fr FRA,FW,Troyes,19-136,2003,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-88f130ed,Jean-Clair Todibo,fr FRA,DF,Nice,23-079,1999,23.5,54,36,39,12,3,30,42,71.4,12,30,16,14,24,78,92,1,Matches
-5ceba7fc,Karl Toko Ekambi,cm CMR,"MF,FW",Rennes,30-186,1992,4.8,2,1,0,1,1,2,5,40.0,3,3,0,3,5,7,1,0,Matches
-5ceba7fc,Karl Toko Ekambi,cm CMR,"FW,MF",Lyon,30-186,1992,15.0,9,9,2,4,3,4,15,26.7,11,12,2,10,9,18,6,0,Matches
-652d4c37,Corentin Tolisso,fr FRA,MF,Lyon,28-228,1994,14.5,26,18,9,14,3,15,38,39.5,23,16,2,14,16,42,12,0,Matches
-a4b798a9,Birama Touré,ml MLI,MF,Auxerre,30-286,1992,26.8,53,28,23,25,5,24,58,41.4,34,34,4,30,53,106,35,0,Matches
-01fd01e8,Souleymane Touré,fr FRA,DF,Marseille,19-356,2003,0.8,2,1,1,1,0,1,2,50.0,1,1,0,1,0,2,5,0,Matches
-01fd01e8,Souleymane Touré,fr FRA,DF,Auxerre,19-356,2003,8.9,12,5,9,3,0,8,10,80.0,2,13,4,9,11,23,36,1,Matches
-4e47507a,Yoann Touzghar,tn TUN,FW,Ajaccio,36-111,1986,4.3,3,2,0,2,1,0,1,0.0,1,0,0,0,0,3,1,0,Matches
-de488e56,Charles Traore,ml MLI,DF,Nantes,31-077,1992,3.6,5,3,4,1,0,4,6,66.7,2,9,2,7,8,13,6,0,Matches
-a4b1028a,Hamari Traoré,ml MLI,DF,Rennes,31-051,1992,18.3,30,20,17,12,1,16,30,53.3,14,23,5,18,27,57,46,0,Matches
-5d0e0a1f,Adrien Truffert,fr FRA,DF,Rennes,21-119,2001,21.7,62,32,36,17,9,31,43,72.1,12,32,8,24,22,84,54,0,Matches
-906baf89,Theocharis Tsingaras,gr GRE,MF,Toulouse,22-211,2000,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-8a53d24b,Ike Ugbo,ca CAN,"FW,MF",Troyes,24-179,1998,4.9,4,1,1,2,1,3,5,60.0,2,6,1,5,1,5,2,0,Matches
-1df4a109,Chimuanya Ugochukwu,fr FRA,MF,Rennes,18-358,2004,9.7,26,12,9,15,2,11,16,68.8,5,14,6,8,14,40,8,0,Matches
-1880614f,Cengiz Ünder,tr TUR,"MF,DF",Marseille,25-248,1997,17.5,25,13,9,12,4,9,21,42.9,12,10,1,9,14,39,8,0,Matches
-d75f3980,Jere Uronen,fi FIN,DF,Brest,28-249,1994,3.3,8,5,4,4,0,7,12,58.3,5,6,2,4,7,15,5,0,Matches
-531a4aa8,Yan Valery,tn TUN,DF,Angers,24-025,1999,18.1,30,21,14,14,2,8,17,47.1,9,20,6,14,22,52,50,0,Matches
-ee45fd85,Vanderson,br BRA,DF,Monaco,21-271,2001,14.9,49,27,19,22,8,27,42,64.3,15,27,5,22,34,83,22,1,Matches
-4a56052c,Jordan Veretout,fr FRA,MF,Marseille,30-018,1993,20.8,38,23,9,25,4,16,30,53.3,14,14,4,10,27,65,27,2,Matches
-1467af0d,Marco Verratti,it ITA,MF,Paris S-G,30-134,1992,16.8,60,37,28,29,3,33,63,52.4,30,34,6,28,18,78,7,2,Matches
-d60cf08d,João Victor,br BRA,DF,Nantes,24-245,1998,5.1,7,3,4,2,1,2,5,40.0,3,5,1,4,5,12,21,0,Matches
-b2791a55,Clément Vidal,fr FRA,"DF,MF",Ajaccio,22-274,2000,12.1,15,8,8,7,0,9,19,47.4,10,15,7,8,13,28,32,0,Matches
-01becd60,Alan Virginius,fr FRA,FW,Lille,20-075,2003,2.6,2,1,1,1,0,0,2,0.0,2,0,0,0,2,4,1,0,Matches
-75438a9a,Mattia Viti,it ITA,DF,Nice,21-054,2002,7.0,4,2,1,1,2,2,5,40.0,3,9,3,6,8,12,22,0,Matches
-74d4cec6,Vitinha,pt POR,FW,Marseille,23-004,2000,0.8,2,2,0,1,1,0,2,0.0,2,1,0,1,0,2,1,0,Matches
-3b029691,Vitinha,pt POR,MF,Paris S-G,23-034,2000,18.3,35,17,11,18,6,15,51,29.4,36,16,3,13,15,50,10,0,Matches
-64f69877,Kevin Volland,de GER,"MF,FW",Monaco,30-232,1992,3.9,7,3,0,5,2,1,3,33.3,2,2,0,2,2,9,0,0,Matches
-8eec784d,Timothy Weah,us USA,"DF,FW",Lille,23-025,2000,13.1,14,6,5,7,2,7,17,41.2,10,12,2,10,14,28,13,0,Matches
-3ecc8c5f,Mateusz Wieteska,pl POL,DF,Clermont Foot,26-036,1997,26.0,30,18,20,10,0,13,23,56.5,10,31,19,12,42,72,75,4,Matches
-b003239d,Christopher Wooh,cm CMR,DF,Rennes,21-182,2001,8.6,12,6,8,4,0,6,8,75.0,2,10,4,6,4,16,38,0,Matches
-b003239d,Christopher Wooh,cm CMR,MF,Lens,21-182,2001,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
-f3600c02,Xeka,pt POR,MF,Rennes,28-129,1994,6.1,10,3,6,3,1,7,16,43.8,9,11,2,9,6,16,8,0,Matches
-f5c8b425,Yusuf Yazıcı,tr TUR,MF,Lille,26-049,1997,2.2,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0,Matches
-061266cd,Darlin Yongwa,cm CMR,"DF,FW",Lorient,22-178,2000,1.8,4,4,2,2,0,1,4,25.0,3,1,0,1,1,5,3,0,Matches
-6763f716,Leny Yoro,fr FRA,DF,Lille,17-126,2005,6.5,8,4,5,3,0,3,6,50.0,3,6,1,5,16,24,23,1,Matches
-1a85bcdb,Mohamed Youssouf,km COM,DF,Ajaccio,34-358,1988,20.4,54,34,28,19,7,27,44,61.4,17,22,6,16,51,105,48,0,Matches
-6b9960cf,Warren Zaire-Emery,fr FRA,MF,Paris S-G,17-011,2006,5.3,8,5,1,6,1,4,15,26.7,11,7,0,7,7,15,4,0,Matches
-72d4922b,Oliver Zandén,se SWE,"DF,MF",Toulouse,21-217,2001,1.6,2,1,1,0,1,2,5,40.0,3,0,0,0,1,3,7,0,Matches
-0ff630d0,Akim Zedadka,dz ALG,DF,Auxerre,27-293,1995,9.5,22,16,15,3,4,12,20,60.0,8,7,2,5,17,39,30,1,Matches
-0ff630d0,Akim Zedadka,dz ALG,"DF,MF",Lille,27-293,1995,3.9,1,1,1,0,0,0,2,0.0,2,3,0,3,2,3,6,0,Matches
-c8c02ac7,Mehdi Zeffane,dz ALG,"DF,MF",Clermont Foot,30-304,1992,1.5,0,0,0,0,0,0,3,0.0,3,3,0,3,6,6,1,0,Matches
-095e4199,Arber Zeneli,xk KVX,"FW,MF",Reims,28-022,1995,10.0,9,3,3,3,3,5,12,41.7,7,5,0,5,2,11,2,0,Matches
-fb4c5b6e,Nathan Zeze,fr FRA,DF,Nantes,17-274,2005,0.7,2,2,1,1,0,1,1,100.0,0,0,0,0,0,2,1,0,Matches
-34a88e3e,Edon Zhegrova,xk KVX,"FW,DF",Lille,23-353,1999,8.2,15,10,4,6,5,11,18,61.1,7,6,0,6,2,17,1,0,Matches
-aefa3050,Banhie Zoukrou,fr FRA,DF,Troyes,19-316,2003,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+32c2d95f,Yunis Abdelhamid,ma MAR,DF,Reims,35-182,1987,28.0,66,40,38,27,1,32,40,80.0,8,55,20,35,51,117,99,1,Matches
+7978cbf0,Himad Abdelli,fr FRA,"MF,FW",Angers,23-132,1999,14.0,40,21,14,20,6,19,33,57.6,14,18,1,17,15,55,9,0,Matches
+82464ce3,Salis Abdul Samed,gh GHA,MF,Lens,23-003,2000,26.0,39,22,14,21,4,22,39,56.4,17,30,7,23,26,65,17,0,Matches
+31626657,Laurent Abergel,fr FRA,MF,Lorient,30-056,1993,17.2,69,41,46,21,2,25,60,41.7,35,30,6,24,18,87,23,0,Matches
+0e46fa2f,Matthis Abline,fr FRA,FW,Auxerre,20-001,2003,6.7,3,1,0,2,1,0,5,0.0,5,5,1,4,1,4,1,0,Matches
+0e46fa2f,Matthis Abline,fr FRA,"FW,MF",Rennes,20-001,2003,1.2,1,1,0,0,1,1,1,100.0,0,1,0,1,2,3,1,0,Matches
+c2a6033c,Zakaria Aboukhlal,ma MAR,"FW,MF",Toulouse,23-039,2000,22.2,26,19,11,6,9,9,35,25.7,26,14,1,13,19,45,19,0,Matches
+1e93fc5d,Mohamed Achi,fr FRA,FW,Nantes,21-072,2002,0.4,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+7587446d,Martin Adeline,fr FRA,"MF,FW",Reims,19-117,2003,1.2,3,3,2,1,0,3,4,75.0,1,3,1,2,3,6,3,0,Matches
+75f1ed80,Emmanuel Agbadou,ci CIV,DF,Reims,25-285,1997,18.9,51,32,39,11,1,30,44,68.2,14,22,9,13,23,74,80,2,Matches
+8bc8829a,Lucien Agoume,fr FRA,MF,Troyes,21-048,2002,7.2,26,13,11,9,6,11,16,68.8,5,6,1,5,15,41,14,0,Matches
+3dd738a1,Ruben Aguilar,fr FRA,DF,Monaco,29-337,1993,9.6,16,6,7,4,5,6,15,40.0,9,6,0,6,14,30,23,1,Matches
+22396615,Amar Ahmed,se SWE,FW,Troyes,19-038,2004,0.2,1,1,0,1,0,0,1,0.0,1,0,0,0,1,2,0,0,Matches
+48b28bfd,Jean-Eudes Aholou,ci CIV,MF,Strasbourg,29-009,1994,11.8,27,18,10,14,3,10,24,41.7,14,16,0,16,22,49,8,0,Matches
+462475ed,Ludovic Ajorque,fr FRA,FW,Strasbourg,29-032,1994,8.6,5,4,1,4,0,3,9,33.3,6,3,1,2,2,7,7,0,Matches
+b625b241,Maghnes Akliouche,fr FRA,"MF,FW",Monaco,21-032,2002,3.4,6,3,3,3,0,1,5,20.0,4,2,0,2,3,9,2,0,Matches
+9e17ccff,Doğan Alemdar,tr TUR,GK,Rennes,20-151,2002,2.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches
+1956b948,Jim Allevinah,ga GAB,"DF,FW",Clermont Foot,28-030,1995,18.4,33,21,18,11,4,16,51,31.4,35,21,1,20,15,48,17,1,Matches
+0a63446f,Mickaël Alphonse,gp GLP,DF,Ajaccio,33-260,1989,12.4,30,20,17,9,4,19,27,70.4,8,15,4,11,29,59,35,1,Matches
+9260926b,Ibrahim Amadou,fr FRA,"DF,MF",Angers,29-357,1993,4.7,10,7,6,3,1,7,10,70.0,3,7,3,4,10,20,20,0,Matches
+ae11ba3d,Ayoub Amraoui,ma MAR,"DF,FW",Nice,18-319,2004,2.6,4,3,2,2,0,2,5,40.0,3,1,0,1,4,8,4,0,Matches
+ef9c1c95,Benjamin André,fr FRA,MF,Lille,32-238,1990,24.5,96,52,36,48,12,50,98,51.0,48,43,7,36,31,127,48,0,Matches
+af3ddb2e,Komnen Andrić,rs SRB,FW,Clermont Foot,27-271,1995,15.3,13,5,2,7,4,2,15,13.3,13,7,1,6,8,21,11,0,Matches
+a5db0bec,Houssem Aouar,fr FRA,MF,Lyon,24-272,1998,4.9,9,4,3,4,2,3,5,60.0,2,10,1,9,6,15,3,0,Matches
+b94b8be1,Adil Aouchiche,fr FRA,"MF,FW",Lorient,20-257,2002,1.2,3,0,2,0,1,1,4,25.0,3,1,0,1,1,4,0,0,Matches
+feb5d3ab,Dennis Appiah,fr FRA,"DF,MF",Nantes,30-293,1992,8.8,21,11,14,7,0,10,27,37.0,17,13,5,8,10,31,16,0,Matches
+42f0113f,Stredair Appuah,fr FRA,MF,Nantes,18-275,2004,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+c5e6c017,Taïryk Arconte,fr FRA,FW,Brest,19-137,2003,1.4,1,1,0,0,1,0,3,0.0,3,1,0,1,0,1,2,0,Matches
+508a9011,Mohamed El Arouch,fr FRA,MF,Lyon,18-357,2004,0.0,1,1,1,0,0,0,0,,0,0,0,0,0,1,0,0,Matches
+b026bbf6,Lorenz Assignon,tg TOG,DF,Rennes,22-280,2000,2.2,6,2,4,2,0,2,4,50.0,2,4,0,4,2,8,3,0,Matches
+6a827d8e,Youcef Atal,dz ALG,"DF,MF",Nice,26-316,1996,7.1,34,19,16,14,4,21,27,77.8,6,6,0,6,11,45,11,0,Matches
+6b5edd5d,Valentin Atangana Edoa,fr FRA,MF,Reims,17-216,2005,0.0,2,1,0,0,2,1,1,100.0,0,0,0,0,0,2,0,0,Matches
+7dfbba27,Mathias Autret,fr FRA,"MF,FW",Auxerre,32-028,1991,14.0,22,10,10,10,2,7,16,43.8,9,13,2,11,12,34,12,0,Matches
+a94d93be,Cédric Avinel,gp GLP,DF,Ajaccio,36-199,1986,16.2,11,5,6,5,0,6,8,75.0,2,15,10,5,12,23,67,1,Matches
+114bbdee,Loïc Bade,fr FRA,DF,Rennes,22-352,2000,1.0,1,1,1,0,0,0,0,,0,0,0,0,1,2,3,0,Matches
+06df8256,Benoît Badiashile,fr FRA,DF,Monaco,22-003,2001,9.3,10,8,6,4,0,5,10,50.0,5,9,6,3,17,27,40,1,Matches
+a1232f4e,Eric Bailly,ci CIV,DF,Marseille,28-351,1994,4.8,10,8,4,5,1,6,6,100.0,0,14,11,3,11,21,14,0,Matches
+5065d67d,Dénys Bain,fr FRA,DF,Auxerre,29-270,1993,1.4,4,3,3,1,0,1,2,50.0,1,2,1,1,2,6,4,0,Matches
+7e3e825e,Brandon Baiye,be BEL,MF,Clermont Foot,22-092,2000,0.6,3,2,2,1,0,2,3,66.7,1,1,0,1,1,4,3,0,Matches
+0af4dcf0,Cédric Bakambu,cd COD,MF,Marseille,31-352,1991,0.7,2,1,2,0,0,2,2,100.0,0,0,0,0,0,2,0,0,Matches
+3975195f,Thierno Balde,fr FRA,DF,Troyes,20-292,2002,18.1,26,13,18,4,4,17,27,63.0,10,13,3,10,18,44,28,0,Matches
+a1390d2f,Carlos Baleba,cm CMR,MF,Lille,19-085,2004,3.2,11,10,1,8,2,8,11,72.7,3,11,2,9,1,12,2,2,Matches
+7c3ed041,Leonardo Balerdi,ar ARG,DF,Marseille,24-062,1999,22.9,40,26,28,10,2,22,33,66.7,11,41,26,15,48,88,71,0,Matches
+31822f8c,Folarin Balogun,eng ENG,FW,Reims,21-269,2001,23.5,6,3,0,4,2,1,12,8.3,11,17,1,16,2,8,12,0,Matches
+7fecbcdb,Abdoulaye Bamba,ci CIV,DF,Angers,32-338,1990,7.2,16,8,10,5,1,11,11,100.0,0,4,1,3,11,27,12,0,Matches
+b2bd0f6c,Jonathan Bamba,fr FRA,FW,Lille,27-003,1996,22.0,27,12,9,10,8,12,31,38.7,19,29,1,28,17,44,9,0,Matches
+a0d55a09,Bradley Barcola,fr FRA,"FW,MF",Lyon,20-208,2002,8.6,15,11,4,8,3,5,20,25.0,15,18,0,18,9,24,6,0,Matches
+1ddbc7ca,Melvin Bard,fr FRA,DF,Nice,22-143,2000,19.1,71,45,43,23,5,45,64,70.3,19,26,1,25,38,109,31,1,Matches
+3a24769f,Ross Barkley,eng ENG,"MF,FW",Nice,29-114,1993,7.8,10,5,4,2,4,5,9,55.6,4,6,1,5,4,14,5,0,Matches
+e3844ecb,Mickaël Barreto,fr FRA,MF,Ajaccio,32-070,1991,7.9,24,14,8,13,3,5,28,17.9,23,9,0,9,11,35,6,0,Matches
+20e0dd86,Cyrille Bayala,bf BFA,MF,Ajaccio,26-309,1996,18.2,47,34,14,17,16,20,38,52.6,18,20,3,17,21,68,13,0,Matches
+5e6355f8,Yanis Begraoui,fr FRA,"FW,MF",Toulouse,21-268,2001,0.7,2,0,1,0,1,1,2,50.0,1,0,0,0,1,3,0,0,Matches
+4a5e83ad,Alexis Beka Beka,fr FRA,"MF,DF",Nice,22-000,2001,4.3,10,4,5,5,0,2,10,20.0,8,6,1,5,10,20,2,0,Matches
+5680bf3f,Jérémie Bela,ao ANG,"DF,MF",Clermont Foot,29-355,1993,7.7,6,4,2,1,3,3,4,75.0,1,9,1,8,9,15,7,0,Matches
+705a1642,Reda Belahyane,fr FRA,MF,Nice,18-301,2004,0.1,1,0,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0,Matches
+1a248246,Youcef Belaïli,dz ALG,"MF,FW",Ajaccio,31-015,1992,12.1,15,9,2,7,6,7,19,36.8,12,10,1,9,5,20,4,0,Matches
+1a248246,Youcef Belaïli,dz ALG,"FW,MF",Brest,31-015,1992,4.0,5,2,3,2,0,2,7,28.6,5,2,0,2,1,6,1,0,Matches
+2b1bed19,Haris Belkebla,dz ALG,MF,Brest,29-060,1994,20.1,59,35,26,29,4,35,59,59.3,24,25,4,21,35,94,13,3,Matches
+10f0fdd3,Jean-Ricner Bellegarde,fr FRA,MF,Strasbourg,24-275,1998,18.0,31,17,13,13,5,6,15,40.0,9,15,2,13,22,53,18,0,Matches
+c678ddd7,Jeanöel Belocian,fr FRA,DF,Rennes,18-040,2005,1.1,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,4,0,Matches
+3bd65247,Eliesse Ben Seghir,fr FRA,"FW,MF",Monaco,18-041,2005,7.6,14,9,4,9,1,3,8,37.5,5,10,0,10,3,17,0,0,Matches
+1f6298f2,Salim Ben Seghir,fr FRA,MF,Marseille,20-033,2003,0.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+942b4f90,Wissam Ben Yedder,fr FRA,FW,Monaco,32-229,1990,16.3,10,6,2,2,6,3,10,30.0,7,13,0,13,4,14,0,0,Matches
+3189f61a,Nabil Bentaleb,dz ALG,MF,Angers,28-125,1994,21.2,64,36,28,31,5,31,47,66.0,16,27,8,19,38,102,24,3,Matches
+e4114f5d,Patrick Berg,no NOR,"MF,FW",Lens,25-125,1997,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
+0b2c9aec,Mitchell van Bergen,nl NED,"FW,DF",Reims,23-214,1999,8.5,14,6,5,6,3,6,18,33.3,12,6,2,4,5,19,8,0,Matches
+3916b09c,Quentin Bernard,fr FRA,DF,Auxerre,33-265,1989,7.0,9,7,4,2,3,7,15,46.7,8,9,1,8,15,24,17,0,Matches
+28dabd43,Paul Bernardoni,fr FRA,GK,Angers,25-345,1997,20.0,2,0,2,0,0,2,2,100.0,0,1,0,1,1,3,9,1,Matches
+433dc9a2,Juan Bernat,es ESP,DF,Paris S-G,30-028,1993,12.7,24,13,16,6,2,17,30,56.7,13,8,1,7,8,32,16,1,Matches
+03e91055,Jason Berthomier,fr FRA,MF,Clermont Foot,33-082,1990,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+47c609d5,El Bilal Touré,ml MLI,FW,Reims,21-177,2001,1.0,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0,Matches
+a3e1d20d,Jean-Claude Billong,cm CMR,MF,Clermont Foot,29-091,1993,0.3,0,0,0,0,0,0,0,,0,1,1,0,1,1,0,0,Matches
+636247ca,Veljko Birmančević,rs SRB,"FW,MF",Toulouse,25-024,1998,3.6,11,7,3,5,3,8,15,53.3,7,11,2,9,6,17,0,0,Matches
+3d214e5f,Marco Bizot,nl NED,GK,Brest,32-019,1991,27.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,18,4,Matches
+967f34d3,Rubén Blanco,es ESP,GK,Marseille,27-247,1995,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+6191093d,Ludovic Blas,fr FRA,"FW,MF",Nantes,25-088,1997,22.8,35,24,12,15,8,13,34,38.2,21,21,1,20,14,49,6,0,Matches
+3cdfc63e,Miha Blažič,si SVN,DF,Angers,29-325,1993,19.7,6,5,6,0,0,6,12,50.0,6,24,18,6,21,27,68,1,Matches
+6a9e4913,Joaquín Blázquez,ar ARG,GK,Brest,22-060,2001,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+5b479568,Myron Boadu,nl NED,FW,Monaco,22-074,2001,1.5,1,1,0,0,1,0,4,0.0,4,0,0,0,0,1,1,0,Matches
+2db2fd7b,Jérôme Boateng,de GER,DF,Lyon,34-207,1988,3.5,2,0,1,1,0,1,3,33.3,2,4,2,2,5,7,15,0,Matches
+7d937aa1,Antonin Bobichon,fr FRA,MF,Angers,27-196,1995,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+f6496133,Quentin Boisgard,fr FRA,MF,Lorient,26-012,1997,2.0,6,2,1,4,1,3,4,75.0,1,3,1,2,4,10,2,0,Matches
+9f936061,Neto Borges,br BRA,DF,Clermont Foot,26-197,1996,24.0,66,40,43,18,5,39,61,63.9,22,36,10,26,35,101,47,1,Matches
+c03b7266,Kenji-Van Boto,mg MAD,DF,Auxerre,27-022,1996,1.0,1,1,1,0,0,1,2,50.0,1,0,0,0,1,2,1,0,Matches
+65fcf987,Kouamé Botué,bf BFA,"FW,MF",Ajaccio,20-234,2002,2.5,4,2,2,1,1,0,2,0.0,2,1,0,1,0,4,1,0,Matches
+0400dd2f,Badredine Bouanani,dz ALG,"FW,MF",Nice,18-111,2004,3.7,3,2,1,1,1,2,6,33.3,4,2,0,2,0,3,0,0,Matches
+f9d5908e,Hicham Boudaoui,dz ALG,MF,Nice,23-187,1999,13.2,47,21,26,19,2,27,36,75.0,9,22,5,17,23,70,12,0,Matches
+4fb18ca4,Franci Bouebari,fr FRA,DF,Strasbourg,19-198,2003,0.8,3,0,1,2,0,3,5,60.0,2,0,0,0,2,5,2,0,Matches
+b0c71810,Sofiane Boufal,ma MAR,"FW,MF",Angers,29-193,1993,9.3,14,9,7,4,3,3,12,25.0,9,6,0,6,5,19,1,0,Matches
+62e02107,Ismaëlben Boura,fr FRA,"DF,FW",Lens,22-227,2000,1.0,6,4,4,2,0,5,6,83.3,1,2,1,1,2,8,3,0,Matches
+20e73fac,Benjamin Bourigeaud,fr FRA,"MF,FW",Rennes,29-074,1994,24.4,35,23,12,17,6,14,44,31.8,30,31,1,30,23,58,21,0,Matches
+02bcaf8e,Bilal Brahimi,dz ALG,"FW,MF",Nice,23-015,2000,6.1,4,2,1,2,1,0,3,0.0,3,3,0,3,3,7,0,0,Matches
+5b146df3,Lilian Brassier,fr FRA,DF,Brest,23-147,1999,24.4,29,17,23,4,2,15,24,62.5,9,30,14,16,43,72,99,0,Matches
+b088d5d3,Andreas Bruus,dk DEN,"DF,FW",Troyes,24-072,1999,14.1,11,5,8,3,0,8,13,61.5,5,11,1,10,16,27,14,0,Matches
+af69e7f0,Joe Bryan,eng ENG,"MF,DF",Nice,29-193,1993,1.8,5,4,3,2,0,4,4,100.0,0,2,0,2,1,6,1,0,Matches
+3b676989,Adam Buksa,pl POL,"FW,MF",Lens,26-260,1996,0.7,1,0,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
+7b082ec2,Maxime Busi,be BEL,DF,Reims,23-166,1999,7.1,16,12,8,7,1,10,17,58.8,7,8,3,5,8,24,15,0,Matches
+db87a2c4,Marcin Bułka,pl POL,GK,Nice,23-176,1999,2.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
+148e136f,Rémy Cabella,fr FRA,"MF,FW",Lille,33-021,1990,19.1,48,28,17,20,11,20,41,48.8,21,32,2,30,13,61,6,1,Matches
+46359159,Jimmy Cabot,fr FRA,"DF,MF",Lens,28-345,1994,5.7,20,12,10,8,2,12,26,46.2,14,5,0,5,4,24,12,0,Matches
+928a4a61,Jens Cajuste,se SWE,MF,Reims,23-231,1999,11.1,39,19,21,11,7,19,36,52.8,17,21,5,16,15,54,15,0,Matches
+94f8d10c,Duje Ćaleta-Car,hr CRO,DF,Marseille,26-193,1996,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+8577e60a,Mahdi Camara,fr FRA,MF,Brest,24-272,1998,16.0,45,26,11,31,3,18,30,60.0,12,35,4,31,29,74,14,0,Matches
+489e80e3,Mohamed Camara,ml MLI,MF,Monaco,23-082,2000,17.4,61,37,25,33,3,33,58,56.9,25,35,4,31,21,82,10,0,Matches
+5a6b06cd,Ousmane Camara,gn GUI,"FW,MF",Auxerre,21-146,2001,0.3,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
+7d3dfdfd,Ousmane Camara,fr FRA,DF,Angers,20-023,2003,4.6,7,4,3,4,0,4,9,44.4,5,4,2,2,9,16,14,0,Matches
+9f4a940f,Axel Camblan,fr FRA,"FW,MF",Brest,19-211,2003,0.8,2,2,1,1,0,0,1,0.0,1,0,0,0,0,2,0,0,Matches
+79b2399c,Pierrick Capelle,fr FRA,"MF,DF",Angers,35-348,1987,12.6,32,18,16,13,3,20,43,46.5,23,15,2,13,13,45,22,0,Matches
+f81ef10d,Maxence Caqueret,fr FRA,MF,Lyon,23-042,2000,21.9,65,35,19,27,19,35,83,42.2,48,31,2,29,22,87,18,0,Matches
+5e080f73,Irvin Cardona,fr FRA,"FW,MF",Brest,25-233,1997,2.6,2,0,1,1,0,0,3,0.0,3,3,0,3,2,4,2,0,Matches
+e3e32fbb,Igor Carioca,br BRA,DF,Lorient,26-220,1996,3.3,17,10,11,2,4,11,17,64.7,6,7,0,7,4,21,14,0,Matches
+8608f269,Matis Carvalho,pt POR,GK,Montpellier,23-335,1999,1.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+e0f3a1f6,Jean-Charles Castelletto,cm CMR,DF,Nantes,28-062,1995,19.5,32,19,23,7,2,16,26,61.5,10,24,14,10,43,75,62,0,Matches
+4db5915d,Yoann Cathline,fr FRA,"FW,MF",Lorient,20-250,2002,8.3,11,7,4,4,3,2,4,50.0,2,6,0,6,7,18,5,1,Matches
+c92c24f0,Maximiliano Caufriez,be BEL,DF,Clermont Foot,26-041,1997,15.4,20,11,15,5,0,13,18,72.2,5,23,11,12,24,44,53,0,Matches
+3c6bbbab,Fabien Centonze,fr FRA,DF,Nantes,27-072,1996,12.6,33,23,17,14,2,18,26,69.2,8,16,6,10,34,67,36,0,Matches
+f5dfc256,Leonardo César Jardim,br BRA,GK,Lille,28-009,1995,6.0,,0,,,,,,,,,,,0,,,,Matches
+5d9577aa,Florian Chabrolle,fr FRA,MF,Ajaccio,24-356,1998,3.6,6,4,1,5,0,2,3,66.7,1,3,0,3,6,12,1,0,Matches
+2180c761,El Chadaille Bitshiabu,fr FRA,DF,Paris S-G,17-317,2005,3.5,9,6,6,2,1,2,6,33.3,4,7,5,2,8,17,6,1,Matches
+357103bd,Fares Chaïbi,dz ALG,"FW,MF",Toulouse,20-121,2002,19.1,21,10,5,9,7,11,36,30.6,25,27,3,24,16,37,24,1,Matches
+18ebca4b,Gaëtan Charbonnier,fr FRA,"FW,MF",Auxerre,34-092,1988,2.8,2,1,0,2,0,0,4,0.0,4,2,0,2,0,2,5,0,Matches
+16aa7d4c,Brendan Chardonnet,fr FRA,DF,Brest,28-097,1994,17.7,29,17,18,11,0,12,22,54.5,10,26,11,15,39,68,51,1,Matches
+279ddf6a,Xavier Chavalerin,fr FRA,MF,Troyes,32-022,1991,20.3,65,39,27,26,12,25,61,41.0,36,21,5,16,32,97,13,0,Matches
+b34c63a5,Rayan Cherki,fr FRA,"MF,FW",Lyon,19-224,2003,12.5,11,6,1,4,6,6,13,46.2,7,3,0,3,4,15,0,0,Matches
+9d498560,Ilyes Cheti,dz ALG,DF,Angers,28-066,1995,2.3,6,4,4,0,2,5,8,62.5,3,5,1,4,4,10,7,0,Matches
+b3d76d84,Lucas Chevalier,fr FRA,GK,Lille,21-143,2001,22.0,1,1,1,0,0,1,1,100.0,0,1,0,1,2,3,5,2,Matches
+68a26d51,Pedro Chirivella,es ESP,MF,Nantes,25-310,1997,20.5,27,19,11,12,4,14,36,38.9,22,22,1,21,20,47,6,0,Matches
+7909ffa4,Joris Chotard,fr FRA,MF,Montpellier,21-186,2001,19.0,43,21,23,17,3,26,48,54.2,22,28,9,19,26,69,31,0,Matches
+7495aba7,Yanis Cimignani,fr FRA,"MF,DF",Ajaccio,21-066,2002,3.1,11,5,3,7,1,4,5,80.0,1,5,1,4,2,13,2,0,Matches
+ff4d0258,Souleymane Cissé,fr FRA,DF,Clermont Foot,20-233,2002,0.4,1,1,1,0,0,1,1,100.0,0,1,1,0,1,2,2,0,Matches
+741418c3,Alexis Claude-Maurice,fr FRA,FW,Nice,24-296,1998,0.7,3,2,2,1,0,3,3,100.0,0,0,0,0,2,5,1,0,Matches
+741418c3,Alexis Claude-Maurice,fr FRA,"MF,FW",Lens,24-296,1998,5.4,10,6,5,4,1,4,9,44.4,5,5,0,5,1,11,1,0,Matches
+5219ab4a,Jonathan Clauss,fr FRA,DF,Marseille,30-185,1992,19.7,29,18,10,13,6,12,31,38.7,19,18,2,16,22,51,28,2,Matches
+3010aefb,Marcus Coco,fr FRA,"DF,FW",Nantes,26-278,1996,3.6,11,5,5,2,4,3,9,33.3,6,8,3,5,8,19,4,0,Matches
+c4065f40,Alexandre Coeff,fr FRA,DF,Auxerre,31-037,1992,6.5,10,5,6,4,0,4,9,44.4,5,9,4,5,8,18,35,1,Matches
+cfa49cc1,Abdu Conté,pt POR,DF,Troyes,25-005,1998,13.1,22,14,13,6,3,11,20,55.0,9,12,6,6,6,28,23,0,Matches
+0e7ccfc4,Sébastien Corchia,fr FRA,"DF,MF",Nantes,32-148,1990,6.9,14,6,9,1,4,10,20,50.0,10,7,2,5,7,21,17,0,Matches
+59948ef7,David Pereira da Costa,pt POR,"MF,FW",Lens,22-083,2001,15.0,13,7,1,10,2,7,19,36.8,12,17,0,17,11,24,6,0,Matches
+bfb2056e,Logan Costa,cv CPV,"DF,MF",Toulouse,21-362,2001,0.6,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+909222de,Nuno da Costa,cv CPV,"FW,MF",Auxerre,32-047,1991,14.7,35,18,9,19,7,8,32,25.0,24,16,0,16,12,47,8,0,Matches
+2434f24a,Benoît Costil,fr FRA,GK,Auxerre,35-269,1987,19.0,2,0,2,0,0,2,4,50.0,2,0,0,0,0,2,5,0,Matches
+ef8ae23b,Mathieu Coutadeur,fr FRA,MF,Ajaccio,37-009,1986,14.9,18,11,10,8,0,6,14,42.9,8,11,1,10,13,31,14,0,Matches
+8f325097,Nicolas Cozza,fr FRA,DF,Montpellier,24-080,1999,14.2,38,21,27,9,2,26,36,72.2,10,11,5,6,21,59,35,1,Matches
+1ec7e1c5,Damien Da Silva,fr FRA,DF,Lyon,34-316,1988,3.8,8,7,5,3,0,3,3,100.0,0,4,3,1,5,13,12,0,Matches
+29c02c9f,Colin Dagba,fr FRA,DF,Strasbourg,24-201,1998,7.9,25,16,12,9,4,15,19,78.9,4,16,2,14,11,36,12,0,Matches
+b70afb45,Thijs Dallinga,nl NED,FW,Toulouse,22-238,2000,18.4,7,5,2,2,3,1,8,12.5,7,11,3,8,2,9,14,0,Matches
+7ef972c3,Flavius Daniliuc,at AUT,DF,Nice,21-336,2001,1.0,2,0,2,0,0,1,1,100.0,0,4,1,3,0,2,1,0,Matches
+6e33125f,Kevin Danso,at AUT,DF,Lens,24-191,1998,28.0,31,16,19,11,1,15,25,60.0,10,33,23,10,28,59,97,0,Matches
+fd2bc67d,Dante,br BRA,DF,Nice,39-162,1983,27.0,44,26,29,12,3,19,35,54.3,16,41,24,17,39,83,96,1,Matches
+5069b796,Achraf Dari,ma MAR,DF,Brest,23-327,1999,14.6,21,14,15,5,1,14,19,73.7,5,16,10,6,19,40,65,2,Matches
+ce50fd99,Jonathan David,ca CAN,FW,Lille,23-074,2000,25.4,16,11,4,7,5,7,18,38.9,11,16,2,14,6,22,12,0,Matches
+5fdcb075,Thibault De Smet,be BEL,DF,Reims,24-297,1998,13.8,22,16,8,14,0,11,29,37.9,18,22,4,18,15,37,32,0,Matches
+4ca4f601,Brecht Dejaegere,be BEL,MF,Toulouse,31-304,1991,17.9,35,21,8,17,10,14,45,31.1,31,22,5,17,13,48,10,0,Matches
+0be95d34,Romain Del Castillo,fr FRA,"FW,MF",Brest,27-000,1996,10.5,23,14,8,8,7,9,21,42.9,12,10,1,9,8,31,4,0,Matches
+8332db56,Thomas Delaine,fr FRA,DF,Strasbourg,31-005,1992,9.5,21,13,13,4,4,11,18,61.1,7,8,3,5,8,29,6,0,Matches
+e4448c8c,Sacha Delaye,fr FRA,"FW,MF",Montpellier,20-340,2002,0.2,1,0,0,0,1,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+d33c706e,Andy Delort,dz ALG,FW,Nice,31-171,1991,8.7,2,0,1,1,0,1,2,50.0,1,0,0,0,1,3,7,0,Matches
+d33c706e,Andy Delort,dz ALG,FW,Nantes,31-171,1991,2.3,2,1,1,1,0,0,1,0.0,1,1,0,1,0,2,0,0,Matches
+7304f3b1,Karamoko Dembele,sct SCO,"FW,MF",Brest,20-035,2003,1.8,2,0,1,1,0,2,2,100.0,0,0,0,0,1,3,0,0,Matches
+e7986081,Moussa Dembélé,fr FRA,"FW,MF",Lyon,26-260,1996,9.3,7,4,2,3,2,4,7,57.1,3,5,0,5,2,9,6,0,Matches
+11f54bd5,Siriki Dembélé,ci CIV,MF,Auxerre,26-203,1996,2.7,6,3,3,2,1,3,8,37.5,5,0,0,0,1,7,1,0,Matches
+99d660b2,Branco van den Boomen,nl NED,MF,Toulouse,27-251,1995,26.1,54,28,20,25,9,26,67,38.8,41,23,4,19,10,64,23,1,Matches
+477e50ce,Rémy Descamps,fr FRA,GK,Nantes,26-277,1996,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+1d5c96f8,Mikkel Desler,dk DEN,DF,Toulouse,28-038,1995,18.4,54,29,27,19,8,30,47,63.8,17,27,5,22,31,85,31,1,Matches
+1bfb6fef,Bafodé Diakité,fr FRA,DF,Lille,22-082,2001,21.8,43,29,19,18,6,24,43,55.8,19,27,5,22,12,55,45,0,Matches
+d8c19a60,Ibrahim Diakité,gn GUI,DF,Reims,19-149,2003,1.5,3,3,3,0,0,2,3,66.7,1,0,0,0,5,8,6,0,Matches
+fb55f63a,Baila Diallo,fr FRA,"DF,MF",Clermont Foot,21-278,2001,1.0,1,0,1,0,0,0,0,,0,1,1,0,0,1,1,0,Matches
+6605d143,Habib Diallo,sn SEN,FW,Strasbourg,27-284,1995,23.1,12,7,3,6,3,5,10,50.0,5,15,3,12,11,23,11,0,Matches
+b3244eeb,Ismael Diallo,ci CIV,DF,Ajaccio,26-059,1997,19.1,32,23,23,8,1,22,43,51.2,21,21,10,11,23,55,36,1,Matches
+6d0fe035,Mouhamadou Diarra,sn SEN,MF,Strasbourg,19-085,2004,10.0,17,12,8,7,2,12,18,66.7,6,12,1,11,9,26,10,0,Matches
+698f11e3,Moussa Diarra,ml MLI,DF,Toulouse,22-139,2000,11.6,19,9,9,8,2,8,14,57.1,6,21,7,14,17,36,22,1,Matches
+29939a1d,Stéphane Diarra,fr FRA,"FW,MF",Lorient,24-110,1998,11.0,22,15,12,8,2,11,28,39.3,17,13,1,12,20,42,8,0,Matches
+8104e41e,Krépin Diatta,sn SEN,"MF,FW",Monaco,24-032,1999,18.4,23,16,4,11,8,11,23,47.8,12,25,1,24,13,36,8,0,Matches
+f41a69e6,Mory Diaw,sn SEN,GK,Clermont Foot,29-280,1993,28.0,0,0,0,0,0,0,4,0.0,4,0,0,0,2,2,11,4,Matches
+40774c6b,Bamba Dieng,sn SEN,"FW,MF",Marseille,23-006,2000,2.2,4,4,2,1,1,3,4,75.0,1,5,1,4,0,4,0,0,Matches
+40774c6b,Bamba Dieng,sn SEN,FW,Lorient,23-006,2000,4.8,14,7,3,10,1,2,7,28.6,5,3,0,3,2,16,3,0,Matches
+92b56413,Tristan Dingomé,cm CMR,MF,Troyes,32-040,1991,1.1,1,1,0,1,0,0,2,0.0,2,0,0,0,0,1,0,0,Matches
+6de23ab0,Sinaly Diomande,ci CIV,DF,Lyon,21-354,2001,14.4,28,14,15,12,1,19,28,67.9,9,16,9,7,32,60,52,1,Matches
+4be0b467,Lois Diony,fr FRA,FW,Angers,30-099,1992,4.9,1,0,0,1,0,1,3,33.3,2,2,0,2,0,1,1,0,Matches
+37143438,Edan Diop,fr FRA,DF,Monaco,18-213,2004,0.7,3,1,0,1,2,2,2,100.0,0,3,0,3,1,4,0,0,Matches
+19053e31,Sofiane Diop,fr FRA,"MF,FW",Nice,22-293,2000,11.2,18,10,8,6,4,6,15,40.0,9,13,2,11,11,29,4,0,Matches
+19053e31,Sofiane Diop,fr FRA,MF,Monaco,22-293,2000,0.7,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+eedea60b,Yehvann Diouf,fr FRA,GK,Reims,23-133,1999,21.0,1,0,1,0,0,1,3,33.3,2,0,0,0,1,2,10,4,Matches
+ad82197c,Axel Disasi,fr FRA,DF,Monaco,25-018,1998,27.0,25,17,11,10,4,13,25,52.0,12,40,24,16,45,70,86,1,Matches
+b2336681,Tiago Djaló,pt POR,DF,Lille,22-354,2000,22.4,31,21,23,7,1,13,20,65.0,7,17,11,6,23,54,60,1,Matches
+43e7a164,Alexander Djiku,gh GHA,DF,Strasbourg,28-232,1994,24.0,46,29,31,15,0,22,38,57.9,16,36,13,23,53,99,115,3,Matches
+627b570a,Moussa Djitte,sn SEN,FW,Ajaccio,23-176,1999,1.5,1,0,0,0,1,1,2,50.0,1,0,0,0,0,1,1,0,Matches
+1bd5bdc4,Alan Do Marcolino,ga GAB,FW,Rennes,21-010,2002,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+fffea3e5,Jeremy Doku,be BEL,"MF,FW",Rennes,20-306,2002,6.7,13,10,4,5,4,8,15,53.3,7,6,0,6,4,17,2,0,Matches
+836dc4a8,Kyliane Dong,fr FRA,"DF,MF",Troyes,18-183,2004,0.6,2,1,0,1,1,1,1,100.0,0,0,0,0,0,2,0,0,Matches
+1b5b32d2,Jordan Dongmo,cm CMR,MF,Troyes,22-058,2001,0.2,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+08f5afaa,Gianluigi Donnarumma,it ITA,GK,Paris S-G,24-032,1999,28.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,8,2,Matches
+a1dbfcb1,Jodel Dossou,bj BEN,"MF,DF",Clermont Foot,31-012,1992,2.9,7,4,3,2,2,4,4,100.0,0,2,1,1,1,8,0,0,Matches
+dff0c299,Lohann Doucet,fr FRA,"MF,FW",Nantes,20-196,2002,1.0,3,0,2,0,1,3,4,75.0,1,2,0,2,2,5,4,0,Matches
+92d90c8f,Ckene Doucouré,km COM,"FW,MF",Lorient,20-355,2002,1.0,2,2,2,0,0,1,1,100.0,0,0,0,0,1,3,0,0,Matches
+9e7483ff,Désiré Doué,fr FRA,"MF,FW",Rennes,17-299,2005,11.1,35,18,10,21,4,12,26,46.2,14,15,1,14,12,47,2,0,Matches
+b4ef3fb5,Guela Doué,fr FRA,FW,Rennes,20-163,2002,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+0512a60a,Ismaël Doukouré,fr FRA,DF,Strasbourg,19-248,2003,16.3,30,12,15,13,2,13,21,61.9,8,15,5,10,18,48,34,0,Matches
+9226aa22,Kamory Doumbia,ml MLI,MF,Reims,20-039,2003,10.1,22,11,6,10,6,9,26,34.6,17,12,1,11,12,34,1,0,Matches
+9daeac61,Souleyman Doumbia,ci CIV,"DF,FW",Angers,26-186,1996,19.0,43,29,29,13,1,17,30,56.7,13,19,2,17,26,69,26,1,Matches
+6d7ede84,Rémy Dugimont,fr FRA,"FW,MF",Auxerre,36-271,1986,1.2,2,1,0,1,1,1,2,50.0,1,3,0,3,0,2,5,0,Matches
+0e12089d,Maxime Dupé,fr FRA,GK,Toulouse,30-025,1993,28.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,6,3,Matches
+0cbc8baa,Jean-Kevin Duverne,fr FRA,DF,Brest,25-260,1997,19.4,52,30,34,14,4,32,51,62.7,19,25,5,20,18,70,47,0,Matches
+5b92d896,Hugo Ekitike,fr FRA,FW,Paris S-G,20-282,2002,9.2,10,4,1,8,1,4,12,33.3,8,11,0,11,4,14,2,0,Matches
+104b4ad3,Alberth Elis,hn HON,"MF,FW",Brest,27-045,1996,2.7,4,3,1,2,1,1,7,14.3,6,1,0,1,1,5,2,0,Matches
+0d7b6576,Sepe Elye Wahi,fr FRA,FW,Montpellier,20-086,2003,20.3,7,3,2,3,2,3,7,42.9,4,10,2,8,3,10,4,0,Matches
+0b4f388a,Breel Embolo,ch SUI,FW,Monaco,26-043,1997,19.5,15,9,2,7,6,5,9,55.6,4,13,3,10,5,20,12,0,Matches
+1a066e69,Maxime Estève,fr FRA,DF,Montpellier,20-307,2002,15.1,23,12,16,5,2,12,16,75.0,4,25,15,10,31,54,73,0,Matches
+bc7b4580,Fábio,br BRA,"DF,MF",Nantes,32-263,1990,2.5,4,2,1,2,1,4,6,66.7,2,2,0,2,3,7,11,0,Matches
+83f03b07,Noah Fadiga,sn SEN,DF,Brest,23-116,1999,13.3,27,19,16,8,3,13,24,54.2,11,13,6,7,24,51,18,0,Matches
+9c221d14,Wout Faes,be BEL,DF,Reims,24-360,1998,3.0,1,1,1,0,0,1,2,50.0,1,6,3,3,7,8,19,0,Matches
+745ca0a3,Romain Faivre,fr FRA,"FW,MF",Lorient,24-258,1998,5.2,8,4,2,3,3,2,7,28.6,5,5,0,5,0,8,3,0,Matches
+745ca0a3,Romain Faivre,fr FRA,MF,Lyon,24-258,1998,3.3,6,3,2,2,2,1,3,33.3,2,3,0,3,0,6,0,0,Matches
+faf00ab8,Khalil Fayad,fr FRA,MF,Montpellier,18-293,2004,6.0,29,14,11,16,2,12,18,66.7,6,6,1,5,6,35,4,0,Matches
+4b792f35,Cheikh Faye,sn SEN,FW,Montpellier,24-061,1999,0.4,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+375622c5,Jordan Ferri,fr FRA,MF,Montpellier,31-017,1992,22.6,46,30,27,15,4,25,63,39.7,38,17,6,11,19,65,14,0,Matches
+50ac8941,Karol Fila,pl POL,DF,Strasbourg,24-289,1998,0.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches
+caef7840,Alexis Flips,fr FRA,"FW,DF",Reims,23-070,2000,15.6,32,17,10,13,9,14,42,33.3,28,29,5,24,22,54,10,0,Matches
+5313ed43,Seko Fofana,ci CIV,MF,Lens,27-326,1995,25.1,21,8,5,15,1,9,26,34.6,17,12,3,9,18,39,9,0,Matches
+9d420dad,Yahia Fofana,fr FRA,GK,Angers,22-220,2000,8.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,1,Matches
+822d51d7,Youssouf Fofana,fr FRA,MF,Monaco,24-078,1999,25.4,64,31,26,33,5,31,59,52.5,28,34,3,31,33,97,27,0,Matches
+90eb507d,Thomas Foket,be BEL,DF,Reims,28-185,1994,12.9,25,17,12,8,5,12,25,48.0,13,14,6,8,21,46,14,2,Matches
+90f87966,José Fonte,pt POR,DF,Lille,39-097,1983,20.8,21,16,18,2,1,10,19,52.6,9,21,11,10,19,40,82,2,Matches
+574aa9ec,Steven Fortes,cv CPV,DF,Lens,30-346,1992,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+00a8d210,Przemysław Frankowski,pl POL,"DF,MF",Lens,27-351,1995,22.7,59,38,27,25,7,31,59,52.5,28,24,4,20,33,92,30,2,Matches
+4b96c347,Angelo Fulgini,fr FRA,"MF,FW",Lens,26-221,1996,4.6,6,2,1,1,4,2,7,28.6,5,5,0,5,4,10,1,0,Matches
+db3164e1,Gauthier Gallon,fr FRA,GK,Troyes,29-340,1993,21.0,2,2,2,0,0,2,3,66.7,1,0,0,0,2,4,14,0,Matches
+42276181,Kévin Gameiro,fr FRA,FW,Strasbourg,35-324,1987,20.7,17,8,4,10,3,7,20,35.0,13,9,1,8,8,25,0,0,Matches
+23c63b7f,Ignatius Ganago,cm CMR,FW,Nantes,24-041,1999,12.7,8,6,2,2,4,4,7,57.1,3,10,0,10,1,9,10,0,Matches
+23c63b7f,Ignatius Ganago,cm CMR,FW,Lens,24-041,1999,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+868eaba0,Johan Gastien,fr FRA,MF,Clermont Foot,35-063,1988,18.9,40,23,20,17,3,25,69,36.2,44,24,6,18,23,63,20,1,Matches
+badcdcae,Denis Genreau,au AUS,MF,Toulouse,23-312,1999,1.7,14,6,5,6,3,3,8,37.5,5,6,0,6,3,17,5,0,Matches
+ea0ff634,Valère Germain,fr FRA,"FW,MF",Montpellier,32-346,1990,7.1,9,8,1,3,5,3,10,30.0,7,8,0,8,6,15,11,0,Matches
+8827bf46,Gerson,br BRA,MF,Marseille,25-313,1997,4.6,6,4,1,4,1,3,5,60.0,2,5,0,5,2,8,4,0,Matches
+5b3cfa12,Ismaël Gharbi,es ESP,"MF,FW",Paris S-G,18-353,2004,0.5,0,0,0,0,0,0,2,0.0,2,1,0,1,3,3,0,0,Matches
+c5adc293,Faouzi Ghoulam,dz ALG,DF,Angers,32-056,1991,3.0,1,1,0,0,1,1,3,33.3,2,3,1,2,4,5,6,0,Matches
+41eebdf5,Samuel Gigot,fr FRA,DF,Marseille,29-168,1993,15.5,29,16,16,11,2,6,9,66.7,3,21,7,14,39,68,63,1,Matches
+3befc2b6,Andrei Girotto,br BRA,"DF,MF",Nantes,31-040,1992,26.8,96,58,60,31,5,58,102,56.9,44,43,17,26,61,157,141,1,Matches
+3708e9fa,Aleksandr Golovin,ru RUS,"MF,FW",Monaco,26-303,1996,20.9,48,27,13,26,9,21,55,38.2,34,23,0,23,28,76,10,0,Matches
+1961b2aa,André Gomes,pt POR,MF,Lille,29-242,1993,13.5,28,16,8,14,6,14,41,34.1,27,18,5,13,9,37,15,1,Matches
+645a3363,Angel Gomes,eng ENG,MF,Lille,22-210,2000,23.5,32,17,9,15,8,14,38,36.8,24,17,2,15,10,42,10,1,Matches
+b8c1de25,Maxime Gonalons,fr FRA,MF,Clermont Foot,34-019,1989,9.5,26,15,10,14,2,9,24,37.5,15,9,1,8,11,37,5,1,Matches
+a9d4c241,Oumar Gonzalez,cm CMR,DF,Ajaccio,25-032,1998,20.6,38,19,24,11,3,19,28,67.9,9,24,9,15,37,75,51,0,Matches
+aad56ca3,Amine Gouiri,fr FRA,"FW,MF",Nice,23-041,2000,2.5,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,3,0,Matches
+aad56ca3,Amine Gouiri,fr FRA,FW,Rennes,23-041,2000,18.9,23,13,7,7,9,4,15,26.7,11,12,0,12,6,29,5,0,Matches
+06c48679,Jonathan Gradit,fr FRA,DF,Lens,30-125,1992,21.4,33,21,13,14,6,15,29,51.7,14,21,12,9,29,62,52,0,Matches
+49136c42,Andrew Gravillon,gp GLP,DF,Reims,25-049,1998,11.5,16,8,9,6,1,8,13,61.5,5,18,9,9,21,37,36,0,Matches
+4a987ffa,Adrian Grbić,at AUT,"MF,FW",Lorient,26-237,1996,0.3,0,0,0,0,0,0,1,0.0,1,3,0,3,0,0,0,0,Matches
+d5d22a58,Gabriel Gudmundsson,se SWE,"DF,FW",Lille,23-334,1999,4.8,11,8,5,5,1,7,13,53.8,6,7,2,5,7,18,8,0,Matches
+f6857b4f,Axel Gueguin,fr FRA,"FW,MF",Montpellier,18-005,2005,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+5ea8ef20,Mattéo Guendouzi,fr FRA,MF,Marseille,23-349,1999,19.1,32,16,8,17,7,11,30,36.7,19,10,4,6,20,52,13,0,Matches
+b73f17f8,Evann Guessand,fr FRA,"FW,MF",Nantes,21-271,2001,12.4,20,14,8,10,2,6,12,50.0,6,15,1,14,6,26,5,0,Matches
+7155e3e1,Pape Gueye,sn SEN,"MF,DF",Marseille,24-064,1999,5.5,18,7,10,7,1,7,15,46.7,8,9,2,7,9,27,2,0,Matches
+5d8d7454,Frederic Guilbert,fr FRA,DF,Strasbourg,28-095,1994,6.6,17,11,8,6,3,10,17,58.8,7,8,1,7,17,34,14,1,Matches
+923f4dda,Sehrou Guirassy,gn GUI,MF,Rennes,27-017,1996,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+7091324a,Rafik Guitane,fr FRA,FW,Reims,23-307,1999,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+d56b9520,Malo Gusto,fr FRA,DF,Lyon,19-314,2003,16.0,34,21,17,10,7,15,32,46.9,17,21,4,17,24,58,21,1,Matches
+576817b7,Jaouen Hadjam,dz ALG,DF,Nantes,20-003,2003,7.1,21,16,10,8,3,12,21,57.1,9,8,2,6,9,30,11,0,Matches
+5167c97e,Massadio Haïdara,ml MLI,"DF,MF",Lens,30-117,1992,14.8,21,14,8,8,5,9,17,52.9,8,22,7,15,29,50,28,0,Matches
+e42d61c7,Achraf Hakimi,ma MAR,"DF,MF",Paris S-G,24-145,1998,16.8,40,24,14,16,10,23,38,60.5,15,25,1,24,9,49,9,0,Matches
+a94571f6,Mathis Hamdi,fr FRA,DF,Troyes,19-162,2003,0.8,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,1,0,Matches
+0b4d8274,Romain Hamouma,fr FRA,"FW,MF",Ajaccio,36-000,1987,9.5,6,2,2,2,2,2,4,50.0,2,4,0,4,2,8,1,0,Matches
+52cd0e88,Saïd Hamulic,nl NED,FW,Toulouse,22-137,2000,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+e7d59f4f,Amine Harit,ma MAR,"MF,FW",Marseille,25-284,1997,5.7,6,4,0,3,3,3,7,42.9,4,4,1,3,4,10,6,0,Matches
+07ace8c3,Rhys Healey,wls WAL,FW,Toulouse,28-113,1994,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+563fcd6b,Gauthier Hein,fr FRA,"MF,FW",Auxerre,26-234,1996,12.6,18,13,10,6,2,12,28,42.9,16,8,0,8,6,24,5,0,Matches
+f28474a4,Henrique,br BRA,DF,Lyon,28-338,1994,1.5,4,1,1,0,3,3,5,60.0,2,1,0,1,1,5,2,0,Matches
+3681cfff,Christophe Hérelle,mq MTQ,DF,Brest,30-219,1992,11.8,10,4,7,2,1,4,13,30.8,9,16,11,5,20,30,48,0,Matches
+61b77d0a,Noah Holm,no NOR,"FW,MF",Reims,21-310,2001,2.2,6,4,2,2,2,2,5,40.0,3,0,0,0,0,6,5,0,Matches
+db7849ca,Franck Honorat,fr FRA,"FW,MF",Brest,26-230,1996,22.1,31,21,17,6,8,15,29,51.7,14,18,1,17,18,49,14,0,Matches
+00891164,Cédric Hountondji,bj BEN,DF,Angers,29-069,1994,27.2,38,27,21,15,2,13,20,65.0,7,33,18,15,41,79,94,0,Matches
+910e3cad,Ilyes Housni,fr FRA,FW,Paris S-G,17-319,2005,0.1,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+d14229f3,Adrien Hunou,fr FRA,"FW,MF",Angers,29-069,1994,19.6,34,18,16,13,5,13,32,40.6,19,26,0,26,3,37,7,0,Matches
+fb0ee44e,Mounaim El Idrissy,fr FRA,FW,Ajaccio,24-047,1999,21.4,26,17,4,15,7,10,26,38.5,16,12,0,12,11,37,16,0,Matches
+c9f49454,Rareş Ilie,ro ROU,"MF,FW",Nice,19-344,2003,1.6,3,3,0,1,2,2,4,50.0,2,2,0,2,1,4,1,0,Matches
+546bb36e,Bonke Innocent,ng NGA,MF,Lorient,27-068,1996,10.2,25,14,13,11,1,10,28,35.7,18,17,4,13,18,43,24,0,Matches
+cf182add,Ismaily,br BRA,DF,Lille,33-077,1990,16.1,38,16,14,15,9,15,26,57.7,11,21,4,17,17,55,29,0,Matches
+dbd3a428,Junya Ito,jp JPN,FW,Reims,30-020,1993,22.7,32,17,12,11,9,13,43,30.2,30,23,1,22,7,39,3,0,Matches
+a0415710,Ismail Jakobs,sn SEN,"DF,MF",Monaco,23-224,1999,7.2,5,2,3,2,0,2,6,33.3,4,4,1,3,4,9,7,0,Matches
+96f4ebc0,Marin Jakoliš,hr CRO,FW,Angers,26-093,1996,0.3,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
+eeba07f8,Luis Javier Suárez,co COL,FW,Marseille,25-117,1997,3.3,4,1,1,2,1,1,3,33.3,2,1,0,1,3,7,6,0,Matches
+300ec91c,Dany Jean,ht HAI,"DF,MF",Strasbourg,20-121,2002,0.1,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches
+5cb215fc,Julian Jeanvier,gn GUI,DF,Auxerre,30-363,1992,13.8,25,11,20,5,0,10,15,66.7,5,14,12,2,17,42,61,1,Matches
+45cce300,Jefferson,br BRA,FW,Lyon,23-089,1999,0.6,1,0,0,1,0,1,2,50.0,1,2,0,2,1,2,0,0,Matches
+5b4bc323,Paul Joly,fr FRA,DF,Auxerre,22-295,2000,9.6,33,21,21,10,2,19,35,54.3,16,13,2,11,24,57,29,2,Matches
+56ae428b,Jubal,br BRA,DF,Auxerre,29-212,1993,25.7,28,16,19,8,1,15,22,68.2,7,37,24,13,42,70,137,0,Matches
+f323d995,Christopher Jullien,fr FRA,DF,Montpellier,30-007,1993,21.9,39,24,25,12,2,23,39,59.0,16,27,14,13,27,66,88,1,Matches
+c066d1a5,Issa Kaboré,bf BFA,DF,Marseille,21-321,2001,6.8,18,13,8,9,1,13,20,65.0,7,9,1,8,7,25,14,1,Matches
+32f3d97e,Abdoul Kader Bamba,fr FRA,"FW,MF",Nantes,28-308,1994,0.9,0,0,0,0,0,0,2,0.0,2,3,1,2,0,0,1,0,Matches
+5b1bf5e3,Gaël Kakuta,cd COD,FW,Lens,31-281,1991,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+bf4c41f9,Arnaud Kalimuendo,fr FRA,FW,Rennes,21-068,2002,15.2,11,5,2,4,5,3,13,23.1,10,14,1,13,2,13,7,0,Matches
+dd211559,Gedeon Kalulu,cd COD,DF,Lorient,25-212,1997,22.0,54,30,36,11,7,26,41,63.4,15,27,2,25,27,81,61,1,Matches
+a426a912,Waren Kamanzi,no NOR,DF,Toulouse,22-138,2000,2.0,3,1,2,0,1,2,3,66.7,1,3,2,1,4,7,2,0,Matches
+3814120d,Bingourou Kamara,sn SEN,GK,Montpellier,26-159,1996,4.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+c5908bc4,Nordine Kandil,fr FRA,"MF,FW",Strasbourg,21-149,2001,0.9,3,2,1,2,0,0,2,0.0,2,2,0,2,1,4,0,0,Matches
+c43a8336,Kévin Keben Biakolo,cm CMR,DF,Toulouse,19-062,2004,3.4,3,2,2,0,1,0,1,0.0,1,1,0,1,4,7,8,0,Matches
+c9f2f83a,Check Keita,fr FRA,DF,Reims,19-361,2003,5.9,5,3,3,2,0,1,5,20.0,4,4,3,1,4,9,21,1,Matches
+796b1c41,Saîf-Eddine Khaoui,tn TUN,MF,Clermont Foot,27-336,1995,18.6,38,21,13,20,5,12,34,35.3,22,16,2,14,27,65,5,0,Matches
+2677a1de,Wahbi Khazri,tn TUN,"FW,MF",Montpellier,32-049,1991,12.5,16,9,6,7,3,3,14,21.4,11,10,1,9,8,24,10,0,Matches
+3670aa71,Anthony Khelifa,fr FRA,DF,Ajaccio,17-190,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+aef6e670,Presnel Kimpembe,fr FRA,DF,Paris S-G,27-228,1995,8.1,17,8,9,6,2,9,13,69.2,4,12,7,5,13,30,9,1,Matches
+3935e52e,Sead Kolašinac,ba BIH,DF,Marseille,29-282,1993,15.5,38,28,22,13,3,17,24,70.8,7,16,2,14,28,66,22,0,Matches
+1361e5bc,Cheick Konaté,ci CIV,DF,Clermont Foot,19-026,2004,5.0,16,9,8,6,2,12,18,66.7,6,6,0,6,11,27,7,0,Matches
+04bb2b06,Ibrahima Koné,ml MLI,FW,Lorient,23-286,1999,10.8,8,4,2,5,1,3,7,42.9,4,7,0,7,3,11,9,0,Matches
+e6eadfb8,Youssouf Koné,ml MLI,DF,Ajaccio,27-267,1995,5.8,20,13,17,3,0,10,15,66.7,5,6,2,4,8,28,19,1,Matches
+86a2ba20,Rominigue Kouamé,ml MLI,MF,Troyes,26-102,1996,21.5,31,21,22,7,2,11,24,45.8,13,25,8,17,39,70,31,0,Matches
+562a4799,Boubakar Kouyaté,ml MLI,DF,Montpellier,25-348,1997,7.8,13,7,6,5,2,10,15,66.7,5,7,4,3,22,35,36,1,Matches
+c385bf49,Sael Kumbedi,fr FRA,DF,Lyon,18-003,2005,7.9,24,13,14,6,4,8,14,57.1,6,13,5,8,5,29,11,0,Matches
+397ba086,Grejohn Kyei,fr FRA,FW,Clermont Foot,27-229,1995,15.6,10,3,1,7,2,2,5,40.0,3,8,2,6,3,13,12,0,Matches
+c90f380c,Rémy Labeau Lascary,gp GLP,"FW,MF",Lens,20-026,2003,1.3,4,2,4,0,0,0,0,,0,4,0,4,0,4,0,0,Matches
+7cdda3bf,Gaëtan Laborde,fr FRA,FW,Nice,28-330,1994,19.3,29,15,8,14,7,12,23,52.2,11,19,2,17,7,36,11,0,Matches
+7cdda3bf,Gaëtan Laborde,fr FRA,FW,Rennes,28-330,1994,2.8,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,1,0,Matches
+9dbb75ca,Alexandre Lacazette,fr FRA,FW,Lyon,31-305,1991,22.8,35,19,7,13,15,9,24,37.5,15,17,0,17,13,48,4,0,Matches
+eb0db257,Qazim Laçi,al ALB,MF,Ajaccio,27-069,1996,2.4,6,3,2,3,1,4,9,44.4,5,5,0,5,2,8,3,0,Matches
+4e7db402,Alban Lafont,fr FRA,GK,Nantes,24-065,1999,27.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,14,2,Matches
+770d7eb8,Kenny Lala,fr FRA,DF,Brest,31-177,1991,6.7,16,7,13,3,0,12,22,54.5,10,6,3,3,11,27,16,0,Matches
+01870104,Mohamed Lamine Bayo,gn GUI,"FW,MF",Lille,24-298,1998,5.4,2,2,0,1,1,0,11,0.0,11,1,1,0,0,2,1,0,Matches
+f066022d,Julien Laporte,fr FRA,DF,Lorient,29-145,1993,17.1,21,15,17,3,1,16,22,72.7,6,29,25,4,18,39,108,2,Matches
+0ed063d6,Yasser Larouci,dz ALG,"DF,FW",Troyes,22-087,2001,13.2,13,8,8,4,1,6,8,75.0,2,10,1,9,17,30,24,0,Matches
+2d22cea7,Armand Lauriente,fr FRA,FW,Lorient,24-115,1998,3.0,8,7,3,4,1,3,7,42.9,4,5,1,4,4,12,1,0,Matches
+afe39ca8,Théo Le Bris,fr FRA,"MF,DF",Lorient,20-179,2002,13.1,25,15,14,9,2,13,30,43.3,17,18,1,17,14,39,17,0,Matches
+547a72ad,Julien Le Cardinal,fr FRA,DF,Lens,25-238,1997,1.6,6,4,5,0,1,4,6,66.7,2,3,0,3,2,8,4,0,Matches
+88c4d190,Jérémy Le Douaron,fr FRA,"FW,MF",Brest,24-342,1998,14.4,10,6,3,6,1,1,19,5.3,18,17,2,15,6,16,24,0,Matches
+6f806d99,Enzo Le Fée,fr FRA,MF,Lorient,23-054,2000,26.9,92,55,45,35,12,35,95,36.8,60,43,5,38,28,120,34,1,Matches
+2321ea6e,Vincent Le Goff,fr FRA,DF,Lorient,33-165,1989,27.0,53,24,39,12,2,34,47,72.3,13,20,5,15,31,84,81,1,Matches
+321a71a7,Maxime Le Marchand,fr FRA,DF,Strasbourg,33-169,1989,17.4,36,23,22,12,2,17,26,65.4,9,20,12,8,29,65,61,0,Matches
+5bf26efc,Paolo Lebas,pt POR,MF,Ajaccio,19-343,2003,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+2fa2a875,Benjamin Lecomte,fr FRA,GK,Montpellier,31-337,1991,9.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,2,0,Matches
+f5044e54,Pierre Lees-Melou,fr FRA,MF,Brest,29-308,1993,21.7,60,37,31,26,3,32,76,42.1,44,35,8,27,41,101,31,1,Matches
+8ca9415f,Félix Lemaréchal,ci CIV,MF,Brest,19-234,2003,1.6,3,3,2,0,1,0,2,0.0,2,4,0,4,1,4,2,0,Matches
+2b471f99,Mario Lemina,ga GAB,"MF,DF",Nice,29-209,1993,9.3,32,21,11,14,7,12,18,66.7,6,13,5,8,11,43,20,0,Matches
+1e52971c,Johann Lepenant,fr FRA,MF,Lyon,20-158,2002,17.5,50,28,22,21,7,29,61,47.5,32,26,5,21,23,73,12,1,Matches
+1e7aea56,Benjamin Leroy,fr FRA,GK,Ajaccio,33-356,1989,24.1,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,10,2,Matches
+fcc84a07,Léo Leroy,fr FRA,MF,Montpellier,23-043,2000,9.1,39,27,16,21,2,25,41,61.0,16,20,2,18,8,47,4,0,Matches
+17e25e72,Ruan Levine,br BRA,MF,Ajaccio,24-069,1999,0.3,1,1,0,1,0,0,0,,0,1,0,1,2,3,0,0,Matches
+f7691f63,Dimitri Liénard,fr FRA,"DF,MF",Strasbourg,35-044,1988,16.3,43,27,19,17,7,32,53,60.4,21,26,4,22,13,56,23,0,Matches
+fd78b105,Mateusz Lis,pl POL,GK,Troyes,26-030,1997,7.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,3,0,Matches
+40221fa7,Banzouzi Locko,fr FRA,DF,Reims,20-327,2002,11.8,32,16,22,4,6,16,27,59.3,11,17,4,13,20,52,21,0,Matches
+40221fa7,Banzouzi Locko,fr FRA,DF,Brest,20-327,2002,1.5,3,2,2,1,0,2,2,100.0,0,1,0,1,1,4,6,0,Matches
+f00de885,Anthony Lopes,pt POR,GK,Lyon,32-179,1990,21.3,1,0,1,0,0,1,2,50.0,1,0,0,0,2,3,8,0,Matches
+7c2965bb,Rony Lopes,pt POR,"MF,FW",Troyes,27-091,1995,19.2,18,10,5,11,2,6,26,23.1,20,10,2,8,5,23,7,0,Matches
+20b9f052,Pau López,es ESP,GK,Marseille,28-106,1994,24.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,1,Matches
+64c14d49,Dion Lopy,sn SEN,MF,Reims,21-055,2002,12.9,37,20,19,13,5,22,54,40.7,32,26,3,23,21,58,18,0,Matches
+fc4cf6a7,Jordan Lotomba,ch SUI,DF,Nice,24-181,1998,21.5,48,30,26,18,4,26,36,72.2,10,32,8,24,26,74,41,0,Matches
+1a2935f6,Dejan Lovren,hr CRO,DF,Lyon,33-267,1989,10.7,16,14,15,1,0,12,18,66.7,6,9,7,2,15,31,47,1,Matches
+a99138af,Jean Lucas,br BRA,MF,Monaco,24-280,1998,3.2,9,5,3,5,1,6,12,50.0,6,2,1,1,4,13,2,0,Matches
+5b9512c5,Castello Lukeba,fr FRA,DF,Lyon,20-102,2002,24.2,25,16,15,6,4,13,17,76.5,4,30,17,13,46,71,59,0,Matches
+e05082d1,Youssouf M'Changama,km COM,MF,Auxerre,32-212,1990,7.2,15,7,5,9,1,4,9,44.4,5,4,0,4,7,22,3,1,Matches
+b3f8bdef,Deiver Machado,co COL,"DF,MF",Lens,29-208,1993,18.7,42,25,15,20,7,18,31,58.1,13,16,4,12,16,58,22,0,Matches
+dfc5d4fa,Soungoutou Magassa,ml MLI,MF,Monaco,19-172,2003,0.8,3,1,2,1,0,1,2,50.0,1,2,0,2,1,4,1,0,Matches
+d4d35152,Hugo Magnetti,fr FRA,MF,Brest,24-303,1998,15.3,38,24,16,21,1,21,52,40.4,31,17,1,16,20,58,12,0,Matches
+caa7aaea,Yohann Magnin,fr FRA,MF,Clermont Foot,25-281,1997,22.7,73,45,27,39,7,42,85,49.4,43,43,10,33,21,94,42,0,Matches
+fc46aab1,Lovro Majer,hr CRO,"MF,FW",Rennes,25-071,1998,11.8,22,11,10,8,4,3,16,18.8,13,13,1,12,16,38,5,1,Matches
+22bfb57e,Jean-Victor Makengo,fr FRA,MF,Lorient,24-290,1998,6.8,10,4,4,6,0,5,16,31.3,11,3,2,1,8,18,8,0,Matches
+654f49ca,Béni Makouana,cg CGO,"FW,MF",Montpellier,20-182,2002,2.2,1,0,0,1,0,0,2,0.0,2,3,1,2,0,1,1,0,Matches
+48d5bd33,Ruslan Malinovskyi,ua UKR,"MF,FW",Marseille,29-329,1993,7.5,13,6,2,8,3,5,14,35.7,9,7,0,7,1,14,6,0,Matches
+0f86995c,Hianga Mananga Mbock,fr FRA,MF,Brest,23-091,1999,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+1d2d5cc8,Steve Mandanda,fr FRA,GK,Rennes,38-001,1985,25.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,6,2,Matches
+c801616a,Thomas Mangani,fr FRA,MF,Ajaccio,35-334,1987,9.9,19,12,6,10,3,9,24,37.5,15,13,1,12,21,40,14,1,Matches
+c4173f1a,Vito Mannone,it ITA,GK,Lorient,35-027,1988,14.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,2,Matches
+706a60e1,Myziane Maolida,fr FRA,"FW,MF",Reims,24-043,1999,1.8,4,2,1,2,1,3,9,33.3,6,1,0,1,2,6,0,0,Matches
+e54a9890,Faitout Maouassa,fr FRA,"FW,DF",Montpellier,24-266,1998,17.3,37,24,17,17,3,13,26,50.0,13,26,2,24,15,52,21,0,Matches
+740f00ac,Vincent Marchetti,fr FRA,MF,Ajaccio,25-268,1997,20.4,44,22,22,17,5,20,47,42.6,27,13,1,12,15,59,16,0,Matches
+d9764034,Guillermo Maripán,cl CHI,DF,Monaco,28-327,1994,17.5,34,20,20,14,0,10,23,43.5,13,27,19,8,29,63,51,0,Matches
+d5f2f82b,Marquinhos,br BRA,DF,Paris S-G,28-319,1994,22.1,22,15,11,9,2,14,19,73.7,5,29,18,11,20,42,59,2,Matches
+468fdbad,Jonas Martin,fr FRA,MF,Lille,32-354,1990,2.1,7,6,4,3,0,5,12,41.7,7,2,1,1,5,12,3,0,Matches
+3ef0fa48,Gelson Martins,pt POR,"MF,FW",Monaco,27-322,1995,3.8,15,8,6,4,5,4,13,30.8,9,4,1,3,3,18,2,0,Matches
+eba1e557,Han-Noah Massengo,fr FRA,MF,Auxerre,21-265,2001,6.9,21,10,9,11,1,5,12,41.7,7,9,2,7,10,31,2,0,Matches
+6ea05ca7,Yanis Massolin,fr FRA,MF,Clermont Foot,20-190,2002,0.7,2,1,1,0,1,0,1,0.0,1,1,0,1,2,4,0,0,Matches
+15944afd,Eliot Matazo,be BEL,MF,Monaco,21-042,2002,9.0,13,5,5,8,0,5,13,38.5,8,10,3,7,10,23,10,1,Matches
+cf1ef7ec,Chrislain Matsima,fr FRA,"DF,MF",Lorient,20-318,2002,2.5,0,0,0,0,0,0,0,,0,3,3,0,2,2,7,0,Matches
+cf1ef7ec,Chrislain Matsima,fr FRA,DF,Monaco,20-318,2002,1.4,3,2,1,1,1,1,2,50.0,1,1,1,0,1,4,3,0,Matches
+70d4c949,Jean Mattéo Bahoya,fr FRA,"FW,MF",Angers,17-326,2005,0.3,2,1,0,1,1,1,1,100.0,0,2,0,2,0,2,0,0,Matches
+a17a94d6,Azor Matusiwa,nl NED,MF,Reims,24-335,1998,20.0,56,37,28,22,6,31,47,66.0,16,25,7,18,37,93,37,0,Matches
+87d31635,Aïman Maurer,ma MAR,MF,Clermont Foot,18-185,2004,4.4,2,1,1,1,0,1,6,16.7,5,0,0,0,2,4,5,0,Matches
+30144daa,Stephy Mavididi,eng ENG,FW,Montpellier,24-302,1998,10.5,16,13,6,6,4,10,19,52.6,9,14,0,14,3,19,8,0,Matches
+2c70d915,Christian Mawissa,fr FRA,DF,Toulouse,17-345,2005,1.1,2,0,1,1,0,1,3,33.3,2,0,0,0,3,5,1,0,Matches
+b20cc590,Fernand Mayembo,cg CGO,DF,Ajaccio,27-079,1996,6.4,6,4,5,1,0,3,6,50.0,3,2,0,2,7,13,32,0,Matches
+42fd9c7f,Kylian Mbappé,fr FRA,FW,Paris S-G,24-099,1998,21.3,6,2,0,2,4,2,9,22.2,7,4,0,4,4,10,3,0,Matches
+e76cb9cc,Chancel Mbemba,cd COD,DF,Marseille,28-233,1994,25.4,33,21,20,12,1,18,25,72.0,7,24,12,12,35,68,80,0,Matches
+890bc029,Jason Mbock,fr FRA,"MF,FW",Angers,23-148,1999,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+46750e9c,Nathanael Mbuku,fr FRA,"FW,MF",Reims,21-013,2002,0.7,2,1,2,0,0,2,2,100.0,0,0,0,0,0,2,0,0,Matches
+6f5ec8bb,Facundo Medina,ar ARG,DF,Lens,23-305,1999,21.9,24,15,11,13,0,8,24,33.3,16,14,5,9,18,42,47,1,Matches
+04ac78d2,Bamo Meïté,ci CIV,DF,Lorient,21-282,2001,8.8,7,4,6,0,1,3,7,42.9,4,17,13,4,3,10,38,0,Matches
+d21e361a,Farid El Melali,dz ALG,"DF,FW",Angers,25-328,1997,6.8,17,11,5,10,2,8,12,66.7,4,11,0,11,7,24,3,0,Matches
+70c52749,Birger Meling,no NOR,DF,Rennes,28-102,1994,8.2,17,10,6,9,2,8,12,66.7,4,10,2,8,13,30,16,0,Matches
+f20e4cc9,Nuno Mendes,pt POR,"DF,MF",Paris S-G,20-283,2002,14.1,36,26,24,10,2,27,36,75.0,9,13,2,11,13,49,14,0,Matches
+c6e5d20f,Thiago Mendes,br BRA,"MF,DF",Lyon,31-014,1992,17.9,40,20,19,19,2,28,33,84.8,5,20,8,12,40,80,40,3,Matches
+3322e296,Antoine Mendy,fr FRA,DF,Nice,18-306,2004,1.9,7,5,4,3,0,4,8,50.0,4,3,0,3,1,8,7,0,Matches
+9f0f4b49,Arial Mendy,sn SEN,DF,Clermont Foot,28-142,1994,2.5,4,2,3,0,1,2,2,100.0,0,2,0,2,4,8,4,0,Matches
+e472a6f6,Batista Mendy,fr FRA,"MF,DF",Angers,23-076,2000,22.8,50,19,26,17,7,30,39,76.9,9,24,4,20,16,66,19,0,Matches
+9bdd8118,Gideon Mensah,gh GHA,DF,Auxerre,24-254,1998,18.9,62,34,33,25,4,34,55,61.8,21,24,7,17,33,95,32,0,Matches
+0bfca6a1,Quentin Merlin,fr FRA,DF,Nantes,20-317,2002,14.1,22,13,14,6,2,12,25,48.0,13,18,4,14,18,40,21,0,Matches
+d70ce98e,Lionel Messi,ar ARG,"FW,MF",Paris S-G,35-278,1987,22.5,20,14,1,10,9,7,20,35.0,13,8,0,8,0,20,0,0,Matches
+85613cf0,Arkadiusz Milik,pl POL,FW,Marseille,29-029,1994,1.4,1,1,0,0,1,0,1,0.0,1,0,0,0,0,1,2,0,Matches
+f833a830,Takumi Minamino,jp JPN,"MF,FW",Monaco,28-072,1995,5.6,12,6,3,6,3,6,25,24.0,19,14,0,14,5,17,3,0,Matches
+065dc209,Terem Moffi,ng NGA,FW,Nice,23-308,1999,5.5,1,0,0,1,0,0,4,0.0,4,0,0,0,0,1,1,0,Matches
+065dc209,Terem Moffi,ng NGA,FW,Lorient,23-308,1999,15.4,8,5,1,4,3,3,5,60.0,2,11,3,8,3,11,10,0,Matches
+595e6f3e,Mostafa Mohamed,eg EGY,FW,Nantes,25-121,1997,15.9,14,9,5,4,5,7,14,50.0,7,15,1,14,5,19,28,0,Matches
+7e82a78f,Florent Mollet,fr FRA,MF,Nantes,31-130,1991,6.5,4,2,2,0,2,1,6,16.7,5,7,0,7,4,8,7,0,Matches
+8499c713,Marlos Moreno,co COL,"MF,DF",Troyes,26-190,1996,0.1,2,2,2,0,0,2,3,66.7,1,1,1,0,0,2,0,0,Matches
+3eaf8817,Lebo Mothiba,za RSA,"FW,MF",Strasbourg,27-060,1996,3.3,1,0,1,0,0,0,1,0.0,1,2,0,2,0,1,4,0,Matches
+19ba6c6d,Steve Mounié,bj BEN,FW,Brest,28-181,1994,8.7,5,2,0,3,2,0,7,0.0,7,8,3,5,3,8,11,0,Matches
+71d10572,Bevic Moussiti-Oko,cg CGO,FW,Ajaccio,28-060,1995,7.8,3,1,1,1,1,1,2,50.0,1,5,3,2,2,5,8,0,Matches
+af0c835b,Samuel Moutoussamy,cd COD,MF,Nantes,26-229,1996,17.7,46,26,18,21,7,14,46,30.4,32,17,2,15,19,65,8,0,Matches
+ac73ec79,Nordi Mukiele,fr FRA,DF,Paris S-G,25-148,1997,12.6,31,23,16,6,9,19,29,65.5,10,22,9,13,14,45,16,0,Matches
+2acf0cd7,Marshall Munetsi,zw ZIM,MF,Reims,26-280,1996,20.5,43,20,10,24,9,15,35,42.9,20,22,5,17,18,61,29,1,Matches
+dc29b608,Yvon Mvogo,ch SUI,GK,Lorient,28-296,1994,13.1,0,0,0,0,0,0,0,,0,0,0,0,2,2,3,2,Matches
+e110ea4b,Nathan N'Goumou,fr FRA,FW,Toulouse,23-015,2000,1.0,3,2,2,1,0,1,1,100.0,0,2,0,2,2,5,0,0,Matches
+65c55288,Youssouf Ndayishimiye,bi BDI,"DF,MF",Nice,24-153,1998,4.4,10,7,5,5,0,3,5,60.0,2,7,4,3,8,18,19,0,Matches
+87e9c7cd,Papa Ndiaga Yade,sn SEN,"DF,MF",Troyes,23-083,2000,4.3,8,5,5,1,2,7,16,43.8,9,9,2,7,7,15,7,0,Matches
+69384e5d,Neymar,br BRA,"MF,FW",Paris S-G,31-052,1992,17.2,22,14,6,9,7,9,19,47.4,10,7,1,6,4,26,1,1,Matches
+46faabfa,Ibrahima Niane,sn SEN,FW,Angers,24-018,1999,5.1,2,0,0,2,0,0,2,0.0,2,2,0,2,1,3,3,0,Matches
+2054d037,M'Baye Niang,sn SEN,FW,Auxerre,28-100,1994,13.0,11,7,1,6,4,3,10,30.0,7,16,1,15,1,12,17,0,Matches
+3f319bb9,Rasmus Nicolaisen,dk DEN,DF,Toulouse,26-013,1997,26.3,43,19,31,12,0,26,37,70.3,11,40,32,8,42,85,120,0,Matches
+7b9a9e25,Arnaud Nordin,fr FRA,"FW,MF",Montpellier,24-285,1998,17.5,17,7,7,9,1,9,15,60.0,6,15,0,15,8,25,5,0,Matches
+374fbf7d,Riad Nouri,fr FRA,MF,Ajaccio,37-295,1985,14.2,18,10,4,10,4,9,21,42.9,12,5,1,4,14,32,9,0,Matches
+afb0c500,Alexander Nübel,de GER,GK,Monaco,26-180,1996,28.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,5,3,Matches
+6043997c,Gerzino Nyamsi,fr FRA,DF,Strasbourg,26-066,1997,13.4,19,13,9,8,2,8,9,88.9,1,15,10,5,9,28,49,1,Matches
+35516eac,Wilson Odobert,fr FRA,"MF,FW",Troyes,18-121,2004,13.4,16,13,7,7,2,6,18,33.3,12,9,0,9,12,28,4,0,Matches
+6993927b,Florent Ogier,fr FRA,DF,Clermont Foot,34-008,1989,14.5,22,13,14,7,1,14,28,50.0,14,18,10,8,12,34,43,1,Matches
+4534a352,Warmed Omari,fr FRA,DF,Rennes,22-340,2000,6.1,4,2,3,1,0,3,5,60.0,2,9,4,5,7,11,14,1,Matches
+c631f952,Jonas Omlin,ch SUI,GK,Montpellier,29-078,1994,13.0,1,0,1,0,0,0,0,,0,0,0,0,0,1,8,1,Matches
+ff4df82e,Ado Onaiwu,jp JPN,FW,Toulouse,27-141,1995,7.8,6,3,0,3,3,2,7,28.6,5,2,0,2,0,6,4,0,Matches
+b5bb8188,Jean Onana,cm CMR,MF,Lens,23-080,2000,4.2,13,8,2,11,0,4,6,66.7,2,5,1,4,7,20,6,0,Matches
+8652a85c,Loïs Openda,be BEL,FW,Lens,23-041,2000,18.8,7,7,1,5,1,2,9,22.2,7,7,0,7,1,8,1,0,Matches
+2f9e4435,Dango Ouattara,bf BFA,"FW,MF",Lorient,21-046,2002,17.2,41,26,20,11,10,15,28,53.6,13,24,6,18,19,60,21,0,Matches
+6b4436ba,Zinédine Ould Khaled,fr FRA,"MF,FW",Angers,23-074,2000,0.5,0,0,0,0,0,0,1,0.0,1,0,0,0,2,2,0,0,Matches
+83299cc0,Azzedine Ounahi,ma MAR,"MF,FW",Marseille,22-344,2000,1.3,2,1,1,1,0,0,2,0.0,2,1,0,1,0,2,0,0,Matches
+83299cc0,Azzedine Ounahi,ma MAR,"MF,FW",Angers,22-344,2000,12.5,19,8,5,13,1,10,20,50.0,10,8,0,8,15,34,4,1,Matches
+ed90babd,Adam Ounas,dz ALG,FW,Lille,26-138,1996,9.7,16,9,3,9,4,4,9,44.4,5,13,0,13,6,22,4,0,Matches
+cd9b37a3,Ante Palaversa,hr CRO,MF,Troyes,22-357,2000,0.1,1,1,1,0,0,0,0,,0,0,0,0,1,2,0,0,Matches
+779847d6,Nicolas Pallois,fr FRA,DF,Nantes,35-191,1987,18.0,54,36,41,11,2,32,49,65.3,17,32,16,16,20,74,88,2,Matches
+e5c1e0ca,Erik Palmer-Brown,us USA,DF,Troyes,25-339,1997,25.5,33,21,26,6,1,14,22,63.6,8,41,19,22,19,52,128,0,Matches
+9b6f7fd5,Lucas Paquetá,br BRA,MF,Lyon,25-214,1997,1.8,5,4,0,5,0,1,3,33.3,2,2,0,2,1,6,3,0,Matches
+dff153a4,Leandro Paredes,ar ARG,MF,Paris S-G,28-273,1994,0.6,1,1,1,0,0,1,1,100.0,0,2,1,1,1,2,0,0,Matches
+58ae47b2,Dimitri Payet,fr FRA,"MF,FW",Marseille,36-000,1987,7.9,4,3,1,2,1,2,7,28.6,5,4,0,4,0,4,2,0,Matches
+f8ce97ca,Timothee Pembele,fr FRA,DF,Paris S-G,20-201,2002,2.9,5,5,3,1,1,2,4,50.0,2,2,0,2,4,9,2,0,Matches
+0810b6df,Patrick Pentz,at AUT,GK,Reims,26-086,1997,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+57e3f0c7,Nicolas Pépé,ci CIV,"FW,MF",Nice,27-304,1995,14.6,19,9,11,4,4,9,20,45.0,11,16,0,16,1,20,1,0,Matches
+5c42e7ce,Brayann Pereira,fr FRA,DF,Auxerre,19-312,2003,2.0,6,5,5,1,0,1,5,20.0,4,2,2,0,2,8,8,1,Matches
+8fd9996f,Danilo Pereira,pt POR,"DF,MF",Paris S-G,31-201,1991,17.2,24,13,11,10,3,13,18,72.2,5,16,11,5,22,46,37,0,Matches
+8846a40f,Mathias Pereira Lage,pt POR,"MF,FW",Brest,26-119,1996,12.0,17,7,5,11,1,9,26,34.6,17,8,1,7,14,31,11,0,Matches
+10dd88f9,Gaëtan Perrin,fr FRA,"MF,FW",Auxerre,26-295,1996,12.2,14,5,4,6,4,6,24,25.0,18,14,0,14,8,22,8,0,Matches
+49070d66,Lucas Perrin,fr FRA,DF,Strasbourg,24-130,1998,12.7,32,19,18,12,2,17,33,51.5,16,7,5,2,19,51,35,0,Matches
+64ba07c0,Ronaël Pierre-Gabriel,fr FRA,DF,Strasbourg,24-289,1998,7.3,25,18,11,12,2,15,17,88.2,2,16,3,13,9,34,22,0,Matches
+e546b2e3,Julien Ponceau,fr FRA,MF,Lorient,22-121,2000,15.0,20,13,7,10,3,9,24,37.5,15,22,2,20,11,31,6,0,Matches
+be98f358,Łukasz Poręba,pl POL,MF,Lens,23-016,2000,2.7,5,4,2,1,2,2,3,66.7,1,3,0,3,3,8,2,0,Matches
+7d704e92,Jackson Porozo,ec ECU,DF,Troyes,22-237,2000,16.4,29,17,21,7,1,12,28,42.9,16,19,14,5,32,61,68,0,Matches
+51c30111,Sanjin Prcić,ba BIH,MF,Strasbourg,29-129,1993,16.7,26,12,6,17,3,18,28,64.3,10,21,7,14,21,47,18,0,Matches
+7be7c08b,Mehdi Puch Herrantz,fr FRA,MF,Ajaccio,19-068,2004,0.3,1,1,0,0,1,0,0,,0,1,0,1,1,2,0,0,Matches
+1b729a98,Ghjuvanni Quilichini,fr FRA,GK,Ajaccio,20-209,2002,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+67f649be,Ionuț Radu,ro ROU,GK,Auxerre,25-305,1997,9.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches
+ed8cecc9,Simon Ramet,fr FRA,DF,Lille,20-016,2003,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+8dbff17c,Adil Rami,fr FRA,DF,Troyes,37-092,1985,10.1,12,9,8,3,1,11,21,52.4,10,8,5,3,12,24,42,1,Matches
+08511d65,Sergio Ramos,es ESP,DF,Paris S-G,36-364,1986,21.0,29,21,12,15,2,20,36,55.6,16,22,9,13,24,53,56,2,Matches
+ef619b0b,Aaron Ramsey,wls WAL,MF,Nice,32-093,1990,13.8,41,20,16,16,9,12,27,44.4,15,20,4,16,15,56,14,0,Matches
+79a793b7,Lilian Raolisoa,fr FRA,"MF,DF",Angers,22-286,2000,0.5,1,1,0,0,1,1,1,100.0,0,0,0,0,2,3,0,0,Matches
+25749008,Elba Rashani,xk KVX,"MF,DF",Clermont Foot,29-324,1993,16.0,24,14,7,13,4,6,20,30.0,14,16,2,14,17,41,13,0,Matches
+40ef7347,Rafael Ratão,br BRA,FW,Toulouse,27-119,1995,15.6,40,31,20,15,5,19,50,38.0,31,29,0,29,19,59,4,0,Matches
+fb3236a7,Rayan Raveloson,mg MAD,"DF,MF",Auxerre,26-072,1997,17.2,25,13,15,9,1,15,21,71.4,6,24,5,19,29,54,44,0,Matches
+d504b3e1,Jeff Reine-Adélaïde,fr FRA,MF,Troyes,25-071,1998,1.1,1,0,0,1,0,0,0,,0,1,0,1,1,2,0,0,Matches
+d504b3e1,Jeff Reine-Adélaïde,fr FRA,MF,Lyon,25-071,1998,3.7,8,5,1,5,2,5,9,55.6,4,4,0,4,6,14,0,0,Matches
+102c9665,Alexsandro Ribeiro,br BRA,DF,Lille,23-232,1999,8.9,18,13,13,5,0,8,11,72.7,3,5,1,4,14,32,30,0,Matches
+7f41ee30,Rémy Riou,fr FRA,GK,Lyon,35-235,1987,6.7,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0,Matches
+beae3a73,Renaud Ripart,fr FRA,"FW,MF",Troyes,30-015,1993,14.3,39,22,14,19,6,19,52,36.5,33,28,1,27,7,46,5,0,Matches
+8d62d31a,Joe Rodon,wls WAL,DF,Rennes,25-158,1997,13.7,10,6,8,2,0,4,10,40.0,6,15,11,4,9,19,45,1,Matches
+ed45c4a5,Valentin Rongier,fr FRA,MF,Marseille,28-112,1994,24.7,63,38,22,34,7,29,55,52.7,26,40,9,31,38,101,26,1,Matches
+1a6b7ea4,Pablo Rosario,nl NED,"MF,DF",Nice,26-081,1997,13.5,30,17,14,12,4,12,20,60.0,8,11,4,7,16,46,21,0,Matches
+9b545925,Anthony Rouault,fr FRA,DF,Toulouse,21-304,2001,27.9,52,32,43,8,1,25,48,52.1,23,44,21,23,43,95,100,4,Matches
+90a9cc01,Kays Ruiz,ma MAR,MF,Auxerre,20-215,2002,0.7,1,1,1,0,0,0,1,0.0,1,2,1,1,3,4,0,0,Matches
+c0c7ff58,Fabián Ruiz Peña,es ESP,MF,Paris S-G,26-360,1996,14.7,44,19,16,23,5,33,56,58.9,23,19,1,18,10,54,13,1,Matches
+8299e363,Halid Šabanović,ba BIH,"DF,FW",Angers,23-219,1999,3.7,4,2,4,0,0,3,5,60.0,2,4,1,3,4,8,7,0,Matches
+6388e356,Falaye Sacko,ml MLI,DF,Montpellier,27-332,1995,20.0,39,20,19,14,6,26,38,68.4,12,31,10,21,25,64,49,1,Matches
+90fcf472,Wesley Saïd,fr FRA,"FW,MF",Lens,27-344,1995,6.6,4,1,1,2,1,2,5,40.0,3,4,0,4,1,5,1,0,Matches
+93c942fb,Théo Sainte-Luce,fr FRA,DF,Montpellier,24-160,1998,3.9,7,5,3,4,0,4,10,40.0,6,4,2,2,4,11,5,0,Matches
+c9151d66,Hamza Sakhi,ma MAR,MF,Auxerre,26-295,1996,17.7,43,22,21,17,5,21,40,52.5,19,15,1,14,24,67,8,0,Matches
+87935cf3,Mamadou Sakho,fr FRA,DF,Montpellier,33-044,1990,6.0,7,3,3,4,0,2,4,50.0,2,9,7,2,5,12,25,1,Matches
+cad3fd4d,Ibrahim Salah,ma MAR,"FW,MF",Rennes,21-211,2001,1.5,5,1,4,1,0,1,8,12.5,7,2,0,2,2,7,0,0,Matches
+bc7cc472,Amine Salama,fr FRA,"FW,MF",Angers,22-254,2000,13.9,11,9,3,7,1,2,12,16.7,10,8,2,6,10,21,2,0,Matches
+c3725db2,Yoann Salmier,gf GUF,DF,Troyes,30-128,1992,24.9,42,24,27,10,5,19,28,67.9,9,29,18,11,32,74,105,0,Matches
+fb14aa28,Mama Samba Baldé,gw GNB,FW,Troyes,27-143,1995,21.7,37,17,12,16,9,10,19,52.6,9,24,3,21,4,41,9,0,Matches
+60d90c55,Brice Samba,fr FRA,GK,Lens,28-338,1994,28.0,1,0,1,0,0,1,1,100.0,0,1,0,1,0,1,8,1,Matches
+032f894e,Renato Sanches,pt POR,MF,Paris S-G,25-223,1997,5.1,3,0,0,1,2,1,6,16.7,5,7,0,7,9,12,3,0,Matches
+2c0f8e9e,Alexis Sánchez,cl CHI,FW,Marseille,34-100,1988,21.0,21,15,4,14,3,1,11,9.1,10,7,0,7,3,24,5,0,Matches
+6e7f1353,Morgan Sanson,fr FRA,MF,Strasbourg,28-223,1994,6.2,14,9,4,5,5,3,19,15.8,16,12,1,11,12,26,4,0,Matches
+5e22e2a4,Baptiste Santamaria,fr FRA,MF,Rennes,28-020,1995,13.7,33,18,10,19,4,15,32,46.9,17,14,3,11,17,50,14,0,Matches
+9744ff80,Pablo Sarabia,es ESP,"FW,MF",Paris S-G,30-322,1992,4.1,5,4,2,2,1,1,7,14.3,6,3,0,3,2,7,0,0,Matches
+f527a32c,Muhammed Saracevic Cham,at AUT,MF,Clermont Foot,22-184,2000,16.1,25,12,13,3,9,10,27,37.0,17,12,0,12,6,31,5,0,Matches
+d5326924,Amin Sarr,se SWE,FW,Lyon,22-018,2001,4.6,6,5,0,4,2,0,1,0.0,1,2,0,2,0,6,2,0,Matches
+4315f30d,Malang Sarr,fr FRA,DF,Monaco,24-065,1999,8.0,6,3,5,1,0,1,5,20.0,4,11,7,4,15,21,29,2,Matches
+6bde367b,Téji Savanier,fr FRA,MF,Montpellier,31-097,1991,22.0,38,26,15,16,7,19,54,35.2,35,23,2,21,26,64,9,1,Matches
+53af52f3,Kasper Schmeichel,dk DEN,GK,Nice,36-144,1986,26.0,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,7,1,Matches
+cea59f02,Alidu Seidu,gh GHA,DF,Clermont Foot,22-298,2000,19.5,36,23,24,9,3,22,34,64.7,12,20,13,7,37,73,38,2,Matches
+834b5c4c,Matz Sels,be BEL,GK,Strasbourg,31-031,1992,28.0,2,1,2,0,0,2,2,100.0,0,0,0,0,3,5,18,0,Matches
+1d383c10,Marvin Senaya,tg TOG,DF,Strasbourg,22-060,2001,0.1,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,1,0,Matches
+9c2b1f11,Kaj Sierhuis,nl NED,"FW,MF",Reims,24-336,1998,0.6,2,2,1,0,1,0,3,0.0,3,1,0,1,0,2,1,0,Matches
+92ffb8f9,Vincent Sierro,ch SUI,"MF,FW",Toulouse,27-172,1995,0.7,2,1,1,1,0,1,5,20.0,4,7,1,6,1,3,0,1,Matches
+30af8b93,Caio Henrique Oliveira Silva,br BRA,DF,Monaco,25-241,1997,23.5,56,39,33,20,3,33,55,60.0,22,22,7,15,15,71,47,1,Matches
+fdbde523,Abdallah Sima,sn SEN,FW,Angers,21-285,2001,14.9,14,8,2,9,3,4,11,36.4,7,6,0,6,3,17,14,0,Matches
+5f3eaaf5,Moses Simon,ng NGA,"FW,MF",Nantes,27-260,1995,20.2,18,9,6,7,5,7,11,63.6,4,10,1,9,6,24,3,0,Matches
+5e5249c8,Lassine Sinayoko,ml MLI,"MF,FW",Auxerre,23-111,1999,14.4,30,14,13,10,7,19,31,61.3,12,12,0,12,11,41,17,0,Matches
+0f8418aa,Ibrahima Sissoko,fr FRA,MF,Strasbourg,25-153,1997,9.7,20,12,7,10,3,9,23,39.1,14,13,4,9,6,26,15,0,Matches
+2acd49b9,Moussa Sissoko,fr FRA,MF,Nantes,33-225,1989,16.4,23,16,16,5,2,12,16,75.0,4,17,5,12,13,36,12,0,Matches
+d7547531,Naatan Skyttä,fi FIN,MF,Toulouse,20-326,2002,0.3,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+ffec9769,Islam Slimani,dz ALG,FW,Brest,34-284,1988,11.0,5,3,2,2,1,0,3,0.0,3,2,0,2,1,6,11,0,Matches
+2ccd89a3,Eduard Sobol,ua UKR,DF,Strasbourg,27-343,1995,5.6,10,6,4,4,2,3,5,60.0,2,3,0,3,4,14,13,0,Matches
+fed17f5a,Carlos Soler,es ESP,MF,Paris S-G,26-086,1997,9.4,13,9,4,7,2,8,15,53.3,7,6,2,4,3,16,2,0,Matches
+f19f32b1,François-Joseph Sollacaro,fr FRA,GK,Ajaccio,29-008,1994,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+7a42d0df,Florian Sotoca,fr FRA,"FW,MF",Lens,32-155,1990,25.5,36,17,10,15,11,14,33,42.4,19,37,1,36,22,58,32,0,Matches
+86a49468,Moussa Soumano,fr FRA,"FW,MF",Ajaccio,17-263,2005,2.3,1,1,0,0,1,0,0,,0,2,0,2,0,1,0,0,Matches
+4e0afc5d,Arnaud Souquet,fr FRA,"DF,FW",Montpellier,31-045,1992,4.0,22,16,13,7,2,11,14,78.6,3,8,3,5,4,26,4,0,Matches
+a45a5d95,Kevin Spadanuda,ch SUI,"MF,FW",Ajaccio,26-072,1997,5.8,11,8,6,4,1,3,10,30.0,7,6,0,6,5,16,3,0,Matches
+9bc9a519,Djed Spence,eng ENG,DF,Rennes,22-232,2000,6.3,14,6,8,2,4,11,18,61.1,7,10,3,7,3,17,15,0,Matches
+a08985b8,Stijn Spierings,nl NED,MF,Toulouse,27-017,1996,28.0,77,52,26,46,5,36,82,43.9,46,43,11,32,41,118,37,0,Matches
+8f7e6783,Calvin Stengs,nl NED,FW,Nice,24-101,1998,2.4,2,2,1,0,1,1,2,50.0,1,0,0,0,0,2,0,0,Matches
+39b326ed,Gabriel Suazo,cl CHI,DF,Toulouse,25-232,1997,6.8,21,13,10,9,2,14,33,42.4,19,14,4,10,11,32,10,0,Matches
+a62f8bf1,Kamaldeen Sulemana,gh GHA,"FW,MF",Rennes,21-042,2002,3.6,6,3,1,4,1,1,5,20.0,4,2,0,2,4,10,2,0,Matches
+b99bec05,Issiaga Sylla,gn GUI,DF,Montpellier,29-087,1994,7.0,15,9,10,5,0,8,16,50.0,8,8,1,7,18,33,13,0,Matches
+b99bec05,Issiaga Sylla,gn GUI,DF,Toulouse,29-087,1994,15.2,28,15,14,9,5,15,34,44.1,19,15,5,10,38,66,38,0,Matches
+f0661424,Nicolás Tagliafico,ar ARG,DF,Lyon,30-210,1992,25.7,78,46,33,35,10,42,64,65.6,22,31,6,25,50,128,28,0,Matches
+95192fe4,Waniss Taibi,fr FRA,MF,Angers,21-022,2002,2.1,7,4,4,2,1,2,4,50.0,2,0,0,0,2,9,2,0,Matches
+a0f9b535,Flavien Tait,fr FRA,MF,Rennes,30-055,1993,15.8,28,14,7,16,5,18,35,51.4,17,15,3,12,19,47,11,0,Matches
+a4a44eb0,Montassar Talbi,tn TUN,DF,Lorient,24-307,1998,28.0,35,16,28,7,0,17,26,65.4,9,33,22,11,24,59,126,3,Matches
+ed39121c,Florian Tardieu,fr FRA,MF,Troyes,30-341,1992,11.2,31,20,19,12,0,12,29,41.4,17,19,4,15,23,54,15,0,Matches
+a65c844b,Nuno Tavares,pt POR,"DF,MF",Marseille,23-062,2000,21.5,44,22,17,20,7,20,43,46.5,23,28,4,24,14,58,22,0,Matches
+7f783431,Enzo Tchato,cm CMR,DF,Montpellier,20-126,2002,10.6,22,15,11,10,1,10,16,62.5,6,13,1,12,6,28,28,0,Matches
+5148dcc5,Martin Terrier,fr FRA,"FW,MF",Rennes,26-025,1997,14.7,25,11,7,9,9,13,24,54.2,11,15,2,13,14,39,6,0,Matches
+7120a04d,Tetê,br BRA,"FW,MF",Lyon,23-042,2000,12.3,21,10,8,5,8,10,19,52.6,9,9,0,9,13,34,2,0,Matches
+df8d6029,Arthur Theate,be BEL,DF,Rennes,22-308,2000,26.9,25,16,15,7,3,16,25,64.0,9,18,8,10,23,48,84,2,Matches
+f4bc42b1,Sada Thioub,sn SEN,"FW,MF",Angers,27-301,1995,6.4,14,6,7,5,2,4,8,50.0,4,7,0,7,2,16,3,0,Matches
+c76b7567,Adrien Thomasson,fr FRA,MF,Strasbourg,29-109,1993,10.4,20,9,9,6,5,10,30,33.3,20,18,0,18,3,23,2,0,Matches
+c76b7567,Adrien Thomasson,fr FRA,"MF,FW",Lens,29-109,1993,6.6,16,13,5,7,4,7,17,41.2,10,14,0,14,3,19,4,0,Matches
+7d9397f8,Khéphren Thuram-Ulie,fr FRA,MF,Nice,22-003,2001,22.3,41,22,17,20,4,17,37,45.9,20,24,9,15,29,70,27,0,Matches
+ca6f4846,Alexis Tibidi,fr FRA,FW,Troyes,19-146,2003,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+88f130ed,Jean-Clair Todibo,fr FRA,DF,Nice,23-089,1999,24.5,58,38,40,15,3,31,43,72.1,12,31,16,15,28,86,92,1,Matches
+5ceba7fc,Karl Toko Ekambi,cm CMR,"MF,FW",Rennes,30-196,1992,5.8,3,1,1,1,1,3,8,37.5,5,4,0,4,5,8,2,0,Matches
+5ceba7fc,Karl Toko Ekambi,cm CMR,"FW,MF",Lyon,30-196,1992,15.0,9,9,2,4,3,4,15,26.7,11,12,2,10,9,18,6,0,Matches
+652d4c37,Corentin Tolisso,fr FRA,MF,Lyon,28-238,1994,14.5,26,18,9,14,3,15,38,39.5,23,16,2,14,16,42,12,0,Matches
+a4b798a9,Birama Touré,ml MLI,MF,Auxerre,30-296,1992,27.8,55,30,24,26,5,25,62,40.3,37,34,4,30,56,111,36,0,Matches
+01fd01e8,Souleymane Touré,fr FRA,DF,Marseille,20-001,2003,0.8,2,1,1,1,0,1,2,50.0,1,1,0,1,0,2,5,0,Matches
+01fd01e8,Souleymane Touré,fr FRA,DF,Auxerre,20-001,2003,9.9,14,5,11,3,0,9,11,81.8,2,16,5,11,12,26,36,1,Matches
+4e47507a,Yoann Touzghar,tn TUN,FW,Ajaccio,36-121,1986,4.3,3,2,0,2,1,0,1,0.0,1,0,0,0,0,3,1,0,Matches
+de488e56,Charles Traore,ml MLI,DF,Nantes,31-087,1992,3.6,5,3,4,1,0,4,6,66.7,2,9,2,7,8,13,6,0,Matches
+a4b1028a,Hamari Traoré,ml MLI,DF,Rennes,31-061,1992,18.5,31,20,18,12,1,17,33,51.5,16,24,6,18,27,58,46,0,Matches
+5d0e0a1f,Adrien Truffert,fr FRA,DF,Rennes,21-129,2001,21.7,62,32,36,17,9,31,44,70.5,13,32,8,24,22,84,55,0,Matches
+906baf89,Theocharis Tsingaras,gr GRE,MF,Toulouse,22-221,2000,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+8a53d24b,Ike Ugbo,ca CAN,"FW,MF",Troyes,24-189,1998,4.9,4,1,1,2,1,3,5,60.0,2,6,1,5,1,5,2,0,Matches
+1df4a109,Chimuanya Ugochukwu,fr FRA,MF,Rennes,19-003,2004,10.6,29,14,10,17,2,13,18,72.2,5,16,6,10,15,44,10,0,Matches
+1880614f,Cengiz Ünder,tr TUR,"MF,DF",Marseille,25-258,1997,18.4,25,13,9,12,4,9,24,37.5,15,11,1,10,14,39,10,0,Matches
+d75f3980,Jere Uronen,fi FIN,DF,Brest,28-259,1994,3.3,8,5,4,4,0,7,12,58.3,5,6,2,4,7,15,5,0,Matches
+531a4aa8,Yan Valery,tn TUN,DF,Angers,24-035,1999,18.1,30,21,14,14,2,8,17,47.1,9,20,6,14,23,53,51,0,Matches
+ee45fd85,Vanderson,br BRA,"DF,MF",Monaco,21-281,2001,15.9,54,30,19,25,10,29,45,64.4,16,27,5,22,34,88,22,1,Matches
+4a56052c,Jordan Veretout,fr FRA,MF,Marseille,30-028,1993,21.8,41,25,11,25,5,16,34,47.1,18,15,4,11,27,68,33,2,Matches
+1467af0d,Marco Verratti,it ITA,MF,Paris S-G,30-144,1992,17.8,61,37,29,29,3,33,66,50.0,33,37,6,31,20,81,7,2,Matches
+d60cf08d,João Victor,br BRA,DF,Nantes,24-255,1998,5.1,7,3,4,2,1,2,5,40.0,3,5,1,4,5,12,21,0,Matches
+b2791a55,Clément Vidal,fr FRA,"DF,MF",Ajaccio,22-284,2000,13.1,16,8,9,7,0,10,21,47.6,11,17,8,9,18,34,36,0,Matches
+01becd60,Alan Virginius,fr FRA,FW,Lille,20-085,2003,2.6,2,1,1,1,0,0,2,0.0,2,0,0,0,2,4,1,0,Matches
+75438a9a,Mattia Viti,it ITA,DF,Nice,21-064,2002,7.0,4,2,1,1,2,2,5,40.0,3,9,3,6,8,12,22,0,Matches
+74d4cec6,Vitinha,pt POR,FW,Marseille,23-014,2000,0.8,2,2,0,1,1,0,2,0.0,2,1,0,1,0,2,1,0,Matches
+3b029691,Vitinha,pt POR,MF,Paris S-G,23-044,2000,19.3,38,19,13,18,7,17,56,30.4,39,16,3,13,15,53,10,0,Matches
+64f69877,Kevin Volland,de GER,"MF,FW",Monaco,30-242,1992,3.9,7,3,0,5,2,1,3,33.3,2,2,0,2,2,9,0,0,Matches
+8eec784d,Timothy Weah,us USA,"DF,FW",Lille,23-035,2000,13.1,14,6,5,7,2,7,17,41.2,10,12,2,10,14,28,13,0,Matches
+3ecc8c5f,Mateusz Wieteska,pl POL,DF,Clermont Foot,26-046,1997,27.0,30,18,20,10,0,13,24,54.2,11,33,21,12,43,73,81,4,Matches
+b003239d,Christopher Wooh,cm CMR,DF,Rennes,21-192,2001,9.6,13,6,8,5,0,6,8,75.0,2,11,5,6,6,19,42,0,Matches
+b003239d,Christopher Wooh,cm CMR,MF,Lens,21-192,2001,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
+f3600c02,Xeka,pt POR,MF,Rennes,28-139,1994,6.1,10,3,6,3,1,7,16,43.8,9,11,2,9,6,16,8,0,Matches
+f5c8b425,Yusuf Yazıcı,tr TUR,MF,Lille,26-059,1997,2.2,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0,Matches
+061266cd,Darlin Yongwa,cm CMR,"DF,FW",Lorient,22-188,2000,1.8,4,4,2,2,0,1,4,25.0,3,1,0,1,1,5,3,0,Matches
+6763f716,Leny Yoro,fr FRA,DF,Lille,17-136,2005,6.5,8,4,5,3,0,3,6,50.0,3,6,1,5,16,24,23,1,Matches
+1a85bcdb,Mohamed Youssouf,km COM,DF,Ajaccio,35-003,1988,21.2,57,34,29,21,7,29,46,63.0,17,23,6,17,51,108,49,0,Matches
+6b9960cf,Warren Zaire-Emery,fr FRA,"MF,DF",Paris S-G,17-021,2006,5.8,8,5,1,6,1,4,15,26.7,11,7,0,7,9,17,5,0,Matches
+72d4922b,Oliver Zandén,se SWE,"DF,MF",Toulouse,21-227,2001,1.6,2,1,1,0,1,2,5,40.0,3,0,0,0,1,3,7,0,Matches
+0ff630d0,Akim Zedadka,dz ALG,DF,Auxerre,27-303,1995,10.2,22,16,15,3,4,12,20,60.0,8,9,2,7,19,41,32,1,Matches
+0ff630d0,Akim Zedadka,dz ALG,"DF,MF",Lille,27-303,1995,3.9,1,1,1,0,0,0,2,0.0,2,3,0,3,2,3,6,0,Matches
+c8c02ac7,Mehdi Zeffane,dz ALG,"DF,MF",Clermont Foot,30-314,1992,2.5,2,0,1,1,0,0,6,0.0,6,5,1,4,10,12,5,0,Matches
+095e4199,Arber Zeneli,xk KVX,"FW,MF",Reims,28-032,1995,10.0,9,3,3,3,3,5,12,41.7,7,5,0,5,2,11,2,0,Matches
+fb4c5b6e,Nathan Zeze,fr FRA,DF,Nantes,17-284,2005,0.7,3,2,2,1,0,1,1,100.0,0,0,0,0,0,3,1,0,Matches
+34a88e3e,Edon Zhegrova,xk KVX,"FW,DF",Lille,23-363,1999,8.2,15,10,4,6,5,11,18,61.1,7,6,0,6,2,17,1,0,Matches
+aefa3050,Banhie Zoukrou,fr FRA,DF,Troyes,19-326,2003,0.6,1,0,0,1,0,1,1,100.0,0,3,3,0,0,1,1,0,Matches
