@@ -1,39 +1,39 @@
 id,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
-be6faae0,Álvaro Aceves,es ESP,GK,Valladolid,19-247,2003,1,0,13,0.1,0,0.00,3,3,100.0,0,0,0,0,,0,0,0,0,,Matches
-a2c1a8d3,Julen Agirrezabala,es ESP,GK,Athletic Club,22-094,2000,5,4,405,4.5,3,0.67,13,10,76.9,1,1,2,1,25.0,0,0,0,0,,Matches
-9f0ea33f,Sergio Asenjo,es ESP,GK,Valladolid,33-275,1989,9,9,810,9.0,15,1.67,34,19,58.8,2,2,5,1,11.1,1,1,0,0,0.0,Matches
-e4346678,Édgar Badía,es ESP,GK,Elche,31-046,1992,26,26,2340,26.0,51,1.96,153,100,71.2,2,7,17,1,3.8,10,7,3,0,30.0,Matches
-f6798fc3,Yassine Bounou,ma MAR,GK,Sevilla,31-359,1991,24,24,2061,22.9,39,1.70,103,65,64.1,7,6,11,4,16.7,3,2,1,0,33.3,Matches
-10072610,Claudio Bravo,cl CHI,GK,Betis,39-351,1983,6,6,540,6.0,5,0.83,20,15,80.0,2,3,1,2,33.3,1,1,0,0,0.0,Matches
-688b96e3,Juan Carlos,es ESP,GK,Girona,35-069,1988,10,10,900,10.0,18,1.80,43,25,62.8,2,2,6,0,0.0,2,2,0,0,0.0,Matches
-1840e36d,Thibaut Courtois,be BEL,GK,Real Madrid,30-323,1992,20,20,1800,20.0,18,0.90,72,54,80.6,13,4,3,6,30.0,4,4,0,0,0.0,Matches
-fc70e345,Stole Dimitrievski,mk MKD,GK,Rayo Vallecano,29-095,1993,25,25,2250,25.0,27,1.08,91,67,73.6,9,9,7,9,36.0,4,3,0,1,0.0,Matches
-ac295d9e,Marko Dmitrović,rs SRB,GK,Sevilla,31-065,1992,4,2,279,3.1,3,0.97,17,14,82.4,0,1,1,0,0.0,0,0,0,0,,Matches
-a01c3d54,Aitor Fernández,es ESP,GK,Osasuna,31-331,1991,14,14,1260,14.0,13,0.93,51,38,74.5,5,5,4,6,42.9,0,0,0,0,,Matches
-f127d782,Álvaro Fernández,es ESP,GK,Espanyol,24-351,1998,11,11,990,11.0,18,1.64,50,33,64.0,3,4,4,2,18.2,0,0,0,0,,Matches
-dabb2827,Fernando,es ESP,GK,Almería,32-293,1990,25,25,2205,24.5,41,1.67,135,94,71.9,7,5,13,2,8.0,5,3,1,1,25.0,Matches
-63d17038,Paulo Gazzaniga,ar ARG,GK,Girona,31-087,1992,16,16,1440,16.0,23,1.44,68,44,69.1,6,5,5,1,6.3,4,2,1,1,33.3,Matches
-fea23125,David Gil,es ESP,GK,Cádiz,29-078,1994,1,1,90,1.0,1,1.00,5,4,100.0,0,1,0,0,0.0,1,1,0,0,0.0,Matches
-3f034750,Ivo Grbić,hr CRO,GK,Atlético Madrid,27-071,1996,4,2,208,2.3,2,0.87,9,7,88.9,1,1,0,1,50.0,1,1,0,0,0.0,Matches
-a4995f48,Sergio Herrera,es ESP,GK,Osasuna,29-298,1993,12,12,1080,12.0,14,1.17,46,31,71.7,4,2,6,2,16.7,4,1,1,2,50.0,Matches
-0107757e,Filip Jörgensen,dk DEN,GK,Villarreal,20-348,2002,1,1,90,1.0,1,1.00,3,2,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
-2fa2a875,Benjamin Lecomte,fr FRA,GK,Espanyol,31-338,1991,10,10,899,10.0,14,1.40,40,27,65.0,1,5,4,1,10.0,0,0,0,0,,Matches
-6c4776b1,Jeremías Ledesma,ar ARG,GK,Cádiz,30-045,1993,25,25,2250,25.0,37,1.48,138,100,78.3,6,9,10,9,36.0,8,7,1,0,12.5,Matches
-73683fa9,Diego López,es ESP,GK,Rayo Vallecano,41-147,1981,1,1,90,1.0,3,3.00,4,1,25.0,0,0,1,0,0.0,0,0,0,0,,Matches
-3061e1ec,Andriy Lunin,ua UKR,GK,Real Madrid,24-047,1999,6,6,540,6.0,3,0.50,13,11,76.9,4,1,1,3,50.0,0,0,0,0,,Matches
-d4b73232,Giorgi Mamardashvili,ge GEO,GK,Valencia,22-182,2000,26,26,2340,26.0,31,1.19,107,78,72.9,7,5,14,5,19.2,5,2,0,3,0.0,Matches
-853b7c48,Agustín Marchesín,ar ARG,GK,Celta Vigo,35-014,1988,19,19,1710,19.0,29,1.53,72,42,62.5,5,5,9,6,31.6,4,2,2,0,50.0,Matches
-d9235a45,Diego Mariño,es ESP,GK,Almería,32-325,1990,1,0,45,0.5,2,4.00,5,3,60.0,0,0,0,0,,0,0,0,0,,Matches
-8fae77ea,Jordi Masip,es ESP,GK,Valladolid,34-086,1989,17,17,1517,16.9,23,1.36,86,60,76.7,6,2,9,5,29.4,6,3,3,0,50.0,Matches
-ee8508c0,Jan Oblak,si SVN,GK,Atlético Madrid,30-082,1993,24,24,2132,23.7,17,0.72,69,52,76.8,14,5,5,10,41.7,2,1,0,1,0.0,Matches
-97852360,Fernando Pacheco,es ESP,GK,Espanyol,30-316,1992,5,5,450,5.0,9,1.80,25,16,68.0,2,0,3,1,20.0,1,1,0,0,0.0,Matches
-97852360,Fernando Pacheco,es ESP,GK,Almería,30-316,1992,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
-58ad9383,Predrag Rajković,rs SRB,GK,Mallorca,27-150,1995,26,26,2340,26.0,27,1.04,89,61,75.3,9,5,12,8,30.8,6,5,1,0,16.7,Matches
-e358587b,Pepe Reina,es ESP,GK,Villarreal,40-211,1982,11,11,990,11.0,13,1.18,40,27,75.0,6,2,3,3,27.3,3,3,0,0,0.0,Matches
-374ee424,Álex Remiro,es ESP,GK,Real Sociedad,28-006,1995,26,26,2340,26.0,24,0.92,91,68,73.6,14,6,6,10,38.5,1,0,1,0,100.0,Matches
-625c144a,Gerónimo Rulli,ar ARG,GK,Villarreal,30-314,1992,14,14,1260,14.0,10,0.71,56,46,82.1,6,3,5,7,50.0,0,0,0,0,,Matches
-ea83bfa6,Rui Silva,pt POR,GK,Betis,29-051,1994,20,20,1800,20.0,21,1.05,75,54,73.3,11,3,6,8,40.0,1,1,0,0,0.0,Matches
-5dcf3e90,Unai Simón,es ESP,GK,Athletic Club,25-292,1997,22,22,1935,21.5,25,1.16,73,50,67.1,9,5,8,8,36.4,1,1,0,0,0.0,Matches
-8f8c6934,David Soria,es ESP,GK,Getafe,29-360,1993,26,26,2340,26.0,34,1.31,117,82,73.5,7,8,11,8,30.8,6,3,3,0,50.0,Matches
-6f51e382,Marc-André ter Stegen,de GER,GK,Barcelona,30-334,1992,26,26,2340,26.0,9,0.35,60,53,88.3,22,2,2,19,73.1,2,2,0,0,0.0,Matches
-cde52ef5,Iván Villar,es ESP,GK,Celta Vigo,25-264,1997,7,7,630,7.0,6,0.86,26,20,80.8,4,2,1,3,42.9,1,1,0,0,0.0,Matches
+be6faae0,Álvaro Aceves,es ESP,GK,Valladolid,19-248,2003,1,0,13,0.1,0,0.00,3,3,100.0,0,0,0,0,,0,0,0,0,,Matches
+a2c1a8d3,Julen Agirrezabala,es ESP,GK,Athletic Club,22-095,2000,5,4,405,4.5,3,0.67,13,10,76.9,1,1,2,1,25.0,0,0,0,0,,Matches
+9f0ea33f,Sergio Asenjo,es ESP,GK,Valladolid,33-276,1989,9,9,810,9.0,15,1.67,34,19,58.8,2,2,5,1,11.1,1,1,0,0,0.0,Matches
+e4346678,Édgar Badía,es ESP,GK,Elche,31-047,1992,26,26,2340,26.0,51,1.96,153,100,71.2,2,7,17,1,3.8,10,7,3,0,30.0,Matches
+f6798fc3,Yassine Bounou,ma MAR,GK,Sevilla,31-360,1991,24,24,2061,22.9,39,1.70,103,65,64.1,7,6,11,4,16.7,3,2,1,0,33.3,Matches
+10072610,Claudio Bravo,cl CHI,GK,Betis,39-352,1983,6,6,540,6.0,5,0.83,20,15,80.0,2,3,1,2,33.3,1,1,0,0,0.0,Matches
+688b96e3,Juan Carlos,es ESP,GK,Girona,35-070,1988,10,10,900,10.0,18,1.80,43,25,62.8,2,2,6,0,0.0,2,2,0,0,0.0,Matches
+1840e36d,Thibaut Courtois,be BEL,GK,Real Madrid,30-324,1992,20,20,1800,20.0,18,0.90,72,54,80.6,13,4,3,6,30.0,4,4,0,0,0.0,Matches
+fc70e345,Stole Dimitrievski,mk MKD,GK,Rayo Vallecano,29-096,1993,25,25,2250,25.0,27,1.08,91,67,73.6,9,9,7,9,36.0,4,3,0,1,0.0,Matches
+ac295d9e,Marko Dmitrović,rs SRB,GK,Sevilla,31-066,1992,4,2,279,3.1,3,0.97,17,14,82.4,0,1,1,0,0.0,0,0,0,0,,Matches
+a01c3d54,Aitor Fernández,es ESP,GK,Osasuna,31-332,1991,14,14,1260,14.0,13,0.93,51,38,74.5,5,5,4,6,42.9,0,0,0,0,,Matches
+f127d782,Álvaro Fernández,es ESP,GK,Espanyol,24-352,1998,11,11,990,11.0,18,1.64,50,33,64.0,3,4,4,2,18.2,0,0,0,0,,Matches
+dabb2827,Fernando,es ESP,GK,Almería,32-294,1990,25,25,2205,24.5,41,1.67,135,94,71.9,7,5,13,2,8.0,5,3,1,1,25.0,Matches
+63d17038,Paulo Gazzaniga,ar ARG,GK,Girona,31-088,1992,16,16,1440,16.0,23,1.44,68,44,69.1,6,5,5,1,6.3,4,2,1,1,33.3,Matches
+fea23125,David Gil,es ESP,GK,Cádiz,29-079,1994,1,1,90,1.0,1,1.00,5,4,100.0,0,1,0,0,0.0,1,1,0,0,0.0,Matches
+3f034750,Ivo Grbić,hr CRO,GK,Atlético Madrid,27-072,1996,4,2,208,2.3,2,0.87,9,7,88.9,1,1,0,1,50.0,1,1,0,0,0.0,Matches
+a4995f48,Sergio Herrera,es ESP,GK,Osasuna,29-299,1993,12,12,1080,12.0,14,1.17,46,31,71.7,4,2,6,2,16.7,4,1,1,2,50.0,Matches
+0107757e,Filip Jörgensen,dk DEN,GK,Villarreal,20-349,2002,1,1,90,1.0,1,1.00,3,2,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+2fa2a875,Benjamin Lecomte,fr FRA,GK,Espanyol,31-339,1991,10,10,899,10.0,14,1.40,40,27,65.0,1,5,4,1,10.0,0,0,0,0,,Matches
+6c4776b1,Jeremías Ledesma,ar ARG,GK,Cádiz,30-046,1993,25,25,2250,25.0,37,1.48,138,100,78.3,6,9,10,9,36.0,8,7,1,0,12.5,Matches
+73683fa9,Diego López,es ESP,GK,Rayo Vallecano,41-148,1981,1,1,90,1.0,3,3.00,4,1,25.0,0,0,1,0,0.0,0,0,0,0,,Matches
+3061e1ec,Andriy Lunin,ua UKR,GK,Real Madrid,24-048,1999,6,6,540,6.0,3,0.50,13,11,76.9,4,1,1,3,50.0,0,0,0,0,,Matches
+d4b73232,Giorgi Mamardashvili,ge GEO,GK,Valencia,22-183,2000,26,26,2340,26.0,31,1.19,107,78,72.9,7,5,14,5,19.2,5,2,0,3,0.0,Matches
+853b7c48,Agustín Marchesín,ar ARG,GK,Celta Vigo,35-015,1988,19,19,1710,19.0,29,1.53,72,42,62.5,5,5,9,6,31.6,4,2,2,0,50.0,Matches
+d9235a45,Diego Mariño,es ESP,GK,Almería,32-326,1990,1,0,45,0.5,2,4.00,5,3,60.0,0,0,0,0,,0,0,0,0,,Matches
+8fae77ea,Jordi Masip,es ESP,GK,Valladolid,34-087,1989,17,17,1517,16.9,23,1.36,86,60,76.7,6,2,9,5,29.4,6,3,3,0,50.0,Matches
+ee8508c0,Jan Oblak,si SVN,GK,Atlético Madrid,30-083,1993,24,24,2132,23.7,17,0.72,69,52,76.8,14,5,5,10,41.7,2,1,0,1,0.0,Matches
+97852360,Fernando Pacheco,es ESP,GK,Espanyol,30-317,1992,5,5,450,5.0,9,1.80,25,16,68.0,2,0,3,1,20.0,1,1,0,0,0.0,Matches
+97852360,Fernando Pacheco,es ESP,GK,Almería,30-317,1992,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
+58ad9383,Predrag Rajković,rs SRB,GK,Mallorca,27-151,1995,26,26,2340,26.0,27,1.04,89,61,75.3,9,5,12,8,30.8,6,5,1,0,16.7,Matches
+e358587b,Pepe Reina,es ESP,GK,Villarreal,40-212,1982,11,11,990,11.0,13,1.18,40,27,75.0,6,2,3,3,27.3,3,3,0,0,0.0,Matches
+374ee424,Álex Remiro,es ESP,GK,Real Sociedad,28-007,1995,26,26,2340,26.0,24,0.92,91,68,73.6,14,6,6,10,38.5,1,0,1,0,100.0,Matches
+625c144a,Gerónimo Rulli,ar ARG,GK,Villarreal,30-315,1992,14,14,1260,14.0,10,0.71,56,46,82.1,6,3,5,7,50.0,0,0,0,0,,Matches
+ea83bfa6,Rui Silva,pt POR,GK,Betis,29-052,1994,20,20,1800,20.0,21,1.05,75,54,73.3,11,3,6,8,40.0,1,1,0,0,0.0,Matches
+5dcf3e90,Unai Simón,es ESP,GK,Athletic Club,25-293,1997,22,22,1935,21.5,25,1.16,73,50,67.1,9,5,8,8,36.4,1,1,0,0,0.0,Matches
+8f8c6934,David Soria,es ESP,GK,Getafe,29-361,1993,26,26,2340,26.0,34,1.31,117,82,73.5,7,8,11,8,30.8,6,3,3,0,50.0,Matches
+6f51e382,Marc-André ter Stegen,de GER,GK,Barcelona,30-335,1992,26,26,2340,26.0,9,0.35,60,53,88.3,22,2,2,19,73.1,2,2,0,0,0.0,Matches
+cde52ef5,Iván Villar,es ESP,GK,Celta Vigo,25-265,1997,7,7,630,7.0,6,0.86,26,20,80.8,4,2,1,3,42.9,1,1,0,0,0.0,Matches
