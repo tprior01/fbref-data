@@ -1,5 +1,5 @@
 id,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
-47064058,Oliver Baumann,de GER,GK,Hoffenheim,32-305,1990,25,25,2250,25.0,45,1.80,122,78,63.9,6,4,15,4,16.0,2,1,0,1,0.0,Matches
+47064058,Oliver Baumann,de GER,GK,Hoffenheim,32-305,1990,26,26,2340,26.0,46,1.77,126,81,64.3,7,4,15,4,15.4,2,1,0,1,0.0,Matches
 663e080e,Janis Blaswich,de GER,GK,RB Leipzig,31-336,1991,19,19,1710,19.0,23,1.21,59,35,69.5,10,4,5,4,21.1,6,5,1,0,16.7,Matches
 d28339cb,Fabian Bredlow,de GER,GK,Stuttgart,28-032,1995,7,7,630,7.0,11,1.57,30,20,70.0,1,1,5,1,14.3,2,2,0,0,0.0,Matches
 db401046,Koen Casteels,be BEL,GK,Wolfsburg,30-282,1992,26,26,2340,26.0,34,1.31,105,72,71.4,10,9,7,10,38.5,6,4,1,1,20.0,Matches
@@ -19,12 +19,12 @@ b56dd813,Alexander Meyer,de GER,GK,Dortmund,31-355,1991,7,7,630,7.0,12,1.71,32,2
 cbac6ec9,Florian Müller,de GER,GK,Stuttgart,25-141,1997,19,19,1710,19.0,34,1.79,87,53,62.1,3,7,9,1,5.3,1,1,0,0,0.0,Matches
 8778c910,Manuel Neuer,de GER,GK,Bayern Munich,37-007,1986,12,12,1080,12.0,11,0.92,44,33,79.5,7,4,1,4,33.3,2,2,0,0,0.0,Matches
 bdedffac,Ørjan Nyland,no NOR,GK,RB Leipzig,32-205,1990,1,1,90,1.0,0,0.00,1,1,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
-c631f952,Jonas Omlin,ch SUI,GK,M'Gladbach,29-083,1994,8,8,660,7.3,14,1.91,33,19,60.6,2,2,4,1,12.5,1,1,0,0,0.0,Matches
-0a1cb833,Jiří Pavlenka,cz CZE,GK,Werder Bremen,30-354,1992,24,24,2098,23.3,45,1.93,121,77,63.6,9,3,12,4,16.7,2,1,1,0,50.0,Matches
+c631f952,Jonas Omlin,ch SUI,GK,M'Gladbach,29-083,1994,9,9,750,8.3,14,1.68,38,24,65.8,2,3,4,2,22.2,1,1,0,0,0.0,Matches
+0a1cb833,Jiří Pavlenka,cz CZE,GK,Werder Bremen,30-354,1992,25,25,2188,24.3,47,1.93,123,77,62.6,9,3,13,4,16.0,2,1,1,0,50.0,Matches
 b90c4a43,Diant Ramaj,de GER,GK,Eint Frankfurt,21-196,2001,1,1,90,1.0,1,1.00,5,4,80.0,0,1,0,0,0.0,0,0,0,0,,Matches
 9f941969,Manuel Riemann,de GER,GK,Bochum,34-206,1988,26,26,2340,26.0,57,2.19,161,104,69.6,8,2,16,4,15.4,13,8,3,2,27.3,Matches
 a70b8345,Frederik Rønnow,dk DEN,GK,Union Berlin,30-242,1992,21,21,1890,21.0,17,0.81,86,69,82.6,13,5,3,8,38.1,2,2,0,0,0.0,Matches
-87436846,Marvin Schwäbe,de GER,GK,Köln,27-343,1995,25,25,2250,25.0,44,1.76,99,57,59.6,6,9,10,5,20.0,5,4,1,0,20.0,Matches
+87436846,Marvin Schwäbe,de GER,GK,Köln,27-343,1995,26,26,2340,26.0,44,1.69,101,59,60.4,6,10,10,6,23.1,5,4,1,0,20.0,Matches
 0d55d942,Alexander Schwolow,de GER,GK,Schalke 04,30-305,1992,17,17,1530,17.0,41,2.41,102,61,62.7,2,3,12,2,11.8,3,3,0,0,0.0,Matches
 0d8a37c2,Tobias Sippel,de GER,GK,M'Gladbach,35-012,1988,6,5,510,5.7,12,2.12,33,21,66.7,1,1,3,1,20.0,1,1,0,0,0.0,Matches
 420c18a1,Yann Sommer,ch SUI,GK,M'Gladbach,34-107,1988,10,10,900,10.0,14,1.40,60,47,80.0,4,4,2,3,30.0,2,2,0,0,0.0,Matches
