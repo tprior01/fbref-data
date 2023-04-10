@@ -1,726 +1,726 @@
 id,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-1339039e,Liel Abada,il ISR,"FW,MF",sct Celtic,21-182,2001,2.4,59,58,1,0,0,0,10,1,0,0,0,0,39,0,4,Matches
-8f5cdf66,Oliver Abildgaard,dk DEN,MF,sct Celtic,26-297,1996,0.7,33,33,0,0,0,0,0,0,0,0,0,0,24,0,1,Matches
-f417a1fa,Mohammad Abu Fani,il ISR,MF,il Maccabi Haifa,24-341,1998,4.4,230,218,10,2,0,5,2,2,5,0,0,0,198,2,4,Matches
-b96b595c,Francesco Acerbi,it ITA,DF,it Inter,35-052,1988,5.2,336,323,13,8,0,2,0,3,0,0,0,0,306,0,2,Matches
-81442ecb,Marcos Acuña,ar ARG,"DF,MF",es Sevilla,31-157,1991,2.4,97,78,19,0,0,0,9,18,1,0,1,0,67,0,3,Matches
-82e12fe7,Chikwubuike Adamu,at AUT,FW,at RB Salzburg,21-301,2001,2.3,48,47,1,0,0,0,5,0,0,0,0,0,25,0,5,Matches
-65d62814,Antonio Adán,es ESP,GK,pt Sporting CP,35-325,1987,4.2,219,164,55,20,0,1,0,0,0,0,0,0,153,0,0,Matches
-ee926a02,Arijan Ademi,mk MKD,MF,hr Dinamo Zagreb,31-309,1991,5.2,147,141,6,2,0,1,0,0,0,0,0,0,122,0,5,Matches
-501055d8,Karim Adeyemi,de GER,"FW,MF",de Dortmund,21-075,2002,4.2,101,100,1,0,0,0,6,1,0,0,0,0,77,0,5,Matches
-dcfb17f4,Amine Adli,fr FRA,"FW,MF",de Leverkusen,22-328,2000,1.3,64,62,2,0,1,0,4,1,1,0,0,0,44,0,2,Matches
-89ac64a6,Manuel Akanji,ch SUI,DF,eng Manchester City,27-258,1995,5.5,495,482,13,5,0,2,0,8,0,0,0,0,459,0,2,Matches
-eaeca114,Nathan Aké,nl NED,DF,eng Manchester City,28-044,1995,4.0,434,416,17,6,1,4,4,11,0,0,0,0,405,1,4,Matches
-05439de2,David Alaba,at AUT,DF,es Real Madrid,30-283,1992,4.4,322,300,22,5,0,0,14,15,2,0,2,0,279,0,2,Matches
-834d0be5,Lucas Alario,ar ARG,"FW,MF",de Eint Frankfurt,30-177,1992,0.2,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-4601e194,Jordi Alba,es ESP,DF,es Barcelona,34-013,1989,1.6,183,166,17,3,1,0,9,14,0,0,0,0,162,0,0,Matches
-77e84962,Thiago Alcántara,es ESP,MF,eng Liverpool,31-357,1991,3.4,232,224,8,6,1,9,2,2,0,0,0,0,205,0,3,Matches
-cd1acf9d,Trent Alexander-Arnold,eng ENG,DF,eng Liverpool,24-178,1998,6.9,528,421,106,20,2,9,57,62,24,4,19,0,405,1,7,Matches
-4288f249,Sotiris Alexandropoulos,gr GRE,MF,pt Sporting CP,21-128,2001,1.3,42,40,2,1,0,1,0,0,0,0,0,0,33,0,2,Matches
-00f518d8,Faride Alidou,de GER,"DF,FW",de Eint Frankfurt,21-259,2001,0.8,38,32,6,1,0,0,2,5,0,0,0,0,32,0,0,Matches
-7a2e46a8,Alisson,br BRA,GK,eng Liverpool,30-183,1992,8.0,274,225,47,10,0,1,0,0,0,0,0,0,242,2,0,Matches
-f4290206,Marcos Alonso,es ESP,DF,es Barcelona,32-096,1990,4.5,418,387,30,8,0,3,12,18,4,0,4,0,376,1,4,Matches
-8ce30c57,Éder Álvarez Balanta,co COL,"MF,FW",be Club Brugge,30-034,1993,0.6,17,16,1,1,0,0,0,0,0,0,0,0,13,0,0,Matches
-8b3ab7ad,Edson Álvarez,mx MEX,MF,nl Ajax,25-161,1997,5.9,364,359,5,5,0,1,0,0,0,0,0,0,312,0,4,Matches
-15ab5a2b,Julián Álvarez,ar ARG,FW,eng Manchester City,23-062,2000,4.9,103,99,4,0,2,1,2,0,0,0,0,0,86,0,2,Matches
-555d5edd,Nadiem Amiri,de GER,"MF,FW",de Leverkusen,26-158,1996,1.4,64,62,0,0,0,1,1,0,0,0,0,0,51,2,3,Matches
-e0b113a7,Robert Andrich,de GER,MF,de Leverkusen,28-193,1994,4.5,207,200,6,5,1,2,0,1,0,0,0,0,176,1,2,Matches
-df525574,Peter Ankersen,dk DEN,DF,dk FC Copenhagen,32-193,1990,0.3,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-a2ea941d,Ofri Arad,il ISR,"DF,MF",il Maccabi Haifa,24-204,1998,0.2,11,11,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
-56413b1f,Charles Aránguiz,cl CHI,MF,de Leverkusen,33-351,1989,2.4,154,151,3,1,1,3,0,2,0,0,0,0,146,0,1,Matches
-353eb529,Henrique Araújo,pt POR,FW,pt Benfica,21-074,2002,0.1,8,8,0,0,0,0,2,0,0,0,0,0,5,0,0,Matches
-2bef2bca,Ronald Araújo,uy URU,DF,es Barcelona,24-027,1999,1.0,55,49,6,5,0,3,0,1,0,0,0,0,47,0,0,Matches
-b1313ec4,Scott Arfield,ca CAN,MF,sct Rangers,34-153,1988,3.0,87,83,3,0,0,0,2,0,3,0,1,0,59,1,4,Matches
-e2ae54db,Hákon Arnar Haraldsson,is ISL,FW,dk FC Copenhagen,19-358,2003,3.3,100,90,9,0,0,1,3,0,3,3,0,0,79,1,1,Matches
-28d596a0,Kepa Arrizabalaga,es ESP,GK,eng Chelsea,28-182,1994,7.0,204,159,44,9,0,0,0,0,0,0,0,0,146,1,0,Matches
-184ad240,Arthur,br BRA,"MF,FW",pt Sporting CP,24-274,1998,1.2,43,39,4,0,1,0,3,2,1,1,0,0,33,0,3,Matches
-45af8a54,Marco Asensio,es ESP,"FW,MF",es Real Madrid,27-072,1996,2.9,170,160,10,1,2,3,10,4,5,3,0,0,147,0,2,Matches
-0fdcef0e,Kristjan Asllani,al ALB,MF,it Inter,21-025,2002,1.4,74,60,12,5,0,0,8,0,7,3,3,0,59,2,2,Matches
-92fffd91,Omer Atzili,il ISR,"FW,MF",il Maccabi Haifa,29-250,1993,3.4,119,101,17,6,3,0,15,3,8,4,1,0,80,1,5,Matches
-d5dd5f1f,Pierre-Emerick Aubameyang,ga GAB,FW,eng Chelsea,33-289,1989,4.5,102,94,6,0,0,0,3,0,0,0,0,0,78,2,3,Matches
-32feb0cf,Lynnt Audoor,be BEL,MF,be Club Brugge,19-172,2003,0.1,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-f0677ed7,Fredrik Aursnes,no NOR,"FW,MF",pt Benfica,27-114,1995,4.9,240,236,2,0,1,5,4,2,0,0,0,0,192,2,10,Matches
-10549b49,Sardar Azmoun,ir IRN,FW,de Leverkusen,28-092,1995,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-53cad200,César Azpilicueta,es ESP,DF,eng Chelsea,33-218,1989,2.9,288,257,31,13,0,0,4,18,0,0,0,0,256,0,2,Matches
-ca002b1a,Youri Baas,nl NED,DF,nl Ajax,20-017,2003,0.5,27,25,2,0,1,0,0,2,0,0,0,0,23,0,0,Matches
-78f21137,Alexander Bah,dk DEN,DF,pt Benfica,25-115,1997,7.3,532,454,75,6,1,3,23,69,0,0,0,0,420,3,9,Matches
-a1232f4e,Eric Bailly,ci CIV,DF,fr Marseille,28-356,1994,3.4,203,192,8,7,0,0,0,1,0,0,0,0,174,3,0,Matches
-32e8417f,Stefan Bajcetic,es ESP,MF,eng Liverpool,18-163,2004,1.2,76,76,0,0,0,2,0,0,0,0,0,0,60,0,2,Matches
-a8567629,Mitchel Bakker,nl NED,"MF,DF",de Leverkusen,22-287,2000,3.8,211,194,17,1,0,2,6,16,0,0,0,0,171,0,4,Matches
-5ccc9672,Alejandro Balde,es ESP,DF,es Barcelona,19-167,2003,1.9,138,116,21,2,0,0,9,19,0,0,0,0,120,1,4,Matches
-7c3ed041,Leonardo Balerdi,ar ARG,DF,fr Marseille,24-067,1999,5.5,370,358,8,8,0,2,1,0,0,0,0,0,322,4,2,Matches
-f449640d,Fodé Ballo-Touré,sn SEN,"DF,MF",it Milan,26-090,1997,1.5,72,60,12,2,0,0,3,10,0,0,0,0,60,0,3,Matches
-6f1d7aa8,Tommaso Barbieri,it ITA,MF,it Juventus,20-220,2002,0.0,6,6,0,0,0,0,1,0,0,0,0,0,4,0,1,Matches
-88ce7ddc,Roony Bardghji,se SWE,FW,dk FC Copenhagen,17-139,2005,1.1,24,22,2,1,0,1,1,0,1,1,0,0,15,0,0,Matches
-6928979a,Nicolò Barella,it ITA,MF,it Inter,26-055,1997,6.3,228,226,2,2,2,6,7,0,0,0,0,0,181,0,10,Matches
-712dd708,Borna Barišić,hr CRO,DF,sct Rangers,30-144,1992,5.2,268,218,50,13,0,0,27,31,6,1,5,0,221,0,4,Matches
-6caffe81,Enzo Barrenechea,ar ARG,DF,it Juventus,21-316,2001,0.0,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-45736cec,Pablo Barrios,es ESP,MF,es Atlético Madrid,19-292,2003,0.1,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
-a36524bf,Calvin Bassey,ng NGA,DF,nl Ajax,23-093,1999,6.0,434,410,24,9,0,5,1,6,0,0,0,0,387,0,1,Matches
-29b7b767,Fortune Bassey,ng NGA,FW,cz Viktoria Plzeň,24-179,1998,1.5,27,25,2,0,0,0,0,0,0,0,0,0,22,0,0,Matches
-75b86fb3,Alessandro Bastoni,it ITA,DF,it Inter,23-355,1999,6.2,373,344,27,16,0,7,16,9,0,0,0,0,312,2,2,Matches
-37d39918,Dylan Batubinsika,fr FRA,DF,il Maccabi Haifa,27-047,1996,5.0,198,189,9,9,0,1,0,0,0,0,0,0,174,0,2,Matches
-d1eda5f0,Martin Baturina,hr CRO,MF,hr Dinamo Zagreb,20-046,2003,0.7,37,35,1,1,0,0,1,0,0,0,0,0,29,1,3,Matches
-e3756e72,Raoul Bellanova,it ITA,"DF,MF",it Inter,22-321,2000,1.2,47,38,8,0,0,1,9,8,0,0,0,0,31,1,4,Matches
-f874dd44,Héctor Bellerín,es ESP,DF,es Barcelona,28-015,1995,2.0,98,79,18,1,0,1,5,17,0,0,0,0,79,1,4,Matches
-57d88cf9,Jude Bellingham,eng ENG,MF,de Dortmund,19-278,2003,7.0,335,329,5,3,3,7,5,1,0,0,0,0,274,1,4,Matches
-db092d3b,Ismaël Bennacer,dz ALG,MF,it Milan,25-123,1997,4.6,306,293,12,10,1,3,3,1,1,0,1,0,261,1,1,Matches
-3b8674e6,Rodrigo Bentancur,uy URU,"MF,FW",eng Tottenham,25-282,1997,5.6,365,358,7,5,3,0,3,0,0,0,0,0,316,0,3,Matches
-70d74ece,Karim Benzema,fr FRA,FW,es Real Madrid,35-105,1987,4.5,192,182,8,0,1,0,0,0,1,0,0,0,167,2,2,Matches
-713c144a,Steven Berghuis,nl NED,"MF,FW",nl Ajax,31-105,1991,5.1,274,244,26,6,0,6,24,5,15,11,0,0,204,4,4,Matches
-a29b1131,Steven Bergwijn,nl NED,FW,nl Ajax,25-177,1997,5.8,205,198,7,0,2,3,3,3,4,0,0,0,184,0,4,Matches
-67b09a18,Alexandro Bernabei,ar ARG,FW,sct Celtic,22-191,2000,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-17370b95,Bernardo,br BRA,DF,at RB Salzburg,27-324,1995,3.0,73,67,5,5,0,1,0,0,0,0,0,0,49,1,1,Matches
-433dc9a2,Juan Bernat,es ESP,DF,fr Paris S-G,30-033,1993,3.1,200,185,15,2,0,0,2,13,0,0,0,0,183,0,2,Matches
-505486d6,Victor Bernth Kristiansen,dk DEN,"DF,MF",dk FC Copenhagen,20-108,2002,5.4,251,209,41,9,0,1,18,27,5,2,2,0,188,1,6,Matches
-d00fd50a,Modou Biramé Ndiaye,sn SEN,MF,cz Viktoria Plzeň,26-156,1996,2.0,61,61,0,0,0,1,0,0,0,0,0,0,46,0,2,Matches
-6c203af0,Yves Bissouma,ml MLI,MF,eng Tottenham,26-216,1996,1.0,72,70,2,2,0,1,0,0,0,0,0,0,65,0,0,Matches
-663e080e,Janis Blaswich,de GER,GK,de RB Leipzig,31-336,1991,5.9,263,218,43,8,0,0,0,0,0,0,0,0,219,2,1,Matches
-691bef82,Daley Blind,nl NED,DF,nl Ajax,33-025,1990,4.5,333,288,43,4,0,1,4,34,1,0,0,0,277,2,7,Matches
-73b9fa8a,Petar Bočkaj,hr CRO,"DF,FW",hr Dinamo Zagreb,26-254,1996,0.4,21,16,5,1,0,0,5,2,2,2,0,0,12,0,3,Matches
-08fe932d,Nicolai Boilesen,dk DEN,DF,dk FC Copenhagen,31-046,1992,1.1,84,82,2,2,0,0,0,0,0,0,0,0,81,0,0,Matches
-7713c72a,Valerii Bondar,ua UKR,DF,ua Shakhtar,24-035,1999,6.0,344,338,6,6,0,2,0,0,0,0,0,0,317,0,4,Matches
-415568b5,Artem Bondarenko,ua UKR,MF,ua Shakhtar,22-225,2000,5.4,277,268,9,6,1,0,2,1,2,2,0,0,242,0,5,Matches
-52ec54d0,Leonardo Bonucci,it ITA,DF,it Juventus,35-337,1987,4.9,303,274,26,11,1,1,1,2,0,0,0,0,262,3,0,Matches
-4d1c4a5d,Gonçalo Borges,pt POR,"MF,FW",pt Porto,22-005,2001,0.4,15,15,0,0,0,0,1,0,0,0,0,0,9,0,0,Matches
-c68da769,Rafael Borré,co COL,FW,de Eint Frankfurt,27-200,1995,2.5,70,66,4,0,0,0,2,2,0,0,0,0,56,0,2,Matches
-f6798fc3,Yassine Bounou,ma MAR,GK,es Sevilla,31-363,1991,4.0,208,156,52,9,0,1,0,0,0,0,0,0,166,0,0,Matches
-7c473e12,Dedryck Boyata,be BEL,DF,be Club Brugge,32-126,1990,1.5,79,75,4,4,0,0,0,0,0,0,0,0,66,0,0,Matches
-a167537f,Julian Brandt,de GER,"MF,FW",de Dortmund,26-336,1996,5.3,247,225,20,4,1,2,18,3,12,2,9,0,199,2,7,Matches
-5fd5ed86,Gleison Bremer,br BRA,DF,it Juventus,26-016,1997,3.0,143,141,2,2,0,0,0,0,0,0,0,0,122,0,2,Matches
-4c184730,Brian Brobbey,nl NED,FW,nl Ajax,21-061,2002,1.3,25,18,7,0,0,0,1,0,0,0,0,0,19,0,0,Matches
-97220da2,Armando Broja,al ALB,FW,eng Chelsea,21-205,2001,1.3,31,31,0,0,0,0,0,0,0,0,0,0,24,0,1,Matches
-33b8d077,Marcelo Brozović,hr CRO,MF,it Inter,30-138,1992,2.3,196,180,15,8,1,4,7,1,6,1,5,0,175,1,4,Matches
-7b5ab7f2,Bryan,es ESP,MF,eng Tottenham,22-051,2001,0.4,20,20,0,0,0,1,3,0,0,0,0,0,13,0,2,Matches
-3235182a,Pavel Bucha,cz CZE,MF,cz Viktoria Plzeň,25-023,1998,4.0,132,131,1,0,0,0,4,0,1,1,0,0,115,0,4,Matches
-3aca6420,Tajon Buchanan,ca CAN,"DF,MF",be Club Brugge,24-054,1999,5.8,147,126,21,1,0,1,12,20,0,0,0,0,112,0,4,Matches
-eaeefc50,Marko Bulat,hr CRO,MF,hr Dinamo Zagreb,21-189,2001,0.3,23,22,1,1,0,0,0,0,0,0,0,0,19,0,0,Matches
-5ab0ea87,Sergio Busquets,es ESP,MF,es Barcelona,34-261,1988,3.2,166,155,11,11,0,2,0,0,0,0,0,0,138,0,4,Matches
-b4705807,Aurélio Buta,pt POR,DF,de Eint Frankfurt,26-052,1997,1.8,59,40,19,0,0,0,5,19,0,0,0,0,37,0,0,Matches
-10745192,Jamie Bynoe-Gittens,eng ENG,MF,de Dortmund,18-238,2004,0.4,12,11,1,0,0,0,1,1,0,0,0,0,8,0,1,Matches
-e34e086c,Jovane Cabral,cv CPV,MF,pt Sporting CP,24-293,1998,0.1,8,8,0,0,0,0,2,0,0,0,0,0,6,0,0,Matches
-2146785a,Davide Calabria,it ITA,DF,it Milan,26-118,1996,1.6,111,93,17,1,0,1,4,16,0,0,0,0,92,1,3,Matches
-cd0fa27b,Hakan Çalhanoğlu,tr TUR,MF,it Inter,29-054,1994,6.0,344,304,38,14,1,5,35,1,23,6,15,0,291,2,5,Matches
-7b9c2d84,Eduardo Camavinga,fr FRA,MF,es Real Madrid,20-144,2002,4.4,255,249,5,4,0,0,0,1,0,0,0,0,223,1,6,Matches
-a65ce836,Emre Can,de GER,MF,de Dortmund,29-081,1994,6.3,297,287,10,8,1,4,1,2,0,0,0,0,252,0,7,Matches
-bd6351cd,João Cancelo,pt POR,"DF,FW",de Bayern Munich,28-311,1994,0.6,62,53,9,1,0,0,3,8,0,0,0,0,52,0,2,Matches
-bd6351cd,João Cancelo,pt POR,DF,eng Manchester City,28-311,1994,4.2,416,383,32,7,1,4,24,25,0,0,0,0,352,1,9,Matches
-6885cc44,Nicolás Capaldo,ar ARG,MF,at RB Salzburg,25-201,1997,3.0,76,74,2,0,0,0,5,2,0,0,0,0,43,0,4,Matches
-707b98f1,Valentin Carboni,it ITA,FW,it Inter,18-029,2005,0.2,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-4a5839fa,Fábio Cardoso,pt POR,DF,pt Porto,28-349,1994,4.0,213,208,5,5,0,1,1,0,0,0,0,0,189,0,1,Matches
-3ce20eda,David Carmo,pt POR,DF,pt Porto,23-258,1999,5.0,214,197,16,11,0,2,2,0,0,0,0,0,166,1,1,Matches
-2dce876a,Carmona,es ESP,DF,es Sevilla,21-064,2002,5.0,298,272,26,10,0,2,10,14,0,0,0,0,257,0,10,Matches
-de39485a,Yannick Carrasco,be BEL,"DF,MF",es Atlético Madrid,29-211,1993,3.0,180,142,38,7,1,1,23,20,10,8,2,0,137,0,3,Matches
-88ced02c,Cameron Carter-Vickers,us USA,DF,sct Celtic,25-093,1997,4.0,299,297,2,2,1,2,0,0,0,0,0,0,285,0,0,Matches
-4958bfb2,Dani Carvajal,es ESP,DF,es Real Madrid,31-082,1992,5.9,422,365,57,8,0,0,15,48,1,0,0,0,362,0,5,Matches
-966e28d0,Fabio Carvalho,pt POR,"MF,FW",eng Liverpool,20-216,2002,1.3,55,55,0,0,1,0,1,0,0,0,0,0,46,0,0,Matches
-2ef08833,Marc Casado,es ESP,MF,es Barcelona,19-201,2003,0.3,29,28,1,1,0,0,0,0,0,0,0,0,26,0,1,Matches
-c0617e2b,Dani Ceballos,es ESP,"MF,FW",es Real Madrid,26-239,1996,0.6,51,49,2,0,0,1,1,0,2,0,1,0,44,0,2,Matches
-a33a0dc0,Aleš Čermák,cz CZE,MF,cz Viktoria Plzeň,28-184,1994,0.4,30,27,2,0,0,0,2,0,2,1,0,0,24,1,0,Matches
-2180c761,El Chadaille Bitshiabu,fr FRA,DF,fr Paris S-G,17-322,2005,0.5,27,27,0,0,0,0,0,0,0,0,0,0,26,0,1,Matches
-5515376c,Trevoh Chalobah,eng ENG,DF,eng Chelsea,23-272,1999,3.6,243,235,8,6,1,1,0,2,0,0,0,0,218,0,0,Matches
-b3b7f5a6,Timothy Chandler,us USA,DF,de Eint Frankfurt,33-005,1990,0.1,6,4,2,0,0,0,0,2,0,0,0,0,5,0,1,Matches
-71031a25,Tjaronn Chery,sr SUR,"MF,FW",il Maccabi Haifa,34-303,1988,6.0,256,223,29,1,3,1,14,0,8,2,2,0,204,4,4,Matches
-b0f7e36c,Federico Chiesa,it ITA,FW,it Juventus,25-160,1997,0.2,9,9,0,0,0,1,0,0,0,0,0,0,8,0,1,Matches
-d2424d1b,Ben Chilwell,eng ENG,"DF,MF",eng Chelsea,26-103,1996,5.5,335,285,50,10,0,1,31,24,16,9,7,0,265,0,5,Matches
-262e5a82,Chiquinho,pt POR,"MF,FW",pt Benfica,27-258,1995,2.6,166,150,13,4,1,2,8,0,9,3,4,0,145,3,1,Matches
-163bbd4a,Tomáš Chorý,cz CZE,FW,cz Viktoria Plzeň,28-067,1995,4.0,60,57,3,0,0,0,0,0,0,0,0,0,35,0,1,Matches
-1cb49278,Andreas Christensen,dk DEN,DF,es Barcelona,26-358,1996,2.4,229,221,8,7,0,1,0,1,0,0,0,0,217,0,0,Matches
-b3a712de,Viktor Claesson,se SWE,"FW,MF",dk FC Copenhagen,31-091,1992,5.4,175,171,3,1,2,2,0,0,0,0,0,0,139,1,3,Matches
-5219ab4a,Jonathan Clauss,fr FRA,DF,fr Marseille,30-190,1992,4.6,220,175,42,1,2,2,12,41,0,0,0,0,164,3,11,Matches
-b9beb6c5,William Clem,dk DEN,MF,dk FC Copenhagen,18-287,2004,1.9,74,73,1,1,0,0,0,0,0,0,0,0,66,0,0,Matches
-1fbbfbde,Sebastián Coates,uy URU,DF,pt Sporting CP,32-178,1990,4.4,202,192,10,9,0,1,0,0,0,0,0,0,178,0,0,Matches
-75c2e240,Josh Cohen,us USA,GK,il Maccabi Haifa,30-228,1992,6.0,145,98,45,6,0,0,0,0,0,0,0,0,107,2,0,Matches
-bfde3de5,Antonio Čolak,hr CRO,FW,sct Rangers,29-198,1993,3.2,42,32,10,0,0,0,1,0,0,0,0,0,27,0,0,Matches
-042e8a49,Kingsley Coman,fr FRA,"FW,DF",de Bayern Munich,26-294,1996,3.9,212,206,6,0,1,3,20,6,0,0,0,0,166,0,5,Matches
-5ef3d210,Francisco Conceição,pt POR,"FW,MF",nl Ajax,20-110,2002,0.2,14,11,3,1,0,0,0,2,0,0,0,0,13,0,0,Matches
-6fee9966,Rodrigo Conceição,pt POR,DF,pt Porto,23-091,2000,0.1,5,4,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
-c693347d,Andreas Cornelius,dk DEN,FW,dk FC Copenhagen,30-018,1993,1.2,30,30,0,0,0,1,0,0,0,0,0,0,18,0,0,Matches
-edeb21ff,Pierre Cornud,fr FRA,DF,il Maccabi Haifa,26-112,1996,4.1,202,177,24,4,1,0,21,20,0,0,0,0,161,1,1,Matches
-01eb744d,Ángel Correa,ar ARG,"FW,MF",es Atlético Madrid,28-025,1995,3.5,114,109,5,1,0,0,8,0,2,0,1,0,92,0,3,Matches
-45b9b619,Joaquín Correa,ar ARG,FW,it Inter,28-233,1994,2.7,73,71,2,1,1,0,0,1,0,0,0,0,62,0,3,Matches
-7b4c1f6e,Bruno Xavier Almeida Costa,pt POR,MF,pt Porto,25-349,1997,0.8,22,18,4,2,0,0,3,0,2,2,0,0,18,0,0,Matches
-93fffbcf,Diogo Costa,pt POR,GK,pt Porto,23-196,1999,8.0,380,311,67,19,0,3,0,0,0,0,0,0,276,2,0,Matches
-9dff291c,Soumaïla Coulibaly,fr FRA,DF,de Dortmund,19-171,2003,0.2,15,15,0,0,0,0,0,0,0,0,0,0,14,0,1,Matches
-1840e36d,Thibaut Courtois,be BEL,GK,es Real Madrid,30-327,1992,6.0,243,200,42,5,0,0,0,0,0,0,0,0,201,1,1,Matches
-0ab1f153,Juan Cuadrado,co COL,"DF,MF",it Juventus,34-312,1988,4.8,281,235,45,11,0,12,24,29,5,1,3,0,234,1,5,Matches
-1daec722,Marc Cucurella,es ESP,DF,eng Chelsea,24-255,1998,3.5,287,244,43,8,0,1,5,35,0,0,0,0,242,0,1,Matches
-dc62b55d,Matheus Cunha,br BRA,"FW,MF",es Atlético Madrid,23-311,1999,1.4,33,30,2,0,0,0,3,0,0,0,0,0,24,1,3,Matches
-44eb9093,Danilo D'Ambrosio,it ITA,DF,it Inter,34-206,1988,1.5,86,83,2,0,0,0,2,2,0,0,0,0,74,1,0,Matches
-94b2001f,Danilo,br BRA,DF,it Juventus,31-262,1991,4.7,274,253,20,2,0,3,8,18,0,0,0,0,232,1,3,Matches
-f08490a6,Arnaut Danjuma,nl NED,MF,eng Tottenham,26-062,1997,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-06a1d642,Mohammed Daramy,dk DEN,FW,dk FC Copenhagen,21-086,2002,4.9,139,124,15,1,0,0,5,4,0,0,0,0,111,0,9,Matches
-96e0490d,Matteo Darmian,it ITA,DF,it Inter,33-122,1989,4.2,155,132,23,3,0,1,9,20,0,0,0,0,116,0,4,Matches
-40f65c01,Dean David,il ISR,"FW,DF",il Maccabi Haifa,27-020,1996,2.6,49,46,3,0,0,0,2,3,0,0,0,0,28,0,5,Matches
-d781d855,Alphonso Davies,ca CAN,DF,de Bayern Munich,22-152,2000,5.5,321,279,40,8,0,2,3,32,0,0,0,0,282,2,6,Matches
-44781702,Ben Davies,wls WAL,DF,eng Tottenham,29-344,1993,4.4,228,216,12,5,0,1,2,7,0,0,0,0,187,0,2,Matches
-c9009a1f,Ben Davies,eng ENG,DF,sct Rangers,27-235,1995,2.9,152,147,5,5,0,0,0,0,0,0,0,0,121,0,0,Matches
-cf15bbb1,Steven Davis,nir NIR,MF,sct Rangers,38-092,1985,2.8,114,110,3,2,0,3,0,0,1,0,0,0,91,1,0,Matches
-e46012d4,Kevin De Bruyne,be BEL,MF,eng Manchester City,31-279,1991,3.9,221,197,24,4,5,5,38,3,17,4,6,1,153,0,4,Matches
-2ef7c612,Charles De Ketelaere,be BEL,"MF,FW",it Milan,22-024,2001,2.6,75,72,2,0,0,0,3,2,0,0,0,0,53,1,6,Matches
-162efffd,Rodrigo De Paul,ar ARG,MF,es Atlético Madrid,28-314,1994,2.8,244,221,19,7,0,3,20,7,5,2,1,0,189,4,3,Matches
-ae4e2852,Mattia De Sciglio,it ITA,DF,it Juventus,30-165,1992,1.1,60,53,7,0,0,2,6,7,0,0,0,0,45,0,3,Matches
-bc6e544a,Amar Dedić,ba BIH,DF,at RB Salzburg,20-228,2002,6.0,283,200,83,4,0,1,9,79,0,0,0,0,183,0,8,Matches
-fe641c1a,Thomas Delaney,dk DEN,MF,es Sevilla,31-212,1991,2.6,108,105,3,1,0,0,1,2,0,0,0,0,82,0,4,Matches
-b19db005,Ousmane Dembélé,fr FRA,FW,es Barcelona,25-323,1997,4.6,259,230,28,9,2,2,51,1,18,7,7,0,176,1,9,Matches
-54b4dc4e,Kerem Demirbay,de GER,MF,de Leverkusen,29-274,1993,3.0,228,198,30,3,0,1,29,4,21,7,13,0,175,0,6,Matches
-5976f83e,Sergiño Dest,us USA,DF,it Milan,22-151,2000,2.1,90,77,12,0,0,1,3,12,0,0,0,0,64,1,5,Matches
-230a2fac,Giovanni Di Lorenzo,it ITA,DF,it Napoli,29-242,1993,7.9,466,396,65,16,6,6,17,48,1,0,0,0,394,5,8,Matches
-19cda00b,Ángel Di María,ar ARG,FW,it Juventus,35-048,1988,1.6,78,65,11,2,4,2,10,1,8,5,2,0,53,2,1,Matches
-aeed5c06,Moussa Diaby,fr FRA,"FW,MF",de Leverkusen,23-270,1999,5.6,202,188,13,2,0,1,16,1,2,1,0,0,149,1,7,Matches
-fc62f087,Abdou Diallo,sn SEN,"DF,MF",de RB Leipzig,26-334,1996,2.5,191,183,7,4,0,2,1,2,0,0,0,0,174,1,1,Matches
-31c69ef1,Rúben Dias,pt POR,DF,eng Manchester City,25-324,1997,6.7,654,643,9,8,0,1,2,1,0,0,0,0,626,2,1,Matches
-407feb71,Brahim Díaz,es ESP,"MF,FW",it Milan,23-243,1999,3.4,113,108,5,3,2,0,5,0,0,0,0,0,91,0,3,Matches
-4a1a9578,Luis Díaz,co COL,FW,eng Liverpool,26-080,1997,3.0,99,97,2,0,0,1,2,2,0,0,0,0,79,0,2,Matches
-ac861941,Eric Dier,eng ENG,DF,eng Tottenham,29-078,1994,6.9,466,453,11,11,1,2,4,0,0,0,0,0,416,2,3,Matches
-f179ee11,Kevin Diks,nl NED,DF,dk FC Copenhagen,26-179,1996,3.7,161,141,20,1,0,1,2,19,0,0,0,0,119,0,3,Matches
-970b8574,Federico Dimarco,it ITA,DF,it Inter,25-144,1997,4.0,217,184,30,3,0,6,30,20,6,1,5,0,153,3,7,Matches
-95bb6ddc,Junior Dina Ebimbe,fr FRA,"MF,DF",de Eint Frankfurt,22-133,2000,2.7,110,90,19,1,0,2,3,18,0,0,0,0,86,1,3,Matches
-ac295d9e,Marko Dmitrović,rs SRB,GK,es Sevilla,31-069,1992,2.0,73,61,12,3,0,0,0,0,0,0,0,0,49,0,0,Matches
-d557d734,Matt Doherty,ie IRL,DF,eng Tottenham,31-077,1992,0.8,35,34,1,0,0,0,1,1,0,0,0,0,29,0,1,Matches
-cc83b74d,Kasper Dolberg,dk DEN,FW,es Sevilla,25-179,1997,1.2,19,15,4,0,0,0,0,0,0,0,0,0,15,0,1,Matches
-08f5afaa,Gianluigi Donnarumma,it ITA,GK,fr Paris S-G,24-037,1999,8.0,239,176,62,16,0,0,0,0,0,0,0,0,198,1,0,Matches
-1a992676,Julian Draxler,de GER,MF,pt Benfica,29-195,1993,0.4,15,15,0,0,0,0,0,0,0,0,0,0,13,0,0,Matches
-15ea94de,Josip Drmić,ch SUI,FW,hr Dinamo Zagreb,30-238,1992,1.1,22,20,2,0,0,0,1,0,0,0,0,0,15,0,0,Matches
-481c9ece,Denzel Dumfries,nl NED,DF,it Inter,26-350,1996,5.1,194,158,34,0,0,0,16,34,0,0,0,0,130,2,14,Matches
-3bb7f478,Edin Džeko,ba BIH,FW,it Inter,37-017,1986,5.5,154,144,9,1,0,2,4,2,0,0,0,0,104,1,6,Matches
-3bb7b8b4,Ederson,br BRA,GK,eng Manchester City,29-229,1993,6.0,199,164,34,8,0,2,0,0,0,0,0,0,176,1,0,Matches
-c8d1c3a5,Jorge Eduardo Sánchez,mx MEX,DF,nl Ajax,25-114,1997,3.0,136,114,22,1,0,0,3,21,0,0,0,0,115,0,5,Matches
-57760e66,Marcus Edwards,eng ENG,"FW,MF",pt Sporting CP,24-121,1998,3.9,113,105,8,0,2,0,6,1,3,3,0,0,85,0,4,Matches
-5b92d896,Hugo Ekitike,fr FRA,"MF,FW",fr Paris S-G,20-287,2002,0.7,14,13,1,0,0,0,0,0,0,0,0,0,11,0,0,Matches
-c8387671,Harvey Elliott,eng ENG,MF,eng Liverpool,19-364,2003,4.4,239,231,7,0,0,1,5,2,0,0,0,0,190,1,8,Matches
-cf007308,Elif Elmas,mk MKD,"MF,FW",it Napoli,23-191,1999,1.9,133,130,3,1,0,0,1,0,2,0,1,0,123,0,1,Matches
-df8b52a5,Emerson,br BRA,"DF,MF",eng Tottenham,24-079,1999,6.0,322,270,50,4,0,3,15,45,1,0,0,0,248,2,13,Matches
-04e17fd5,Youssef En-Nesyri,ma MAR,FW,es Sevilla,25-306,1997,2.7,28,20,8,0,0,0,2,0,0,0,0,0,19,0,1,Matches
-12dcbdcc,Ricardo Esgaio,pt POR,"DF,MF",pt Sporting CP,29-322,1993,1.2,49,43,6,0,0,1,1,6,0,0,0,0,34,0,2,Matches
-1e4319ac,Dario Essugo,pt POR,MF,pt Sporting CP,18-020,2005,0.3,10,10,0,0,0,0,1,0,0,0,0,0,7,0,0,Matches
-577efaec,Stephen Eustáquio,ca CAN,MF,pt Porto,26-103,1996,6.6,292,268,24,13,2,0,22,0,11,6,2,0,209,0,5,Matches
-6f3cc2fe,Evanilson,br BRA,FW,pt Porto,23-179,1999,5.7,134,129,5,1,1,0,1,1,0,0,0,0,109,0,2,Matches
-7f3b388c,Fabinho,br BRA,MF,eng Liverpool,29-162,1993,7.0,460,442,16,16,1,2,1,0,0,0,0,0,405,2,5,Matches
-366be751,Nicolò Fagioli,it ITA,MF,it Juventus,22-050,2001,1.2,70,68,2,2,0,0,1,0,0,0,0,0,67,0,0,Matches
-762179d9,Rasmus Falk,dk DEN,MF,dk FC Copenhagen,31-078,1992,2.1,101,100,1,1,0,0,0,0,0,0,0,0,89,0,5,Matches
-bceda5ff,Abdul Fatawu Issahaku,gh GHA,"MF,DF",pt Sporting CP,19-026,2004,1.0,27,19,8,0,0,0,2,5,3,2,0,0,20,0,0,Matches
-0ba976e4,Ansu Fati,es ESP,FW,es Barcelona,20-154,2002,2.7,105,102,3,0,0,0,4,1,2,2,0,0,90,0,1,Matches
-51a3c4c8,Felipe,br BRA,DF,es Atlético Madrid,33-322,1989,1.0,54,54,0,0,0,0,0,0,0,0,0,0,46,0,0,Matches
-8aafd64f,João Félix,pt POR,"MF,FW",eng Chelsea,23-144,1999,1.7,66,55,10,1,3,0,10,0,6,6,0,0,44,1,1,Matches
-8aafd64f,João Félix,pt POR,FW,es Atlético Madrid,23-144,1999,2.4,97,91,5,1,0,2,6,1,1,0,0,0,78,1,1,Matches
-ef491564,Mateus Fernandes,pt POR,MF,pt Sporting CP,18-267,2004,0.3,9,9,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-5ff4ab71,Enzo Fernández,ar ARG,MF,pt Benfica,22-076,2001,4.7,335,316,19,11,0,5,9,0,8,4,1,0,298,0,3,Matches
-5ff4ab71,Enzo Fernández,ar ARG,MF,eng Chelsea,22-076,2001,2.0,106,102,2,2,0,0,1,0,0,0,0,0,88,2,0,Matches
-d9d43555,Fernando,br BRA,FW,at RB Salzburg,24-033,1999,0.7,10,9,1,1,0,0,0,0,0,0,0,0,9,0,1,Matches
-41f32541,Fernando,br BRA,MF,es Sevilla,35-252,1987,1.0,72,70,2,2,0,2,0,0,0,0,0,0,69,0,1,Matches
-4c370d81,Roberto Firmino,br BRA,"FW,MF",eng Liverpool,31-183,1991,4.6,203,195,8,0,0,0,1,2,0,0,0,0,164,0,6,Matches
-ed1e53f3,Phil Foden,eng ENG,"FW,MF",eng Manchester City,22-310,2000,3.6,203,192,11,3,2,2,20,1,7,1,6,0,167,0,8,Matches
-132a82f1,Wesley Fofana,fr FRA,DF,eng Chelsea,22-107,2000,2.4,123,116,7,6,0,0,1,1,0,0,0,0,106,0,1,Matches
-58c6b67c,Bernardo Folha,pt POR,MF,pt Porto,21-011,2002,0.1,10,9,1,1,0,0,0,0,0,0,0,0,8,0,0,Matches
-e73659d3,James Forrest,sct SCO,FW,sct Celtic,31-270,1991,1.0,55,55,0,0,0,0,10,0,0,0,0,0,38,0,0,Matches
-9a2e0ccc,Emil Forsberg,se SWE,"MF,FW",de RB Leipzig,31-162,1991,4.5,150,141,9,1,3,1,2,1,2,0,2,0,132,0,3,Matches
-c3e39f12,Fraser Forster,eng ENG,GK,eng Tottenham,35-017,1988,2.0,55,43,12,2,0,0,0,0,0,0,0,0,47,0,0,Matches
-a9142dc3,Timothy Fosu-Mensah,nl NED,"MF,DF",de Leverkusen,25-091,1998,0.1,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-f620b04f,Lassina Franck Traoré,bf BFA,FW,ua Shakhtar,22-081,2001,2.7,49,42,6,0,1,0,0,0,0,0,0,0,35,1,3,Matches
-86df4d6b,André Franco,pt POR,MF,pt Porto,24-356,1998,0.2,19,15,4,1,0,0,6,0,3,2,1,0,12,0,0,Matches
-74f2e748,Jeremie Frimpong,nl NED,"MF,FW",de Leverkusen,22-114,2000,4.2,153,133,20,2,0,0,10,18,0,0,0,0,114,0,8,Matches
-fd4d5f81,Kyogo Furuhashi,jp JPN,FW,sct Celtic,28-073,1995,4.0,55,44,11,1,0,0,3,1,0,0,0,0,38,0,2,Matches
-c235e803,Matteo Gabbia,it ITA,DF,it Milan,23-164,1999,2.3,106,100,6,1,0,1,0,1,0,0,0,0,94,0,0,Matches
-3b387cc7,Gianluca Gaetano,it ITA,MF,it Napoli,22-333,2000,0.3,36,35,1,1,0,0,0,0,0,0,0,0,32,0,0,Matches
-ce30bfc8,Roberto Gagliardini,it ITA,MF,it Inter,28-361,1994,1.1,47,46,0,0,0,0,1,0,0,0,0,0,39,1,2,Matches
-1971591f,Cody Gakpo,nl NED,"FW,MF",eng Liverpool,23-331,1999,1.7,45,41,4,0,0,0,4,1,0,0,0,0,35,0,1,Matches
-5b3d1a7a,Galeno,br BRA,"FW,MF",pt Porto,25-163,1997,6.3,179,166,11,0,0,1,13,10,1,0,0,0,122,2,13,Matches
-c2731c10,Conor Gallagher,eng ENG,MF,eng Chelsea,23-056,2000,2.4,127,124,3,0,1,2,9,0,3,0,3,0,111,0,1,Matches
-2bed3eab,Eric García,es ESP,DF,es Barcelona,22-084,2001,2.5,190,184,6,6,1,2,2,0,0,0,0,0,183,0,0,Matches
-18dd3219,Federico Gatti,it ITA,DF,it Juventus,24-283,1998,2.0,67,64,3,2,0,3,1,0,0,0,0,0,61,0,0,Matches
-19cae58d,Gavi,es ESP,MF,es Barcelona,18-241,2004,3.7,168,160,8,3,0,0,7,0,0,0,0,0,141,0,6,Matches
-8827bf46,Gerson,br BRA,MF,fr Marseille,25-318,1997,1.3,63,58,3,3,0,0,2,0,0,0,0,0,52,2,1,Matches
-8d3d3b0a,Giorgos Giakoumakis,gr GRE,FW,sct Celtic,28-115,1994,2.7,34,34,0,0,0,0,0,0,0,0,0,0,21,0,2,Matches
-41eebdf5,Samuel Gigot,fr FRA,DF,fr Marseille,29-173,1993,2.8,170,165,5,3,0,0,2,2,0,0,0,0,156,0,0,Matches
-1338e42b,Gilberto,br BRA,DF,pt Benfica,30-027,1993,0.7,44,39,5,0,0,0,1,5,0,0,0,0,34,0,1,Matches
-16ceb862,Olivier Giroud,fr FRA,FW,it Milan,36-185,1986,6.6,151,137,12,1,1,1,2,0,0,0,0,0,95,2,7,Matches
-88e357ef,Serge Gnabry,de GER,"FW,MF",de Bayern Munich,27-263,1995,2.9,140,134,5,2,2,1,4,0,2,1,0,1,116,1,3,Matches
-0d4fd3a0,Sean Goldberg,il ISR,DF,il Maccabi Haifa,27-294,1995,6.0,266,253,13,9,0,3,0,4,0,0,0,0,227,0,3,Matches
-56f6f826,Connor Goldson,eng ENG,DF,sct Rangers,30-106,1992,3.5,152,141,10,10,0,1,0,0,0,0,0,0,115,1,3,Matches
-7a11550b,Joe Gomez,eng ENG,DF,eng Liverpool,25-315,1997,3.3,214,205,9,1,3,3,2,8,0,0,0,0,170,0,5,Matches
-6e4df551,Papu Gómez,ar ARG,"FW,MF",es Sevilla,35-047,1988,2.7,125,118,6,2,1,6,6,3,1,0,0,0,102,1,1,Matches
-01e5f06e,Sergio Gómez,es ESP,"DF,MF",eng Manchester City,22-211,2000,3.4,293,266,27,2,0,2,15,24,1,0,1,0,259,0,5,Matches
-f4b52308,Diogo Gonçalves,pt POR,"FW,MF",pt Benfica,26-056,1997,0.4,19,16,2,0,0,0,2,0,2,2,0,0,14,1,0,Matches
-c275947b,Pedro Gonçalves,pt POR,"MF,FW",pt Sporting CP,24-279,1998,4.0,127,120,7,4,1,2,4,0,2,2,0,0,92,0,1,Matches
-cc86b9a3,Leon Goretzka,de GER,MF,de Bayern Munich,28-056,1995,4.7,222,221,1,0,1,1,4,1,0,0,0,0,189,0,3,Matches
-2d970560,Robin Gosens,de GER,DF,it Inter,28-272,1994,3.9,191,169,21,1,0,2,10,20,0,0,0,0,152,1,4,Matches
-9efa1d25,Mario Götze,de GER,"MF,FW",de Eint Frankfurt,30-304,1992,5.8,252,228,21,6,1,0,12,2,4,3,1,0,189,3,4,Matches
-3cd7820a,Lucas Gourna-Douath,fr FRA,MF,at RB Salzburg,19-241,2003,3.5,154,152,1,1,0,0,1,0,0,0,0,0,118,1,2,Matches
-62182b1d,Kamil Grabara,pl POL,GK,dk FC Copenhagen,24-085,1999,4.0,124,89,35,7,0,0,0,0,0,0,0,0,79,0,0,Matches
-b8e740fb,Ryan Gravenberch,nl NED,MF,de Bayern Munich,20-322,2002,2.8,143,138,4,1,2,0,3,1,1,0,1,0,118,1,4,Matches
-3f034750,Ivo Grbić,hr CRO,GK,es Atlético Madrid,27-075,1996,1.0,30,20,10,1,0,0,0,0,0,0,0,0,20,0,0,Matches
-b0b4fd3e,Jack Grealish,eng ENG,"FW,MF",eng Manchester City,27-205,1995,5.4,302,288,13,2,1,2,10,5,6,4,0,0,263,1,7,Matches
-df69b544,Antoine Griezmann,fr FRA,"FW,MF",es Atlético Madrid,32-013,1991,4.5,245,225,19,3,3,3,20,2,12,11,0,1,190,1,3,Matches
-ffbbc83b,Florian Grillitsch,at AUT,MF,nl Ajax,27-239,1995,0.7,41,37,4,4,0,0,3,0,0,0,0,0,34,0,1,Matches
-b1f4086c,Álex Grimaldo,es ESP,DF,pt Benfica,27-195,1995,8.0,498,425,73,12,1,2,18,61,0,0,0,0,420,0,9,Matches
-8b8e759d,Marko Grujić,rs SRB,MF,pt Porto,26-355,1996,3.1,145,142,2,2,0,1,2,0,0,0,0,0,124,1,5,Matches
-0076ab7f,Nemanja Gudelj,rs SRB,"DF,MF",es Sevilla,31-138,1991,5.5,328,309,19,16,0,6,0,2,0,0,0,0,296,0,2,Matches
-e6bc67d7,Gonçalo Guedes,pt POR,FW,pt Benfica,26-125,1996,0.3,12,12,0,0,0,0,1,0,0,0,0,0,9,0,2,Matches
-5ea8ef20,Mattéo Guendouzi,fr FRA,MF,fr Marseille,23-354,1999,4.6,257,245,10,1,0,0,5,5,2,0,0,0,223,2,3,Matches
-048a1cbc,Raphaël Guerreiro,pt POR,DF,de Dortmund,29-102,1993,5.3,311,248,63,11,0,0,10,48,4,0,3,0,253,0,5,Matches
-7155e3e1,Pape Gueye,sn SEN,MF,fr Marseille,24-069,1999,0.4,51,50,1,1,0,2,0,0,0,0,0,0,47,0,0,Matches
-bcb2ccd8,Péter Gulácsi,hu HUN,GK,de RB Leipzig,32-332,1990,2.1,64,52,12,0,0,0,0,0,0,0,0,0,51,0,0,Matches
-819b3158,İlkay Gündoğan,de GER,MF,eng Manchester City,32-161,1990,6.2,515,501,12,7,1,0,5,1,3,1,1,1,461,2,7,Matches
-5ad50391,Joško Gvardiol,hr CRO,DF,de RB Leipzig,21-070,2002,6.0,476,466,9,7,0,10,0,2,0,0,0,0,423,1,5,Matches
-1f44ac21,Erling Haaland,no NOR,FW,eng Manchester City,22-256,2000,4.4,65,59,6,0,0,0,1,0,0,0,0,0,51,0,5,Matches
-92432bc6,Amadou Haidara,ml MLI,MF,de RB Leipzig,25-062,1998,3.8,191,190,0,0,1,0,0,0,0,0,0,0,173,1,2,Matches
-e42d61c7,Achraf Hakimi,ma MAR,"DF,MF",fr Paris S-G,24-150,1998,6.4,378,361,15,0,0,1,11,15,0,0,0,0,332,2,6,Matches
-d2fd7c14,Sead Haksabanović,me MNE,"MF,FW",sct Celtic,23-334,1999,2.5,107,91,16,4,1,2,18,1,9,4,2,0,78,0,2,Matches
-ba115a40,Sébastien Haller,ci CIV,FW,de Dortmund,28-285,1994,1.6,50,47,3,0,0,0,0,0,0,0,0,0,34,0,3,Matches
-8ff2354e,Marcel Halstenberg,de GER,DF,de RB Leipzig,31-188,1991,1.9,116,96,20,4,0,0,10,15,1,0,0,0,98,0,2,Matches
-e7d59f4f,Amine Harit,ma MAR,MF,fr Marseille,25-289,1997,4.2,215,192,20,3,2,3,13,1,14,4,4,0,181,3,2,Matches
-cb4f24c6,Joe Hart,eng ENG,GK,sct Celtic,35-349,1987,6.0,174,135,39,7,0,0,0,0,0,0,0,0,162,0,0,Matches
-9ab16552,Makoto Hasebe,jp JPN,DF,de Eint Frankfurt,39-075,1984,2.9,153,148,5,5,0,2,0,0,0,0,0,0,125,0,0,Matches
-78f85621,Reo Hatate,jp JPN,MF,sct Celtic,25-133,1997,5.0,242,240,2,1,3,2,1,1,0,0,0,0,188,0,3,Matches
-8454388c,Milan Havel,cz CZE,DF,cz Viktoria Plzeň,28-239,1994,4.7,127,101,25,2,0,0,10,23,0,0,0,0,92,1,3,Matches
-fed7cb61,Kai Havertz,de GER,"FW,MF",eng Chelsea,23-296,1999,5.7,216,210,4,0,1,2,6,2,0,0,0,0,164,2,3,Matches
-a39bb753,Eden Hazard,be BEL,"FW,MF",es Real Madrid,32-086,1991,1.5,66,63,3,0,0,0,0,2,0,0,0,0,58,0,1,Matches
-50871bcc,Thorgan Hazard,be BEL,"DF,FW",de Dortmund,30-005,1993,2.2,98,81,17,4,0,1,7,9,4,3,1,0,75,0,3,Matches
-40d08dcd,Dolev Haziz,il ISR,DF,il Maccabi Haifa,27-272,1995,2.3,140,109,30,2,0,2,15,20,8,0,1,0,101,1,5,Matches
-61f63784,Lukáš Hejda,cz CZE,DF,cz Viktoria Plzeň,33-025,1990,5.7,84,80,3,3,0,0,1,0,0,0,0,0,73,1,2,Matches
-935e6b8f,Jordan Henderson,eng ENG,MF,eng Liverpool,32-290,1990,3.1,212,204,7,4,3,1,2,1,0,0,0,0,185,1,3,Matches
-ffed43e3,Jack Hendry,sct SCO,DF,be Club Brugge,27-331,1995,1.0,56,55,1,1,0,1,0,0,0,0,0,0,44,0,0,Matches
-0a89e877,Benjamin Henrichs,de GER,"DF,MF",de RB Leipzig,26-039,1997,2.2,94,82,12,0,1,1,5,12,0,0,0,0,76,0,1,Matches
-555f3a0b,Mario Hermoso,es ESP,DF,es Atlético Madrid,27-289,1995,1.8,120,116,4,2,0,1,4,2,0,0,0,0,109,0,0,Matches
-c3ee18ef,Lucas Hernández,fr FRA,DF,de Bayern Munich,27-048,1996,1.9,135,133,1,0,0,2,0,0,0,0,0,0,118,1,2,Matches
-d4c9725f,Theo Hernández,fr FRA,DF,it Milan,25-179,1997,6.5,343,273,69,13,1,3,16,48,8,2,6,0,285,1,19,Matches
-92e7e919,Son Heung-min,kr KOR,"MF,FW",eng Tottenham,30-269,1992,6.9,201,160,38,12,0,1,33,3,23,15,2,0,135,3,9,Matches
-0c7a48f8,Piero Hincapié,ec ECU,DF,de Leverkusen,21-084,2002,5.0,308,285,23,7,0,0,6,13,0,0,0,0,251,0,8,Matches
-5521f419,Adam Hložek,cz CZE,"MF,FW",de Leverkusen,20-252,2002,3.1,88,86,2,0,1,0,1,1,0,0,0,0,65,0,0,Matches
-d92ab59f,Libor Holík,cz CZE,DF,cz Viktoria Plzeň,24-326,1998,3.2,85,60,25,1,0,0,15,24,0,0,0,0,55,0,2,Matches
-ad3389d5,Lukáš Hrádecký,fi FIN,GK,de Leverkusen,33-130,1989,6.0,203,155,47,12,0,0,0,0,0,0,0,0,160,1,0,Matches
-15f3ec41,Callum Hudson-Odoi,eng ENG,FW,de Leverkusen,22-147,2000,5.1,215,198,13,5,2,4,11,2,5,3,0,0,173,4,3,Matches
-05d548d8,Mats Hummels,de GER,DF,de Dortmund,34-108,1988,3.5,224,218,5,5,0,5,0,0,0,0,0,0,190,1,3,Matches
-8b04d6c1,Pierre Højbjerg,dk DEN,MF,eng Tottenham,27-241,1995,6.9,449,434,12,4,0,6,7,3,0,0,0,0,396,3,3,Matches
-ba492306,Samuel Iling-Junior,eng ENG,DF,it Juventus,19-181,2003,0.2,8,8,0,0,0,0,4,0,0,0,0,0,4,0,0,Matches
-33651873,Gonçalo Inácio,pt POR,DF,pt Sporting CP,21-221,2001,6.0,378,355,22,19,0,4,0,1,0,0,0,0,330,1,2,Matches
-a0b4bb3e,Isco,es ESP,"MF,FW",es Sevilla,30-347,1992,4.4,198,185,12,7,1,2,4,0,4,0,3,0,168,1,6,Matches
-1f994616,Franco Israel,uy URU,GK,pt Sporting CP,22-346,2000,1.7,70,40,30,8,0,0,0,0,0,0,0,0,43,0,0,Matches
-29fbdc88,Luka Ivanušec,hr CRO,MF,hr Dinamo Zagreb,24-128,1998,5.8,215,211,4,1,0,3,4,3,0,0,0,0,175,0,6,Matches
-d97cccc9,Ryan Jack,sct SCO,MF,sct Rangers,31-035,1992,2.1,77,77,0,0,0,0,3,0,0,0,0,0,61,0,1,Matches
-a8ee54ad,Kristijan Jakić,hr CRO,DF,de Eint Frankfurt,25-324,1997,6.8,375,329,46,6,0,4,11,40,0,0,0,0,291,0,6,Matches
-1265a93a,Reece James,eng ENG,"DF,MF",eng Chelsea,23-116,1999,5.7,383,333,48,6,0,5,28,40,2,1,0,0,312,2,14,Matches
-4737cebe,Adnan Januzaj,be BEL,"FW,MF",es Sevilla,28-057,1995,0.6,19,18,1,0,0,0,1,0,1,1,0,0,15,0,1,Matches
-eeba07f8,Luis Javier Suárez,co COL,FW,fr Marseille,25-122,1997,1.3,32,31,1,0,0,0,1,0,0,0,0,0,21,0,1,Matches
-213f0daf,Elias Jelert,dk DEN,"DF,MF",dk FC Copenhagen,19-295,2003,2.1,90,74,16,1,0,1,4,15,0,0,0,0,72,0,2,Matches
-b244e804,Václav Jemelka,cz CZE,DF,cz Viktoria Plzeň,27-284,1995,4.0,122,97,23,5,0,3,4,18,0,0,0,0,96,2,6,Matches
-cd1629bc,Valdemar Jensen,dk DEN,DF,dk FC Copenhagen,19-310,2003,3.4,167,163,3,2,0,4,0,1,0,0,0,0,145,1,0,Matches
-ee644761,Moritz Jenz,de GER,DF,sct Celtic,23-338,1999,6.0,457,445,12,11,0,1,0,1,0,0,0,0,427,0,1,Matches
-79083382,Juan Jesus,br BRA,DF,it Napoli,31-297,1991,1.3,73,70,2,2,0,0,0,0,0,0,0,0,64,1,1,Matches
-f9bd541e,Erik Jirka,sk SVK,"FW,MF",cz Viktoria Plzeň,25-196,1997,3.0,74,70,4,0,0,0,4,2,0,0,0,0,49,0,4,Matches
-c16c4e3b,Ísak Jóhannesson,is ISL,"FW,MF",dk FC Copenhagen,20-011,2003,3.2,83,70,13,3,2,3,14,0,10,8,1,0,56,0,4,Matches
-4fb9c88f,Curtis Jones,eng ENG,"FW,MF",eng Liverpool,22-063,2001,1.1,45,44,0,0,0,0,1,0,0,0,0,0,36,1,1,Matches
-1bacc518,Frenkie de Jong,nl NED,MF,es Barcelona,25-326,1997,2.6,175,167,7,5,2,0,4,1,0,0,0,0,152,1,7,Matches
-2a0c8ba4,Joan Jordán,es ESP,MF,es Sevilla,28-271,1994,2.9,171,165,6,6,1,2,1,0,0,0,0,0,157,0,1,Matches
-45db685d,Jorginho,it ITA,MF,eng Chelsea,31-104,1991,4.6,361,345,14,14,2,0,1,0,0,0,0,0,334,2,2,Matches
-2b65fe46,Jota,pt POR,FW,sct Celtic,24-004,1999,3.2,111,99,12,0,1,0,15,7,5,2,0,0,84,0,4,Matches
-178ae8f8,Diogo Jota,pt POR,"FW,MF",eng Liverpool,26-120,1996,2.9,95,93,1,0,0,0,2,0,0,0,0,0,74,1,2,Matches
-7111d552,Vinicius Júnior,br BRA,FW,es Real Madrid,22-265,2000,6.8,305,298,7,1,2,6,12,3,2,0,0,0,239,0,13,Matches
-0a084b35,Josip Juranović,hr CRO,DF,sct Celtic,27-230,1995,6.0,342,289,51,5,0,0,19,46,0,0,0,0,281,2,10,Matches
-2a9f6b4d,Jutglà,es ESP,FW,be Club Brugge,24-061,1999,5.7,131,117,14,0,0,1,1,0,2,0,0,0,94,0,4,Matches
-c066d1a5,Issa Kaboré,bf BFA,DF,fr Marseille,21-326,2001,1.3,51,45,6,0,0,0,5,6,0,0,0,0,44,0,2,Matches
-85f7d1be,Pierre Kalulu,fr FRA,DF,it Milan,22-302,2000,7.9,454,424,30,11,0,2,4,19,0,0,0,0,400,0,2,Matches
-df064106,Lukáš Kalvach,cz CZE,MF,cz Viktoria Plzeň,27-258,1995,5.5,238,207,31,18,0,4,23,0,13,5,4,0,171,0,7,Matches
-15b287da,Daichi Kamada,jp JPN,"MF,FW",de Eint Frankfurt,26-241,1996,7.7,316,294,20,9,1,4,14,0,8,4,3,0,250,2,6,Matches
-4da9191b,Glen Kamara,fi FIN,MF,sct Rangers,27-157,1995,1.4,40,37,3,3,0,0,0,0,0,0,0,0,39,0,0,Matches
-0ca476cc,Dijon Kameri,xk KVX,MF,at RB Salzburg,18-348,2004,1.3,41,38,3,0,0,1,2,0,0,0,0,0,32,0,1,Matches
-b825a650,Kevin Kampl,si SVN,MF,de RB Leipzig,32-176,1990,3.0,185,179,5,4,1,0,0,1,0,0,0,0,174,1,0,Matches
-21a66f6a,Harry Kane,eng ENG,FW,eng Tottenham,29-249,1993,8.0,251,235,12,4,6,2,9,4,0,0,0,0,160,4,9,Matches
-23a10591,Mamoudou Karamoko,fr FRA,FW,dk FC Copenhagen,23-207,1999,0.5,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-3d50bcdb,Moise Kean,it ITA,"FW,MF",it Juventus,23-034,2000,1.2,18,17,1,0,0,1,2,0,0,0,0,0,12,0,1,Matches
-316de854,Ryan Kent,eng ENG,"FW,MF",sct Rangers,26-143,1996,5.6,120,105,15,0,1,0,9,2,2,0,0,0,98,0,4,Matches
-05e19d6a,Franck Kessié,ci CIV,MF,es Barcelona,26-105,1996,3.0,185,180,5,4,0,1,6,1,0,0,0,0,160,0,3,Matches
-862fa9fb,Davit Khocholava,ge GEO,DF,dk FC Copenhagen,30-054,1993,4.8,222,219,3,3,0,1,0,0,0,0,0,0,191,0,1,Matches
-49296448,Joshua Kimmich,de GER,MF,de Bayern Munich,28-054,1995,7.0,573,517,53,24,4,1,33,5,24,12,11,0,500,3,3,Matches
-aef6e670,Presnel Kimpembe,fr FRA,DF,fr Paris S-G,27-233,1995,1.6,103,92,11,4,0,0,0,5,0,0,0,0,98,0,2,Matches
-82c615f8,Leon King,sct SCO,DF,sct Rangers,19-079,2004,4.2,198,190,8,4,0,2,1,4,0,0,0,0,156,0,5,Matches
-8b8a56ce,Simon Kjær,dk DEN,DF,it Milan,34-008,1989,3.0,136,131,5,5,0,0,0,0,0,0,0,0,120,0,0,Matches
-2b0852db,Maurits Kjærgaard,dk DEN,MF,at RB Salzburg,19-281,2003,5.5,152,141,10,2,0,0,19,2,6,6,0,0,96,1,2,Matches
-15fd5593,Davy Klaassen,nl NED,MF,nl Ajax,30-041,1993,2.4,66,65,1,1,0,0,1,0,0,0,0,0,59,0,1,Matches
-c2a30c01,Jan Kliment,cz CZE,FW,cz Viktoria Plzeň,29-214,1993,0.5,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
-ca8033cb,Lukas Klostermann,de GER,DF,de RB Leipzig,26-304,1996,0.6,21,18,1,0,0,0,0,1,0,0,0,0,17,2,0,Matches
-19a967ab,Ansgar Knauff,de GER,"DF,FW",de Eint Frankfurt,21-083,2002,3.3,132,105,27,1,0,0,4,26,0,0,0,0,84,0,1,Matches
-cd59b9df,Gregor Kobel,ch SUI,GK,de Dortmund,25-118,1997,3.5,143,112,30,12,0,0,0,0,0,0,0,0,109,1,0,Matches
-ff74841d,Philipp Köhn,ch SUI,GK,at RB Salzburg,25-001,1998,6.0,143,89,54,22,0,0,0,0,0,0,0,0,95,0,0,Matches
-6747869d,Sekou Koita,ml MLI,FW,at RB Salzburg,23-126,1999,0.2,8,7,1,0,0,0,0,1,0,0,0,0,7,0,0,Matches
-55126f3b,Koke,es ESP,MF,es Atlético Madrid,31-085,1992,3.7,260,248,11,8,0,3,3,2,1,0,0,0,230,1,1,Matches
-3935e52e,Sead Kolašinac,ba BIH,DF,fr Marseille,29-287,1993,1.7,118,108,10,6,0,0,0,4,0,0,0,0,102,0,1,Matches
-c0b3669f,Randal Kolo Muani,fr FRA,FW,de Eint Frankfurt,24-119,1998,5.7,95,86,6,0,0,0,4,0,0,0,0,0,61,3,1,Matches
-5ed9b537,Ibrahima Konaté,fr FRA,DF,eng Liverpool,23-313,1999,2.9,139,133,5,4,0,2,0,1,0,0,0,0,106,1,0,Matches
-cce181df,Geoffrey Kondogbia,cf CTA,MF,es Atlético Madrid,30-047,1993,2.5,210,206,2,1,0,9,2,1,0,0,0,0,182,2,1,Matches
-aee634bf,Yukhym Konoplia,ua UKR,DF,ua Shakhtar,23-220,1999,4.6,212,177,32,3,0,2,5,29,0,0,0,0,175,3,9,Matches
-6f639ec7,Jan Kopic,cz CZE,"FW,MF",cz Viktoria Plzeň,32-303,1990,0.9,19,17,2,0,0,0,2,0,0,0,0,0,14,0,0,Matches
-1f3afdcb,Odilon Kossonou,ci CIV,DF,de Leverkusen,22-089,2001,4.8,314,290,24,6,1,2,2,18,0,0,0,0,260,0,6,Matches
-b1cd37e6,Filip Kostić,rs SRB,"DF,FW",it Juventus,30-153,1992,4.8,249,226,21,6,0,1,41,11,4,1,3,0,172,2,8,Matches
-da974c7b,Kalidou Koulibaly,sn SEN,DF,eng Chelsea,31-287,1991,5.7,337,326,9,9,0,5,0,0,0,0,0,0,300,2,1,Matches
-4d1666ff,Jules Koundé,fr FRA,DF,es Barcelona,24-142,1998,2.7,221,207,14,2,0,2,2,12,0,0,0,0,200,0,0,Matches
-79c0821a,Mateo Kovačić,hr CRO,MF,eng Chelsea,28-332,1994,4.9,343,331,9,9,1,1,0,0,0,0,0,0,291,3,7,Matches
-9606f0b2,Adam Kronus,cz CZE,FW,cz Viktoria Plzeň,20-248,2002,0.0,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-6ce1f46f,Toni Kroos,de GER,MF,es Real Madrid,33-089,1990,5.9,668,615,49,23,0,8,23,2,24,10,7,0,610,4,4,Matches
-817c6964,Rade Krunić,ba BIH,"MF,FW",it Milan,29-178,1993,5.1,188,180,6,4,0,3,1,2,0,0,0,0,146,2,6,Matches
-47420f02,Dmytro Kryskiv,ua UKR,MF,ua Shakhtar,22-179,2000,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-292a652a,Serhiy Kryvtsov,ua UKR,DF,ua Shakhtar,32-019,1991,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-df3cda47,Dejan Kulusevski,se SWE,"MF,DF",eng Tottenham,22-343,2000,2.2,93,83,8,1,0,0,10,1,3,0,0,0,69,2,1,Matches
-dea88efd,Khvicha Kvaratskhelia,ge GEO,FW,it Napoli,22-050,2001,5.8,194,187,5,3,7,3,8,1,1,0,0,0,136,2,6,Matches
-c1b7847c,Konrad Laimer,at AUT,"MF,FW",de RB Leipzig,25-311,1997,2.9,91,88,3,1,0,0,2,2,0,0,0,0,74,0,1,Matches
-abe66106,Érik Lamela,ar ARG,"FW,MF",es Sevilla,31-030,1992,3.1,121,118,2,0,1,1,3,1,0,0,0,0,97,1,1,Matches
-8e034340,Noa Lang,nl NED,FW,be Club Brugge,23-290,1999,3.2,150,123,24,4,0,1,20,7,10,7,0,0,103,3,8,Matches
-119b9a8e,Aymeric Laporte,es ESP,DF,eng Manchester City,28-311,1994,3.0,255,252,3,0,0,1,0,3,0,0,0,0,240,0,1,Matches
-e7af9060,Cyle Larin,ca CAN,"FW,MF",be Club Brugge,27-351,1995,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-8b929ec2,Rasmus Lauritsen,dk DEN,DF,hr Dinamo Zagreb,27-035,1996,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-da9018ca,Neta Lavi,il ISR,MF,il Maccabi Haifa,26-221,1996,5.2,274,266,7,7,1,0,2,0,0,0,0,0,229,1,5,Matches
-20730eae,Rafael Leão,pt POR,"FW,MF",it Milan,23-297,1999,7.2,181,177,4,0,1,3,21,4,0,0,0,0,134,0,9,Matches
-4dbd0916,Thomas Lemar,fr FRA,MF,es Atlético Madrid,27-142,1995,1.2,64,57,6,2,0,3,6,0,4,2,1,0,50,1,1,Matches
-4f28a6ff,Clément Lenglet,fr FRA,DF,eng Tottenham,27-290,1995,5.6,347,335,12,6,0,1,5,6,0,0,0,0,293,0,2,Matches
-bbd86530,Christopher Lenz,de GER,DF,de Eint Frankfurt,28-193,1994,2.5,118,85,32,5,0,0,9,24,3,2,0,1,84,1,4,Matches
-1b82f8df,Lukas Lerager,dk DEN,MF,dk FC Copenhagen,29-265,1993,5.0,164,160,4,2,1,2,4,2,0,0,0,0,127,0,3,Matches
-8d78e732,Robert Lewandowski,pl POL,FW,es Barcelona,34-225,1988,4.9,131,124,5,0,5,0,6,0,0,0,0,0,86,2,5,Matches
-b57e066e,Rico Lewis,eng ENG,DF,eng Manchester City,18-133,2004,1.3,97,92,5,1,0,0,1,4,0,0,0,0,88,0,0,Matches
-d6e53a3a,Matthijs de Ligt,nl NED,DF,de Bayern Munich,23-234,1999,4.8,321,314,6,5,0,0,0,1,0,0,0,0,296,1,1,Matches
-37dc1a48,Jesper Lindstrøm,dk DEN,"MF,FW",de Eint Frankfurt,23-033,2000,5.6,133,122,11,2,1,0,10,3,5,1,4,0,87,0,8,Matches
-58f077c0,Dominik Livaković,hr CRO,GK,hr Dinamo Zagreb,28-084,1995,6.0,253,150,103,27,0,0,0,0,0,0,0,0,172,0,0,Matches
-99a8ddc9,Robert Ljubicic,at AUT,"FW,DF",hr Dinamo Zagreb,23-263,1999,6.0,363,299,64,14,0,8,9,50,0,0,0,0,272,0,14,Matches
-02c15616,Marcos Llorente,es ESP,"MF,FW",es Atlético Madrid,28-063,1995,2.4,117,108,7,0,0,0,3,7,0,0,0,0,98,2,5,Matches
-8f62b6ee,Hugo Lloris,fr FRA,GK,eng Tottenham,36-098,1986,6.0,176,129,47,5,0,0,0,0,0,0,0,0,150,0,0,Matches
-e9fda01d,Danny Loader,eng ENG,"FW,MF",pt Porto,22-218,2000,0.6,25,20,3,0,0,0,1,0,0,0,0,0,19,2,0,Matches
-e1cbb531,Stanislav Lobotka,sk SVK,MF,it Napoli,28-129,1994,7.7,499,489,10,8,0,3,0,1,0,0,0,0,457,0,6,Matches
-a8a874f1,Manuel Locatelli,it ITA,MF,it Juventus,25-085,1998,2.5,196,186,9,5,1,2,6,1,3,3,0,0,170,1,1,Matches
-e97fd090,Ruben Loftus-Cheek,eng ENG,MF,eng Chelsea,27-070,1996,3.2,189,184,3,2,0,2,1,0,0,0,0,0,166,2,1,Matches
-20b9f052,Pau López,es ESP,GK,fr Marseille,28-111,1994,6.0,177,142,34,9,0,1,0,0,0,0,0,0,135,1,0,Matches
-8e50599a,Alexander lowry,sct SCO,MF,sct Rangers,19-284,2003,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-a69e4806,Hirving Lozano,mx MEX,FW,it Napoli,27-247,1995,3.8,102,97,3,0,0,0,14,2,1,0,1,0,67,2,4,Matches
-881cd6be,Florentino Luís,pt POR,MF,pt Benfica,23-227,1999,7.8,441,434,6,6,0,3,1,0,0,0,0,0,390,1,6,Matches
-5eae500a,Romelu Lukaku,be BEL,FW,it Inter,29-325,1993,0.7,21,21,0,0,1,0,0,0,0,0,0,0,16,0,1,Matches
-0df2b165,John Lundstram,eng ENG,"MF,DF",sct Rangers,29-044,1994,5.0,217,209,4,2,0,3,2,2,0,0,0,0,173,4,1,Matches
-3061e1ec,Andriy Lunin,ua UKR,GK,es Real Madrid,24-051,1999,2.0,43,32,11,2,0,0,0,0,0,0,0,0,41,0,0,Matches
-7be09c86,Mahir Madatov,az AZE,FW,hr Dinamo Zagreb,25-276,1997,0.2,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
-395451fc,Daizen Maeda,jp JPN,FW,sct Celtic,25-165,1997,3.7,71,71,0,0,0,0,6,0,0,0,0,0,51,0,5,Matches
-892d5bb1,Riyad Mahrez,dz ALG,"FW,MF",eng Manchester City,32-041,1991,5.5,311,282,29,3,0,7,20,11,15,7,1,1,268,0,4,Matches
-fcb38f57,Mike Maignan,fr FRA,GK,it Milan,27-274,1995,3.0,109,87,22,3,0,0,0,0,0,0,0,0,92,0,0,Matches
-864163f3,Donyell Malen,nl NED,"FW,MF",de Dortmund,24-074,1999,2.8,54,49,5,0,0,0,1,1,2,0,1,0,41,0,2,Matches
-c20bdcd7,Reinildo Mandava,mz MOZ,DF,es Atlético Madrid,29-072,1994,5.7,383,351,31,4,0,1,5,27,0,0,0,0,339,1,5,Matches
-c691bfe2,Sadio Mané,sn SEN,FW,de Bayern Munich,30-358,1992,5.6,187,181,5,0,4,0,4,4,0,0,0,0,147,1,8,Matches
-7a20d90a,Iván Marcano,es ESP,DF,pt Porto,35-284,1987,3.0,182,170,12,6,1,2,1,1,0,0,0,0,161,0,1,Matches
-133faa84,Marcão,br BRA,DF,es Sevilla,26-302,1996,2.5,164,162,2,2,0,1,0,0,0,0,0,0,141,0,1,Matches
-f0da930c,José María Giménez,uy URU,DF,es Atlético Madrid,28-073,1995,4.5,288,281,6,6,0,2,1,0,0,0,0,0,253,1,1,Matches
-5c4dc0ff,Mariano,do DOM,FW,es Real Madrid,29-245,1993,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-148af9a8,Antonio Marin,hr CRO,FW,hr Dinamo Zagreb,22-084,2001,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-f0021247,João Mário,pt POR,FW,pt Benfica,30-074,1993,7.6,386,367,19,6,2,1,21,3,10,4,3,0,328,0,8,Matches
-82a39b66,João Mário Lopes,pt POR,DF,pt Porto,23-090,2000,3.0,104,83,21,2,0,1,8,19,0,0,0,0,78,0,2,Matches
-d5f2f82b,Marquinhos,br BRA,DF,fr Paris S-G,28-324,1994,7.3,409,387,22,13,1,1,0,2,0,0,0,0,379,0,2,Matches
-b4ecc6b6,José Marsà,es ESP,DF,pt Sporting CP,21-030,2002,1.1,27,26,1,1,0,0,0,0,0,0,0,0,24,0,0,Matches
-f7036e1c,Lautaro Martínez,ar ARG,FW,it Inter,25-224,1997,6.8,151,141,9,0,2,0,2,0,0,0,0,0,106,1,5,Matches
-f3945e07,Toni Martínez,es ESP,FW,pt Porto,25-277,1997,1.3,40,39,1,0,0,0,2,0,0,0,0,0,21,0,1,Matches
-55abe554,Clinton Mata,ao ANG,DF,be Club Brugge,30-147,1992,1.8,125,111,14,2,0,0,3,12,0,0,0,0,96,0,4,Matches
-feb5d972,Pape Matar Sarr,sn SEN,MF,eng Tottenham,20-201,2002,1.0,60,56,4,3,0,0,0,1,0,0,0,0,50,0,3,Matches
-b217ef29,Joël Matip,cm CMR,DF,eng Liverpool,31-238,1991,2.7,175,172,3,3,0,0,0,0,0,0,0,0,155,0,0,Matches
-33144cc5,Rabbi Matondo,wls WAL,"MF,FW",sct Rangers,22-206,2000,1.1,18,18,0,0,0,0,1,0,0,0,0,0,9,0,2,Matches
-1adcf39e,Mykola Matviyenko,ua UKR,DF,ua Shakhtar,26-336,1996,6.0,444,399,44,11,0,2,0,0,0,0,0,0,393,1,3,Matches
-826e8b63,Philipp Max,de GER,DF,de Eint Frankfurt,29-185,1993,1.3,54,40,13,4,0,0,11,6,3,1,1,0,36,1,2,Matches
-0e6bc38c,Eric Maxim Choupo-Moting,cm CMR,FW,de Bayern Munich,34-011,1989,4.1,91,84,2,0,3,0,0,0,0,0,0,0,65,5,1,Matches
-b74277a0,Noussair Mazraoui,ma MAR,DF,de Bayern Munich,25-140,1997,4.4,312,271,40,4,0,1,8,36,0,0,0,0,260,1,5,Matches
-42fd9c7f,Kylian Mbappé,fr FRA,FW,fr Paris S-G,24-104,1998,7.2,280,267,12,1,1,1,22,1,2,0,0,0,211,1,7,Matches
-e76cb9cc,Chancel Mbemba,cd COD,DF,fr Marseille,28-238,1994,4.5,278,269,6,4,0,3,9,2,0,0,0,0,226,3,5,Matches
-64b08de7,James McCarthy,ie IRL,MF,sct Celtic,32-142,1990,0.1,10,10,0,0,0,0,0,0,0,0,0,0,8,0,1,Matches
-f3a97d02,Allan McGregor,sct SCO,GK,sct Rangers,41-062,1982,5.0,196,132,62,11,0,0,0,0,0,0,0,0,121,2,0,Matches
-6800f515,Callum McGregor,sct SCO,MF,sct Celtic,29-293,1993,2.4,157,155,1,1,0,0,1,0,0,0,0,0,139,1,3,Matches
-01c3aff5,Weston McKennie,us USA,MF,it Juventus,24-218,1998,4.0,152,145,5,0,0,0,3,5,0,0,0,0,115,2,6,Matches
-3b0108d6,Jon McLaughlin,sct SCO,GK,sct Rangers,35-206,1987,1.0,31,24,7,2,0,0,0,0,0,0,0,0,21,0,0,Matches
-0a6dbbf7,Brandon Mechele,be BEL,DF,be Club Brugge,30-065,1993,8.0,462,453,9,8,0,5,0,0,0,0,0,0,402,0,2,Matches
-95f5aae8,Bjorn Meijer,nl NED,DF,be Club Brugge,20-016,2003,6.4,308,252,54,2,2,1,8,52,0,0,0,0,226,2,8,Matches
-38f8ce7f,Raz Meir,il ISR,"DF,MF",il Maccabi Haifa,26-124,1996,0.9,38,31,6,0,0,0,1,6,0,0,0,0,31,1,0,Matches
-48b3dd60,Arthur Melo,br BRA,MF,eng Liverpool,26-234,1996,0.2,13,12,1,1,0,0,0,0,0,0,0,0,11,0,0,Matches
-8f696594,Memphis,nl NED,FW,es Barcelona,29-049,1994,0.2,16,15,1,0,0,0,0,0,1,0,0,0,14,0,0,Matches
-a30e23de,Sun Menachem,il ISR,DF,il Maccabi Haifa,29-208,1993,0.7,30,26,4,1,0,0,1,3,0,0,0,0,21,0,1,Matches
-f20e4cc9,Nuno Mendes,pt POR,"DF,MF",fr Paris S-G,20-288,2002,4.9,220,183,36,2,1,4,12,33,1,0,1,0,162,1,11,Matches
-33887998,Edouard Mendy,sn SEN,GK,eng Chelsea,31-033,1992,1.0,25,21,4,1,0,0,0,0,0,0,0,0,23,0,0,Matches
-3cefcaef,Ferland Mendy,fr FRA,DF,es Real Madrid,27-299,1995,3.9,304,284,20,1,0,1,2,19,0,0,0,0,289,0,3,Matches
-9413b19f,Alex Meret,it ITA,GK,it Napoli,26-012,1997,8.0,266,198,67,13,0,0,0,0,0,0,0,0,235,1,0,Matches
-d70ce98e,Lionel Messi,ar ARG,"FW,MF",fr Paris S-G,35-283,1987,6.8,413,384,27,6,8,1,14,1,15,7,5,0,352,2,9,Matches
-f49c4ae9,Junior Messias,br BRA,"DF,FW",it Milan,31-325,1991,1.5,48,41,7,0,0,0,2,7,0,0,0,0,39,0,0,Matches
-e162b013,Thomas Meunier,be BEL,DF,de Dortmund,31-203,1991,3.9,259,218,40,3,1,0,11,37,0,0,0,0,202,1,6,Matches
-b56dd813,Alexander Meyer,de GER,GK,de Dortmund,31-355,1991,4.5,198,145,52,8,0,0,0,0,0,0,0,0,165,1,0,Matches
-d436eb94,Simon Mignolet,be BEL,GK,be Club Brugge,35-028,1988,8.0,324,216,107,31,0,1,0,0,0,0,0,0,237,1,0,Matches
-85613cf0,Arkadiusz Milik,pl POL,FW,it Juventus,29-034,1994,3.8,87,82,4,0,0,1,3,0,0,0,0,0,64,1,2,Matches
-2784f898,Éder Militão,br BRA,DF,es Real Madrid,25-075,1998,5.3,328,301,25,11,1,7,1,2,0,0,0,0,291,2,6,Matches
-2f90f6b8,James Milner,eng ENG,MF,eng Liverpool,37-089,1986,2.7,153,148,4,2,1,2,7,1,0,0,0,0,124,1,4,Matches
-e0f8151c,Kim Min-jae,kr KOR,DF,it Napoli,26-139,1996,7.7,543,529,14,13,1,3,0,1,0,0,0,0,478,0,1,Matches
-bbf5c11b,Rafa Mir,es ESP,"MF,FW",es Sevilla,25-289,1997,1.7,34,33,1,0,0,0,0,0,0,0,0,0,21,0,1,Matches
-34693494,Fabio Miretti,it ITA,"MF,FW",it Juventus,19-243,2003,2.4,96,92,3,1,0,3,5,0,2,1,1,0,67,1,5,Matches
-46152b69,Josip Mišić,hr CRO,MF,hr Dinamo Zagreb,28-279,1994,5.8,285,270,14,11,0,8,3,1,0,0,0,0,255,1,1,Matches
-dd0daf32,Henrikh Mkhitaryan,am ARM,MF,it Inter,34-072,1989,6.8,258,254,2,0,1,3,7,1,1,1,0,0,201,2,15,Matches
-34e4343c,Anthony Modeste,fr FRA,FW,de Dortmund,34-354,1988,3.8,44,44,0,0,0,0,3,0,0,0,0,0,27,0,1,Matches
-6025fab1,Luka Modrić,hr CRO,MF,es Real Madrid,37-206,1985,4.7,374,357,17,6,2,4,12,0,8,2,4,0,329,0,1,Matches
-cfdacb90,Ali Mohamed,ne NIG,MF,il Maccabi Haifa,27-178,1995,4.0,224,219,4,2,0,3,1,0,1,0,0,0,190,1,5,Matches
-b62878a5,Kudus Mohammed,gh GHA,FW,nl Ajax,22-244,2000,5.0,123,107,15,0,0,1,2,1,0,0,0,0,102,1,2,Matches
-25b74470,Sadegh Moharrami,ir IRN,"FW,DF",hr Dinamo Zagreb,27-033,1996,4.5,183,171,12,1,0,0,15,11,0,0,0,0,148,0,4,Matches
-23610943,Nahuel Molina,ar ARG,"DF,MF",es Atlético Madrid,24-362,1998,5.2,364,311,51,2,2,0,38,45,4,3,1,0,266,2,5,Matches
-374d5158,Gonzalo Montiel,ar ARG,DF,es Sevilla,26-092,1997,2.5,142,124,17,5,0,0,7,12,0,0,0,0,114,1,2,Matches
-47b7e3af,Aaron Mooy,au AUS,MF,sct Celtic,32-200,1990,1.7,139,131,8,1,0,1,13,2,5,1,1,0,111,0,4,Matches
-129af0db,Álvaro Morata,es ESP,FW,es Atlético Madrid,30-162,1992,3.3,59,53,6,0,0,0,2,0,0,0,0,0,39,0,3,Matches
-0f41e2ee,Morato,br BRA,DF,pt Benfica,21-277,2001,0.2,20,20,0,0,0,0,0,0,0,0,0,0,19,0,0,Matches
-ef88f778,Alfredo Morelos,co COL,FW,sct Rangers,26-286,1996,2.8,63,57,6,0,1,2,1,1,0,0,0,0,41,0,4,Matches
-a650c75b,Hidemasa Morita,jp JPN,MF,pt Sporting CP,27-328,1995,3.7,149,145,4,3,0,3,0,1,0,0,0,0,116,0,5,Matches
-736157b7,Jhon Mosquera,co COL,"FW,MF",cz Viktoria Plzeň,32-330,1990,4.8,132,115,16,2,0,0,10,14,0,0,0,0,81,1,9,Matches
-6ce43701,Youssoufa Moukoko,de GER,"FW,MF",de Dortmund,18-134,2004,2.7,43,39,3,0,0,0,1,0,0,0,0,0,35,1,2,Matches
-9674002f,Mason Mount,eng ENG,MF,eng Chelsea,24-083,1999,4.6,264,246,15,3,1,3,21,4,7,0,6,0,213,3,6,Matches
-2b622f01,Lucas Moura,br BRA,"FW,MF",eng Tottenham,30-233,1992,1.9,61,58,2,0,0,1,4,2,0,0,0,0,37,1,2,Matches
-049a888d,Mykhailo Mudryk,ua UKR,FW,eng Chelsea,22-088,2001,0.8,19,19,0,0,1,0,2,0,0,0,0,0,10,0,3,Matches
-049a888d,Mykhailo Mudryk,ua UKR,MF,ua Shakhtar,22-088,2001,5.7,154,137,17,7,5,0,21,1,9,3,5,1,111,0,3,Matches
-dbfbdf06,Paul Mukairu,ng NGA,FW,dk FC Copenhagen,23-075,2000,0.5,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-ac73ec79,Nordi Mukiele,fr FRA,"DF,MF",fr Paris S-G,25-153,1997,1.2,48,48,0,0,0,0,2,0,0,0,0,0,36,0,4,Matches
-3c6089ab,Thomas Müller,de GER,"MF,FW",de Bayern Munich,33-202,1989,3.7,148,143,5,1,0,0,3,1,0,0,0,0,121,0,2,Matches
-4567a0b4,Petar Musa,hr CRO,FW,pt Benfica,25-030,1998,1.3,41,41,0,0,0,0,0,0,0,0,0,0,27,0,0,Matches
-2c0558b8,Jamal Musiala,de GER,"MF,FW",de Bayern Munich,20-036,2003,4.3,170,166,2,0,0,1,1,0,1,1,0,0,148,2,5,Matches
-3e9bd29d,Bohdan Mykhaylychenko,ua UKR,DF,ua Shakhtar,26-013,1997,4.0,204,184,19,2,0,0,5,17,0,0,0,0,166,1,3,Matches
-441197b8,Obite N'Dicka,fr FRA,DF,de Eint Frankfurt,23-226,1999,8.0,412,400,12,9,0,1,1,3,0,0,0,0,346,0,5,Matches
-2946f9a1,Nacho,es ESP,DF,es Real Madrid,33-075,1990,4.7,298,262,36,4,0,1,0,32,0,0,0,0,270,0,5,Matches
-3f10bd22,Jesús Navas,es ESP,"DF,MF",es Sevilla,37-133,1985,2.5,112,91,20,1,0,0,10,19,0,0,0,0,85,1,5,Matches
-e7281ea9,Flávio Nazinho,pt POR,"DF,MF",pt Sporting CP,19-257,2003,1.3,22,19,3,0,0,0,1,3,0,0,0,0,14,0,0,Matches
-5cdddffa,Tanguy Ndombele,fr FRA,MF,it Napoli,26-096,1996,3.3,209,205,3,2,3,3,1,0,0,0,0,0,185,1,1,Matches
-4f1e6a0b,David Neres,br BRA,"FW,MF",pt Benfica,26-031,1997,4.1,173,160,13,1,1,1,16,2,10,4,0,0,125,0,8,Matches
-953597a1,Luís Neto,pt POR,DF,pt Sporting CP,34-312,1988,0.4,36,36,0,0,0,0,0,0,0,0,0,0,34,0,0,Matches
-8778c910,Manuel Neuer,de GER,GK,de Bayern Munich,37-007,1986,3.0,121,94,26,4,0,0,0,0,0,0,0,0,98,1,0,Matches
-c2a15a27,João Neves,pt POR,FW,pt Benfica,18-188,2004,0.2,27,27,0,0,0,0,1,0,0,0,0,0,25,0,1,Matches
-69384e5d,Neymar,br BRA,"MF,FW",fr Paris S-G,31-057,1992,6.0,392,350,38,17,4,2,19,3,15,8,3,0,320,4,5,Matches
-5853ac44,Tanguy Nianzou,fr FRA,DF,es Sevilla,20-300,2002,2.0,95,95,0,0,1,1,0,0,0,0,0,0,86,0,0,Matches
-f6a90edd,Casper Nielsen,dk DEN,MF,be Club Brugge,28-339,1994,7.2,187,169,17,7,1,0,20,1,9,7,2,0,123,1,10,Matches
-c14bc029,Saúl Ñíguez,es ESP,"MF,DF",es Atlético Madrid,28-133,1994,3.1,143,126,15,0,0,0,6,15,0,0,0,0,114,2,2,Matches
-7c56da38,Christopher Nkunku,fr FRA,"MF,FW",de RB Leipzig,25-140,1997,6.2,233,227,3,1,2,0,4,0,1,0,0,0,211,3,2,Matches
-5458f670,Hugo Novoa,es ESP,MF,de RB Leipzig,20-092,2003,0.0,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches
-4d77b365,Darwin Núñez,uy URU,FW,eng Liverpool,23-283,1999,4.4,98,96,2,0,1,0,11,1,0,0,0,0,62,0,6,Matches
-4ab12002,Antonio Nusa,no NOR,FW,be Club Brugge,17-351,2005,0.6,18,18,0,0,0,0,0,0,0,0,0,0,15,0,0,Matches
-fb495bb8,Matt O'Riley,dk DEN,MF,sct Celtic,22-133,2000,5.3,274,254,20,5,2,1,11,2,7,2,2,0,224,0,4,Matches
-ee8508c0,Jan Oblak,si SVN,GK,es Atlético Madrid,30-086,1993,5.0,113,74,38,4,0,0,0,0,0,0,0,0,79,1,0,Matches
-a08b974a,Lucas Ocampos,ar ARG,FW,nl Ajax,28-266,1994,0.2,13,12,0,0,0,0,0,0,0,0,0,0,11,1,0,Matches
-a04e47f0,Oleh Ocheretko,ua UKR,MF,ua Shakhtar,19-313,2003,0.2,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-f7750aa0,Denis Odoi,gh GHA,"DF,MF",be Club Brugge,34-311,1988,5.8,337,280,54,6,0,5,3,48,0,0,0,0,271,3,9,Matches
-ca607d59,Noah Okafor,ch SUI,FW,at RB Salzburg,22-314,2000,5.2,73,72,0,0,0,1,4,0,0,0,0,0,50,1,2,Matches
-41c12f75,Mathías Olivera,uy URU,DF,it Napoli,25-154,1997,5.0,335,276,59,9,0,3,5,50,0,0,0,0,279,0,9,Matches
-ae44e8e2,Dani Olmo,es ESP,"FW,MF",de RB Leipzig,24-331,1998,0.7,32,29,3,1,1,0,3,0,2,0,1,0,18,0,1,Matches
-e9c0c1b2,André Onana,cm CMR,GK,it Inter,27-001,1996,8.0,323,242,81,20,0,1,0,0,0,0,0,0,248,0,0,Matches
-751a0fb5,Raphael Onyedika,ng NGA,MF,be Club Brugge,21-349,2001,6.3,274,265,8,8,0,5,0,0,0,0,0,0,232,1,5,Matches
-20030c06,Willi Orban,hu HUN,DF,de RB Leipzig,30-151,1992,8.0,525,505,18,18,0,3,3,0,0,0,0,0,466,2,6,Matches
-43a166b4,Divock Origi,be BEL,FW,it Milan,27-350,1995,0.9,26,25,1,1,1,0,0,0,0,0,0,0,17,0,2,Matches
-ee950928,Mislav Oršić,hr CRO,FW,hr Dinamo Zagreb,30-095,1992,5.4,172,151,21,3,2,1,16,3,13,3,3,0,121,0,9,Matches
-c1242d4e,Stefan Ortega,de GER,GK,eng Manchester City,30-148,1992,2.0,52,40,12,2,0,0,0,0,0,0,0,0,50,0,0,Matches
-8c90fd7a,Victor Osimhen,ng NGA,FW,it Napoli,24-095,1998,3.7,38,36,2,0,0,0,2,0,0,0,0,0,25,0,1,Matches
-0d267745,Nicolás Otamendi,ar ARG,DF,pt Benfica,35-050,1988,7.8,449,439,9,7,0,11,0,2,0,0,0,0,407,1,3,Matches
-28b1f3ce,Otávio,pt POR,MF,pt Porto,28-053,1995,5.8,263,215,47,20,2,2,14,10,11,4,4,0,200,1,11,Matches
-38c7feef,Alex Oxlade-Chamberlain,eng ENG,MF,eng Liverpool,29-231,1993,0.2,11,10,1,0,0,0,0,1,0,0,0,0,9,0,1,Matches
-15413fa5,Salih Özcan,tr TUR,MF,de Dortmund,25-082,1998,6.0,291,281,10,10,1,4,1,0,0,0,0,0,249,0,4,Matches
-e82adcab,Exequiel Palacios,ar ARG,MF,de Leverkusen,24-180,1998,1.0,79,76,2,1,0,1,4,0,1,0,1,0,61,1,0,Matches
-dc7f8a28,Cole Palmer,eng ENG,"MF,FW",eng Manchester City,20-332,2002,1.5,63,62,1,0,0,0,4,0,1,0,0,0,54,0,3,Matches
-13d23b29,Antonios Papadopoulos,de GER,"MF,FW",de Dortmund,23-205,1999,0.1,6,6,0,0,0,0,0,0,0,0,0,0,2,0,1,Matches
-dff153a4,Leandro Paredes,ar ARG,MF,it Juventus,28-278,1994,3.9,240,212,28,20,0,1,10,3,5,3,1,0,214,0,3,Matches
-5c899683,Felix Passlack,de GER,DF,de Dortmund,24-309,1998,1.0,69,60,9,0,0,1,2,9,0,0,0,0,57,0,0,Matches
-3392603d,Remko Pasveer,nl NED,GK,nl Ajax,39-146,1983,6.0,283,234,47,14,0,1,0,0,0,0,0,0,187,2,1,Matches
-a62c16d0,Paulinho,pt POR,FW,pt Sporting CP,30-145,1992,2.6,81,76,5,0,0,1,0,0,0,0,0,0,61,0,1,Matches
-53070b63,Paulinho,br BRA,FW,de Leverkusen,22-262,2000,0.5,17,16,1,0,0,0,1,0,1,0,0,0,13,0,0,Matches
-45a03961,Benjamin Pavard,fr FRA,DF,de Bayern Munich,27-006,1996,4.7,453,425,27,11,2,3,2,16,0,0,0,0,419,1,2,Matches
-25146df0,Strahinja Pavlović,rs SRB,DF,at RB Salzburg,21-314,2001,6.0,219,211,8,8,0,3,1,0,0,0,0,0,153,0,6,Matches
-58ae47b2,Dimitri Payet,fr FRA,MF,fr Marseille,36-005,1987,0.9,58,55,2,2,0,1,5,0,0,0,0,0,46,1,2,Matches
-0d9b2d31,Pedri,es ESP,"MF,FW",es Barcelona,20-129,2002,4.5,287,279,8,1,3,6,3,2,0,0,0,0,253,0,2,Matches
-3b61c9ec,Luca Pellegrini,it ITA,"DF,MF",de Eint Frankfurt,24-027,1999,2.2,118,92,21,2,0,2,15,16,3,3,0,0,78,5,5,Matches
-cc1c5035,Iñaki Peña,es ESP,GK,es Barcelona,24-032,1999,1.0,39,29,10,2,0,0,0,0,0,0,0,0,37,0,0,Matches
-c906ce0f,Pepe,pt POR,DF,pt Porto,40-036,1983,4.0,202,189,13,12,0,1,0,1,0,0,0,0,166,0,2,Matches
-fc4e7637,Pepê,br BRA,"DF,FW",pt Porto,26-038,1997,7.6,326,277,49,5,2,1,14,42,2,0,1,0,251,0,9,Matches
-8fd9996f,Danilo Pereira,pt POR,"DF,MF",fr Paris S-G,31-206,1991,5.0,339,309,30,6,1,2,0,15,0,0,0,0,317,0,2,Matches
-121101a4,Dino Perić,hr CRO,DF,hr Dinamo Zagreb,28-265,1994,6.0,304,291,13,13,0,0,1,0,0,0,0,0,260,0,1,Matches
-4c62d0c8,Mattia Perin,it ITA,GK,it Juventus,30-144,1992,2.0,55,45,10,1,0,0,0,0,0,0,0,0,46,0,0,Matches
-6fe90922,Ivan Perišić,hr CRO,"DF,MF",eng Tottenham,34-060,1989,6.4,284,221,62,6,0,4,54,41,15,11,3,0,189,1,7,Matches
-51a56075,Luděk Pernica,cz CZE,DF,cz Viktoria Plzeň,32-291,1990,5.5,139,128,11,4,0,1,0,3,0,0,0,0,121,0,0,Matches
-24228180,Bruno Petković,hr CRO,FW,hr Dinamo Zagreb,28-199,1994,5.4,197,189,8,1,2,8,1,0,0,0,0,0,131,0,6,Matches
-6db16dda,Ivan Petryak,ua UKR,MF,ua Shakhtar,29-021,1994,2.0,44,43,0,0,1,0,4,0,0,0,0,0,31,1,4,Matches
-4f565d77,Kalvin Phillips,eng ENG,MF,eng Manchester City,27-122,1995,0.5,46,46,0,0,0,0,0,0,0,0,0,0,44,0,0,Matches
-307877be,Frantzdy Pierrot,ht HAI,FW,il Maccabi Haifa,26-086,1997,5.3,78,74,4,0,0,0,2,1,0,0,0,0,56,0,3,Matches
-b5b2e1ba,Václav Pilař,cz CZE,"FW,MF",cz Viktoria Plzeň,34-172,1988,1.4,47,44,2,1,0,1,4,1,0,0,0,0,33,1,1,Matches
-5db20508,Rodrigo Pinho,br BRA,FW,pt Benfica,31-308,1991,0.2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-adfc9123,Gerard Piqué,es ESP,DF,es Barcelona,36-060,1987,2.9,242,237,5,5,0,3,0,0,0,0,0,0,224,0,0,Matches
-55a1cac2,Tommaso Pobega,it ITA,MF,it Milan,23-262,1999,1.7,79,76,2,2,1,0,2,0,0,0,0,0,51,1,3,Matches
-d697a2d0,Suf Podgoreanu,il ISR,DF,il Maccabi Haifa,21-073,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-5e861944,Matteo Politano,it ITA,FW,it Napoli,29-243,1993,4.0,158,144,12,4,2,3,16,2,6,4,0,0,110,2,6,Matches
-27d0a506,Pedro Porro,es ESP,"DF,MF",pt Sporting CP,23-202,1999,4.4,234,179,53,15,0,3,22,34,4,0,3,0,162,2,6,Matches
-27d0a506,Pedro Porro,es ESP,DF,eng Tottenham,23-202,1999,0.4,32,21,11,2,0,0,8,6,3,0,3,0,23,0,0,Matches
-d2416c2e,Yussuf Poulsen,dk DEN,"FW,MF",de RB Leipzig,28-292,1994,0.8,14,14,0,0,0,0,1,0,0,0,0,0,6,0,1,Matches
-1bf33a9a,Christian Pulisic,us USA,"DF,FW",eng Chelsea,24-197,1998,1.3,61,57,4,0,0,0,1,4,0,0,0,0,50,0,0,Matches
-8794e251,Adrien Rabiot,fr FRA,MF,it Juventus,28-000,1995,5.0,240,235,5,2,1,0,8,3,0,0,0,0,204,0,5,Matches
-89f951b5,Ivan Rakitić,hr CRO,MF,es Sevilla,35-024,1988,4.6,245,238,6,4,1,6,4,1,0,0,0,0,207,1,7,Matches
-f63cda26,Gonçalo Ramos,pt POR,FW,pt Benfica,21-287,2001,6.1,110,107,2,0,0,0,5,0,0,0,0,0,71,1,4,Matches
-08511d65,Sergio Ramos,es ESP,DF,fr Paris S-G,37-004,1986,8.0,550,522,25,16,1,3,1,9,0,0,0,0,511,3,0,Matches
-d720e834,Calvin Ramsay,sct SCO,DF,eng Liverpool,19-246,2003,0.0,3,2,1,1,0,0,0,0,0,0,0,0,3,0,0,Matches
-3423f250,Raphinha,br BRA,FW,es Barcelona,26-110,1996,3.3,180,155,24,7,1,0,30,2,15,11,4,0,127,1,3,Matches
-6e058f06,Giacomo Raspadori,it ITA,FW,it Napoli,23-044,2000,2.3,91,84,7,1,1,2,4,0,2,2,0,0,71,0,3,Matches
-7d450ed3,David Raum,de GER,DF,de RB Leipzig,24-346,1998,5.9,350,291,59,10,0,1,39,41,8,1,6,0,289,0,6,Matches
-536cebe5,Ante Rebić,hr CRO,FW,it Milan,29-194,1993,2.6,89,88,1,0,1,0,9,1,0,0,0,0,53,0,3,Matches
-ae1159bf,Matheus Reis,br BRA,DF,pt Sporting CP,28-044,1995,5.7,334,309,25,7,0,0,0,18,0,0,0,0,295,0,4,Matches
-3376a776,Karim Rekik,nl NED,DF,es Sevilla,28-122,1994,1.0,37,34,3,1,0,0,1,2,0,0,0,0,35,0,0,Matches
-c5cbbcff,Devyne Rensch,nl NED,DF,nl Ajax,20-075,2003,3.2,130,105,23,4,0,0,1,19,0,0,0,0,106,2,5,Matches
-36a3ff67,Marco Reus,de GER,"MF,FW",de Dortmund,33-307,1989,2.9,99,92,7,2,0,0,4,0,0,0,0,0,80,0,4,Matches
-7fa4e703,Gio Reyna,us USA,"FW,MF",de Dortmund,20-141,2002,4.3,170,157,13,1,0,0,11,7,5,3,1,0,132,0,4,Matches
-fa031b34,Richarlison,br BRA,"MF,FW",eng Tottenham,25-328,1997,4.1,109,108,1,0,1,1,1,0,0,0,0,0,77,0,7,Matches
-7e56d3db,Stefan Ristovski,mk MKD,DF,hr Dinamo Zagreb,31-050,1992,4.1,194,163,31,11,0,2,13,20,0,0,0,0,159,0,7,Matches
-733e7ad8,Mats Rits,be BEL,MF,be Club Brugge,29-259,1993,0.2,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
-335fa267,Sergi Roberto,es ESP,DF,es Barcelona,31-055,1992,2.3,189,174,15,1,0,1,3,13,0,0,0,0,173,0,1,Matches
-2e4f5f03,Andrew Robertson,sct SCO,DF,eng Liverpool,29-023,1994,4.2,292,244,47,3,0,1,32,29,15,3,11,0,229,1,5,Matches
-c738a5ec,Rochinha,pt POR,"MF,FW",pt Sporting CP,27-335,1995,0.2,6,5,1,0,0,1,1,0,1,0,1,0,4,0,0,Matches
-e12b0b5b,Sebastian Rode,de GER,MF,de Eint Frankfurt,32-174,1990,3.3,196,191,5,5,1,0,2,0,0,0,0,0,157,0,6,Matches
-6434f10d,Rodri,es ESP,"MF,DF",eng Manchester City,26-285,1996,6.1,620,610,9,8,0,6,2,1,0,0,0,0,575,1,5,Matches
-8f5e92a6,Rodrygo,br BRA,FW,es Real Madrid,22-084,2001,5.7,235,226,8,1,2,3,4,0,3,1,0,0,207,1,0,Matches
-a3d94a58,Cristian Romero,ar ARG,DF,eng Tottenham,24-341,1998,6.6,434,410,24,17,1,2,1,7,0,0,0,0,389,0,5,Matches
-ed45c4a5,Valentin Rongier,fr FRA,MF,fr Marseille,28-117,1994,5.2,413,400,13,10,0,4,1,3,0,0,0,0,372,0,7,Matches
-90c1f9a4,Tom Rothe,de GER,DF,de Dortmund,18-156,2004,0.7,55,43,12,0,0,0,1,12,0,0,0,0,39,0,2,Matches
-4b3e1a38,Amir Rrahmani,xk KVX,DF,it Napoli,29-038,1994,5.0,376,361,14,14,1,6,0,0,0,0,0,0,333,1,2,Matches
-18b896d6,Antonio Rüdiger,de GER,DF,es Real Madrid,30-031,1993,5.5,327,320,7,4,0,7,0,1,0,0,0,0,304,0,1,Matches
-14b8fcdf,Daniele Rugani,it ITA,DF,it Juventus,28-248,1994,1.0,55,55,0,0,0,0,1,0,0,0,0,0,48,0,0,Matches
-0b5a292a,Mário Rui,pt POR,DF,it Napoli,31-311,1991,3.0,233,194,39,7,1,3,7,31,1,0,1,0,198,0,7,Matches
-c0c7ff58,Fabián Ruiz Peña,es ESP,MF,fr Paris S-G,27-000,1996,2.6,209,198,11,1,1,1,0,10,0,0,0,0,186,0,3,Matches
-12e7ac0a,Nikita Rukavytsya,au AUS,"FW,MF",il Maccabi Haifa,35-285,1987,0.5,15,13,2,0,0,0,1,0,0,0,0,0,12,0,0,Matches
-4535e4bb,Mathew Ryan,au AUS,GK,dk FC Copenhagen,30-360,1992,2.0,65,46,19,3,0,0,0,0,0,0,0,0,37,0,0,Matches
-009a4f60,Julian Ryerson,no NOR,DF,de Dortmund,25-137,1997,0.2,3,2,1,0,0,0,0,1,0,0,0,0,2,0,0,Matches
-e280527c,Marcel Sabitzer,at AUT,MF,de Bayern Munich,29-017,1994,3.1,149,148,1,1,0,0,1,0,0,0,0,0,128,0,1,Matches
-ee251371,Alexis Saelemaekers,be BEL,"FW,DF",it Milan,23-280,1999,3.0,103,92,10,0,0,0,9,10,0,0,0,0,76,1,0,Matches
-be6a794c,Fashion Sakala,zm ZAM,"FW,MF",sct Rangers,26-020,1997,2.6,52,48,4,0,0,0,8,2,0,0,0,0,36,0,6,Matches
-e342ad68,Mohamed Salah,eg EGY,FW,eng Liverpool,30-292,1992,6.9,223,214,7,0,6,1,10,6,0,0,0,0,182,2,2,Matches
-032f894e,Renato Sanches,pt POR,MF,fr Paris S-G,25-228,1997,1.6,106,104,2,2,0,0,0,0,0,0,0,0,102,0,2,Matches
-2c0f8e9e,Alexis Sánchez,cl CHI,FW,fr Marseille,34-105,1988,4.6,133,124,9,1,1,2,5,0,0,0,0,0,108,0,5,Matches
-da7b447d,Davinson Sánchez,co COL,DF,eng Tottenham,26-295,1996,0.2,19,18,0,0,0,0,1,0,0,0,0,0,11,1,0,Matches
-2f33776f,Cisse Sandra,be BEL,FW,be Club Brugge,19-108,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-0d82903c,Alex Sandro,br BRA,DF,it Juventus,32-067,1991,2.7,196,181,14,2,0,3,5,12,0,0,0,0,175,1,1,Matches
-dccd127f,James Sands,us USA,"DF,MF",sct Rangers,22-271,2000,3.6,189,184,4,3,0,3,0,0,0,0,0,0,159,1,2,Matches
-2b114be3,Leroy Sané,de GER,"FW,MF",de Bayern Munich,27-082,1996,4.4,204,202,0,0,4,0,0,0,0,0,0,0,171,2,1,Matches
-a6ee4f55,Nuno Santos,pt POR,"DF,MF",pt Sporting CP,28-049,1995,3.3,151,117,34,5,0,2,12,25,4,0,3,1,127,0,3,Matches
-24051310,Zaidu Sanusi,ng NGA,DF,pt Porto,25-294,1997,6.5,305,235,70,6,0,1,8,62,2,2,0,0,221,0,6,Matches
-eaefa2d0,Alvaro Sanz,es ESP,MF,es Barcelona,22-048,2001,0.2,12,12,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
-9744ff80,Pablo Sarabia,es ESP,MF,fr Paris S-G,30-327,1992,1.0,26,20,6,1,0,0,5,0,5,0,5,0,17,0,3,Matches
-f6ac68c1,Stefan Savić,me MNE,DF,es Atlético Madrid,32-085,1991,3.0,205,196,9,6,0,1,1,3,0,0,0,0,183,0,2,Matches
-5d4f7d61,Patrik Schick,cz CZE,FW,de Leverkusen,27-069,1996,5.0,94,92,2,0,0,0,0,0,0,0,0,0,74,0,2,Matches
-8f056768,Xaver Schlager,at AUT,MF,de RB Leipzig,25-187,1997,6.5,358,352,5,4,5,4,0,1,0,0,0,0,317,1,5,Matches
-34e12499,Nico Schlotterbeck,de GER,DF,de Dortmund,23-123,1999,6.2,389,378,11,11,0,15,0,0,0,0,0,0,338,0,0,Matches
-f07a0fe5,Abdoulaye Seck,sn SEN,DF,il Maccabi Haifa,30-303,1992,4.4,188,178,8,4,0,2,0,4,0,0,0,0,158,2,2,Matches
-28c6e925,Nicolas Seiwald,at AUT,MF,at RB Salzburg,21-334,2001,6.0,260,238,20,7,0,1,18,1,12,9,2,0,191,2,5,Matches
-3260690c,Benjamin Šeško,si SVN,FW,at RB Salzburg,19-307,2003,3.7,88,88,0,0,0,0,1,0,0,0,0,0,53,0,6,Matches
-6aa3e78b,Ryan Sessegnon,eng ENG,"MF,DF",eng Tottenham,22-320,2000,1.7,48,37,10,1,1,0,3,9,0,0,0,0,33,1,0,Matches
-fcea4f04,Maryan Shved,ua UKR,MF,ua Shakhtar,25-261,1997,2.1,51,47,4,0,0,0,3,1,3,3,0,0,35,0,1,Matches
-03998238,Danylo Sikan,ua UKR,FW,ua Shakhtar,21-352,2001,1.2,27,24,3,0,0,0,1,0,0,0,0,0,24,0,1,Matches
-3effaa34,André Silva,pt POR,FW,de RB Leipzig,27-148,1995,5.9,170,151,18,1,3,0,3,3,0,0,0,0,133,1,5,Matches
-8f0435c7,António Silva,pt POR,DF,pt Benfica,19-155,2003,7.9,430,415,15,12,0,2,0,3,0,0,0,0,397,0,1,Matches
-3eb22ec9,Bernardo Silva,pt POR,"MF,FW",eng Manchester City,28-236,1994,5.1,398,387,11,5,0,2,14,4,2,0,0,0,360,0,9,Matches
-70cf63ca,Rafa Silva,pt POR,"MF,FW",pt Benfica,29-321,1993,7.2,251,234,17,1,1,1,6,2,0,0,0,0,208,0,3,Matches
-86e7deaf,Thiago Silva,br BRA,DF,eng Chelsea,38-193,1984,5.3,370,361,9,8,0,5,0,1,0,0,0,0,333,0,1,Matches
-fcb27134,Mohamed Simakan,fr FRA,DF,de RB Leipzig,22-335,2000,5.7,347,289,57,7,0,1,9,50,0,0,0,0,267,1,8,Matches
-343c0d52,Giovanni Simeone,ar ARG,FW,it Napoli,27-272,1995,2.9,67,66,1,0,0,0,4,0,0,0,0,0,48,0,3,Matches
-a086ae11,Roko Simic,hr CRO,FW,at RB Salzburg,19-205,2003,0.2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-6250083a,Oliver Skipp,eng ENG,MF,eng Tottenham,22-199,2000,2.3,123,121,2,1,0,0,2,1,0,0,0,0,108,0,0,Matches
-b35a7399,Leo Skiri Østigård,no NOR,DF,it Napoli,23-126,1999,2.0,188,183,5,5,0,5,0,0,0,0,0,0,168,0,1,Matches
-c50cee19,Andreas Skov Olsen,dk DEN,"FW,MF",be Club Brugge,23-095,1999,3.3,99,88,11,4,0,0,20,2,5,5,0,0,68,0,4,Matches
-30f5ffa9,Milan Škriniar,sk SVK,DF,it Inter,28-051,1995,6.0,344,320,23,10,0,0,0,13,0,0,0,0,314,1,4,Matches
-c967f6b8,Hrvoje Smolčić,hr CRO,DF,de Eint Frankfurt,22-229,2000,1.4,51,47,4,4,0,1,0,0,0,0,0,0,38,0,1,Matches
-2ccd89a3,Eduard Sobol,ua UKR,"FW,DF",be Club Brugge,27-348,1995,1.2,59,44,15,2,0,0,7,12,1,1,0,0,43,0,1,Matches
-fed17f5a,Carlos Soler,es ESP,MF,fr Paris S-G,26-091,1997,1.7,70,68,2,1,0,0,2,0,1,0,1,0,62,0,0,Matches
-0670ee51,Oumar Solet,fr FRA,DF,at RB Salzburg,23-055,2000,3.0,132,126,6,6,0,0,0,0,0,0,0,0,114,0,0,Matches
-420c18a1,Yann Sommer,ch SUI,GK,de Bayern Munich,34-107,1988,2.0,65,51,14,5,0,0,0,0,0,0,0,0,54,0,0,Matches
-c13ddd3e,Matìas Soulé,ar ARG,"MF,FW",it Juventus,19-353,2003,0.5,18,16,2,1,0,0,0,1,0,0,0,0,17,0,0,Matches
-4c6facae,Djibril Sow,ch SUI,MF,de Eint Frankfurt,26-056,1997,8.0,440,426,14,14,2,2,1,0,0,0,0,0,372,0,9,Matches
-74b7375f,Kamal Sowah,gh GHA,"FW,MF",be Club Brugge,23-084,2000,6.6,221,217,2,1,0,2,7,0,1,0,0,0,166,2,7,Matches
-688fcea2,Dario Špikić,hr CRO,"FW,DF",hr Dinamo Zagreb,24-012,1999,1.9,56,53,3,0,0,1,4,3,0,0,0,0,45,0,2,Matches
-2d65a822,Jorne Spileers,be BEL,DF,be Club Brugge,18-072,2005,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-90339309,Jerry St. Juste,nl NED,DF,pt Sporting CP,26-166,1996,2.1,117,113,4,4,0,0,0,0,0,0,0,0,103,0,1,Matches
-690d1049,Marko Stamenic,nz NZL,MF,dk FC Copenhagen,21-043,2002,3.0,100,99,1,1,0,2,0,0,0,0,0,0,76,0,1,Matches
-eca17cf2,Jindřich Staněk,cz CZE,GK,cz Viktoria Plzeň,26-341,1996,5.0,141,89,52,12,0,0,0,0,0,0,0,0,92,0,0,Matches
-7ed08d5c,Josip Stanišić,hr CRO,DF,de Bayern Munich,23-001,2000,3.7,296,269,27,1,0,1,2,26,0,0,0,0,272,0,5,Matches
-5cfec13d,Carl Starfelt,se SWE,DF,sct Celtic,27-306,1995,1.0,54,53,1,1,0,0,0,0,0,0,0,0,52,0,0,Matches
-d0b8e745,Orri Steinn Óskarsson,is ISL,"MF,FW",dk FC Copenhagen,18-217,2004,0.2,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-ee3519f5,Taras Stepanenko,ua UKR,MF,ua Shakhtar,33-238,1989,5.9,277,264,13,10,0,5,0,3,0,0,0,0,240,0,6,Matches
-b400bde0,Raheem Sterling,eng ENG,"FW,DF",eng Chelsea,28-116,1994,6.0,238,225,11,2,2,0,13,5,4,4,0,0,187,2,10,Matches
-5eecec3d,John Stones,eng ENG,"DF,MF",eng Manchester City,28-310,1994,2.7,198,182,15,0,0,2,2,15,0,0,0,0,184,1,4,Matches
-1e1378e1,Luka Sučić,hr CRO,MF,at RB Salzburg,20-207,2002,4.4,199,182,15,1,4,1,3,0,3,0,1,0,151,2,7,Matches
-a793f5a8,Heorhii Sudakov,ua UKR,MF,ua Shakhtar,20-214,2002,5.3,315,305,9,5,6,0,1,1,0,0,0,0,277,1,2,Matches
-e33c06cf,Niklas Süle,de GER,DF,de Dortmund,27-212,1995,7.5,512,491,21,18,1,15,0,3,0,0,0,0,461,0,3,Matches
-141b0bd2,Daniel Sundgren,se SWE,DF,il Maccabi Haifa,32-132,1990,3.6,208,184,24,2,0,1,4,22,0,0,0,0,171,0,3,Matches
-4e219ad2,Suso,es ESP,"FW,MF",es Sevilla,29-135,1993,2.6,100,91,7,1,1,2,4,3,1,0,0,0,82,2,2,Matches
-33a6a650,Josip Šutalo,hr CRO,DF,hr Dinamo Zagreb,23-034,2000,6.0,295,286,9,9,0,1,0,0,0,0,0,0,256,0,3,Matches
-d820a7c8,Jan Sýkora,cz CZE,"FW,DF",cz Viktoria Plzeň,29-095,1993,1.6,20,18,2,0,0,0,1,1,0,0,0,0,15,0,0,Matches
-29c91632,Abakar Sylla,ci CIV,DF,be Club Brugge,20-099,2002,5.5,308,301,7,7,0,1,1,0,0,0,0,0,271,0,1,Matches
-01b8a2b2,Wojciech Szczęsny,pl POL,GK,it Juventus,32-350,1990,4.0,103,80,23,4,0,1,0,0,0,0,0,0,89,0,0,Matches
-934e1968,Dominik Szoboszlai,hu HUN,FW,de RB Leipzig,22-160,2000,7.3,333,292,38,11,0,4,29,10,17,6,10,0,268,3,5,Matches
-c8829a58,Christian Sørensen,dk DEN,"DF,MF",dk FC Copenhagen,30-240,1992,1.1,73,53,18,4,0,0,9,12,2,1,0,1,52,2,2,Matches
-2475dcc6,Dušan Tadić,rs SRB,FW,nl Ajax,34-134,1988,4.8,208,197,10,1,3,0,10,4,5,0,3,0,161,1,5,Matches
-bd142efb,Jonathan Tah,de GER,DF,de Leverkusen,27-051,1996,5.3,350,342,6,6,2,1,0,0,0,0,0,0,317,2,1,Matches
-e9971f2d,Japhet Tanganga,eng ENG,DF,eng Tottenham,24-003,1999,0.2,18,16,2,1,0,0,0,1,0,0,0,0,16,0,0,Matches
-a73c8f95,Edmond Tapsoba,bf BFA,DF,de Leverkusen,24-060,1999,3.9,282,268,13,8,1,2,0,4,0,0,0,0,257,1,0,Matches
-4c2a5d34,Mehdi Taremi,ir IRN,FW,pt Porto,30-259,1992,6.8,177,171,3,1,3,0,1,0,0,0,0,0,129,3,6,Matches
-b056e3da,Ciprian Tătărușanu,ro ROU,GK,it Milan,37-053,1986,5.0,173,127,46,13,0,1,0,0,0,0,0,0,136,0,0,Matches
-a65c844b,Nuno Tavares,pt POR,DF,fr Marseille,23-067,2000,6.0,330,280,49,8,0,3,33,41,0,0,0,0,257,1,8,Matches
-be765073,James Tavernier,eng ENG,DF,sct Rangers,31-154,1991,5.4,289,206,78,13,1,1,22,57,8,0,8,0,196,5,5,Matches
-30d75bfb,Greg Taylor,sct SCO,DF,sct Celtic,25-149,1997,6.0,399,339,59,6,0,0,8,52,1,0,0,0,338,1,9,Matches
-ad9b2747,Kenneth Taylor,nl NED,MF,nl Ajax,20-322,2002,4.6,240,228,8,3,1,0,6,4,1,0,0,0,205,4,2,Matches
-d0a39bdf,Lucas Taylor,br BRA,DF,ua Shakhtar,27-358,1995,3.5,113,91,22,0,0,0,2,22,0,0,0,0,88,0,4,Matches
-f4d8ce5a,Mavis Tchibota,cg CGO,FW,il Maccabi Haifa,26-331,1996,1.0,27,27,0,0,0,0,3,0,0,0,0,0,15,0,3,Matches
-4f255115,Aurélien Tchouaméni,fr FRA,MF,es Real Madrid,23-066,2000,4.3,332,326,6,6,2,2,0,0,0,0,0,0,311,0,2,Matches
-829aa60c,Mathys Tel,fr FRA,FW,de Bayern Munich,17-341,2005,1.4,43,41,2,0,0,0,4,1,0,0,0,0,33,0,1,Matches
-e73c9bb2,Alex Telles,br BRA,"DF,FW",es Sevilla,30-109,1992,4.3,242,186,56,9,0,0,27,38,9,1,8,0,181,0,5,Matches
-6f51e382,Marc-André ter Stegen,de GER,GK,es Barcelona,30-338,1992,5.0,162,125,37,9,0,0,0,0,0,0,0,0,149,0,0,Matches
-6b994195,Kévin Théophile-Catherine,fr FRA,DF,hr Dinamo Zagreb,33-157,1989,0.8,43,40,3,0,0,0,0,3,0,0,0,0,32,0,1,Matches
-ff5ea0bf,Malick Thiaw,de GER,DF,it Milan,21-238,2001,2.0,98,97,1,1,0,0,0,0,0,0,0,0,79,0,1,Matches
-b7c19c48,Mohamed Tijani,bj BEN,DF,cz Viktoria Plzeň,25-267,1997,1.9,71,63,8,6,0,2,0,0,0,0,0,0,55,0,0,Matches
-a5420709,Malik Tillman,us USA,MF,sct Rangers,20-310,2002,2.7,57,56,1,0,0,0,1,1,0,0,0,0,40,0,3,Matches
-41034650,Jurriën Timber,nl NED,DF,nl Ajax,21-290,2001,5.9,420,406,13,11,0,1,1,1,0,0,0,0,393,1,0,Matches
-7edfbb8a,Fikayo Tomori,eng ENG,DF,it Milan,25-105,1997,5.2,301,288,13,7,1,1,0,1,0,0,0,0,260,0,2,Matches
-0db169ae,Sandro Tonali,it ITA,MF,it Milan,22-330,2000,7.7,353,299,50,25,2,1,28,5,18,9,6,0,264,4,11,Matches
-04e531b6,Pablo Torre,es ESP,"MF,FW",es Barcelona,20-000,2003,1.1,78,78,0,0,0,0,0,0,0,0,0,0,70,0,0,Matches
-9e1035f8,Ferrán Torres,es ESP,"FW,MF",es Barcelona,23-033,2000,2.1,78,75,3,1,0,0,1,1,0,0,0,0,66,0,3,Matches
-ab708880,Andriy Totovytskyi,ua UKR,MF,ua Shakhtar,30-073,1993,0.2,6,5,1,0,0,0,1,0,1,0,1,0,5,0,0,Matches
-ce17b5eb,Kevin Trapp,de GER,GK,de Eint Frankfurt,32-269,1990,8.0,227,164,62,20,0,1,0,0,0,0,0,0,146,1,0,Matches
-77e39b04,Francisco Trincão,pt POR,"MF,FW",pt Sporting CP,23-095,1999,4.3,120,112,8,3,0,0,5,1,2,0,2,0,91,0,7,Matches
-41f0b196,Anatolii Trubin,ua UKR,GK,ua Shakhtar,21-245,2001,6.0,260,196,63,9,0,1,0,0,0,0,0,0,200,1,0,Matches
-f315ca93,Kostas Tsimikas,gr GRE,DF,eng Liverpool,26-326,1996,3.8,239,164,75,7,0,0,44,48,20,5,15,0,170,0,8,Matches
-aa34ed38,David Turnbull,sct SCO,MF,sct Celtic,23-267,1999,1.1,83,72,11,0,0,0,6,2,5,1,3,0,67,0,1,Matches
-35d64857,Tuta,br BRA,DF,de Eint Frankfurt,23-273,1999,6.7,333,318,15,13,0,1,1,2,0,0,0,0,266,0,4,Matches
-d3dc62d1,Marián Tvrdoň,sk SVK,GK,cz Viktoria Plzeň,28-228,1994,1.0,50,26,24,11,0,0,0,0,0,0,0,0,31,0,0,Matches
-c9817014,Manuel Ugarte Ribeiro,uy URU,MF,pt Sporting CP,21-357,2001,5.2,238,229,8,6,0,2,1,1,0,0,0,0,201,1,2,Matches
-1a799243,Andreas Ulmer,at AUT,DF,at RB Salzburg,37-155,1985,4.2,187,139,48,3,0,0,11,42,3,3,0,0,123,0,4,Matches
-7d3e7da6,Sven Ulreich,de GER,GK,de Bayern Munich,34-243,1988,3.0,116,90,26,5,0,0,0,0,0,0,0,0,102,0,0,Matches
-1880614f,Cengiz Ünder,tr TUR,MF,fr Marseille,25-263,1997,1.9,97,78,18,6,0,4,7,6,6,1,0,1,80,1,1,Matches
-d248cd8f,Dayot Upamecano,fr FRA,DF,de Bayern Munich,24-158,1998,5.9,417,402,14,12,0,5,0,2,0,0,0,0,381,1,2,Matches
-b997c3de,Mateus Uribe,co COL,MF,pt Porto,32-013,1991,6.8,328,306,20,11,0,2,3,9,0,0,0,0,266,2,5,Matches
-0a69de7b,Enrique Valiente,es ESP,DF,es Sevilla,20-345,2002,2.0,153,153,0,0,0,1,1,0,0,0,0,0,124,0,1,Matches
-c2111b45,Jesús Vallejo,es ESP,DF,es Real Madrid,26-088,1997,0.2,17,16,1,0,0,1,0,0,0,0,0,0,16,0,1,Matches
-0959c2a2,Federico Valverde,uy URU,"FW,MF",es Real Madrid,24-255,1998,6.7,367,364,3,2,2,7,18,1,0,0,0,0,313,0,11,Matches
-e06683ca,Virgil van Dijk,nl NED,DF,eng Liverpool,31-269,1991,8.0,505,493,12,11,0,5,0,1,0,0,0,0,439,0,2,Matches
-392a7aea,Hans Vanaken,be BEL,MF,be Club Brugge,30-222,1992,7.8,452,434,17,15,2,15,2,2,0,0,0,0,378,1,9,Matches
-08990838,Denis Vavro,sk SVK,DF,dk FC Copenhagen,26-358,1996,4.0,159,151,8,6,0,3,1,1,0,0,0,0,133,0,0,Matches
-fd51b456,Lucas Vázquez,es ESP,DF,es Real Madrid,31-276,1991,2.1,147,130,17,1,0,3,9,16,0,0,0,0,133,0,0,Matches
-4a56052c,Jordan Veretout,fr FRA,MF,fr Marseille,30-033,1993,5.4,411,383,26,15,0,2,15,3,8,2,5,0,362,2,2,Matches
-5eaf85b5,Lucas Veríssimo,br BRA,DF,pt Benfica,27-275,1995,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-6bc49da7,Gabriel Veron,br BRA,"MF,FW",pt Porto,20-212,2002,0.5,17,16,1,0,0,0,2,1,0,0,0,0,11,0,2,Matches
-1467af0d,Marco Verratti,it ITA,MF,fr Paris S-G,30-149,1992,6.9,690,641,47,44,1,2,1,3,0,0,0,0,639,2,6,Matches
-3b029691,Vitinha,pt POR,MF,fr Paris S-G,23-049,2000,6.5,436,432,3,2,0,1,2,0,0,0,0,0,398,1,8,Matches
-03df04ff,Odisseas Vlachodimos,gr GRE,GK,pt Benfica,28-342,1994,8.0,205,143,61,14,0,0,0,0,0,0,0,0,149,1,0,Matches
-79443529,Dušan Vlahović,rs SRB,FW,it Juventus,23-065,2000,4.6,91,75,14,0,0,0,2,0,0,0,0,0,65,2,2,Matches
-aed44b64,Adam Vlkanova,cz CZE,MF,cz Viktoria Plzeň,28-211,1994,5.1,135,106,29,2,0,1,14,2,6,1,4,0,99,0,2,Matches
-d0d8dd44,Stefan de Vrij,nl NED,DF,it Inter,31-057,1992,3.1,71,67,3,1,0,0,0,0,0,0,0,0,59,1,0,Matches
-86dd77d1,Kyle Walker,eng ENG,FW,eng Manchester City,32-310,1990,1.0,75,60,15,0,0,0,4,15,0,0,0,0,55,0,3,Matches
-cb64672e,Paul Wanner,de GER,"DF,FW",de Bayern Munich,17-101,2005,0.4,21,18,3,0,0,0,1,3,0,0,0,0,18,0,0,Matches
-a8b8af8d,Stephen Welsh,sct SCO,DF,sct Celtic,23-074,2000,1.0,58,56,2,2,0,0,0,0,0,0,0,0,55,0,0,Matches
-f9acca3a,Wendell,br BRA,DF,pt Porto,29-257,1993,1.6,106,89,17,3,0,0,8,11,3,3,0,0,88,0,2,Matches
-49fe9070,Timo Werner,de GER,FW,de RB Leipzig,27-028,1996,5.6,230,221,8,1,4,1,3,3,1,0,0,0,178,1,9,Matches
-83300259,Owen Wijndal,nl NED,DF,nl Ajax,23-126,1999,0.8,49,48,1,0,0,0,3,1,0,0,0,0,42,0,0,Matches
-c19a2df1,Josh Wilson-Esbrand,eng ENG,DF,eng Manchester City,20-098,2002,0.5,35,31,4,0,0,0,1,4,0,0,0,0,30,0,0,Matches
-5dfc6ad5,Axel Witsel,be BEL,"DF,MF",es Atlético Madrid,34-081,1989,5.1,344,336,8,7,0,1,0,1,0,0,0,0,322,0,2,Matches
-4b803b3c,Maximilian Wöber,at AUT,DF,at RB Salzburg,25-058,1998,1.8,72,46,26,0,0,0,9,26,0,0,0,0,32,0,2,Matches
-fa661778,Marius Wolf,de GER,DF,de Dortmund,27-311,1995,2.0,98,80,18,2,0,0,9,16,0,0,0,0,73,0,3,Matches
-e9b0ccaf,Scott Wright,sct SCO,"FW,MF",sct Rangers,25-238,1997,1.5,37,37,0,0,0,0,2,0,0,0,0,0,25,0,1,Matches
-cb641b9d,Roman Yaremchuk,ua UKR,FW,be Club Brugge,27-127,1995,1.2,39,36,3,0,0,0,1,0,0,0,0,0,29,0,1,Matches
-94721522,Rıdvan Yılmaz,tr TUR,DF,sct Rangers,21-317,2001,1.0,50,39,11,1,0,0,4,10,0,0,0,0,39,0,1,Matches
-6b9960cf,Warren Zaire-Emery,fr FRA,MF,fr Paris S-G,17-026,2006,0.9,38,36,2,1,2,0,2,1,0,0,0,0,30,0,1,Matches
-384d58d9,Denis Zakaria,ch SUI,MF,eng Chelsea,26-134,1996,0.8,44,43,1,1,0,1,0,0,0,0,0,0,42,0,0,Matches
-6bb2c084,Andre-Frank Zambo Anguissa,cm CMR,MF,it Napoli,27-138,1995,6.4,349,337,9,8,5,0,0,1,0,0,0,0,297,3,7,Matches
-3b12b11f,Alessandro Zanoli,it ITA,DF,it Napoli,22-182,2000,0.1,8,8,0,0,0,0,3,0,0,0,0,0,6,0,1,Matches
-f15b778f,Zeca,gr GRE,MF,dk FC Copenhagen,34-215,1988,1.8,71,68,2,2,0,0,0,0,0,0,0,0,65,1,0,Matches
-d19ef4ef,Alessio Zerbin,it ITA,FW,it Napoli,24-031,1999,0.6,34,33,0,0,0,0,0,0,0,0,0,0,25,1,1,Matches
-a5296e55,Piotr Zieliński,pl POL,MF,it Napoli,28-318,1994,5.2,267,236,31,9,5,0,22,0,18,7,6,0,222,0,5,Matches
-6622454d,Hakim Ziyech,ma MAR,"FW,MF",eng Chelsea,30-015,1993,1.6,88,81,6,1,0,1,18,1,4,2,1,0,59,1,3,Matches
-adfbe1f5,Oleksandr Zubkov,ua UKR,"FW,MF",ua Shakhtar,26-243,1996,4.1,104,98,6,0,2,0,0,2,0,0,0,0,81,0,2,Matches
-37557ec4,Neven Đurasek,hr CRO,MF,ua Shakhtar,24-231,1998,1.0,36,36,0,0,0,0,0,0,0,0,0,0,33,0,0,Matches
+1339039e,Liel Abada,il ISR,"FW,MF",sct Celtic,21-189,2001,2.4,59,58,1,0,0,0,10,1,0,0,0,0,39,0,4,Matches
+8f5cdf66,Oliver Abildgaard,dk DEN,MF,sct Celtic,26-304,1996,0.7,33,33,0,0,0,0,0,0,0,0,0,0,24,0,1,Matches
+f417a1fa,Mohammad Abu Fani,il ISR,MF,il Maccabi Haifa,24-348,1998,4.4,230,218,10,2,0,5,2,2,5,0,0,0,198,2,4,Matches
+b96b595c,Francesco Acerbi,it ITA,DF,it Inter,35-059,1988,5.2,336,323,13,8,0,2,0,3,0,0,0,0,306,0,2,Matches
+81442ecb,Marcos Acuña,ar ARG,"DF,MF",es Sevilla,31-164,1991,2.4,97,78,19,0,0,0,9,18,1,0,1,0,67,0,3,Matches
+82e12fe7,Chikwubuike Adamu,at AUT,FW,at RB Salzburg,21-308,2001,2.3,48,47,1,0,0,0,5,0,0,0,0,0,25,0,5,Matches
+65d62814,Antonio Adán,es ESP,GK,pt Sporting CP,35-332,1987,4.2,219,164,55,20,0,1,0,0,0,0,0,0,153,0,0,Matches
+ee926a02,Arijan Ademi,mk MKD,MF,hr Dinamo Zagreb,31-316,1991,5.2,147,141,6,2,0,1,0,0,0,0,0,0,122,0,5,Matches
+501055d8,Karim Adeyemi,de GER,"FW,MF",de Dortmund,21-082,2002,4.2,101,100,1,0,0,0,6,1,0,0,0,0,77,0,5,Matches
+dcfb17f4,Amine Adli,fr FRA,"FW,MF",de Leverkusen,22-335,2000,1.3,64,62,2,0,1,0,4,1,1,0,0,0,44,0,2,Matches
+89ac64a6,Manuel Akanji,ch SUI,DF,eng Manchester City,27-265,1995,5.5,495,482,13,5,0,2,0,8,0,0,0,0,459,0,2,Matches
+eaeca114,Nathan Aké,nl NED,DF,eng Manchester City,28-051,1995,4.0,434,416,17,6,1,4,4,11,0,0,0,0,405,1,4,Matches
+05439de2,David Alaba,at AUT,DF,es Real Madrid,30-290,1992,4.4,322,300,22,5,0,0,14,15,2,0,2,0,279,0,2,Matches
+834d0be5,Lucas Alario,ar ARG,"FW,MF",de Eint Frankfurt,30-184,1992,0.2,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+4601e194,Jordi Alba,es ESP,DF,es Barcelona,34-020,1989,1.6,183,166,17,3,1,0,9,14,0,0,0,0,162,0,0,Matches
+77e84962,Thiago Alcántara,es ESP,MF,eng Liverpool,31-364,1991,3.4,232,224,8,6,1,9,2,2,0,0,0,0,205,0,3,Matches
+cd1acf9d,Trent Alexander-Arnold,eng ENG,DF,eng Liverpool,24-185,1998,6.9,528,421,106,20,2,9,57,62,24,4,19,0,405,1,7,Matches
+4288f249,Sotiris Alexandropoulos,gr GRE,MF,pt Sporting CP,21-135,2001,1.3,42,40,2,1,0,1,0,0,0,0,0,0,33,0,2,Matches
+00f518d8,Faride Alidou,de GER,"DF,FW",de Eint Frankfurt,21-266,2001,0.8,38,32,6,1,0,0,2,5,0,0,0,0,32,0,0,Matches
+7a2e46a8,Alisson,br BRA,GK,eng Liverpool,30-190,1992,8.0,274,225,47,10,0,1,0,0,0,0,0,0,242,2,0,Matches
+f4290206,Marcos Alonso,es ESP,DF,es Barcelona,32-103,1990,4.5,418,387,30,8,0,3,12,18,4,0,4,0,376,1,4,Matches
+8ce30c57,Éder Álvarez Balanta,co COL,"MF,FW",be Club Brugge,30-041,1993,0.6,17,16,1,1,0,0,0,0,0,0,0,0,13,0,0,Matches
+8b3ab7ad,Edson Álvarez,mx MEX,MF,nl Ajax,25-168,1997,5.9,364,359,5,5,0,1,0,0,0,0,0,0,312,0,4,Matches
+15ab5a2b,Julián Álvarez,ar ARG,FW,eng Manchester City,23-069,2000,4.9,103,99,4,0,2,1,2,0,0,0,0,0,86,0,2,Matches
+555d5edd,Nadiem Amiri,de GER,"MF,FW",de Leverkusen,26-165,1996,1.4,64,62,0,0,0,1,1,0,0,0,0,0,51,2,3,Matches
+e0b113a7,Robert Andrich,de GER,MF,de Leverkusen,28-200,1994,4.5,207,200,6,5,1,2,0,1,0,0,0,0,176,1,2,Matches
+df525574,Peter Ankersen,dk DEN,DF,dk FC Copenhagen,32-200,1990,0.3,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+a2ea941d,Ofri Arad,il ISR,"DF,MF",il Maccabi Haifa,24-211,1998,0.2,11,11,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+56413b1f,Charles Aránguiz,cl CHI,MF,de Leverkusen,33-358,1989,2.4,154,151,3,1,1,3,0,2,0,0,0,0,146,0,1,Matches
+353eb529,Henrique Araújo,pt POR,FW,pt Benfica,21-081,2002,0.1,8,8,0,0,0,0,2,0,0,0,0,0,5,0,0,Matches
+2bef2bca,Ronald Araújo,uy URU,DF,es Barcelona,24-034,1999,1.0,55,49,6,5,0,3,0,1,0,0,0,0,47,0,0,Matches
+b1313ec4,Scott Arfield,ca CAN,MF,sct Rangers,34-160,1988,3.0,87,83,3,0,0,0,2,0,3,0,1,0,59,1,4,Matches
+e2ae54db,Hákon Arnar Haraldsson,is ISL,FW,dk FC Copenhagen,20-000,2003,3.3,100,90,9,0,0,1,3,0,3,3,0,0,79,1,1,Matches
+28d596a0,Kepa Arrizabalaga,es ESP,GK,eng Chelsea,28-189,1994,7.0,204,159,44,9,0,0,0,0,0,0,0,0,146,1,0,Matches
+184ad240,Arthur,br BRA,"MF,FW",pt Sporting CP,24-281,1998,1.2,43,39,4,0,1,0,3,2,1,1,0,0,33,0,3,Matches
+45af8a54,Marco Asensio,es ESP,"FW,MF",es Real Madrid,27-079,1996,2.9,170,160,10,1,2,3,10,4,5,3,0,0,147,0,2,Matches
+0fdcef0e,Kristjan Asllani,al ALB,MF,it Inter,21-032,2002,1.4,74,60,12,5,0,0,8,0,7,3,3,0,59,2,2,Matches
+92fffd91,Omer Atzili,il ISR,"FW,MF",il Maccabi Haifa,29-257,1993,3.4,119,101,17,6,3,0,15,3,8,4,1,0,80,1,5,Matches
+d5dd5f1f,Pierre-Emerick Aubameyang,ga GAB,FW,eng Chelsea,33-296,1989,4.5,102,94,6,0,0,0,3,0,0,0,0,0,78,2,3,Matches
+32feb0cf,Lynnt Audoor,be BEL,MF,be Club Brugge,19-179,2003,0.1,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+f0677ed7,Fredrik Aursnes,no NOR,"FW,MF",pt Benfica,27-121,1995,4.9,240,236,2,0,1,5,4,2,0,0,0,0,192,2,10,Matches
+10549b49,Sardar Azmoun,ir IRN,FW,de Leverkusen,28-099,1995,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+53cad200,César Azpilicueta,es ESP,DF,eng Chelsea,33-225,1989,2.9,288,257,31,13,0,0,4,18,0,0,0,0,256,0,2,Matches
+ca002b1a,Youri Baas,nl NED,DF,nl Ajax,20-024,2003,0.5,27,25,2,0,1,0,0,2,0,0,0,0,23,0,0,Matches
+78f21137,Alexander Bah,dk DEN,DF,pt Benfica,25-122,1997,7.3,532,454,75,6,1,3,23,69,0,0,0,0,420,3,9,Matches
+a1232f4e,Eric Bailly,ci CIV,DF,fr Marseille,28-363,1994,3.4,203,192,8,7,0,0,0,1,0,0,0,0,174,3,0,Matches
+32e8417f,Stefan Bajcetic,es ESP,MF,eng Liverpool,18-170,2004,1.2,76,76,0,0,0,2,0,0,0,0,0,0,60,0,2,Matches
+a8567629,Mitchel Bakker,nl NED,"MF,DF",de Leverkusen,22-294,2000,3.8,211,194,17,1,0,2,6,16,0,0,0,0,171,0,4,Matches
+5ccc9672,Alejandro Balde,es ESP,DF,es Barcelona,19-174,2003,1.9,138,116,21,2,0,0,9,19,0,0,0,0,120,1,4,Matches
+7c3ed041,Leonardo Balerdi,ar ARG,DF,fr Marseille,24-074,1999,5.5,370,358,8,8,0,2,1,0,0,0,0,0,322,4,2,Matches
+f449640d,Fodé Ballo-Touré,sn SEN,"DF,MF",it Milan,26-097,1997,1.5,72,60,12,2,0,0,3,10,0,0,0,0,60,0,3,Matches
+6f1d7aa8,Tommaso Barbieri,it ITA,MF,it Juventus,20-227,2002,0.0,6,6,0,0,0,0,1,0,0,0,0,0,4,0,1,Matches
+88ce7ddc,Roony Bardghji,se SWE,FW,dk FC Copenhagen,17-146,2005,1.1,24,22,2,1,0,1,1,0,1,1,0,0,15,0,0,Matches
+6928979a,Nicolò Barella,it ITA,MF,it Inter,26-062,1997,6.3,228,226,2,2,2,6,7,0,0,0,0,0,181,0,10,Matches
+712dd708,Borna Barišić,hr CRO,DF,sct Rangers,30-151,1992,5.2,268,218,50,13,0,0,27,31,6,1,5,0,221,0,4,Matches
+6caffe81,Enzo Barrenechea,ar ARG,DF,it Juventus,21-323,2001,0.0,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+45736cec,Pablo Barrios,es ESP,MF,es Atlético Madrid,19-299,2003,0.1,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+a36524bf,Calvin Bassey,ng NGA,DF,nl Ajax,23-100,1999,6.0,434,410,24,9,0,5,1,6,0,0,0,0,387,0,1,Matches
+29b7b767,Fortune Bassey,ng NGA,FW,cz Viktoria Plzeň,24-186,1998,1.5,27,25,2,0,0,0,0,0,0,0,0,0,22,0,0,Matches
+75b86fb3,Alessandro Bastoni,it ITA,DF,it Inter,23-362,1999,6.2,373,344,27,16,0,7,16,9,0,0,0,0,312,2,2,Matches
+37d39918,Dylan Batubinsika,fr FRA,DF,il Maccabi Haifa,27-054,1996,5.0,198,189,9,9,0,1,0,0,0,0,0,0,174,0,2,Matches
+d1eda5f0,Martin Baturina,hr CRO,MF,hr Dinamo Zagreb,20-053,2003,0.7,37,35,1,1,0,0,1,0,0,0,0,0,29,1,3,Matches
+e3756e72,Raoul Bellanova,it ITA,"DF,MF",it Inter,22-328,2000,1.2,47,38,8,0,0,1,9,8,0,0,0,0,31,1,4,Matches
+f874dd44,Héctor Bellerín,es ESP,DF,es Barcelona,28-022,1995,2.0,98,79,18,1,0,1,5,17,0,0,0,0,79,1,4,Matches
+57d88cf9,Jude Bellingham,eng ENG,MF,de Dortmund,19-285,2003,7.0,335,329,5,3,3,7,5,1,0,0,0,0,274,1,4,Matches
+db092d3b,Ismaël Bennacer,dz ALG,MF,it Milan,25-130,1997,4.6,306,293,12,10,1,3,3,1,1,0,1,0,261,1,1,Matches
+3b8674e6,Rodrigo Bentancur,uy URU,"MF,FW",eng Tottenham,25-289,1997,5.6,365,358,7,5,3,0,3,0,0,0,0,0,316,0,3,Matches
+70d74ece,Karim Benzema,fr FRA,FW,es Real Madrid,35-112,1987,4.5,192,182,8,0,1,0,0,0,1,0,0,0,167,2,2,Matches
+713c144a,Steven Berghuis,nl NED,"MF,FW",nl Ajax,31-112,1991,5.1,274,244,26,6,0,6,24,5,15,11,0,0,204,4,4,Matches
+a29b1131,Steven Bergwijn,nl NED,FW,nl Ajax,25-184,1997,5.8,205,198,7,0,2,3,3,3,4,0,0,0,184,0,4,Matches
+67b09a18,Alexandro Bernabei,ar ARG,FW,sct Celtic,22-198,2000,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+17370b95,Bernardo,br BRA,DF,at RB Salzburg,27-331,1995,3.0,73,67,5,5,0,1,0,0,0,0,0,0,49,1,1,Matches
+433dc9a2,Juan Bernat,es ESP,DF,fr Paris S-G,30-040,1993,3.1,200,185,15,2,0,0,2,13,0,0,0,0,183,0,2,Matches
+505486d6,Victor Bernth Kristiansen,dk DEN,"DF,MF",dk FC Copenhagen,20-115,2002,5.4,251,209,41,9,0,1,18,27,5,2,2,0,188,1,6,Matches
+d00fd50a,Modou Biramé Ndiaye,sn SEN,MF,cz Viktoria Plzeň,26-163,1996,2.0,61,61,0,0,0,1,0,0,0,0,0,0,46,0,2,Matches
+6c203af0,Yves Bissouma,ml MLI,MF,eng Tottenham,26-223,1996,1.0,72,70,2,2,0,1,0,0,0,0,0,0,65,0,0,Matches
+663e080e,Janis Blaswich,de GER,GK,de RB Leipzig,31-343,1991,5.9,263,218,43,8,0,0,0,0,0,0,0,0,219,2,1,Matches
+691bef82,Daley Blind,nl NED,DF,nl Ajax,33-032,1990,4.5,333,288,43,4,0,1,4,34,1,0,0,0,277,2,7,Matches
+73b9fa8a,Petar Bočkaj,hr CRO,"DF,FW",hr Dinamo Zagreb,26-261,1996,0.4,21,16,5,1,0,0,5,2,2,2,0,0,12,0,3,Matches
+08fe932d,Nicolai Boilesen,dk DEN,DF,dk FC Copenhagen,31-053,1992,1.1,84,82,2,2,0,0,0,0,0,0,0,0,81,0,0,Matches
+7713c72a,Valerii Bondar,ua UKR,DF,ua Shakhtar,24-042,1999,6.0,344,338,6,6,0,2,0,0,0,0,0,0,317,0,4,Matches
+415568b5,Artem Bondarenko,ua UKR,MF,ua Shakhtar,22-232,2000,5.4,277,268,9,6,1,0,2,1,2,2,0,0,242,0,5,Matches
+52ec54d0,Leonardo Bonucci,it ITA,DF,it Juventus,35-344,1987,4.9,303,274,26,11,1,1,1,2,0,0,0,0,262,3,0,Matches
+4d1c4a5d,Gonçalo Borges,pt POR,"MF,FW",pt Porto,22-012,2001,0.4,15,15,0,0,0,0,1,0,0,0,0,0,9,0,0,Matches
+c68da769,Rafael Borré,co COL,FW,de Eint Frankfurt,27-207,1995,2.5,70,66,4,0,0,0,2,2,0,0,0,0,56,0,2,Matches
+f6798fc3,Yassine Bounou,ma MAR,GK,es Sevilla,32-005,1991,4.0,208,156,52,9,0,1,0,0,0,0,0,0,166,0,0,Matches
+7c473e12,Dedryck Boyata,be BEL,DF,be Club Brugge,32-133,1990,1.5,79,75,4,4,0,0,0,0,0,0,0,0,66,0,0,Matches
+a167537f,Julian Brandt,de GER,"MF,FW",de Dortmund,26-343,1996,5.3,247,225,20,4,1,2,18,3,12,2,9,0,199,2,7,Matches
+5fd5ed86,Gleison Bremer,br BRA,DF,it Juventus,26-023,1997,3.0,143,141,2,2,0,0,0,0,0,0,0,0,122,0,2,Matches
+4c184730,Brian Brobbey,nl NED,FW,nl Ajax,21-068,2002,1.3,25,18,7,0,0,0,1,0,0,0,0,0,19,0,0,Matches
+97220da2,Armando Broja,al ALB,FW,eng Chelsea,21-212,2001,1.3,31,31,0,0,0,0,0,0,0,0,0,0,24,0,1,Matches
+33b8d077,Marcelo Brozović,hr CRO,MF,it Inter,30-145,1992,2.3,196,180,15,8,1,4,7,1,6,1,5,0,175,1,4,Matches
+7b5ab7f2,Bryan,es ESP,MF,eng Tottenham,22-058,2001,0.4,20,20,0,0,0,1,3,0,0,0,0,0,13,0,2,Matches
+3235182a,Pavel Bucha,cz CZE,MF,cz Viktoria Plzeň,25-030,1998,4.0,132,131,1,0,0,0,4,0,1,1,0,0,115,0,4,Matches
+3aca6420,Tajon Buchanan,ca CAN,"DF,MF",be Club Brugge,24-061,1999,5.8,147,126,21,1,0,1,12,20,0,0,0,0,112,0,4,Matches
+eaeefc50,Marko Bulat,hr CRO,MF,hr Dinamo Zagreb,21-196,2001,0.3,23,22,1,1,0,0,0,0,0,0,0,0,19,0,0,Matches
+5ab0ea87,Sergio Busquets,es ESP,MF,es Barcelona,34-268,1988,3.2,166,155,11,11,0,2,0,0,0,0,0,0,138,0,4,Matches
+b4705807,Aurélio Buta,pt POR,DF,de Eint Frankfurt,26-059,1997,1.8,59,40,19,0,0,0,5,19,0,0,0,0,37,0,0,Matches
+10745192,Jamie Bynoe-Gittens,eng ENG,MF,de Dortmund,18-245,2004,0.4,12,11,1,0,0,0,1,1,0,0,0,0,8,0,1,Matches
+e34e086c,Jovane Cabral,cv CPV,MF,pt Sporting CP,24-300,1998,0.1,8,8,0,0,0,0,2,0,0,0,0,0,6,0,0,Matches
+2146785a,Davide Calabria,it ITA,DF,it Milan,26-125,1996,1.6,111,93,17,1,0,1,4,16,0,0,0,0,92,1,3,Matches
+cd0fa27b,Hakan Çalhanoğlu,tr TUR,MF,it Inter,29-061,1994,6.0,344,304,38,14,1,5,35,1,23,6,15,0,291,2,5,Matches
+7b9c2d84,Eduardo Camavinga,fr FRA,MF,es Real Madrid,20-151,2002,4.4,255,249,5,4,0,0,0,1,0,0,0,0,223,1,6,Matches
+a65ce836,Emre Can,de GER,MF,de Dortmund,29-088,1994,6.3,297,287,10,8,1,4,1,2,0,0,0,0,252,0,7,Matches
+bd6351cd,João Cancelo,pt POR,"DF,FW",de Bayern Munich,28-318,1994,0.6,62,53,9,1,0,0,3,8,0,0,0,0,52,0,2,Matches
+bd6351cd,João Cancelo,pt POR,DF,eng Manchester City,28-318,1994,4.2,416,383,32,7,1,4,24,25,0,0,0,0,352,1,9,Matches
+6885cc44,Nicolás Capaldo,ar ARG,MF,at RB Salzburg,25-208,1997,3.0,76,74,2,0,0,0,5,2,0,0,0,0,43,0,4,Matches
+707b98f1,Valentin Carboni,it ITA,FW,it Inter,18-036,2005,0.2,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+4a5839fa,Fábio Cardoso,pt POR,DF,pt Porto,28-356,1994,4.0,213,208,5,5,0,1,1,0,0,0,0,0,189,0,1,Matches
+3ce20eda,David Carmo,pt POR,DF,pt Porto,23-265,1999,5.0,214,197,16,11,0,2,2,0,0,0,0,0,166,1,1,Matches
+2dce876a,Carmona,es ESP,DF,es Sevilla,21-071,2002,5.0,298,272,26,10,0,2,10,14,0,0,0,0,257,0,10,Matches
+de39485a,Yannick Carrasco,be BEL,"DF,MF",es Atlético Madrid,29-218,1993,3.0,180,142,38,7,1,1,23,20,10,8,2,0,137,0,3,Matches
+88ced02c,Cameron Carter-Vickers,us USA,DF,sct Celtic,25-100,1997,4.0,299,297,2,2,1,2,0,0,0,0,0,0,285,0,0,Matches
+4958bfb2,Dani Carvajal,es ESP,DF,es Real Madrid,31-089,1992,5.9,422,365,57,8,0,0,15,48,1,0,0,0,362,0,5,Matches
+966e28d0,Fabio Carvalho,pt POR,"MF,FW",eng Liverpool,20-223,2002,1.3,55,55,0,0,1,0,1,0,0,0,0,0,46,0,0,Matches
+2ef08833,Marc Casado,es ESP,MF,es Barcelona,19-208,2003,0.3,29,28,1,1,0,0,0,0,0,0,0,0,26,0,1,Matches
+c0617e2b,Dani Ceballos,es ESP,"MF,FW",es Real Madrid,26-246,1996,0.6,51,49,2,0,0,1,1,0,2,0,1,0,44,0,2,Matches
+a33a0dc0,Aleš Čermák,cz CZE,MF,cz Viktoria Plzeň,28-191,1994,0.4,30,27,2,0,0,0,2,0,2,1,0,0,24,1,0,Matches
+2180c761,El Chadaille Bitshiabu,fr FRA,DF,fr Paris S-G,17-329,2005,0.5,27,27,0,0,0,0,0,0,0,0,0,0,26,0,1,Matches
+5515376c,Trevoh Chalobah,eng ENG,DF,eng Chelsea,23-279,1999,3.6,243,235,8,6,1,1,0,2,0,0,0,0,218,0,0,Matches
+b3b7f5a6,Timothy Chandler,us USA,DF,de Eint Frankfurt,33-012,1990,0.1,6,4,2,0,0,0,0,2,0,0,0,0,5,0,1,Matches
+71031a25,Tjaronn Chery,sr SUR,"MF,FW",il Maccabi Haifa,34-310,1988,6.0,256,223,29,1,3,1,14,0,8,2,2,0,204,4,4,Matches
+b0f7e36c,Federico Chiesa,it ITA,FW,it Juventus,25-167,1997,0.2,9,9,0,0,0,1,0,0,0,0,0,0,8,0,1,Matches
+d2424d1b,Ben Chilwell,eng ENG,"DF,MF",eng Chelsea,26-110,1996,5.5,335,285,50,10,0,1,31,24,16,9,7,0,265,0,5,Matches
+262e5a82,Chiquinho,pt POR,"MF,FW",pt Benfica,27-265,1995,2.6,166,150,13,4,1,2,8,0,9,3,4,0,145,3,1,Matches
+163bbd4a,Tomáš Chorý,cz CZE,FW,cz Viktoria Plzeň,28-074,1995,4.0,60,57,3,0,0,0,0,0,0,0,0,0,35,0,1,Matches
+1cb49278,Andreas Christensen,dk DEN,DF,es Barcelona,27-000,1996,2.4,229,221,8,7,0,1,0,1,0,0,0,0,217,0,0,Matches
+b3a712de,Viktor Claesson,se SWE,"FW,MF",dk FC Copenhagen,31-098,1992,5.4,175,171,3,1,2,2,0,0,0,0,0,0,139,1,3,Matches
+5219ab4a,Jonathan Clauss,fr FRA,DF,fr Marseille,30-197,1992,4.6,220,175,42,1,2,2,12,41,0,0,0,0,164,3,11,Matches
+b9beb6c5,William Clem,dk DEN,MF,dk FC Copenhagen,18-294,2004,1.9,74,73,1,1,0,0,0,0,0,0,0,0,66,0,0,Matches
+1fbbfbde,Sebastián Coates,uy URU,DF,pt Sporting CP,32-185,1990,4.4,202,192,10,9,0,1,0,0,0,0,0,0,178,0,0,Matches
+75c2e240,Josh Cohen,us USA,GK,il Maccabi Haifa,30-235,1992,6.0,145,98,45,6,0,0,0,0,0,0,0,0,107,2,0,Matches
+bfde3de5,Antonio Čolak,hr CRO,FW,sct Rangers,29-205,1993,3.2,42,32,10,0,0,0,1,0,0,0,0,0,27,0,0,Matches
+042e8a49,Kingsley Coman,fr FRA,"FW,DF",de Bayern Munich,26-301,1996,3.9,212,206,6,0,1,3,20,6,0,0,0,0,166,0,5,Matches
+5ef3d210,Francisco Conceição,pt POR,"FW,MF",nl Ajax,20-117,2002,0.2,14,11,3,1,0,0,0,2,0,0,0,0,13,0,0,Matches
+6fee9966,Rodrigo Conceição,pt POR,DF,pt Porto,23-098,2000,0.1,5,4,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+c693347d,Andreas Cornelius,dk DEN,FW,dk FC Copenhagen,30-025,1993,1.2,30,30,0,0,0,1,0,0,0,0,0,0,18,0,0,Matches
+edeb21ff,Pierre Cornud,fr FRA,DF,il Maccabi Haifa,26-119,1996,4.1,202,177,24,4,1,0,21,20,0,0,0,0,161,1,1,Matches
+01eb744d,Ángel Correa,ar ARG,"FW,MF",es Atlético Madrid,28-032,1995,3.5,114,109,5,1,0,0,8,0,2,0,1,0,92,0,3,Matches
+45b9b619,Joaquín Correa,ar ARG,FW,it Inter,28-240,1994,2.7,73,71,2,1,1,0,0,1,0,0,0,0,62,0,3,Matches
+7b4c1f6e,Bruno Xavier Almeida Costa,pt POR,MF,pt Porto,25-356,1997,0.8,22,18,4,2,0,0,3,0,2,2,0,0,18,0,0,Matches
+93fffbcf,Diogo Costa,pt POR,GK,pt Porto,23-203,1999,8.0,380,311,67,19,0,3,0,0,0,0,0,0,276,2,0,Matches
+9dff291c,Soumaïla Coulibaly,fr FRA,DF,de Dortmund,19-178,2003,0.2,15,15,0,0,0,0,0,0,0,0,0,0,14,0,1,Matches
+1840e36d,Thibaut Courtois,be BEL,GK,es Real Madrid,30-334,1992,6.0,243,200,42,5,0,0,0,0,0,0,0,0,201,1,1,Matches
+0ab1f153,Juan Cuadrado,co COL,"DF,MF",it Juventus,34-319,1988,4.8,281,235,45,11,0,12,24,29,5,1,3,0,234,1,5,Matches
+1daec722,Marc Cucurella,es ESP,DF,eng Chelsea,24-262,1998,3.5,287,244,43,8,0,1,5,35,0,0,0,0,242,0,1,Matches
+dc62b55d,Matheus Cunha,br BRA,"FW,MF",es Atlético Madrid,23-318,1999,1.4,33,30,2,0,0,0,3,0,0,0,0,0,24,1,3,Matches
+44eb9093,Danilo D'Ambrosio,it ITA,DF,it Inter,34-213,1988,1.5,86,83,2,0,0,0,2,2,0,0,0,0,74,1,0,Matches
+94b2001f,Danilo,br BRA,DF,it Juventus,31-269,1991,4.7,274,253,20,2,0,3,8,18,0,0,0,0,232,1,3,Matches
+f08490a6,Arnaut Danjuma,nl NED,MF,eng Tottenham,26-069,1997,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+06a1d642,Mohammed Daramy,dk DEN,FW,dk FC Copenhagen,21-093,2002,4.9,139,124,15,1,0,0,5,4,0,0,0,0,111,0,9,Matches
+96e0490d,Matteo Darmian,it ITA,DF,it Inter,33-129,1989,4.2,155,132,23,3,0,1,9,20,0,0,0,0,116,0,4,Matches
+40f65c01,Dean David,il ISR,"FW,DF",il Maccabi Haifa,27-027,1996,2.6,49,46,3,0,0,0,2,3,0,0,0,0,28,0,5,Matches
+d781d855,Alphonso Davies,ca CAN,DF,de Bayern Munich,22-159,2000,5.5,321,279,40,8,0,2,3,32,0,0,0,0,282,2,6,Matches
+44781702,Ben Davies,wls WAL,DF,eng Tottenham,29-351,1993,4.4,228,216,12,5,0,1,2,7,0,0,0,0,187,0,2,Matches
+c9009a1f,Ben Davies,eng ENG,DF,sct Rangers,27-242,1995,2.9,152,147,5,5,0,0,0,0,0,0,0,0,121,0,0,Matches
+cf15bbb1,Steven Davis,nir NIR,MF,sct Rangers,38-099,1985,2.8,114,110,3,2,0,3,0,0,1,0,0,0,91,1,0,Matches
+e46012d4,Kevin De Bruyne,be BEL,MF,eng Manchester City,31-286,1991,3.9,221,197,24,4,5,5,38,3,17,4,6,1,153,0,4,Matches
+2ef7c612,Charles De Ketelaere,be BEL,"MF,FW",it Milan,22-031,2001,2.6,75,72,2,0,0,0,3,2,0,0,0,0,53,1,6,Matches
+162efffd,Rodrigo De Paul,ar ARG,MF,es Atlético Madrid,28-321,1994,2.8,244,221,19,7,0,3,20,7,5,2,1,0,189,4,3,Matches
+ae4e2852,Mattia De Sciglio,it ITA,DF,it Juventus,30-172,1992,1.1,60,53,7,0,0,2,6,7,0,0,0,0,45,0,3,Matches
+bc6e544a,Amar Dedić,ba BIH,DF,at RB Salzburg,20-235,2002,6.0,283,200,83,4,0,1,9,79,0,0,0,0,183,0,8,Matches
+fe641c1a,Thomas Delaney,dk DEN,MF,es Sevilla,31-219,1991,2.6,108,105,3,1,0,0,1,2,0,0,0,0,82,0,4,Matches
+b19db005,Ousmane Dembélé,fr FRA,FW,es Barcelona,25-330,1997,4.6,259,230,28,9,2,2,51,1,18,7,7,0,176,1,9,Matches
+54b4dc4e,Kerem Demirbay,de GER,MF,de Leverkusen,29-281,1993,3.0,228,198,30,3,0,1,29,4,21,7,13,0,175,0,6,Matches
+5976f83e,Sergiño Dest,us USA,DF,it Milan,22-158,2000,2.1,90,77,12,0,0,1,3,12,0,0,0,0,64,1,5,Matches
+230a2fac,Giovanni Di Lorenzo,it ITA,DF,it Napoli,29-249,1993,7.9,466,396,65,16,6,6,17,48,1,0,0,0,394,5,8,Matches
+19cda00b,Ángel Di María,ar ARG,FW,it Juventus,35-055,1988,1.6,78,65,11,2,4,2,10,1,8,5,2,0,53,2,1,Matches
+aeed5c06,Moussa Diaby,fr FRA,"FW,MF",de Leverkusen,23-277,1999,5.6,202,188,13,2,0,1,16,1,2,1,0,0,149,1,7,Matches
+fc62f087,Abdou Diallo,sn SEN,"DF,MF",de RB Leipzig,26-341,1996,2.5,191,183,7,4,0,2,1,2,0,0,0,0,174,1,1,Matches
+31c69ef1,Rúben Dias,pt POR,DF,eng Manchester City,25-331,1997,6.7,654,643,9,8,0,1,2,1,0,0,0,0,626,2,1,Matches
+407feb71,Brahim Díaz,es ESP,"MF,FW",it Milan,23-250,1999,3.4,113,108,5,3,2,0,5,0,0,0,0,0,91,0,3,Matches
+4a1a9578,Luis Díaz,co COL,FW,eng Liverpool,26-087,1997,3.0,99,97,2,0,0,1,2,2,0,0,0,0,79,0,2,Matches
+ac861941,Eric Dier,eng ENG,DF,eng Tottenham,29-085,1994,6.9,466,453,11,11,1,2,4,0,0,0,0,0,416,2,3,Matches
+f179ee11,Kevin Diks,nl NED,DF,dk FC Copenhagen,26-186,1996,3.7,161,141,20,1,0,1,2,19,0,0,0,0,119,0,3,Matches
+970b8574,Federico Dimarco,it ITA,DF,it Inter,25-151,1997,4.0,217,184,30,3,0,6,30,20,6,1,5,0,153,3,7,Matches
+95bb6ddc,Junior Dina Ebimbe,fr FRA,"MF,DF",de Eint Frankfurt,22-140,2000,2.7,110,90,19,1,0,2,3,18,0,0,0,0,86,1,3,Matches
+ac295d9e,Marko Dmitrović,rs SRB,GK,es Sevilla,31-076,1992,2.0,73,61,12,3,0,0,0,0,0,0,0,0,49,0,0,Matches
+d557d734,Matt Doherty,ie IRL,DF,eng Tottenham,31-084,1992,0.8,35,34,1,0,0,0,1,1,0,0,0,0,29,0,1,Matches
+cc83b74d,Kasper Dolberg,dk DEN,FW,es Sevilla,25-186,1997,1.2,19,15,4,0,0,0,0,0,0,0,0,0,15,0,1,Matches
+08f5afaa,Gianluigi Donnarumma,it ITA,GK,fr Paris S-G,24-044,1999,8.0,239,176,62,16,0,0,0,0,0,0,0,0,198,1,0,Matches
+1a992676,Julian Draxler,de GER,MF,pt Benfica,29-202,1993,0.4,15,15,0,0,0,0,0,0,0,0,0,0,13,0,0,Matches
+15ea94de,Josip Drmić,ch SUI,FW,hr Dinamo Zagreb,30-245,1992,1.1,22,20,2,0,0,0,1,0,0,0,0,0,15,0,0,Matches
+481c9ece,Denzel Dumfries,nl NED,DF,it Inter,26-357,1996,5.1,194,158,34,0,0,0,16,34,0,0,0,0,130,2,14,Matches
+3bb7f478,Edin Džeko,ba BIH,FW,it Inter,37-024,1986,5.5,154,144,9,1,0,2,4,2,0,0,0,0,104,1,6,Matches
+3bb7b8b4,Ederson,br BRA,GK,eng Manchester City,29-236,1993,6.0,199,164,34,8,0,2,0,0,0,0,0,0,176,1,0,Matches
+c8d1c3a5,Jorge Eduardo Sánchez,mx MEX,DF,nl Ajax,25-121,1997,3.0,136,114,22,1,0,0,3,21,0,0,0,0,115,0,5,Matches
+57760e66,Marcus Edwards,eng ENG,"FW,MF",pt Sporting CP,24-128,1998,3.9,113,105,8,0,2,0,6,1,3,3,0,0,85,0,4,Matches
+5b92d896,Hugo Ekitike,fr FRA,"MF,FW",fr Paris S-G,20-294,2002,0.7,14,13,1,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+c8387671,Harvey Elliott,eng ENG,MF,eng Liverpool,20-006,2003,4.4,239,231,7,0,0,1,5,2,0,0,0,0,190,1,8,Matches
+cf007308,Elif Elmas,mk MKD,"MF,FW",it Napoli,23-198,1999,1.9,133,130,3,1,0,0,1,0,2,0,1,0,123,0,1,Matches
+df8b52a5,Emerson,br BRA,"DF,MF",eng Tottenham,24-086,1999,6.0,322,270,50,4,0,3,15,45,1,0,0,0,248,2,13,Matches
+04e17fd5,Youssef En-Nesyri,ma MAR,FW,es Sevilla,25-313,1997,2.7,28,20,8,0,0,0,2,0,0,0,0,0,19,0,1,Matches
+12dcbdcc,Ricardo Esgaio,pt POR,"DF,MF",pt Sporting CP,29-329,1993,1.2,49,43,6,0,0,1,1,6,0,0,0,0,34,0,2,Matches
+1e4319ac,Dario Essugo,pt POR,MF,pt Sporting CP,18-027,2005,0.3,10,10,0,0,0,0,1,0,0,0,0,0,7,0,0,Matches
+577efaec,Stephen Eustáquio,ca CAN,MF,pt Porto,26-110,1996,6.6,292,268,24,13,2,0,22,0,11,6,2,0,209,0,5,Matches
+6f3cc2fe,Evanilson,br BRA,FW,pt Porto,23-186,1999,5.7,134,129,5,1,1,0,1,1,0,0,0,0,109,0,2,Matches
+7f3b388c,Fabinho,br BRA,MF,eng Liverpool,29-169,1993,7.0,460,442,16,16,1,2,1,0,0,0,0,0,405,2,5,Matches
+366be751,Nicolò Fagioli,it ITA,MF,it Juventus,22-057,2001,1.2,70,68,2,2,0,0,1,0,0,0,0,0,67,0,0,Matches
+762179d9,Rasmus Falk,dk DEN,MF,dk FC Copenhagen,31-085,1992,2.1,101,100,1,1,0,0,0,0,0,0,0,0,89,0,5,Matches
+bceda5ff,Abdul Fatawu Issahaku,gh GHA,"MF,DF",pt Sporting CP,19-033,2004,1.0,27,19,8,0,0,0,2,5,3,2,0,0,20,0,0,Matches
+0ba976e4,Ansu Fati,es ESP,FW,es Barcelona,20-161,2002,2.7,105,102,3,0,0,0,4,1,2,2,0,0,90,0,1,Matches
+51a3c4c8,Felipe,br BRA,DF,es Atlético Madrid,33-329,1989,1.0,54,54,0,0,0,0,0,0,0,0,0,0,46,0,0,Matches
+8aafd64f,João Félix,pt POR,"MF,FW",eng Chelsea,23-151,1999,1.7,66,55,10,1,3,0,10,0,6,6,0,0,44,1,1,Matches
+8aafd64f,João Félix,pt POR,FW,es Atlético Madrid,23-151,1999,2.4,97,91,5,1,0,2,6,1,1,0,0,0,78,1,1,Matches
+ef491564,Mateus Fernandes,pt POR,MF,pt Sporting CP,18-274,2004,0.3,9,9,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+5ff4ab71,Enzo Fernández,ar ARG,MF,pt Benfica,22-083,2001,4.7,335,316,19,11,0,5,9,0,8,4,1,0,298,0,3,Matches
+5ff4ab71,Enzo Fernández,ar ARG,MF,eng Chelsea,22-083,2001,2.0,106,102,2,2,0,0,1,0,0,0,0,0,88,2,0,Matches
+d9d43555,Fernando,br BRA,FW,at RB Salzburg,24-040,1999,0.7,10,9,1,1,0,0,0,0,0,0,0,0,9,0,1,Matches
+41f32541,Fernando,br BRA,MF,es Sevilla,35-259,1987,1.0,72,70,2,2,0,2,0,0,0,0,0,0,69,0,1,Matches
+4c370d81,Roberto Firmino,br BRA,"FW,MF",eng Liverpool,31-190,1991,4.6,203,195,8,0,0,0,1,2,0,0,0,0,164,0,6,Matches
+ed1e53f3,Phil Foden,eng ENG,"FW,MF",eng Manchester City,22-317,2000,3.6,203,192,11,3,2,2,20,1,7,1,6,0,167,0,8,Matches
+132a82f1,Wesley Fofana,fr FRA,DF,eng Chelsea,22-114,2000,2.4,123,116,7,6,0,0,1,1,0,0,0,0,106,0,1,Matches
+58c6b67c,Bernardo Folha,pt POR,MF,pt Porto,21-018,2002,0.1,10,9,1,1,0,0,0,0,0,0,0,0,8,0,0,Matches
+e73659d3,James Forrest,sct SCO,FW,sct Celtic,31-277,1991,1.0,55,55,0,0,0,0,10,0,0,0,0,0,38,0,0,Matches
+9a2e0ccc,Emil Forsberg,se SWE,"MF,FW",de RB Leipzig,31-169,1991,4.5,150,141,9,1,3,1,2,1,2,0,2,0,132,0,3,Matches
+c3e39f12,Fraser Forster,eng ENG,GK,eng Tottenham,35-024,1988,2.0,55,43,12,2,0,0,0,0,0,0,0,0,47,0,0,Matches
+a9142dc3,Timothy Fosu-Mensah,nl NED,"MF,DF",de Leverkusen,25-098,1998,0.1,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+f620b04f,Lassina Franck Traoré,bf BFA,FW,ua Shakhtar,22-088,2001,2.7,49,42,6,0,1,0,0,0,0,0,0,0,35,1,3,Matches
+86df4d6b,André Franco,pt POR,MF,pt Porto,24-363,1998,0.2,19,15,4,1,0,0,6,0,3,2,1,0,12,0,0,Matches
+74f2e748,Jeremie Frimpong,nl NED,"MF,FW",de Leverkusen,22-121,2000,4.2,153,133,20,2,0,0,10,18,0,0,0,0,114,0,8,Matches
+fd4d5f81,Kyogo Furuhashi,jp JPN,FW,sct Celtic,28-080,1995,4.0,55,44,11,1,0,0,3,1,0,0,0,0,38,0,2,Matches
+c235e803,Matteo Gabbia,it ITA,DF,it Milan,23-171,1999,2.3,106,100,6,1,0,1,0,1,0,0,0,0,94,0,0,Matches
+3b387cc7,Gianluca Gaetano,it ITA,MF,it Napoli,22-340,2000,0.3,36,35,1,1,0,0,0,0,0,0,0,0,32,0,0,Matches
+ce30bfc8,Roberto Gagliardini,it ITA,MF,it Inter,29-003,1994,1.1,47,46,0,0,0,0,1,0,0,0,0,0,39,1,2,Matches
+1971591f,Cody Gakpo,nl NED,"FW,MF",eng Liverpool,23-338,1999,1.7,45,41,4,0,0,0,4,1,0,0,0,0,35,0,1,Matches
+5b3d1a7a,Galeno,br BRA,"FW,MF",pt Porto,25-170,1997,6.3,179,166,11,0,0,1,13,10,1,0,0,0,122,2,13,Matches
+c2731c10,Conor Gallagher,eng ENG,MF,eng Chelsea,23-063,2000,2.4,127,124,3,0,1,2,9,0,3,0,3,0,111,0,1,Matches
+2bed3eab,Eric García,es ESP,DF,es Barcelona,22-091,2001,2.5,190,184,6,6,1,2,2,0,0,0,0,0,183,0,0,Matches
+18dd3219,Federico Gatti,it ITA,DF,it Juventus,24-290,1998,2.0,67,64,3,2,0,3,1,0,0,0,0,0,61,0,0,Matches
+19cae58d,Gavi,es ESP,MF,es Barcelona,18-248,2004,3.7,168,160,8,3,0,0,7,0,0,0,0,0,141,0,6,Matches
+8827bf46,Gerson,br BRA,MF,fr Marseille,25-325,1997,1.3,63,58,3,3,0,0,2,0,0,0,0,0,52,2,1,Matches
+8d3d3b0a,Giorgos Giakoumakis,gr GRE,FW,sct Celtic,28-122,1994,2.7,34,34,0,0,0,0,0,0,0,0,0,0,21,0,2,Matches
+41eebdf5,Samuel Gigot,fr FRA,DF,fr Marseille,29-180,1993,2.8,170,165,5,3,0,0,2,2,0,0,0,0,156,0,0,Matches
+1338e42b,Gilberto,br BRA,DF,pt Benfica,30-034,1993,0.7,44,39,5,0,0,0,1,5,0,0,0,0,34,0,1,Matches
+16ceb862,Olivier Giroud,fr FRA,FW,it Milan,36-192,1986,6.6,151,137,12,1,1,1,2,0,0,0,0,0,95,2,7,Matches
+88e357ef,Serge Gnabry,de GER,"FW,MF",de Bayern Munich,27-270,1995,2.9,140,134,5,2,2,1,4,0,2,1,0,1,116,1,3,Matches
+0d4fd3a0,Sean Goldberg,il ISR,DF,il Maccabi Haifa,27-301,1995,6.0,266,253,13,9,0,3,0,4,0,0,0,0,227,0,3,Matches
+56f6f826,Connor Goldson,eng ENG,DF,sct Rangers,30-113,1992,3.5,152,141,10,10,0,1,0,0,0,0,0,0,115,1,3,Matches
+7a11550b,Joe Gomez,eng ENG,DF,eng Liverpool,25-322,1997,3.3,214,205,9,1,3,3,2,8,0,0,0,0,170,0,5,Matches
+6e4df551,Papu Gómez,ar ARG,"FW,MF",es Sevilla,35-054,1988,2.7,125,118,6,2,1,6,6,3,1,0,0,0,102,1,1,Matches
+01e5f06e,Sergio Gómez,es ESP,"DF,MF",eng Manchester City,22-218,2000,3.4,293,266,27,2,0,2,15,24,1,0,1,0,259,0,5,Matches
+f4b52308,Diogo Gonçalves,pt POR,"FW,MF",pt Benfica,26-063,1997,0.4,19,16,2,0,0,0,2,0,2,2,0,0,14,1,0,Matches
+c275947b,Pedro Gonçalves,pt POR,"MF,FW",pt Sporting CP,24-286,1998,4.0,127,120,7,4,1,2,4,0,2,2,0,0,92,0,1,Matches
+cc86b9a3,Leon Goretzka,de GER,MF,de Bayern Munich,28-063,1995,4.7,222,221,1,0,1,1,4,1,0,0,0,0,189,0,3,Matches
+2d970560,Robin Gosens,de GER,DF,it Inter,28-279,1994,3.9,191,169,21,1,0,2,10,20,0,0,0,0,152,1,4,Matches
+9efa1d25,Mario Götze,de GER,"MF,FW",de Eint Frankfurt,30-311,1992,5.8,252,228,21,6,1,0,12,2,4,3,1,0,189,3,4,Matches
+3cd7820a,Lucas Gourna-Douath,fr FRA,MF,at RB Salzburg,19-248,2003,3.5,154,152,1,1,0,0,1,0,0,0,0,0,118,1,2,Matches
+62182b1d,Kamil Grabara,pl POL,GK,dk FC Copenhagen,24-092,1999,4.0,124,89,35,7,0,0,0,0,0,0,0,0,79,0,0,Matches
+b8e740fb,Ryan Gravenberch,nl NED,MF,de Bayern Munich,20-329,2002,2.8,143,138,4,1,2,0,3,1,1,0,1,0,118,1,4,Matches
+3f034750,Ivo Grbić,hr CRO,GK,es Atlético Madrid,27-082,1996,1.0,30,20,10,1,0,0,0,0,0,0,0,0,20,0,0,Matches
+b0b4fd3e,Jack Grealish,eng ENG,"FW,MF",eng Manchester City,27-212,1995,5.4,302,288,13,2,1,2,10,5,6,4,0,0,263,1,7,Matches
+df69b544,Antoine Griezmann,fr FRA,"FW,MF",es Atlético Madrid,32-020,1991,4.5,245,225,19,3,3,3,20,2,12,11,0,1,190,1,3,Matches
+ffbbc83b,Florian Grillitsch,at AUT,MF,nl Ajax,27-246,1995,0.7,41,37,4,4,0,0,3,0,0,0,0,0,34,0,1,Matches
+b1f4086c,Álex Grimaldo,es ESP,DF,pt Benfica,27-202,1995,8.0,498,425,73,12,1,2,18,61,0,0,0,0,420,0,9,Matches
+8b8e759d,Marko Grujić,rs SRB,MF,pt Porto,26-362,1996,3.1,145,142,2,2,0,1,2,0,0,0,0,0,124,1,5,Matches
+0076ab7f,Nemanja Gudelj,rs SRB,"DF,MF",es Sevilla,31-145,1991,5.5,328,309,19,16,0,6,0,2,0,0,0,0,296,0,2,Matches
+e6bc67d7,Gonçalo Guedes,pt POR,FW,pt Benfica,26-132,1996,0.3,12,12,0,0,0,0,1,0,0,0,0,0,9,0,2,Matches
+5ea8ef20,Mattéo Guendouzi,fr FRA,MF,fr Marseille,23-361,1999,4.6,257,245,10,1,0,0,5,5,2,0,0,0,223,2,3,Matches
+048a1cbc,Raphaël Guerreiro,pt POR,DF,de Dortmund,29-109,1993,5.3,311,248,63,11,0,0,10,48,4,0,3,0,253,0,5,Matches
+7155e3e1,Pape Gueye,sn SEN,MF,fr Marseille,24-076,1999,0.4,51,50,1,1,0,2,0,0,0,0,0,0,47,0,0,Matches
+bcb2ccd8,Péter Gulácsi,hu HUN,GK,de RB Leipzig,32-339,1990,2.1,64,52,12,0,0,0,0,0,0,0,0,0,51,0,0,Matches
+819b3158,İlkay Gündoğan,de GER,MF,eng Manchester City,32-168,1990,6.2,515,501,12,7,1,0,5,1,3,1,1,1,461,2,7,Matches
+5ad50391,Joško Gvardiol,hr CRO,DF,de RB Leipzig,21-077,2002,6.0,476,466,9,7,0,10,0,2,0,0,0,0,423,1,5,Matches
+1f44ac21,Erling Haaland,no NOR,FW,eng Manchester City,22-263,2000,4.4,65,59,6,0,0,0,1,0,0,0,0,0,51,0,5,Matches
+92432bc6,Amadou Haidara,ml MLI,MF,de RB Leipzig,25-069,1998,3.8,191,190,0,0,1,0,0,0,0,0,0,0,173,1,2,Matches
+e42d61c7,Achraf Hakimi,ma MAR,"DF,MF",fr Paris S-G,24-157,1998,6.4,378,361,15,0,0,1,11,15,0,0,0,0,332,2,6,Matches
+d2fd7c14,Sead Haksabanović,me MNE,"MF,FW",sct Celtic,23-341,1999,2.5,107,91,16,4,1,2,18,1,9,4,2,0,78,0,2,Matches
+ba115a40,Sébastien Haller,ci CIV,FW,de Dortmund,28-292,1994,1.6,50,47,3,0,0,0,0,0,0,0,0,0,34,0,3,Matches
+8ff2354e,Marcel Halstenberg,de GER,DF,de RB Leipzig,31-195,1991,1.9,116,96,20,4,0,0,10,15,1,0,0,0,98,0,2,Matches
+e7d59f4f,Amine Harit,ma MAR,MF,fr Marseille,25-296,1997,4.2,215,192,20,3,2,3,13,1,14,4,4,0,181,3,2,Matches
+cb4f24c6,Joe Hart,eng ENG,GK,sct Celtic,35-356,1987,6.0,174,135,39,7,0,0,0,0,0,0,0,0,162,0,0,Matches
+9ab16552,Makoto Hasebe,jp JPN,DF,de Eint Frankfurt,39-082,1984,2.9,153,148,5,5,0,2,0,0,0,0,0,0,125,0,0,Matches
+78f85621,Reo Hatate,jp JPN,MF,sct Celtic,25-140,1997,5.0,242,240,2,1,3,2,1,1,0,0,0,0,188,0,3,Matches
+8454388c,Milan Havel,cz CZE,DF,cz Viktoria Plzeň,28-246,1994,4.7,127,101,25,2,0,0,10,23,0,0,0,0,92,1,3,Matches
+fed7cb61,Kai Havertz,de GER,"FW,MF",eng Chelsea,23-303,1999,5.7,216,210,4,0,1,2,6,2,0,0,0,0,164,2,3,Matches
+a39bb753,Eden Hazard,be BEL,"FW,MF",es Real Madrid,32-093,1991,1.5,66,63,3,0,0,0,0,2,0,0,0,0,58,0,1,Matches
+50871bcc,Thorgan Hazard,be BEL,"DF,FW",de Dortmund,30-012,1993,2.2,98,81,17,4,0,1,7,9,4,3,1,0,75,0,3,Matches
+40d08dcd,Dolev Haziz,il ISR,DF,il Maccabi Haifa,27-279,1995,2.3,140,109,30,2,0,2,15,20,8,0,1,0,101,1,5,Matches
+61f63784,Lukáš Hejda,cz CZE,DF,cz Viktoria Plzeň,33-032,1990,5.7,84,80,3,3,0,0,1,0,0,0,0,0,73,1,2,Matches
+935e6b8f,Jordan Henderson,eng ENG,MF,eng Liverpool,32-297,1990,3.1,212,204,7,4,3,1,2,1,0,0,0,0,185,1,3,Matches
+ffed43e3,Jack Hendry,sct SCO,DF,be Club Brugge,27-338,1995,1.0,56,55,1,1,0,1,0,0,0,0,0,0,44,0,0,Matches
+0a89e877,Benjamin Henrichs,de GER,"DF,MF",de RB Leipzig,26-046,1997,2.2,94,82,12,0,1,1,5,12,0,0,0,0,76,0,1,Matches
+555f3a0b,Mario Hermoso,es ESP,DF,es Atlético Madrid,27-296,1995,1.8,120,116,4,2,0,1,4,2,0,0,0,0,109,0,0,Matches
+c3ee18ef,Lucas Hernández,fr FRA,DF,de Bayern Munich,27-055,1996,1.9,135,133,1,0,0,2,0,0,0,0,0,0,118,1,2,Matches
+d4c9725f,Theo Hernández,fr FRA,DF,it Milan,25-186,1997,6.5,343,273,69,13,1,3,16,48,8,2,6,0,285,1,19,Matches
+92e7e919,Son Heung-min,kr KOR,"MF,FW",eng Tottenham,30-276,1992,6.9,201,160,38,12,0,1,33,3,23,15,2,0,135,3,9,Matches
+0c7a48f8,Piero Hincapié,ec ECU,DF,de Leverkusen,21-091,2002,5.0,308,285,23,7,0,0,6,13,0,0,0,0,251,0,8,Matches
+5521f419,Adam Hložek,cz CZE,"MF,FW",de Leverkusen,20-259,2002,3.1,88,86,2,0,1,0,1,1,0,0,0,0,65,0,0,Matches
+d92ab59f,Libor Holík,cz CZE,DF,cz Viktoria Plzeň,24-333,1998,3.2,85,60,25,1,0,0,15,24,0,0,0,0,55,0,2,Matches
+ad3389d5,Lukáš Hrádecký,fi FIN,GK,de Leverkusen,33-137,1989,6.0,203,155,47,12,0,0,0,0,0,0,0,0,160,1,0,Matches
+15f3ec41,Callum Hudson-Odoi,eng ENG,FW,de Leverkusen,22-154,2000,5.1,215,198,13,5,2,4,11,2,5,3,0,0,173,4,3,Matches
+05d548d8,Mats Hummels,de GER,DF,de Dortmund,34-115,1988,3.5,224,218,5,5,0,5,0,0,0,0,0,0,190,1,3,Matches
+8b04d6c1,Pierre Højbjerg,dk DEN,MF,eng Tottenham,27-248,1995,6.9,449,434,12,4,0,6,7,3,0,0,0,0,396,3,3,Matches
+ba492306,Samuel Iling-Junior,eng ENG,DF,it Juventus,19-188,2003,0.2,8,8,0,0,0,0,4,0,0,0,0,0,4,0,0,Matches
+33651873,Gonçalo Inácio,pt POR,DF,pt Sporting CP,21-228,2001,6.0,378,355,22,19,0,4,0,1,0,0,0,0,330,1,2,Matches
+a0b4bb3e,Isco,es ESP,"MF,FW",es Sevilla,30-354,1992,4.4,198,185,12,7,1,2,4,0,4,0,3,0,168,1,6,Matches
+1f994616,Franco Israel,uy URU,GK,pt Sporting CP,22-353,2000,1.7,70,40,30,8,0,0,0,0,0,0,0,0,43,0,0,Matches
+29fbdc88,Luka Ivanušec,hr CRO,MF,hr Dinamo Zagreb,24-135,1998,5.8,215,211,4,1,0,3,4,3,0,0,0,0,175,0,6,Matches
+d97cccc9,Ryan Jack,sct SCO,MF,sct Rangers,31-042,1992,2.1,77,77,0,0,0,0,3,0,0,0,0,0,61,0,1,Matches
+a8ee54ad,Kristijan Jakić,hr CRO,DF,de Eint Frankfurt,25-331,1997,6.8,375,329,46,6,0,4,11,40,0,0,0,0,291,0,6,Matches
+1265a93a,Reece James,eng ENG,"DF,MF",eng Chelsea,23-123,1999,5.7,383,333,48,6,0,5,28,40,2,1,0,0,312,2,14,Matches
+4737cebe,Adnan Januzaj,be BEL,"FW,MF",es Sevilla,28-064,1995,0.6,19,18,1,0,0,0,1,0,1,1,0,0,15,0,1,Matches
+eeba07f8,Luis Javier Suárez,co COL,FW,fr Marseille,25-129,1997,1.3,32,31,1,0,0,0,1,0,0,0,0,0,21,0,1,Matches
+213f0daf,Elias Jelert,dk DEN,"DF,MF",dk FC Copenhagen,19-302,2003,2.1,90,74,16,1,0,1,4,15,0,0,0,0,72,0,2,Matches
+b244e804,Václav Jemelka,cz CZE,DF,cz Viktoria Plzeň,27-291,1995,4.0,122,97,23,5,0,3,4,18,0,0,0,0,96,2,6,Matches
+cd1629bc,Valdemar Jensen,dk DEN,DF,dk FC Copenhagen,19-317,2003,3.4,167,163,3,2,0,4,0,1,0,0,0,0,145,1,0,Matches
+ee644761,Moritz Jenz,de GER,DF,sct Celtic,23-345,1999,6.0,457,445,12,11,0,1,0,1,0,0,0,0,427,0,1,Matches
+79083382,Juan Jesus,br BRA,DF,it Napoli,31-304,1991,1.3,73,70,2,2,0,0,0,0,0,0,0,0,64,1,1,Matches
+f9bd541e,Erik Jirka,sk SVK,"FW,MF",cz Viktoria Plzeň,25-203,1997,3.0,74,70,4,0,0,0,4,2,0,0,0,0,49,0,4,Matches
+c16c4e3b,Ísak Jóhannesson,is ISL,"FW,MF",dk FC Copenhagen,20-018,2003,3.2,83,70,13,3,2,3,14,0,10,8,1,0,56,0,4,Matches
+4fb9c88f,Curtis Jones,eng ENG,"FW,MF",eng Liverpool,22-070,2001,1.1,45,44,0,0,0,0,1,0,0,0,0,0,36,1,1,Matches
+1bacc518,Frenkie de Jong,nl NED,MF,es Barcelona,25-333,1997,2.6,175,167,7,5,2,0,4,1,0,0,0,0,152,1,7,Matches
+2a0c8ba4,Joan Jordán,es ESP,MF,es Sevilla,28-278,1994,2.9,171,165,6,6,1,2,1,0,0,0,0,0,157,0,1,Matches
+45db685d,Jorginho,it ITA,MF,eng Chelsea,31-111,1991,4.6,361,345,14,14,2,0,1,0,0,0,0,0,334,2,2,Matches
+2b65fe46,Jota,pt POR,FW,sct Celtic,24-011,1999,3.2,111,99,12,0,1,0,15,7,5,2,0,0,84,0,4,Matches
+178ae8f8,Diogo Jota,pt POR,"FW,MF",eng Liverpool,26-127,1996,2.9,95,93,1,0,0,0,2,0,0,0,0,0,74,1,2,Matches
+7111d552,Vinicius Júnior,br BRA,FW,es Real Madrid,22-272,2000,6.8,305,298,7,1,2,6,12,3,2,0,0,0,239,0,13,Matches
+0a084b35,Josip Juranović,hr CRO,DF,sct Celtic,27-237,1995,6.0,342,289,51,5,0,0,19,46,0,0,0,0,281,2,10,Matches
+2a9f6b4d,Jutglà,es ESP,FW,be Club Brugge,24-068,1999,5.7,131,117,14,0,0,1,1,0,2,0,0,0,94,0,4,Matches
+c066d1a5,Issa Kaboré,bf BFA,DF,fr Marseille,21-333,2001,1.3,51,45,6,0,0,0,5,6,0,0,0,0,44,0,2,Matches
+85f7d1be,Pierre Kalulu,fr FRA,DF,it Milan,22-309,2000,7.9,454,424,30,11,0,2,4,19,0,0,0,0,400,0,2,Matches
+df064106,Lukáš Kalvach,cz CZE,MF,cz Viktoria Plzeň,27-265,1995,5.5,238,207,31,18,0,4,23,0,13,5,4,0,171,0,7,Matches
+15b287da,Daichi Kamada,jp JPN,"MF,FW",de Eint Frankfurt,26-248,1996,7.7,316,294,20,9,1,4,14,0,8,4,3,0,250,2,6,Matches
+4da9191b,Glen Kamara,fi FIN,MF,sct Rangers,27-164,1995,1.4,40,37,3,3,0,0,0,0,0,0,0,0,39,0,0,Matches
+0ca476cc,Dijon Kameri,xk KVX,MF,at RB Salzburg,18-355,2004,1.3,41,38,3,0,0,1,2,0,0,0,0,0,32,0,1,Matches
+b825a650,Kevin Kampl,si SVN,MF,de RB Leipzig,32-183,1990,3.0,185,179,5,4,1,0,0,1,0,0,0,0,174,1,0,Matches
+21a66f6a,Harry Kane,eng ENG,FW,eng Tottenham,29-256,1993,8.0,251,235,12,4,6,2,9,4,0,0,0,0,160,4,9,Matches
+23a10591,Mamoudou Karamoko,fr FRA,FW,dk FC Copenhagen,23-214,1999,0.5,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+3d50bcdb,Moise Kean,it ITA,"FW,MF",it Juventus,23-041,2000,1.2,18,17,1,0,0,1,2,0,0,0,0,0,12,0,1,Matches
+316de854,Ryan Kent,eng ENG,"FW,MF",sct Rangers,26-150,1996,5.6,120,105,15,0,1,0,9,2,2,0,0,0,98,0,4,Matches
+05e19d6a,Franck Kessié,ci CIV,MF,es Barcelona,26-112,1996,3.0,185,180,5,4,0,1,6,1,0,0,0,0,160,0,3,Matches
+862fa9fb,Davit Khocholava,ge GEO,DF,dk FC Copenhagen,30-061,1993,4.8,222,219,3,3,0,1,0,0,0,0,0,0,191,0,1,Matches
+49296448,Joshua Kimmich,de GER,MF,de Bayern Munich,28-061,1995,7.0,573,517,53,24,4,1,33,5,24,12,11,0,500,3,3,Matches
+aef6e670,Presnel Kimpembe,fr FRA,DF,fr Paris S-G,27-240,1995,1.6,103,92,11,4,0,0,0,5,0,0,0,0,98,0,2,Matches
+82c615f8,Leon King,sct SCO,DF,sct Rangers,19-086,2004,4.2,198,190,8,4,0,2,1,4,0,0,0,0,156,0,5,Matches
+8b8a56ce,Simon Kjær,dk DEN,DF,it Milan,34-015,1989,3.0,136,131,5,5,0,0,0,0,0,0,0,0,120,0,0,Matches
+2b0852db,Maurits Kjærgaard,dk DEN,MF,at RB Salzburg,19-288,2003,5.5,152,141,10,2,0,0,19,2,6,6,0,0,96,1,2,Matches
+15fd5593,Davy Klaassen,nl NED,MF,nl Ajax,30-048,1993,2.4,66,65,1,1,0,0,1,0,0,0,0,0,59,0,1,Matches
+c2a30c01,Jan Kliment,cz CZE,FW,cz Viktoria Plzeň,29-221,1993,0.5,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+ca8033cb,Lukas Klostermann,de GER,DF,de RB Leipzig,26-311,1996,0.6,21,18,1,0,0,0,0,1,0,0,0,0,17,2,0,Matches
+19a967ab,Ansgar Knauff,de GER,"DF,FW",de Eint Frankfurt,21-090,2002,3.3,132,105,27,1,0,0,4,26,0,0,0,0,84,0,1,Matches
+cd59b9df,Gregor Kobel,ch SUI,GK,de Dortmund,25-125,1997,3.5,143,112,30,12,0,0,0,0,0,0,0,0,109,1,0,Matches
+ff74841d,Philipp Köhn,ch SUI,GK,at RB Salzburg,25-008,1998,6.0,143,89,54,22,0,0,0,0,0,0,0,0,95,0,0,Matches
+6747869d,Sekou Koita,ml MLI,FW,at RB Salzburg,23-133,1999,0.2,8,7,1,0,0,0,0,1,0,0,0,0,7,0,0,Matches
+55126f3b,Koke,es ESP,MF,es Atlético Madrid,31-092,1992,3.7,260,248,11,8,0,3,3,2,1,0,0,0,230,1,1,Matches
+3935e52e,Sead Kolašinac,ba BIH,DF,fr Marseille,29-294,1993,1.7,118,108,10,6,0,0,0,4,0,0,0,0,102,0,1,Matches
+c0b3669f,Randal Kolo Muani,fr FRA,FW,de Eint Frankfurt,24-126,1998,5.7,95,86,6,0,0,0,4,0,0,0,0,0,61,3,1,Matches
+5ed9b537,Ibrahima Konaté,fr FRA,DF,eng Liverpool,23-320,1999,2.9,139,133,5,4,0,2,0,1,0,0,0,0,106,1,0,Matches
+cce181df,Geoffrey Kondogbia,cf CTA,MF,es Atlético Madrid,30-054,1993,2.5,210,206,2,1,0,9,2,1,0,0,0,0,182,2,1,Matches
+aee634bf,Yukhym Konoplia,ua UKR,DF,ua Shakhtar,23-227,1999,4.6,212,177,32,3,0,2,5,29,0,0,0,0,175,3,9,Matches
+6f639ec7,Jan Kopic,cz CZE,"FW,MF",cz Viktoria Plzeň,32-310,1990,0.9,19,17,2,0,0,0,2,0,0,0,0,0,14,0,0,Matches
+1f3afdcb,Odilon Kossonou,ci CIV,DF,de Leverkusen,22-096,2001,4.8,314,290,24,6,1,2,2,18,0,0,0,0,260,0,6,Matches
+b1cd37e6,Filip Kostić,rs SRB,"DF,FW",it Juventus,30-160,1992,4.8,249,226,21,6,0,1,41,11,4,1,3,0,172,2,8,Matches
+da974c7b,Kalidou Koulibaly,sn SEN,DF,eng Chelsea,31-294,1991,5.7,337,326,9,9,0,5,0,0,0,0,0,0,300,2,1,Matches
+4d1666ff,Jules Koundé,fr FRA,DF,es Barcelona,24-149,1998,2.7,221,207,14,2,0,2,2,12,0,0,0,0,200,0,0,Matches
+79c0821a,Mateo Kovačić,hr CRO,MF,eng Chelsea,28-339,1994,4.9,343,331,9,9,1,1,0,0,0,0,0,0,291,3,7,Matches
+9606f0b2,Adam Kronus,cz CZE,FW,cz Viktoria Plzeň,20-255,2002,0.0,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+6ce1f46f,Toni Kroos,de GER,MF,es Real Madrid,33-096,1990,5.9,668,615,49,23,0,8,23,2,24,10,7,0,610,4,4,Matches
+817c6964,Rade Krunić,ba BIH,"MF,FW",it Milan,29-185,1993,5.1,188,180,6,4,0,3,1,2,0,0,0,0,146,2,6,Matches
+47420f02,Dmytro Kryskiv,ua UKR,MF,ua Shakhtar,22-186,2000,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+292a652a,Serhiy Kryvtsov,ua UKR,DF,ua Shakhtar,32-026,1991,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+df3cda47,Dejan Kulusevski,se SWE,"MF,DF",eng Tottenham,22-350,2000,2.2,93,83,8,1,0,0,10,1,3,0,0,0,69,2,1,Matches
+dea88efd,Khvicha Kvaratskhelia,ge GEO,FW,it Napoli,22-057,2001,5.8,194,187,5,3,7,3,8,1,1,0,0,0,136,2,6,Matches
+c1b7847c,Konrad Laimer,at AUT,"MF,FW",de RB Leipzig,25-318,1997,2.9,91,88,3,1,0,0,2,2,0,0,0,0,74,0,1,Matches
+abe66106,Érik Lamela,ar ARG,"FW,MF",es Sevilla,31-037,1992,3.1,121,118,2,0,1,1,3,1,0,0,0,0,97,1,1,Matches
+8e034340,Noa Lang,nl NED,FW,be Club Brugge,23-297,1999,3.2,150,123,24,4,0,1,20,7,10,7,0,0,103,3,8,Matches
+119b9a8e,Aymeric Laporte,es ESP,DF,eng Manchester City,28-318,1994,3.0,255,252,3,0,0,1,0,3,0,0,0,0,240,0,1,Matches
+e7af9060,Cyle Larin,ca CAN,"FW,MF",be Club Brugge,27-358,1995,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+8b929ec2,Rasmus Lauritsen,dk DEN,DF,hr Dinamo Zagreb,27-042,1996,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+da9018ca,Neta Lavi,il ISR,MF,il Maccabi Haifa,26-228,1996,5.2,274,266,7,7,1,0,2,0,0,0,0,0,229,1,5,Matches
+20730eae,Rafael Leão,pt POR,"FW,MF",it Milan,23-304,1999,7.2,181,177,4,0,1,3,21,4,0,0,0,0,134,0,9,Matches
+4dbd0916,Thomas Lemar,fr FRA,MF,es Atlético Madrid,27-149,1995,1.2,64,57,6,2,0,3,6,0,4,2,1,0,50,1,1,Matches
+4f28a6ff,Clément Lenglet,fr FRA,DF,eng Tottenham,27-297,1995,5.6,347,335,12,6,0,1,5,6,0,0,0,0,293,0,2,Matches
+bbd86530,Christopher Lenz,de GER,DF,de Eint Frankfurt,28-200,1994,2.5,118,85,32,5,0,0,9,24,3,2,0,1,84,1,4,Matches
+1b82f8df,Lukas Lerager,dk DEN,MF,dk FC Copenhagen,29-272,1993,5.0,164,160,4,2,1,2,4,2,0,0,0,0,127,0,3,Matches
+8d78e732,Robert Lewandowski,pl POL,FW,es Barcelona,34-232,1988,4.9,131,124,5,0,5,0,6,0,0,0,0,0,86,2,5,Matches
+b57e066e,Rico Lewis,eng ENG,DF,eng Manchester City,18-140,2004,1.3,97,92,5,1,0,0,1,4,0,0,0,0,88,0,0,Matches
+d6e53a3a,Matthijs de Ligt,nl NED,DF,de Bayern Munich,23-241,1999,4.8,321,314,6,5,0,0,0,1,0,0,0,0,296,1,1,Matches
+37dc1a48,Jesper Lindstrøm,dk DEN,"MF,FW",de Eint Frankfurt,23-040,2000,5.6,133,122,11,2,1,0,10,3,5,1,4,0,87,0,8,Matches
+58f077c0,Dominik Livaković,hr CRO,GK,hr Dinamo Zagreb,28-091,1995,6.0,253,150,103,27,0,0,0,0,0,0,0,0,172,0,0,Matches
+99a8ddc9,Robert Ljubicic,at AUT,"FW,DF",hr Dinamo Zagreb,23-270,1999,6.0,363,299,64,14,0,8,9,50,0,0,0,0,272,0,14,Matches
+02c15616,Marcos Llorente,es ESP,"MF,FW",es Atlético Madrid,28-070,1995,2.4,117,108,7,0,0,0,3,7,0,0,0,0,98,2,5,Matches
+8f62b6ee,Hugo Lloris,fr FRA,GK,eng Tottenham,36-105,1986,6.0,176,129,47,5,0,0,0,0,0,0,0,0,150,0,0,Matches
+e9fda01d,Danny Loader,eng ENG,"FW,MF",pt Porto,22-225,2000,0.6,25,20,3,0,0,0,1,0,0,0,0,0,19,2,0,Matches
+e1cbb531,Stanislav Lobotka,sk SVK,MF,it Napoli,28-136,1994,7.7,499,489,10,8,0,3,0,1,0,0,0,0,457,0,6,Matches
+a8a874f1,Manuel Locatelli,it ITA,MF,it Juventus,25-092,1998,2.5,196,186,9,5,1,2,6,1,3,3,0,0,170,1,1,Matches
+e97fd090,Ruben Loftus-Cheek,eng ENG,MF,eng Chelsea,27-077,1996,3.2,189,184,3,2,0,2,1,0,0,0,0,0,166,2,1,Matches
+20b9f052,Pau López,es ESP,GK,fr Marseille,28-118,1994,6.0,177,142,34,9,0,1,0,0,0,0,0,0,135,1,0,Matches
+8e50599a,Alexander lowry,sct SCO,MF,sct Rangers,19-291,2003,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+a69e4806,Hirving Lozano,mx MEX,FW,it Napoli,27-254,1995,3.8,102,97,3,0,0,0,14,2,1,0,1,0,67,2,4,Matches
+881cd6be,Florentino Luís,pt POR,MF,pt Benfica,23-234,1999,7.8,441,434,6,6,0,3,1,0,0,0,0,0,390,1,6,Matches
+5eae500a,Romelu Lukaku,be BEL,FW,it Inter,29-332,1993,0.7,21,21,0,0,1,0,0,0,0,0,0,0,16,0,1,Matches
+0df2b165,John Lundstram,eng ENG,"MF,DF",sct Rangers,29-051,1994,5.0,217,209,4,2,0,3,2,2,0,0,0,0,173,4,1,Matches
+3061e1ec,Andriy Lunin,ua UKR,GK,es Real Madrid,24-058,1999,2.0,43,32,11,2,0,0,0,0,0,0,0,0,41,0,0,Matches
+7be09c86,Mahir Madatov,az AZE,FW,hr Dinamo Zagreb,25-283,1997,0.2,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
+395451fc,Daizen Maeda,jp JPN,FW,sct Celtic,25-172,1997,3.7,71,71,0,0,0,0,6,0,0,0,0,0,51,0,5,Matches
+892d5bb1,Riyad Mahrez,dz ALG,"FW,MF",eng Manchester City,32-048,1991,5.5,311,282,29,3,0,7,20,11,15,7,1,1,268,0,4,Matches
+fcb38f57,Mike Maignan,fr FRA,GK,it Milan,27-281,1995,3.0,109,87,22,3,0,0,0,0,0,0,0,0,92,0,0,Matches
+864163f3,Donyell Malen,nl NED,"FW,MF",de Dortmund,24-081,1999,2.8,54,49,5,0,0,0,1,1,2,0,1,0,41,0,2,Matches
+c20bdcd7,Reinildo Mandava,mz MOZ,DF,es Atlético Madrid,29-079,1994,5.7,383,351,31,4,0,1,5,27,0,0,0,0,339,1,5,Matches
+c691bfe2,Sadio Mané,sn SEN,FW,de Bayern Munich,31-000,1992,5.6,187,181,5,0,4,0,4,4,0,0,0,0,147,1,8,Matches
+7a20d90a,Iván Marcano,es ESP,DF,pt Porto,35-291,1987,3.0,182,170,12,6,1,2,1,1,0,0,0,0,161,0,1,Matches
+133faa84,Marcão,br BRA,DF,es Sevilla,26-309,1996,2.5,164,162,2,2,0,1,0,0,0,0,0,0,141,0,1,Matches
+f0da930c,José María Giménez,uy URU,DF,es Atlético Madrid,28-080,1995,4.5,288,281,6,6,0,2,1,0,0,0,0,0,253,1,1,Matches
+5c4dc0ff,Mariano,do DOM,FW,es Real Madrid,29-252,1993,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+148af9a8,Antonio Marin,hr CRO,FW,hr Dinamo Zagreb,22-091,2001,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+f0021247,João Mário,pt POR,FW,pt Benfica,30-081,1993,7.6,386,367,19,6,2,1,21,3,10,4,3,0,328,0,8,Matches
+82a39b66,João Mário Lopes,pt POR,DF,pt Porto,23-097,2000,3.0,104,83,21,2,0,1,8,19,0,0,0,0,78,0,2,Matches
+d5f2f82b,Marquinhos,br BRA,DF,fr Paris S-G,28-331,1994,7.3,409,387,22,13,1,1,0,2,0,0,0,0,379,0,2,Matches
+b4ecc6b6,José Marsà,es ESP,DF,pt Sporting CP,21-037,2002,1.1,27,26,1,1,0,0,0,0,0,0,0,0,24,0,0,Matches
+f7036e1c,Lautaro Martínez,ar ARG,FW,it Inter,25-231,1997,6.8,151,141,9,0,2,0,2,0,0,0,0,0,106,1,5,Matches
+f3945e07,Toni Martínez,es ESP,FW,pt Porto,25-284,1997,1.3,40,39,1,0,0,0,2,0,0,0,0,0,21,0,1,Matches
+55abe554,Clinton Mata,ao ANG,DF,be Club Brugge,30-154,1992,1.8,125,111,14,2,0,0,3,12,0,0,0,0,96,0,4,Matches
+feb5d972,Pape Matar Sarr,sn SEN,MF,eng Tottenham,20-208,2002,1.0,60,56,4,3,0,0,0,1,0,0,0,0,50,0,3,Matches
+b217ef29,Joël Matip,cm CMR,DF,eng Liverpool,31-245,1991,2.7,175,172,3,3,0,0,0,0,0,0,0,0,155,0,0,Matches
+33144cc5,Rabbi Matondo,wls WAL,"MF,FW",sct Rangers,22-213,2000,1.1,18,18,0,0,0,0,1,0,0,0,0,0,9,0,2,Matches
+1adcf39e,Mykola Matviyenko,ua UKR,DF,ua Shakhtar,26-343,1996,6.0,444,399,44,11,0,2,0,0,0,0,0,0,393,1,3,Matches
+826e8b63,Philipp Max,de GER,DF,de Eint Frankfurt,29-192,1993,1.3,54,40,13,4,0,0,11,6,3,1,1,0,36,1,2,Matches
+0e6bc38c,Eric Maxim Choupo-Moting,cm CMR,FW,de Bayern Munich,34-018,1989,4.1,91,84,2,0,3,0,0,0,0,0,0,0,65,5,1,Matches
+b74277a0,Noussair Mazraoui,ma MAR,DF,de Bayern Munich,25-147,1997,4.4,312,271,40,4,0,1,8,36,0,0,0,0,260,1,5,Matches
+42fd9c7f,Kylian Mbappé,fr FRA,FW,fr Paris S-G,24-111,1998,7.2,280,267,12,1,1,1,22,1,2,0,0,0,211,1,7,Matches
+e76cb9cc,Chancel Mbemba,cd COD,DF,fr Marseille,28-245,1994,4.5,278,269,6,4,0,3,9,2,0,0,0,0,226,3,5,Matches
+64b08de7,James McCarthy,ie IRL,MF,sct Celtic,32-149,1990,0.1,10,10,0,0,0,0,0,0,0,0,0,0,8,0,1,Matches
+f3a97d02,Allan McGregor,sct SCO,GK,sct Rangers,41-069,1982,5.0,196,132,62,11,0,0,0,0,0,0,0,0,121,2,0,Matches
+6800f515,Callum McGregor,sct SCO,MF,sct Celtic,29-300,1993,2.4,157,155,1,1,0,0,1,0,0,0,0,0,139,1,3,Matches
+01c3aff5,Weston McKennie,us USA,MF,it Juventus,24-225,1998,4.0,152,145,5,0,0,0,3,5,0,0,0,0,115,2,6,Matches
+3b0108d6,Jon McLaughlin,sct SCO,GK,sct Rangers,35-213,1987,1.0,31,24,7,2,0,0,0,0,0,0,0,0,21,0,0,Matches
+0a6dbbf7,Brandon Mechele,be BEL,DF,be Club Brugge,30-072,1993,8.0,462,453,9,8,0,5,0,0,0,0,0,0,402,0,2,Matches
+95f5aae8,Bjorn Meijer,nl NED,DF,be Club Brugge,20-023,2003,6.4,308,252,54,2,2,1,8,52,0,0,0,0,226,2,8,Matches
+38f8ce7f,Raz Meir,il ISR,"DF,MF",il Maccabi Haifa,26-131,1996,0.9,38,31,6,0,0,0,1,6,0,0,0,0,31,1,0,Matches
+48b3dd60,Arthur Melo,br BRA,MF,eng Liverpool,26-241,1996,0.2,13,12,1,1,0,0,0,0,0,0,0,0,11,0,0,Matches
+8f696594,Memphis,nl NED,FW,es Barcelona,29-056,1994,0.2,16,15,1,0,0,0,0,0,1,0,0,0,14,0,0,Matches
+a30e23de,Sun Menachem,il ISR,DF,il Maccabi Haifa,29-215,1993,0.7,30,26,4,1,0,0,1,3,0,0,0,0,21,0,1,Matches
+f20e4cc9,Nuno Mendes,pt POR,"DF,MF",fr Paris S-G,20-295,2002,4.9,220,183,36,2,1,4,12,33,1,0,1,0,162,1,11,Matches
+33887998,Edouard Mendy,sn SEN,GK,eng Chelsea,31-040,1992,1.0,25,21,4,1,0,0,0,0,0,0,0,0,23,0,0,Matches
+3cefcaef,Ferland Mendy,fr FRA,DF,es Real Madrid,27-306,1995,3.9,304,284,20,1,0,1,2,19,0,0,0,0,289,0,3,Matches
+9413b19f,Alex Meret,it ITA,GK,it Napoli,26-019,1997,8.0,266,198,67,13,0,0,0,0,0,0,0,0,235,1,0,Matches
+d70ce98e,Lionel Messi,ar ARG,"FW,MF",fr Paris S-G,35-290,1987,6.8,413,384,27,6,8,1,14,1,15,7,5,0,352,2,9,Matches
+f49c4ae9,Junior Messias,br BRA,"DF,FW",it Milan,31-332,1991,1.5,48,41,7,0,0,0,2,7,0,0,0,0,39,0,0,Matches
+e162b013,Thomas Meunier,be BEL,DF,de Dortmund,31-210,1991,3.9,259,218,40,3,1,0,11,37,0,0,0,0,202,1,6,Matches
+b56dd813,Alexander Meyer,de GER,GK,de Dortmund,31-362,1991,4.5,198,145,52,8,0,0,0,0,0,0,0,0,165,1,0,Matches
+d436eb94,Simon Mignolet,be BEL,GK,be Club Brugge,35-035,1988,8.0,324,216,107,31,0,1,0,0,0,0,0,0,237,1,0,Matches
+85613cf0,Arkadiusz Milik,pl POL,FW,it Juventus,29-041,1994,3.8,87,82,4,0,0,1,3,0,0,0,0,0,64,1,2,Matches
+2784f898,Éder Militão,br BRA,DF,es Real Madrid,25-082,1998,5.3,328,301,25,11,1,7,1,2,0,0,0,0,291,2,6,Matches
+2f90f6b8,James Milner,eng ENG,MF,eng Liverpool,37-096,1986,2.7,153,148,4,2,1,2,7,1,0,0,0,0,124,1,4,Matches
+e0f8151c,Kim Min-jae,kr KOR,DF,it Napoli,26-146,1996,7.7,543,529,14,13,1,3,0,1,0,0,0,0,478,0,1,Matches
+bbf5c11b,Rafa Mir,es ESP,"MF,FW",es Sevilla,25-296,1997,1.7,34,33,1,0,0,0,0,0,0,0,0,0,21,0,1,Matches
+34693494,Fabio Miretti,it ITA,"MF,FW",it Juventus,19-250,2003,2.4,96,92,3,1,0,3,5,0,2,1,1,0,67,1,5,Matches
+46152b69,Josip Mišić,hr CRO,MF,hr Dinamo Zagreb,28-286,1994,5.8,285,270,14,11,0,8,3,1,0,0,0,0,255,1,1,Matches
+dd0daf32,Henrikh Mkhitaryan,am ARM,MF,it Inter,34-079,1989,6.8,258,254,2,0,1,3,7,1,1,1,0,0,201,2,15,Matches
+34e4343c,Anthony Modeste,fr FRA,FW,de Dortmund,34-361,1988,3.8,44,44,0,0,0,0,3,0,0,0,0,0,27,0,1,Matches
+6025fab1,Luka Modrić,hr CRO,MF,es Real Madrid,37-213,1985,4.7,374,357,17,6,2,4,12,0,8,2,4,0,329,0,1,Matches
+cfdacb90,Ali Mohamed,ne NIG,MF,il Maccabi Haifa,27-185,1995,4.0,224,219,4,2,0,3,1,0,1,0,0,0,190,1,5,Matches
+b62878a5,Kudus Mohammed,gh GHA,FW,nl Ajax,22-251,2000,5.0,123,107,15,0,0,1,2,1,0,0,0,0,102,1,2,Matches
+25b74470,Sadegh Moharrami,ir IRN,"FW,DF",hr Dinamo Zagreb,27-040,1996,4.5,183,171,12,1,0,0,15,11,0,0,0,0,148,0,4,Matches
+23610943,Nahuel Molina,ar ARG,"DF,MF",es Atlético Madrid,25-004,1998,5.2,364,311,51,2,2,0,38,45,4,3,1,0,266,2,5,Matches
+374d5158,Gonzalo Montiel,ar ARG,DF,es Sevilla,26-099,1997,2.5,142,124,17,5,0,0,7,12,0,0,0,0,114,1,2,Matches
+47b7e3af,Aaron Mooy,au AUS,MF,sct Celtic,32-207,1990,1.7,139,131,8,1,0,1,13,2,5,1,1,0,111,0,4,Matches
+129af0db,Álvaro Morata,es ESP,FW,es Atlético Madrid,30-169,1992,3.3,59,53,6,0,0,0,2,0,0,0,0,0,39,0,3,Matches
+0f41e2ee,Morato,br BRA,DF,pt Benfica,21-284,2001,0.2,20,20,0,0,0,0,0,0,0,0,0,0,19,0,0,Matches
+ef88f778,Alfredo Morelos,co COL,FW,sct Rangers,26-293,1996,2.8,63,57,6,0,1,2,1,1,0,0,0,0,41,0,4,Matches
+a650c75b,Hidemasa Morita,jp JPN,MF,pt Sporting CP,27-335,1995,3.7,149,145,4,3,0,3,0,1,0,0,0,0,116,0,5,Matches
+736157b7,Jhon Mosquera,co COL,"FW,MF",cz Viktoria Plzeň,32-337,1990,4.8,132,115,16,2,0,0,10,14,0,0,0,0,81,1,9,Matches
+6ce43701,Youssoufa Moukoko,de GER,"FW,MF",de Dortmund,18-141,2004,2.7,43,39,3,0,0,0,1,0,0,0,0,0,35,1,2,Matches
+9674002f,Mason Mount,eng ENG,MF,eng Chelsea,24-090,1999,4.6,264,246,15,3,1,3,21,4,7,0,6,0,213,3,6,Matches
+2b622f01,Lucas Moura,br BRA,"FW,MF",eng Tottenham,30-240,1992,1.9,61,58,2,0,0,1,4,2,0,0,0,0,37,1,2,Matches
+049a888d,Mykhailo Mudryk,ua UKR,FW,eng Chelsea,22-095,2001,0.8,19,19,0,0,1,0,2,0,0,0,0,0,10,0,3,Matches
+049a888d,Mykhailo Mudryk,ua UKR,MF,ua Shakhtar,22-095,2001,5.7,154,137,17,7,5,0,21,1,9,3,5,1,111,0,3,Matches
+dbfbdf06,Paul Mukairu,ng NGA,FW,dk FC Copenhagen,23-082,2000,0.5,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+ac73ec79,Nordi Mukiele,fr FRA,"DF,MF",fr Paris S-G,25-160,1997,1.2,48,48,0,0,0,0,2,0,0,0,0,0,36,0,4,Matches
+3c6089ab,Thomas Müller,de GER,"MF,FW",de Bayern Munich,33-209,1989,3.7,148,143,5,1,0,0,3,1,0,0,0,0,121,0,2,Matches
+4567a0b4,Petar Musa,hr CRO,FW,pt Benfica,25-037,1998,1.3,41,41,0,0,0,0,0,0,0,0,0,0,27,0,0,Matches
+2c0558b8,Jamal Musiala,de GER,"MF,FW",de Bayern Munich,20-043,2003,4.3,170,166,2,0,0,1,1,0,1,1,0,0,148,2,5,Matches
+3e9bd29d,Bohdan Mykhaylychenko,ua UKR,DF,ua Shakhtar,26-020,1997,4.0,204,184,19,2,0,0,5,17,0,0,0,0,166,1,3,Matches
+441197b8,Obite N'Dicka,fr FRA,DF,de Eint Frankfurt,23-233,1999,8.0,412,400,12,9,0,1,1,3,0,0,0,0,346,0,5,Matches
+2946f9a1,Nacho,es ESP,DF,es Real Madrid,33-082,1990,4.7,298,262,36,4,0,1,0,32,0,0,0,0,270,0,5,Matches
+3f10bd22,Jesús Navas,es ESP,"DF,MF",es Sevilla,37-140,1985,2.5,112,91,20,1,0,0,10,19,0,0,0,0,85,1,5,Matches
+e7281ea9,Flávio Nazinho,pt POR,"DF,MF",pt Sporting CP,19-264,2003,1.3,22,19,3,0,0,0,1,3,0,0,0,0,14,0,0,Matches
+5cdddffa,Tanguy Ndombele,fr FRA,MF,it Napoli,26-103,1996,3.3,209,205,3,2,3,3,1,0,0,0,0,0,185,1,1,Matches
+4f1e6a0b,David Neres,br BRA,"FW,MF",pt Benfica,26-038,1997,4.1,173,160,13,1,1,1,16,2,10,4,0,0,125,0,8,Matches
+953597a1,Luís Neto,pt POR,DF,pt Sporting CP,34-319,1988,0.4,36,36,0,0,0,0,0,0,0,0,0,0,34,0,0,Matches
+8778c910,Manuel Neuer,de GER,GK,de Bayern Munich,37-014,1986,3.0,121,94,26,4,0,0,0,0,0,0,0,0,98,1,0,Matches
+c2a15a27,João Neves,pt POR,FW,pt Benfica,18-195,2004,0.2,27,27,0,0,0,0,1,0,0,0,0,0,25,0,1,Matches
+69384e5d,Neymar,br BRA,"MF,FW",fr Paris S-G,31-064,1992,6.0,392,350,38,17,4,2,19,3,15,8,3,0,320,4,5,Matches
+5853ac44,Tanguy Nianzou,fr FRA,DF,es Sevilla,20-307,2002,2.0,95,95,0,0,1,1,0,0,0,0,0,0,86,0,0,Matches
+f6a90edd,Casper Nielsen,dk DEN,MF,be Club Brugge,28-346,1994,7.2,187,169,17,7,1,0,20,1,9,7,2,0,123,1,10,Matches
+c14bc029,Saúl Ñíguez,es ESP,"MF,DF",es Atlético Madrid,28-140,1994,3.1,143,126,15,0,0,0,6,15,0,0,0,0,114,2,2,Matches
+7c56da38,Christopher Nkunku,fr FRA,"MF,FW",de RB Leipzig,25-147,1997,6.2,233,227,3,1,2,0,4,0,1,0,0,0,211,3,2,Matches
+5458f670,Hugo Novoa,es ESP,MF,de RB Leipzig,20-099,2003,0.0,4,4,0,0,0,0,0,0,0,0,0,0,3,0,1,Matches
+4d77b365,Darwin Núñez,uy URU,FW,eng Liverpool,23-290,1999,4.4,98,96,2,0,1,0,11,1,0,0,0,0,62,0,6,Matches
+4ab12002,Antonio Nusa,no NOR,FW,be Club Brugge,17-358,2005,0.6,18,18,0,0,0,0,0,0,0,0,0,0,15,0,0,Matches
+fb495bb8,Matt O'Riley,dk DEN,MF,sct Celtic,22-140,2000,5.3,274,254,20,5,2,1,11,2,7,2,2,0,224,0,4,Matches
+ee8508c0,Jan Oblak,si SVN,GK,es Atlético Madrid,30-093,1993,5.0,113,74,38,4,0,0,0,0,0,0,0,0,79,1,0,Matches
+a08b974a,Lucas Ocampos,ar ARG,FW,nl Ajax,28-273,1994,0.2,13,12,0,0,0,0,0,0,0,0,0,0,11,1,0,Matches
+a04e47f0,Oleh Ocheretko,ua UKR,MF,ua Shakhtar,19-320,2003,0.2,6,6,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+f7750aa0,Denis Odoi,gh GHA,"DF,MF",be Club Brugge,34-318,1988,5.8,337,280,54,6,0,5,3,48,0,0,0,0,271,3,9,Matches
+ca607d59,Noah Okafor,ch SUI,FW,at RB Salzburg,22-321,2000,5.2,73,72,0,0,0,1,4,0,0,0,0,0,50,1,2,Matches
+41c12f75,Mathías Olivera,uy URU,DF,it Napoli,25-161,1997,5.0,335,276,59,9,0,3,5,50,0,0,0,0,279,0,9,Matches
+ae44e8e2,Dani Olmo,es ESP,"FW,MF",de RB Leipzig,24-338,1998,0.7,32,29,3,1,1,0,3,0,2,0,1,0,18,0,1,Matches
+e9c0c1b2,André Onana,cm CMR,GK,it Inter,27-008,1996,8.0,323,242,81,20,0,1,0,0,0,0,0,0,248,0,0,Matches
+751a0fb5,Raphael Onyedika,ng NGA,MF,be Club Brugge,21-356,2001,6.3,274,265,8,8,0,5,0,0,0,0,0,0,232,1,5,Matches
+20030c06,Willi Orban,hu HUN,DF,de RB Leipzig,30-158,1992,8.0,525,505,18,18,0,3,3,0,0,0,0,0,466,2,6,Matches
+43a166b4,Divock Origi,be BEL,FW,it Milan,27-357,1995,0.9,26,25,1,1,1,0,0,0,0,0,0,0,17,0,2,Matches
+ee950928,Mislav Oršić,hr CRO,FW,hr Dinamo Zagreb,30-102,1992,5.4,172,151,21,3,2,1,16,3,13,3,3,0,121,0,9,Matches
+c1242d4e,Stefan Ortega,de GER,GK,eng Manchester City,30-155,1992,2.0,52,40,12,2,0,0,0,0,0,0,0,0,50,0,0,Matches
+8c90fd7a,Victor Osimhen,ng NGA,FW,it Napoli,24-102,1998,3.7,38,36,2,0,0,0,2,0,0,0,0,0,25,0,1,Matches
+0d267745,Nicolás Otamendi,ar ARG,DF,pt Benfica,35-057,1988,7.8,449,439,9,7,0,11,0,2,0,0,0,0,407,1,3,Matches
+28b1f3ce,Otávio,pt POR,MF,pt Porto,28-060,1995,5.8,263,215,47,20,2,2,14,10,11,4,4,0,200,1,11,Matches
+38c7feef,Alex Oxlade-Chamberlain,eng ENG,MF,eng Liverpool,29-238,1993,0.2,11,10,1,0,0,0,0,1,0,0,0,0,9,0,1,Matches
+15413fa5,Salih Özcan,tr TUR,MF,de Dortmund,25-089,1998,6.0,291,281,10,10,1,4,1,0,0,0,0,0,249,0,4,Matches
+e82adcab,Exequiel Palacios,ar ARG,MF,de Leverkusen,24-187,1998,1.0,79,76,2,1,0,1,4,0,1,0,1,0,61,1,0,Matches
+dc7f8a28,Cole Palmer,eng ENG,"MF,FW",eng Manchester City,20-339,2002,1.5,63,62,1,0,0,0,4,0,1,0,0,0,54,0,3,Matches
+13d23b29,Antonios Papadopoulos,de GER,"MF,FW",de Dortmund,23-212,1999,0.1,6,6,0,0,0,0,0,0,0,0,0,0,2,0,1,Matches
+dff153a4,Leandro Paredes,ar ARG,MF,it Juventus,28-285,1994,3.9,240,212,28,20,0,1,10,3,5,3,1,0,214,0,3,Matches
+5c899683,Felix Passlack,de GER,DF,de Dortmund,24-316,1998,1.0,69,60,9,0,0,1,2,9,0,0,0,0,57,0,0,Matches
+3392603d,Remko Pasveer,nl NED,GK,nl Ajax,39-153,1983,6.0,283,234,47,14,0,1,0,0,0,0,0,0,187,2,1,Matches
+a62c16d0,Paulinho,pt POR,FW,pt Sporting CP,30-152,1992,2.6,81,76,5,0,0,1,0,0,0,0,0,0,61,0,1,Matches
+53070b63,Paulinho,br BRA,FW,de Leverkusen,22-269,2000,0.5,17,16,1,0,0,0,1,0,1,0,0,0,13,0,0,Matches
+45a03961,Benjamin Pavard,fr FRA,DF,de Bayern Munich,27-013,1996,4.7,453,425,27,11,2,3,2,16,0,0,0,0,419,1,2,Matches
+25146df0,Strahinja Pavlović,rs SRB,DF,at RB Salzburg,21-321,2001,6.0,219,211,8,8,0,3,1,0,0,0,0,0,153,0,6,Matches
+58ae47b2,Dimitri Payet,fr FRA,MF,fr Marseille,36-012,1987,0.9,58,55,2,2,0,1,5,0,0,0,0,0,46,1,2,Matches
+0d9b2d31,Pedri,es ESP,"MF,FW",es Barcelona,20-136,2002,4.5,287,279,8,1,3,6,3,2,0,0,0,0,253,0,2,Matches
+3b61c9ec,Luca Pellegrini,it ITA,"DF,MF",de Eint Frankfurt,24-034,1999,2.2,118,92,21,2,0,2,15,16,3,3,0,0,78,5,5,Matches
+cc1c5035,Iñaki Peña,es ESP,GK,es Barcelona,24-039,1999,1.0,39,29,10,2,0,0,0,0,0,0,0,0,37,0,0,Matches
+c906ce0f,Pepe,pt POR,DF,pt Porto,40-043,1983,4.0,202,189,13,12,0,1,0,1,0,0,0,0,166,0,2,Matches
+fc4e7637,Pepê,br BRA,"DF,FW",pt Porto,26-045,1997,7.6,326,277,49,5,2,1,14,42,2,0,1,0,251,0,9,Matches
+8fd9996f,Danilo Pereira,pt POR,"DF,MF",fr Paris S-G,31-213,1991,5.0,339,309,30,6,1,2,0,15,0,0,0,0,317,0,2,Matches
+121101a4,Dino Perić,hr CRO,DF,hr Dinamo Zagreb,28-272,1994,6.0,304,291,13,13,0,0,1,0,0,0,0,0,260,0,1,Matches
+4c62d0c8,Mattia Perin,it ITA,GK,it Juventus,30-151,1992,2.0,55,45,10,1,0,0,0,0,0,0,0,0,46,0,0,Matches
+6fe90922,Ivan Perišić,hr CRO,"DF,MF",eng Tottenham,34-067,1989,6.4,284,221,62,6,0,4,54,41,15,11,3,0,189,1,7,Matches
+51a56075,Luděk Pernica,cz CZE,DF,cz Viktoria Plzeň,32-298,1990,5.5,139,128,11,4,0,1,0,3,0,0,0,0,121,0,0,Matches
+24228180,Bruno Petković,hr CRO,FW,hr Dinamo Zagreb,28-206,1994,5.4,197,189,8,1,2,8,1,0,0,0,0,0,131,0,6,Matches
+6db16dda,Ivan Petryak,ua UKR,MF,ua Shakhtar,29-028,1994,2.0,44,43,0,0,1,0,4,0,0,0,0,0,31,1,4,Matches
+4f565d77,Kalvin Phillips,eng ENG,MF,eng Manchester City,27-129,1995,0.5,46,46,0,0,0,0,0,0,0,0,0,0,44,0,0,Matches
+307877be,Frantzdy Pierrot,ht HAI,FW,il Maccabi Haifa,26-093,1997,5.3,78,74,4,0,0,0,2,1,0,0,0,0,56,0,3,Matches
+b5b2e1ba,Václav Pilař,cz CZE,"FW,MF",cz Viktoria Plzeň,34-179,1988,1.4,47,44,2,1,0,1,4,1,0,0,0,0,33,1,1,Matches
+5db20508,Rodrigo Pinho,br BRA,FW,pt Benfica,31-315,1991,0.2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+adfc9123,Gerard Piqué,es ESP,DF,es Barcelona,36-067,1987,2.9,242,237,5,5,0,3,0,0,0,0,0,0,224,0,0,Matches
+55a1cac2,Tommaso Pobega,it ITA,MF,it Milan,23-269,1999,1.7,79,76,2,2,1,0,2,0,0,0,0,0,51,1,3,Matches
+d697a2d0,Suf Podgoreanu,il ISR,DF,il Maccabi Haifa,21-080,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+5e861944,Matteo Politano,it ITA,FW,it Napoli,29-250,1993,4.0,158,144,12,4,2,3,16,2,6,4,0,0,110,2,6,Matches
+27d0a506,Pedro Porro,es ESP,"DF,MF",pt Sporting CP,23-209,1999,4.4,234,179,53,15,0,3,22,34,4,0,3,0,162,2,6,Matches
+27d0a506,Pedro Porro,es ESP,DF,eng Tottenham,23-209,1999,0.4,32,21,11,2,0,0,8,6,3,0,3,0,23,0,0,Matches
+d2416c2e,Yussuf Poulsen,dk DEN,"FW,MF",de RB Leipzig,28-299,1994,0.8,14,14,0,0,0,0,1,0,0,0,0,0,6,0,1,Matches
+1bf33a9a,Christian Pulisic,us USA,"DF,FW",eng Chelsea,24-204,1998,1.3,61,57,4,0,0,0,1,4,0,0,0,0,50,0,0,Matches
+8794e251,Adrien Rabiot,fr FRA,MF,it Juventus,28-007,1995,5.0,240,235,5,2,1,0,8,3,0,0,0,0,204,0,5,Matches
+89f951b5,Ivan Rakitić,hr CRO,MF,es Sevilla,35-031,1988,4.6,245,238,6,4,1,6,4,1,0,0,0,0,207,1,7,Matches
+f63cda26,Gonçalo Ramos,pt POR,FW,pt Benfica,21-294,2001,6.1,110,107,2,0,0,0,5,0,0,0,0,0,71,1,4,Matches
+08511d65,Sergio Ramos,es ESP,DF,fr Paris S-G,37-011,1986,8.0,550,522,25,16,1,3,1,9,0,0,0,0,511,3,0,Matches
+d720e834,Calvin Ramsay,sct SCO,DF,eng Liverpool,19-253,2003,0.0,3,2,1,1,0,0,0,0,0,0,0,0,3,0,0,Matches
+3423f250,Raphinha,br BRA,FW,es Barcelona,26-117,1996,3.3,180,155,24,7,1,0,30,2,15,11,4,0,127,1,3,Matches
+6e058f06,Giacomo Raspadori,it ITA,FW,it Napoli,23-051,2000,2.3,91,84,7,1,1,2,4,0,2,2,0,0,71,0,3,Matches
+7d450ed3,David Raum,de GER,DF,de RB Leipzig,24-353,1998,5.9,350,291,59,10,0,1,39,41,8,1,6,0,289,0,6,Matches
+536cebe5,Ante Rebić,hr CRO,FW,it Milan,29-201,1993,2.6,89,88,1,0,1,0,9,1,0,0,0,0,53,0,3,Matches
+ae1159bf,Matheus Reis,br BRA,DF,pt Sporting CP,28-051,1995,5.7,334,309,25,7,0,0,0,18,0,0,0,0,295,0,4,Matches
+3376a776,Karim Rekik,nl NED,DF,es Sevilla,28-129,1994,1.0,37,34,3,1,0,0,1,2,0,0,0,0,35,0,0,Matches
+c5cbbcff,Devyne Rensch,nl NED,DF,nl Ajax,20-082,2003,3.2,130,105,23,4,0,0,1,19,0,0,0,0,106,2,5,Matches
+36a3ff67,Marco Reus,de GER,"MF,FW",de Dortmund,33-314,1989,2.9,99,92,7,2,0,0,4,0,0,0,0,0,80,0,4,Matches
+7fa4e703,Gio Reyna,us USA,"FW,MF",de Dortmund,20-148,2002,4.3,170,157,13,1,0,0,11,7,5,3,1,0,132,0,4,Matches
+fa031b34,Richarlison,br BRA,"MF,FW",eng Tottenham,25-335,1997,4.1,109,108,1,0,1,1,1,0,0,0,0,0,77,0,7,Matches
+7e56d3db,Stefan Ristovski,mk MKD,DF,hr Dinamo Zagreb,31-057,1992,4.1,194,163,31,11,0,2,13,20,0,0,0,0,159,0,7,Matches
+733e7ad8,Mats Rits,be BEL,MF,be Club Brugge,29-266,1993,0.2,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+335fa267,Sergi Roberto,es ESP,DF,es Barcelona,31-062,1992,2.3,189,174,15,1,0,1,3,13,0,0,0,0,173,0,1,Matches
+2e4f5f03,Andrew Robertson,sct SCO,DF,eng Liverpool,29-030,1994,4.2,292,244,47,3,0,1,32,29,15,3,11,0,229,1,5,Matches
+c738a5ec,Rochinha,pt POR,"MF,FW",pt Sporting CP,27-342,1995,0.2,6,5,1,0,0,1,1,0,1,0,1,0,4,0,0,Matches
+e12b0b5b,Sebastian Rode,de GER,MF,de Eint Frankfurt,32-181,1990,3.3,196,191,5,5,1,0,2,0,0,0,0,0,157,0,6,Matches
+6434f10d,Rodri,es ESP,"MF,DF",eng Manchester City,26-292,1996,6.1,620,610,9,8,0,6,2,1,0,0,0,0,575,1,5,Matches
+8f5e92a6,Rodrygo,br BRA,FW,es Real Madrid,22-091,2001,5.7,235,226,8,1,2,3,4,0,3,1,0,0,207,1,0,Matches
+a3d94a58,Cristian Romero,ar ARG,DF,eng Tottenham,24-348,1998,6.6,434,410,24,17,1,2,1,7,0,0,0,0,389,0,5,Matches
+ed45c4a5,Valentin Rongier,fr FRA,MF,fr Marseille,28-124,1994,5.2,413,400,13,10,0,4,1,3,0,0,0,0,372,0,7,Matches
+90c1f9a4,Tom Rothe,de GER,DF,de Dortmund,18-163,2004,0.7,55,43,12,0,0,0,1,12,0,0,0,0,39,0,2,Matches
+4b3e1a38,Amir Rrahmani,xk KVX,DF,it Napoli,29-045,1994,5.0,376,361,14,14,1,6,0,0,0,0,0,0,333,1,2,Matches
+18b896d6,Antonio Rüdiger,de GER,DF,es Real Madrid,30-038,1993,5.5,327,320,7,4,0,7,0,1,0,0,0,0,304,0,1,Matches
+14b8fcdf,Daniele Rugani,it ITA,DF,it Juventus,28-255,1994,1.0,55,55,0,0,0,0,1,0,0,0,0,0,48,0,0,Matches
+0b5a292a,Mário Rui,pt POR,DF,it Napoli,31-318,1991,3.0,233,194,39,7,1,3,7,31,1,0,1,0,198,0,7,Matches
+c0c7ff58,Fabián Ruiz Peña,es ESP,MF,fr Paris S-G,27-007,1996,2.6,209,198,11,1,1,1,0,10,0,0,0,0,186,0,3,Matches
+12e7ac0a,Nikita Rukavytsya,au AUS,"FW,MF",il Maccabi Haifa,35-292,1987,0.5,15,13,2,0,0,0,1,0,0,0,0,0,12,0,0,Matches
+4535e4bb,Mathew Ryan,au AUS,GK,dk FC Copenhagen,31-002,1992,2.0,65,46,19,3,0,0,0,0,0,0,0,0,37,0,0,Matches
+009a4f60,Julian Ryerson,no NOR,DF,de Dortmund,25-144,1997,0.2,3,2,1,0,0,0,0,1,0,0,0,0,2,0,0,Matches
+e280527c,Marcel Sabitzer,at AUT,MF,de Bayern Munich,29-024,1994,3.1,149,148,1,1,0,0,1,0,0,0,0,0,128,0,1,Matches
+ee251371,Alexis Saelemaekers,be BEL,"FW,DF",it Milan,23-287,1999,3.0,103,92,10,0,0,0,9,10,0,0,0,0,76,1,0,Matches
+be6a794c,Fashion Sakala,zm ZAM,"FW,MF",sct Rangers,26-027,1997,2.6,52,48,4,0,0,0,8,2,0,0,0,0,36,0,6,Matches
+e342ad68,Mohamed Salah,eg EGY,FW,eng Liverpool,30-299,1992,6.9,223,214,7,0,6,1,10,6,0,0,0,0,182,2,2,Matches
+032f894e,Renato Sanches,pt POR,MF,fr Paris S-G,25-235,1997,1.6,106,104,2,2,0,0,0,0,0,0,0,0,102,0,2,Matches
+2c0f8e9e,Alexis Sánchez,cl CHI,FW,fr Marseille,34-112,1988,4.6,133,124,9,1,1,2,5,0,0,0,0,0,108,0,5,Matches
+da7b447d,Davinson Sánchez,co COL,DF,eng Tottenham,26-302,1996,0.2,19,18,0,0,0,0,1,0,0,0,0,0,11,1,0,Matches
+2f33776f,Cisse Sandra,be BEL,FW,be Club Brugge,19-115,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+0d82903c,Alex Sandro,br BRA,DF,it Juventus,32-074,1991,2.7,196,181,14,2,0,3,5,12,0,0,0,0,175,1,1,Matches
+dccd127f,James Sands,us USA,"DF,MF",sct Rangers,22-278,2000,3.6,189,184,4,3,0,3,0,0,0,0,0,0,159,1,2,Matches
+2b114be3,Leroy Sané,de GER,"FW,MF",de Bayern Munich,27-089,1996,4.4,204,202,0,0,4,0,0,0,0,0,0,0,171,2,1,Matches
+a6ee4f55,Nuno Santos,pt POR,"DF,MF",pt Sporting CP,28-056,1995,3.3,151,117,34,5,0,2,12,25,4,0,3,1,127,0,3,Matches
+24051310,Zaidu Sanusi,ng NGA,DF,pt Porto,25-301,1997,6.5,305,235,70,6,0,1,8,62,2,2,0,0,221,0,6,Matches
+eaefa2d0,Alvaro Sanz,es ESP,MF,es Barcelona,22-055,2001,0.2,12,12,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+9744ff80,Pablo Sarabia,es ESP,MF,fr Paris S-G,30-334,1992,1.0,26,20,6,1,0,0,5,0,5,0,5,0,17,0,3,Matches
+f6ac68c1,Stefan Savić,me MNE,DF,es Atlético Madrid,32-092,1991,3.0,205,196,9,6,0,1,1,3,0,0,0,0,183,0,2,Matches
+5d4f7d61,Patrik Schick,cz CZE,FW,de Leverkusen,27-076,1996,5.0,94,92,2,0,0,0,0,0,0,0,0,0,74,0,2,Matches
+8f056768,Xaver Schlager,at AUT,MF,de RB Leipzig,25-194,1997,6.5,358,352,5,4,5,4,0,1,0,0,0,0,317,1,5,Matches
+34e12499,Nico Schlotterbeck,de GER,DF,de Dortmund,23-130,1999,6.2,389,378,11,11,0,15,0,0,0,0,0,0,338,0,0,Matches
+f07a0fe5,Abdoulaye Seck,sn SEN,DF,il Maccabi Haifa,30-310,1992,4.4,188,178,8,4,0,2,0,4,0,0,0,0,158,2,2,Matches
+28c6e925,Nicolas Seiwald,at AUT,MF,at RB Salzburg,21-341,2001,6.0,260,238,20,7,0,1,18,1,12,9,2,0,191,2,5,Matches
+3260690c,Benjamin Šeško,si SVN,FW,at RB Salzburg,19-314,2003,3.7,88,88,0,0,0,0,1,0,0,0,0,0,53,0,6,Matches
+6aa3e78b,Ryan Sessegnon,eng ENG,"MF,DF",eng Tottenham,22-327,2000,1.7,48,37,10,1,1,0,3,9,0,0,0,0,33,1,0,Matches
+fcea4f04,Maryan Shved,ua UKR,MF,ua Shakhtar,25-268,1997,2.1,51,47,4,0,0,0,3,1,3,3,0,0,35,0,1,Matches
+03998238,Danylo Sikan,ua UKR,FW,ua Shakhtar,21-359,2001,1.2,27,24,3,0,0,0,1,0,0,0,0,0,24,0,1,Matches
+3effaa34,André Silva,pt POR,FW,de RB Leipzig,27-155,1995,5.9,170,151,18,1,3,0,3,3,0,0,0,0,133,1,5,Matches
+8f0435c7,António Silva,pt POR,DF,pt Benfica,19-162,2003,7.9,430,415,15,12,0,2,0,3,0,0,0,0,397,0,1,Matches
+3eb22ec9,Bernardo Silva,pt POR,"MF,FW",eng Manchester City,28-243,1994,5.1,398,387,11,5,0,2,14,4,2,0,0,0,360,0,9,Matches
+70cf63ca,Rafa Silva,pt POR,"MF,FW",pt Benfica,29-328,1993,7.2,251,234,17,1,1,1,6,2,0,0,0,0,208,0,3,Matches
+86e7deaf,Thiago Silva,br BRA,DF,eng Chelsea,38-200,1984,5.3,370,361,9,8,0,5,0,1,0,0,0,0,333,0,1,Matches
+fcb27134,Mohamed Simakan,fr FRA,DF,de RB Leipzig,22-342,2000,5.7,347,289,57,7,0,1,9,50,0,0,0,0,267,1,8,Matches
+343c0d52,Giovanni Simeone,ar ARG,FW,it Napoli,27-279,1995,2.9,67,66,1,0,0,0,4,0,0,0,0,0,48,0,3,Matches
+a086ae11,Roko Simic,hr CRO,FW,at RB Salzburg,19-212,2003,0.2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+6250083a,Oliver Skipp,eng ENG,MF,eng Tottenham,22-206,2000,2.3,123,121,2,1,0,0,2,1,0,0,0,0,108,0,0,Matches
+b35a7399,Leo Skiri Østigård,no NOR,DF,it Napoli,23-133,1999,2.0,188,183,5,5,0,5,0,0,0,0,0,0,168,0,1,Matches
+c50cee19,Andreas Skov Olsen,dk DEN,"FW,MF",be Club Brugge,23-102,1999,3.3,99,88,11,4,0,0,20,2,5,5,0,0,68,0,4,Matches
+30f5ffa9,Milan Škriniar,sk SVK,DF,it Inter,28-058,1995,6.0,344,320,23,10,0,0,0,13,0,0,0,0,314,1,4,Matches
+c967f6b8,Hrvoje Smolčić,hr CRO,DF,de Eint Frankfurt,22-236,2000,1.4,51,47,4,4,0,1,0,0,0,0,0,0,38,0,1,Matches
+2ccd89a3,Eduard Sobol,ua UKR,"FW,DF",be Club Brugge,27-355,1995,1.2,59,44,15,2,0,0,7,12,1,1,0,0,43,0,1,Matches
+fed17f5a,Carlos Soler,es ESP,MF,fr Paris S-G,26-098,1997,1.7,70,68,2,1,0,0,2,0,1,0,1,0,62,0,0,Matches
+0670ee51,Oumar Solet,fr FRA,DF,at RB Salzburg,23-062,2000,3.0,132,126,6,6,0,0,0,0,0,0,0,0,114,0,0,Matches
+420c18a1,Yann Sommer,ch SUI,GK,de Bayern Munich,34-114,1988,2.0,65,51,14,5,0,0,0,0,0,0,0,0,54,0,0,Matches
+c13ddd3e,Matìas Soulé,ar ARG,"MF,FW",it Juventus,19-360,2003,0.5,18,16,2,1,0,0,0,1,0,0,0,0,17,0,0,Matches
+4c6facae,Djibril Sow,ch SUI,MF,de Eint Frankfurt,26-063,1997,8.0,440,426,14,14,2,2,1,0,0,0,0,0,372,0,9,Matches
+74b7375f,Kamal Sowah,gh GHA,"FW,MF",be Club Brugge,23-091,2000,6.6,221,217,2,1,0,2,7,0,1,0,0,0,166,2,7,Matches
+688fcea2,Dario Špikić,hr CRO,"FW,DF",hr Dinamo Zagreb,24-019,1999,1.9,56,53,3,0,0,1,4,3,0,0,0,0,45,0,2,Matches
+2d65a822,Jorne Spileers,be BEL,DF,be Club Brugge,18-079,2005,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+90339309,Jerry St. Juste,nl NED,DF,pt Sporting CP,26-173,1996,2.1,117,113,4,4,0,0,0,0,0,0,0,0,103,0,1,Matches
+690d1049,Marko Stamenic,nz NZL,MF,dk FC Copenhagen,21-050,2002,3.0,100,99,1,1,0,2,0,0,0,0,0,0,76,0,1,Matches
+eca17cf2,Jindřich Staněk,cz CZE,GK,cz Viktoria Plzeň,26-348,1996,5.0,141,89,52,12,0,0,0,0,0,0,0,0,92,0,0,Matches
+7ed08d5c,Josip Stanišić,hr CRO,DF,de Bayern Munich,23-008,2000,3.7,296,269,27,1,0,1,2,26,0,0,0,0,272,0,5,Matches
+5cfec13d,Carl Starfelt,se SWE,DF,sct Celtic,27-313,1995,1.0,54,53,1,1,0,0,0,0,0,0,0,0,52,0,0,Matches
+d0b8e745,Orri Steinn Óskarsson,is ISL,"MF,FW",dk FC Copenhagen,18-224,2004,0.2,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+ee3519f5,Taras Stepanenko,ua UKR,MF,ua Shakhtar,33-245,1989,5.9,277,264,13,10,0,5,0,3,0,0,0,0,240,0,6,Matches
+b400bde0,Raheem Sterling,eng ENG,"FW,DF",eng Chelsea,28-123,1994,6.0,238,225,11,2,2,0,13,5,4,4,0,0,187,2,10,Matches
+5eecec3d,John Stones,eng ENG,"DF,MF",eng Manchester City,28-317,1994,2.7,198,182,15,0,0,2,2,15,0,0,0,0,184,1,4,Matches
+1e1378e1,Luka Sučić,hr CRO,MF,at RB Salzburg,20-214,2002,4.4,199,182,15,1,4,1,3,0,3,0,1,0,151,2,7,Matches
+a793f5a8,Heorhii Sudakov,ua UKR,MF,ua Shakhtar,20-221,2002,5.3,315,305,9,5,6,0,1,1,0,0,0,0,277,1,2,Matches
+e33c06cf,Niklas Süle,de GER,DF,de Dortmund,27-219,1995,7.5,512,491,21,18,1,15,0,3,0,0,0,0,461,0,3,Matches
+141b0bd2,Daniel Sundgren,se SWE,DF,il Maccabi Haifa,32-139,1990,3.6,208,184,24,2,0,1,4,22,0,0,0,0,171,0,3,Matches
+4e219ad2,Suso,es ESP,"FW,MF",es Sevilla,29-142,1993,2.6,100,91,7,1,1,2,4,3,1,0,0,0,82,2,2,Matches
+33a6a650,Josip Šutalo,hr CRO,DF,hr Dinamo Zagreb,23-041,2000,6.0,295,286,9,9,0,1,0,0,0,0,0,0,256,0,3,Matches
+d820a7c8,Jan Sýkora,cz CZE,"FW,DF",cz Viktoria Plzeň,29-102,1993,1.6,20,18,2,0,0,0,1,1,0,0,0,0,15,0,0,Matches
+29c91632,Abakar Sylla,ci CIV,DF,be Club Brugge,20-106,2002,5.5,308,301,7,7,0,1,1,0,0,0,0,0,271,0,1,Matches
+01b8a2b2,Wojciech Szczęsny,pl POL,GK,it Juventus,32-357,1990,4.0,103,80,23,4,0,1,0,0,0,0,0,0,89,0,0,Matches
+934e1968,Dominik Szoboszlai,hu HUN,FW,de RB Leipzig,22-167,2000,7.3,333,292,38,11,0,4,29,10,17,6,10,0,268,3,5,Matches
+c8829a58,Christian Sørensen,dk DEN,"DF,MF",dk FC Copenhagen,30-247,1992,1.1,73,53,18,4,0,0,9,12,2,1,0,1,52,2,2,Matches
+2475dcc6,Dušan Tadić,rs SRB,FW,nl Ajax,34-141,1988,4.8,208,197,10,1,3,0,10,4,5,0,3,0,161,1,5,Matches
+bd142efb,Jonathan Tah,de GER,DF,de Leverkusen,27-058,1996,5.3,350,342,6,6,2,1,0,0,0,0,0,0,317,2,1,Matches
+e9971f2d,Japhet Tanganga,eng ENG,DF,eng Tottenham,24-010,1999,0.2,18,16,2,1,0,0,0,1,0,0,0,0,16,0,0,Matches
+a73c8f95,Edmond Tapsoba,bf BFA,DF,de Leverkusen,24-067,1999,3.9,282,268,13,8,1,2,0,4,0,0,0,0,257,1,0,Matches
+4c2a5d34,Mehdi Taremi,ir IRN,FW,pt Porto,30-266,1992,6.8,177,171,3,1,3,0,1,0,0,0,0,0,129,3,6,Matches
+b056e3da,Ciprian Tătărușanu,ro ROU,GK,it Milan,37-060,1986,5.0,173,127,46,13,0,1,0,0,0,0,0,0,136,0,0,Matches
+a65c844b,Nuno Tavares,pt POR,DF,fr Marseille,23-074,2000,6.0,330,280,49,8,0,3,33,41,0,0,0,0,257,1,8,Matches
+be765073,James Tavernier,eng ENG,DF,sct Rangers,31-161,1991,5.4,289,206,78,13,1,1,22,57,8,0,8,0,196,5,5,Matches
+30d75bfb,Greg Taylor,sct SCO,DF,sct Celtic,25-156,1997,6.0,399,339,59,6,0,0,8,52,1,0,0,0,338,1,9,Matches
+ad9b2747,Kenneth Taylor,nl NED,MF,nl Ajax,20-329,2002,4.6,240,228,8,3,1,0,6,4,1,0,0,0,205,4,2,Matches
+d0a39bdf,Lucas Taylor,br BRA,DF,ua Shakhtar,28-000,1995,3.5,113,91,22,0,0,0,2,22,0,0,0,0,88,0,4,Matches
+f4d8ce5a,Mavis Tchibota,cg CGO,FW,il Maccabi Haifa,26-338,1996,1.0,27,27,0,0,0,0,3,0,0,0,0,0,15,0,3,Matches
+4f255115,Aurélien Tchouaméni,fr FRA,MF,es Real Madrid,23-073,2000,4.3,332,326,6,6,2,2,0,0,0,0,0,0,311,0,2,Matches
+829aa60c,Mathys Tel,fr FRA,FW,de Bayern Munich,17-348,2005,1.4,43,41,2,0,0,0,4,1,0,0,0,0,33,0,1,Matches
+e73c9bb2,Alex Telles,br BRA,"DF,FW",es Sevilla,30-116,1992,4.3,242,186,56,9,0,0,27,38,9,1,8,0,181,0,5,Matches
+6f51e382,Marc-André ter Stegen,de GER,GK,es Barcelona,30-345,1992,5.0,162,125,37,9,0,0,0,0,0,0,0,0,149,0,0,Matches
+6b994195,Kévin Théophile-Catherine,fr FRA,DF,hr Dinamo Zagreb,33-164,1989,0.8,43,40,3,0,0,0,0,3,0,0,0,0,32,0,1,Matches
+ff5ea0bf,Malick Thiaw,de GER,DF,it Milan,21-245,2001,2.0,98,97,1,1,0,0,0,0,0,0,0,0,79,0,1,Matches
+b7c19c48,Mohamed Tijani,bj BEN,DF,cz Viktoria Plzeň,25-274,1997,1.9,71,63,8,6,0,2,0,0,0,0,0,0,55,0,0,Matches
+a5420709,Malik Tillman,us USA,MF,sct Rangers,20-317,2002,2.7,57,56,1,0,0,0,1,1,0,0,0,0,40,0,3,Matches
+41034650,Jurriën Timber,nl NED,DF,nl Ajax,21-297,2001,5.9,420,406,13,11,0,1,1,1,0,0,0,0,393,1,0,Matches
+7edfbb8a,Fikayo Tomori,eng ENG,DF,it Milan,25-112,1997,5.2,301,288,13,7,1,1,0,1,0,0,0,0,260,0,2,Matches
+0db169ae,Sandro Tonali,it ITA,MF,it Milan,22-337,2000,7.7,353,299,50,25,2,1,28,5,18,9,6,0,264,4,11,Matches
+04e531b6,Pablo Torre,es ESP,"MF,FW",es Barcelona,20-007,2003,1.1,78,78,0,0,0,0,0,0,0,0,0,0,70,0,0,Matches
+9e1035f8,Ferrán Torres,es ESP,"FW,MF",es Barcelona,23-040,2000,2.1,78,75,3,1,0,0,1,1,0,0,0,0,66,0,3,Matches
+ab708880,Andriy Totovytskyi,ua UKR,MF,ua Shakhtar,30-080,1993,0.2,6,5,1,0,0,0,1,0,1,0,1,0,5,0,0,Matches
+ce17b5eb,Kevin Trapp,de GER,GK,de Eint Frankfurt,32-276,1990,8.0,227,164,62,20,0,1,0,0,0,0,0,0,146,1,0,Matches
+77e39b04,Francisco Trincão,pt POR,"MF,FW",pt Sporting CP,23-102,1999,4.3,120,112,8,3,0,0,5,1,2,0,2,0,91,0,7,Matches
+41f0b196,Anatolii Trubin,ua UKR,GK,ua Shakhtar,21-252,2001,6.0,260,196,63,9,0,1,0,0,0,0,0,0,200,1,0,Matches
+f315ca93,Kostas Tsimikas,gr GRE,DF,eng Liverpool,26-333,1996,3.8,239,164,75,7,0,0,44,48,20,5,15,0,170,0,8,Matches
+aa34ed38,David Turnbull,sct SCO,MF,sct Celtic,23-274,1999,1.1,83,72,11,0,0,0,6,2,5,1,3,0,67,0,1,Matches
+35d64857,Tuta,br BRA,DF,de Eint Frankfurt,23-280,1999,6.7,333,318,15,13,0,1,1,2,0,0,0,0,266,0,4,Matches
+d3dc62d1,Marián Tvrdoň,sk SVK,GK,cz Viktoria Plzeň,28-235,1994,1.0,50,26,24,11,0,0,0,0,0,0,0,0,31,0,0,Matches
+c9817014,Manuel Ugarte Ribeiro,uy URU,MF,pt Sporting CP,21-364,2001,5.2,238,229,8,6,0,2,1,1,0,0,0,0,201,1,2,Matches
+1a799243,Andreas Ulmer,at AUT,DF,at RB Salzburg,37-162,1985,4.2,187,139,48,3,0,0,11,42,3,3,0,0,123,0,4,Matches
+7d3e7da6,Sven Ulreich,de GER,GK,de Bayern Munich,34-250,1988,3.0,116,90,26,5,0,0,0,0,0,0,0,0,102,0,0,Matches
+1880614f,Cengiz Ünder,tr TUR,MF,fr Marseille,25-270,1997,1.9,97,78,18,6,0,4,7,6,6,1,0,1,80,1,1,Matches
+d248cd8f,Dayot Upamecano,fr FRA,DF,de Bayern Munich,24-165,1998,5.9,417,402,14,12,0,5,0,2,0,0,0,0,381,1,2,Matches
+b997c3de,Mateus Uribe,co COL,MF,pt Porto,32-020,1991,6.8,328,306,20,11,0,2,3,9,0,0,0,0,266,2,5,Matches
+0a69de7b,Enrique Valiente,es ESP,DF,es Sevilla,20-352,2002,2.0,153,153,0,0,0,1,1,0,0,0,0,0,124,0,1,Matches
+c2111b45,Jesús Vallejo,es ESP,DF,es Real Madrid,26-095,1997,0.2,17,16,1,0,0,1,0,0,0,0,0,0,16,0,1,Matches
+0959c2a2,Federico Valverde,uy URU,"FW,MF",es Real Madrid,24-262,1998,6.7,367,364,3,2,2,7,18,1,0,0,0,0,313,0,11,Matches
+e06683ca,Virgil van Dijk,nl NED,DF,eng Liverpool,31-276,1991,8.0,505,493,12,11,0,5,0,1,0,0,0,0,439,0,2,Matches
+392a7aea,Hans Vanaken,be BEL,MF,be Club Brugge,30-229,1992,7.8,452,434,17,15,2,15,2,2,0,0,0,0,378,1,9,Matches
+08990838,Denis Vavro,sk SVK,DF,dk FC Copenhagen,27-000,1996,4.0,159,151,8,6,0,3,1,1,0,0,0,0,133,0,0,Matches
+fd51b456,Lucas Vázquez,es ESP,DF,es Real Madrid,31-283,1991,2.1,147,130,17,1,0,3,9,16,0,0,0,0,133,0,0,Matches
+4a56052c,Jordan Veretout,fr FRA,MF,fr Marseille,30-040,1993,5.4,411,383,26,15,0,2,15,3,8,2,5,0,362,2,2,Matches
+5eaf85b5,Lucas Veríssimo,br BRA,DF,pt Benfica,27-282,1995,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+6bc49da7,Gabriel Veron,br BRA,"MF,FW",pt Porto,20-219,2002,0.5,17,16,1,0,0,0,2,1,0,0,0,0,11,0,2,Matches
+1467af0d,Marco Verratti,it ITA,MF,fr Paris S-G,30-156,1992,6.9,690,641,47,44,1,2,1,3,0,0,0,0,639,2,6,Matches
+3b029691,Vitinha,pt POR,MF,fr Paris S-G,23-056,2000,6.5,436,432,3,2,0,1,2,0,0,0,0,0,398,1,8,Matches
+03df04ff,Odisseas Vlachodimos,gr GRE,GK,pt Benfica,28-349,1994,8.0,205,143,61,14,0,0,0,0,0,0,0,0,149,1,0,Matches
+79443529,Dušan Vlahović,rs SRB,FW,it Juventus,23-072,2000,4.6,91,75,14,0,0,0,2,0,0,0,0,0,65,2,2,Matches
+aed44b64,Adam Vlkanova,cz CZE,MF,cz Viktoria Plzeň,28-218,1994,5.1,135,106,29,2,0,1,14,2,6,1,4,0,99,0,2,Matches
+d0d8dd44,Stefan de Vrij,nl NED,DF,it Inter,31-064,1992,3.1,71,67,3,1,0,0,0,0,0,0,0,0,59,1,0,Matches
+86dd77d1,Kyle Walker,eng ENG,FW,eng Manchester City,32-317,1990,1.0,75,60,15,0,0,0,4,15,0,0,0,0,55,0,3,Matches
+cb64672e,Paul Wanner,de GER,"DF,FW",de Bayern Munich,17-108,2005,0.4,21,18,3,0,0,0,1,3,0,0,0,0,18,0,0,Matches
+a8b8af8d,Stephen Welsh,sct SCO,DF,sct Celtic,23-081,2000,1.0,58,56,2,2,0,0,0,0,0,0,0,0,55,0,0,Matches
+f9acca3a,Wendell,br BRA,DF,pt Porto,29-264,1993,1.6,106,89,17,3,0,0,8,11,3,3,0,0,88,0,2,Matches
+49fe9070,Timo Werner,de GER,FW,de RB Leipzig,27-035,1996,5.6,230,221,8,1,4,1,3,3,1,0,0,0,178,1,9,Matches
+83300259,Owen Wijndal,nl NED,DF,nl Ajax,23-133,1999,0.8,49,48,1,0,0,0,3,1,0,0,0,0,42,0,0,Matches
+c19a2df1,Josh Wilson-Esbrand,eng ENG,DF,eng Manchester City,20-105,2002,0.5,35,31,4,0,0,0,1,4,0,0,0,0,30,0,0,Matches
+5dfc6ad5,Axel Witsel,be BEL,"DF,MF",es Atlético Madrid,34-088,1989,5.1,344,336,8,7,0,1,0,1,0,0,0,0,322,0,2,Matches
+4b803b3c,Maximilian Wöber,at AUT,DF,at RB Salzburg,25-065,1998,1.8,72,46,26,0,0,0,9,26,0,0,0,0,32,0,2,Matches
+fa661778,Marius Wolf,de GER,DF,de Dortmund,27-318,1995,2.0,98,80,18,2,0,0,9,16,0,0,0,0,73,0,3,Matches
+e9b0ccaf,Scott Wright,sct SCO,"FW,MF",sct Rangers,25-245,1997,1.5,37,37,0,0,0,0,2,0,0,0,0,0,25,0,1,Matches
+cb641b9d,Roman Yaremchuk,ua UKR,FW,be Club Brugge,27-134,1995,1.2,39,36,3,0,0,0,1,0,0,0,0,0,29,0,1,Matches
+94721522,Rıdvan Yılmaz,tr TUR,DF,sct Rangers,21-324,2001,1.0,50,39,11,1,0,0,4,10,0,0,0,0,39,0,1,Matches
+6b9960cf,Warren Zaire-Emery,fr FRA,MF,fr Paris S-G,17-033,2006,0.9,38,36,2,1,2,0,2,1,0,0,0,0,30,0,1,Matches
+384d58d9,Denis Zakaria,ch SUI,MF,eng Chelsea,26-141,1996,0.8,44,43,1,1,0,1,0,0,0,0,0,0,42,0,0,Matches
+6bb2c084,Andre-Frank Zambo Anguissa,cm CMR,MF,it Napoli,27-145,1995,6.4,349,337,9,8,5,0,0,1,0,0,0,0,297,3,7,Matches
+3b12b11f,Alessandro Zanoli,it ITA,DF,it Napoli,22-189,2000,0.1,8,8,0,0,0,0,3,0,0,0,0,0,6,0,1,Matches
+f15b778f,Zeca,gr GRE,MF,dk FC Copenhagen,34-222,1988,1.8,71,68,2,2,0,0,0,0,0,0,0,0,65,1,0,Matches
+d19ef4ef,Alessio Zerbin,it ITA,FW,it Napoli,24-038,1999,0.6,34,33,0,0,0,0,0,0,0,0,0,0,25,1,1,Matches
+a5296e55,Piotr Zieliński,pl POL,MF,it Napoli,28-325,1994,5.2,267,236,31,9,5,0,22,0,18,7,6,0,222,0,5,Matches
+6622454d,Hakim Ziyech,ma MAR,"FW,MF",eng Chelsea,30-022,1993,1.6,88,81,6,1,0,1,18,1,4,2,1,0,59,1,3,Matches
+adfbe1f5,Oleksandr Zubkov,ua UKR,"FW,MF",ua Shakhtar,26-250,1996,4.1,104,98,6,0,2,0,0,2,0,0,0,0,81,0,2,Matches
+37557ec4,Neven Đurasek,hr CRO,MF,ua Shakhtar,24-238,1998,1.0,36,36,0,0,0,0,0,0,0,0,0,0,33,0,0,Matches
