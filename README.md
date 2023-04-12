@@ -1,3 +1,3 @@
 # FBREF  
 
-fbref data by competition and season
+scraped fbref data by competition and season
