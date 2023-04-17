@@ -1,38 +1,39 @@
 id,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
-9e17ccff,Doğan Alemdar,tr TUR,GK,Rennes,20-164,2002,4,3,315,3.5,7,2.00,11,3,36.4,1,0,2,0,0.0,1,0,1,0,100.0,Matches
-28dabd43,Paul Bernardoni,fr FRA,GK,Angers,25-358,1997,22,22,1980,22.0,49,2.23,118,71,62.7,1,5,16,3,13.6,6,5,0,1,0.0,Matches
-3d214e5f,Marco Bizot,nl NED,GK,Brest,32-032,1991,29,29,2610,29.0,48,1.66,150,102,72.0,6,9,14,4,13.8,8,6,2,0,25.0,Matches
-967f34d3,Rubén Blanco,es ESP,GK,Marseille,27-260,1995,5,5,450,5.0,6,1.20,19,15,68.4,1,3,1,0,0.0,0,0,0,0,,Matches
-6a9e4913,Joaquín Blázquez,ar ARG,GK,Brest,22-073,2001,1,1,90,1.0,0,0.00,3,3,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
-db87a2c4,Marcin Bułka,pl POL,GK,Nice,23-189,1999,2,2,180,2.0,2,1.00,6,4,66.7,0,1,1,0,0.0,0,0,0,0,,Matches
-8608f269,Matis Carvalho,pt POR,GK,Montpellier,23-348,1999,2,1,136,1.5,3,1.99,8,5,62.5,0,0,1,1,100.0,0,0,0,0,,Matches
-f5dfc256,Leonardo César Jardim,br BRA,GK,Lille,28-022,1995,6,6,540,6.0,13,2.17,15,4,26.7,3,1,2,0,0.0,2,2,0,0,0.0,Matches
-b3d76d84,Lucas Chevalier,fr FRA,GK,Lille,21-156,2001,24,24,2160,24.0,25,1.04,86,63,72.1,12,6,6,8,33.3,2,1,1,0,50.0,Matches
-2434f24a,Benoît Costil,fr FRA,GK,Auxerre,35-282,1987,19,19,1710,19.0,41,2.16,96,55,60.4,3,4,12,2,10.5,3,3,0,0,0.0,Matches
-477e50ce,Rémy Descamps,fr FRA,GK,Nantes,26-290,1996,1,1,90,1.0,1,1.00,6,5,83.3,0,1,0,0,0.0,0,0,0,0,,Matches
-f41a69e6,Mory Diaw,sn SEN,GK,Clermont Foot,29-293,1993,30,30,2700,30.0,41,1.37,134,91,74.6,11,7,12,8,26.7,9,7,2,0,22.2,Matches
-eedea60b,Yehvann Diouf,fr FRA,GK,Reims,23-146,1999,23,23,2070,23.0,15,0.65,96,81,84.4,10,11,2,13,56.5,0,0,0,0,,Matches
-08f5afaa,Gianluigi Donnarumma,it ITA,GK,Paris S-G,24-045,1999,30,30,2700,30.0,29,0.97,121,92,76.9,22,3,5,12,40.0,3,1,1,1,50.0,Matches
-0e12089d,Maxime Dupé,fr FRA,GK,Toulouse,30-038,1993,30,30,2700,30.0,52,1.73,153,100,68.0,11,5,14,5,16.7,6,3,3,0,50.0,Matches
-9d420dad,Yahia Fofana,fr FRA,GK,Angers,22-233,2000,8,8,720,8.0,15,1.87,40,25,65.0,2,0,6,1,12.5,2,1,1,0,50.0,Matches
-db3164e1,Gauthier Gallon,fr FRA,GK,Troyes,29-353,1993,23,23,2070,23.0,50,2.17,117,69,61.5,3,6,14,0,0.0,5,5,0,0,0.0,Matches
-3814120d,Bingourou Kamara,sn SEN,GK,Montpellier,26-172,1996,5,4,408,4.5,11,2.43,25,13,60.0,0,1,3,0,0.0,3,1,1,1,50.0,Matches
-4e7db402,Alban Lafont,fr FRA,GK,Nantes,24-078,1999,29,29,2609,29.0,41,1.41,144,107,74.3,6,12,11,9,31.0,4,4,0,0,0.0,Matches
-2fa2a875,Benjamin Lecomte,fr FRA,GK,Montpellier,31-350,1991,11,11,990,11.0,10,0.91,48,36,81.3,6,2,3,5,45.5,3,1,2,0,66.7,Matches
-1e7aea56,Benjamin Leroy,fr FRA,GK,Ajaccio,34-004,1989,27,27,2348,26.1,49,1.88,111,63,62.2,5,3,19,2,7.4,8,7,0,1,0.0,Matches
-fd78b105,Mateusz Lis,pl POL,GK,Troyes,26-043,1997,7,7,630,7.0,14,2.00,46,31,73.9,1,3,3,1,14.3,3,2,1,0,33.3,Matches
-f00de885,Anthony Lopes,pt POR,GK,Lyon,32-192,1990,24,24,2096,23.3,25,1.07,88,63,76.1,11,4,9,6,25.0,4,4,0,0,0.0,Matches
-20b9f052,Pau López,es ESP,GK,Marseille,28-119,1994,25,25,2250,25.0,23,0.92,103,81,81.6,17,4,4,10,40.0,4,4,0,0,0.0,Matches
-1d2d5cc8,Steve Mandanda,fr FRA,GK,Rennes,38-014,1985,27,27,2385,26.5,26,0.98,98,72,74.5,14,5,8,9,33.3,2,1,1,0,50.0,Matches
-c4173f1a,Vito Mannone,it ITA,GK,Lorient,35-040,1988,17,16,1518,16.9,21,1.25,78,57,74.4,4,6,6,5,31.3,1,1,0,0,0.0,Matches
-dc29b608,Yvon Mvogo,ch SUI,GK,Lorient,28-309,1994,14,14,1182,13.1,19,1.45,64,46,70.3,8,3,3,3,21.4,0,0,0,0,,Matches
-afb0c500,Alexander Nübel,de GER,GK,Monaco,26-193,1996,30,30,2700,30.0,42,1.40,143,104,73.4,17,7,6,8,26.7,4,4,0,0,0.0,Matches
-c631f952,Jonas Omlin,ch SUI,GK,Montpellier,29-091,1994,14,14,1166,13.0,26,2.01,73,48,68.5,5,1,8,2,14.3,4,3,1,0,25.0,Matches
-0810b6df,Patrick Pentz,at AUT,GK,Reims,26-099,1997,7,7,630,7.0,14,2.00,29,16,58.6,1,3,3,0,0.0,2,2,0,0,0.0,Matches
-1b729a98,Ghjuvanni Quilichini,fr FRA,GK,Ajaccio,20-222,2002,1,0,82,0.9,0,0.00,4,4,100.0,0,0,0,1,,0,0,0,0,,Matches
-67f649be,Ionuț Radu,ro ROU,GK,Auxerre,25-318,1997,11,11,990,11.0,10,0.91,42,31,76.2,4,4,3,5,45.5,2,0,2,0,100.0,Matches
-7f41ee30,Rémy Riou,fr FRA,GK,Lyon,35-248,1987,7,6,601,6.7,8,1.20,24,17,83.3,2,4,0,1,16.7,4,4,0,0,0.0,Matches
-60d90c55,Brice Samba,fr FRA,GK,Lens,28-351,1994,30,30,2700,30.0,22,0.73,101,80,80.2,18,9,3,12,40.0,2,2,0,0,0.0,Matches
-53af52f3,Kasper Schmeichel,dk DEN,GK,Nice,36-157,1986,28,28,2520,28.0,26,0.93,104,77,76.0,11,11,6,9,32.1,3,1,1,1,50.0,Matches
-834b5c4c,Matz Sels,be BEL,GK,Strasbourg,31-044,1992,30,30,2700,30.0,52,1.73,147,95,71.4,5,11,14,3,10.0,11,10,0,1,0.0,Matches
-f19f32b1,François-Joseph Sollacaro,fr FRA,GK,Ajaccio,29-021,1994,3,3,270,3.0,6,2.00,7,1,14.3,1,0,2,0,0.0,0,0,0,0,,Matches
+9e17ccff,Doğan Alemdar,tr TUR,GK,Rennes,20-170,2002,4,3,315,3.5,7,2.00,11,3,36.4,1,0,2,0,0.0,1,0,1,0,100.0,Matches
+28dabd43,Paul Bernardoni,fr FRA,GK,Angers,25-364,1997,23,23,2070,23.0,51,2.22,123,74,64.2,1,5,17,3,13.0,8,7,0,1,0.0,Matches
+3d214e5f,Marco Bizot,nl NED,GK,Brest,32-038,1991,30,30,2700,30.0,48,1.60,156,108,73.1,7,9,14,5,16.7,8,6,2,0,25.0,Matches
+967f34d3,Rubén Blanco,es ESP,GK,Marseille,27-266,1995,5,5,450,5.0,6,1.20,19,15,68.4,1,3,1,0,0.0,0,0,0,0,,Matches
+6a9e4913,Joaquín Blázquez,ar ARG,GK,Brest,22-079,2001,1,1,90,1.0,0,0.00,3,3,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
+db87a2c4,Marcin Bułka,pl POL,GK,Nice,23-195,1999,2,2,180,2.0,2,1.00,6,4,66.7,0,1,1,0,0.0,0,0,0,0,,Matches
+8608f269,Matis Carvalho,pt POR,GK,Montpellier,23-354,1999,2,1,136,1.5,3,1.99,8,5,62.5,0,0,1,1,100.0,0,0,0,0,,Matches
+f5dfc256,Leonardo César Jardim,br BRA,GK,Lille,28-028,1995,6,6,540,6.0,13,2.17,15,4,26.7,3,1,2,0,0.0,2,2,0,0,0.0,Matches
+b3d76d84,Lucas Chevalier,fr FRA,GK,Lille,21-162,2001,25,25,2250,25.0,26,1.04,87,63,71.3,13,6,6,8,32.0,2,1,1,0,50.0,Matches
+2434f24a,Benoît Costil,fr FRA,GK,Auxerre,35-288,1987,19,19,1710,19.0,41,2.16,96,55,60.4,3,4,12,2,10.5,3,3,0,0,0.0,Matches
+477e50ce,Rémy Descamps,fr FRA,GK,Nantes,26-296,1996,1,1,90,1.0,1,1.00,6,5,83.3,0,1,0,0,0.0,0,0,0,0,,Matches
+f41a69e6,Mory Diaw,sn SEN,GK,Clermont Foot,29-299,1993,31,31,2790,31.0,42,1.35,138,94,74.6,12,7,12,8,25.8,9,7,2,0,22.2,Matches
+eedea60b,Yehvann Diouf,fr FRA,GK,Reims,23-152,1999,24,24,2160,24.0,18,0.75,104,86,82.7,10,11,3,13,54.2,0,0,0,0,,Matches
+08f5afaa,Gianluigi Donnarumma,it ITA,GK,Paris S-G,24-051,1999,31,31,2790,31.0,30,0.97,128,98,78.1,23,3,5,12,38.7,4,2,1,1,33.3,Matches
+0e12089d,Maxime Dupé,fr FRA,GK,Toulouse,30-044,1993,31,31,2790,31.0,54,1.74,156,102,67.9,11,5,15,5,16.1,7,4,3,0,42.9,Matches
+9d420dad,Yahia Fofana,fr FRA,GK,Angers,22-239,2000,8,8,720,8.0,15,1.87,40,25,65.0,2,0,6,1,12.5,2,1,1,0,50.0,Matches
+db3164e1,Gauthier Gallon,fr FRA,GK,Troyes,29-359,1993,24,24,2160,24.0,53,2.21,123,72,61.0,3,6,15,0,0.0,5,5,0,0,0.0,Matches
+3814120d,Bingourou Kamara,sn SEN,GK,Montpellier,26-178,1996,5,4,408,4.5,11,2.43,25,13,60.0,0,1,3,0,0.0,3,1,1,1,50.0,Matches
+4e7db402,Alban Lafont,fr FRA,GK,Nantes,24-084,1999,30,30,2699,30.0,43,1.43,151,112,74.8,6,12,12,9,30.0,5,5,0,0,0.0,Matches
+2fa2a875,Benjamin Lecomte,fr FRA,GK,Montpellier,31-356,1991,12,12,1080,12.0,12,1.00,55,41,80.0,6,2,4,5,41.7,3,1,2,0,66.7,Matches
+51c83a90,Donovan Léon,gf GUF,GK,Auxerre,30-165,1992,1,1,90,1.0,1,1.00,7,6,85.7,1,0,0,0,0.0,0,0,0,0,,Matches
+1e7aea56,Benjamin Leroy,fr FRA,GK,Ajaccio,34-010,1989,28,28,2438,27.1,52,1.92,116,65,62.1,5,3,20,2,7.1,9,8,0,1,0.0,Matches
+fd78b105,Mateusz Lis,pl POL,GK,Troyes,26-049,1997,7,7,630,7.0,14,2.00,46,31,73.9,1,3,3,1,14.3,3,2,1,0,33.3,Matches
+f00de885,Anthony Lopes,pt POR,GK,Lyon,32-198,1990,25,25,2186,24.3,26,1.07,93,67,76.3,12,4,9,6,24.0,4,4,0,0,0.0,Matches
+20b9f052,Pau López,es ESP,GK,Marseille,28-125,1994,26,26,2340,26.0,24,0.92,105,82,81.0,18,4,4,10,38.5,4,4,0,0,0.0,Matches
+1d2d5cc8,Steve Mandanda,fr FRA,GK,Rennes,38-020,1985,28,28,2475,27.5,26,0.95,99,73,74.7,15,5,8,10,35.7,2,1,1,0,50.0,Matches
+c4173f1a,Vito Mannone,it ITA,GK,Lorient,35-046,1988,18,17,1608,17.9,24,1.34,84,60,72.6,4,6,7,5,29.4,1,1,0,0,0.0,Matches
+dc29b608,Yvon Mvogo,ch SUI,GK,Lorient,28-315,1994,14,14,1182,13.1,19,1.45,64,46,70.3,8,3,3,3,21.4,0,0,0,0,,Matches
+afb0c500,Alexander Nübel,de GER,GK,Monaco,26-199,1996,31,31,2790,31.0,43,1.39,147,107,74.1,18,7,6,8,25.8,5,5,0,0,0.0,Matches
+c631f952,Jonas Omlin,ch SUI,GK,Montpellier,29-097,1994,14,14,1166,13.0,26,2.01,73,48,68.5,5,1,8,2,14.3,4,3,1,0,25.0,Matches
+0810b6df,Patrick Pentz,at AUT,GK,Reims,26-105,1997,7,7,630,7.0,14,2.00,29,16,58.6,1,3,3,0,0.0,2,2,0,0,0.0,Matches
+1b729a98,Ghjuvanni Quilichini,fr FRA,GK,Ajaccio,20-228,2002,1,0,82,0.9,0,0.00,4,4,100.0,0,0,0,1,,0,0,0,0,,Matches
+67f649be,Ionuț Radu,ro ROU,GK,Auxerre,25-324,1997,11,11,990,11.0,10,0.91,42,31,76.2,4,4,3,5,45.5,2,0,2,0,100.0,Matches
+7f41ee30,Rémy Riou,fr FRA,GK,Lyon,35-254,1987,7,6,601,6.7,8,1.20,24,17,83.3,2,4,0,1,16.7,4,4,0,0,0.0,Matches
+60d90c55,Brice Samba,fr FRA,GK,Lens,28-357,1994,31,31,2790,31.0,25,0.81,108,84,78.7,18,9,4,12,38.7,2,2,0,0,0.0,Matches
+53af52f3,Kasper Schmeichel,dk DEN,GK,Nice,36-163,1986,29,29,2610,29.0,27,0.93,107,79,75.7,11,11,7,9,31.0,3,1,1,1,50.0,Matches
+834b5c4c,Matz Sels,be BEL,GK,Strasbourg,31-050,1992,31,31,2790,31.0,53,1.71,148,95,70.9,6,11,14,3,9.7,11,10,0,1,0.0,Matches
+f19f32b1,François-Joseph Sollacaro,fr FRA,GK,Ajaccio,29-027,1994,3,3,270,3.0,6,2.00,7,1,14.3,1,0,2,0,0.0,0,0,0,0,,Matches
