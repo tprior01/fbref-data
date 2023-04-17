@@ -1,577 +1,580 @@
 id,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-7f9c5d2d,Abner,br BRA,DF,Betis,22-319,2000,4.4,2,0,0,7,2,0,6,6,8,0,1,0,26,5,9,35.7,Matches
-be6faae0,Álvaro Aceves,es ESP,GK,Valladolid,19-259,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,50.0,Matches
-81442ecb,Marcos Acuña,ar ARG,DF,Sevilla,31-165,1991,16.7,8,2,0,26,30,1,110,19,29,0,1,0,114,27,15,64.3,Matches
-a2c1a8d3,Julen Agirrezabala,es ESP,GK,Athletic Club,22-106,2000,5.5,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,,Matches
-014aa7bd,Álvaro Aguado,es ESP,MF,Valladolid,26-345,1996,14.9,3,0,0,8,20,0,38,9,11,0,1,0,86,12,14,46.2,Matches
-18abe173,Joseph Aidoo,gh GHA,DF,Celta Vigo,27-194,1995,27.8,4,0,0,16,10,0,0,24,30,0,1,0,173,48,47,50.5,Matches
-06efa9dc,Sergio Akieme,es ESP,DF,Almería,25-116,1997,23.5,5,0,0,18,15,0,68,13,16,0,0,0,115,14,13,51.9,Matches
-31f5b89b,Paul Akouokou,ci CIV,MF,Betis,25-112,1997,3.1,2,0,0,6,3,0,0,6,6,0,0,0,18,2,6,25.0,Matches
-05439de2,David Alaba,at AUT,DF,Real Madrid,30-291,1992,18.4,3,0,0,8,3,0,26,14,11,0,1,0,80,8,8,50.0,Matches
-455c26a4,Ángel Alarcón,es ESP,"MF,FW",Barcelona,18-331,2004,0.3,0,0,0,2,1,0,1,0,0,0,0,0,1,0,1,0.0,Matches
-99ea2ddd,Tomás Alarcón,cl CHI,MF,Cádiz,24-082,1999,2.5,2,1,1,4,3,0,6,2,2,0,0,0,14,3,1,75.0,Matches
-4601e194,Jordi Alba,es ESP,DF,Barcelona,34-021,1989,12.3,4,1,1,8,3,9,71,10,14,0,0,0,88,7,15,31.8,Matches
-4bd414c1,Raúl Albiol,es ESP,DF,Villarreal,37-219,1985,22.4,6,0,0,17,12,1,1,14,17,0,0,0,102,37,23,61.7,Matches
-036bba5f,Rubén Alcaraz,es ESP,MF,Cádiz,31-345,1991,16.0,8,1,1,29,22,0,32,15,24,0,0,0,116,23,19,54.8,Matches
-bb08bce9,Omar Alderete,py PAR,DF,Getafe,26-106,1996,14.0,5,0,0,22,8,0,7,18,14,0,0,0,84,42,19,68.9,Matches
-3d7e48ce,Iván Alejo,es ESP,"MF,FW",Cádiz,28-060,1995,10.1,10,1,1,31,29,1,66,2,19,0,1,0,48,15,14,51.7,Matches
-6c811eb7,Carles Aleñá,es ESP,MF,Getafe,25-096,1998,18.0,10,1,1,46,41,2,27,4,10,0,0,0,92,12,26,31.6,Matches
-b907d169,Alejandro Alfaro,es ESP,MF,Elche,20-300,2002,0.2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,Matches
-acc1aefa,Ángel Algobia,es ESP,MF,Getafe,23-292,1999,11.7,3,0,0,27,9,0,11,3,12,0,0,0,62,7,20,25.9,Matches
-f8405304,Mohamed Ali Cho,fr FRA,FW,Real Sociedad,19-082,2004,4.3,1,0,0,7,8,3,20,2,3,1,0,0,23,1,13,7.1,Matches
-e6697917,Domingos André Ribeiro Almeida,pt POR,MF,Valencia,22-316,2000,19.7,2,0,0,23,30,0,67,14,30,0,0,0,114,11,23,32.4,Matches
-f4290206,Marcos Alonso,es ESP,DF,Barcelona,32-104,1990,8.6,1,0,0,7,4,0,11,10,7,0,1,0,46,16,9,64.0,Matches
-629081bd,Carlos Álvarez,es ESP,FW,Sevilla,19-248,2003,0.1,1,0,0,1,0,0,0,0,1,,,0,,,,,Matches
-852ddfb8,Gastón Álvarez,uy URU,DF,Getafe,23-018,2000,10.0,5,1,0,17,9,0,12,10,16,0,1,0,32,22,19,53.7,Matches
-3ecc11d8,Yeray Álvarez,es ESP,DF,Athletic Club,28-077,1995,21.2,5,1,0,18,19,1,9,39,18,0,1,0,148,41,34,54.7,Matches
-00eba9c9,Selim Amallah,ma MAR,"MF,FW",Valladolid,26-147,1996,1.1,0,1,0,1,4,1,1,1,3,0,0,0,6,2,6,25.0,Matches
-f3b1d9a2,Amath,sn SEN,"MF,FW",Mallorca,26-269,1996,7.4,2,0,0,21,10,3,8,3,13,1,0,0,38,3,5,37.5,Matches
-22721b88,Jordan Amavi,fr FRA,DF,Getafe,29-033,1994,2.1,2,1,1,2,2,1,6,4,2,0,0,0,15,8,3,72.7,Matches
-fdd26d71,Fabrizio Angileri,ar ARG,DF,Getafe,29-027,1994,6.0,2,1,0,7,1,0,10,6,8,0,1,0,17,16,9,64.0,Matches
-c93231dc,Anuar,ma MAR,"MF,FW",Valladolid,28-086,1995,2.3,1,0,0,3,6,1,1,3,4,0,0,0,10,2,5,28.6,Matches
-58afe001,Mauro Arambarri,uy URU,MF,Getafe,27-193,1995,9.2,4,1,1,19,11,0,39,12,6,0,0,1,52,13,10,56.5,Matches
-2bef2bca,Ronald Araújo,uy URU,DF,Barcelona,24-035,1999,14.3,5,1,0,11,9,1,4,10,13,0,0,1,61,31,17,64.6,Matches
-1e465e70,Sergio Arribas,es ESP,FW,Real Madrid,21-193,2001,0.1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
-6091cf45,Roberto Arroyo,es ESP,MF,Valladolid,19-229,2003,0.2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,Matches
-5d133e96,Ricard Artero,es ESP,FW,Girona,20-065,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
-759d8dd7,Santiago Arzamendia,py PAR,"DF,MF",Cádiz,24-341,1998,4.3,0,0,0,4,2,0,8,1,6,0,0,0,37,5,6,45.5,Matches
-9f0ea33f,Sergio Asenjo,es ESP,GK,Valladolid,33-287,1989,10.0,0,0,0,0,4,0,0,0,0,0,0,0,22,0,0,,Matches
-45af8a54,Marco Asensio,es ESP,"FW,MF",Real Madrid,27-080,1996,9.8,1,0,0,9,10,2,47,3,9,1,1,0,30,3,1,75.0,Matches
-7dcf86f6,Iago Aspas,es ESP,FW,Celta Vigo,35-253,1987,26.4,5,0,0,14,52,9,31,6,2,0,0,0,87,25,36,41.0,Matches
-d5dd5f1f,Pierre-Emerick Aubameyang,ga GAB,FW,Barcelona,33-297,1989,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-9fec8860,Ludwig Augustinsson,se SWE,DF,Mallorca,28-355,1994,1.3,0,0,0,1,1,0,6,1,0,0,0,0,12,3,1,75.0,Matches
-253a06b9,Ezequiel Ávila,ar ARG,"FW,MF",Osasuna,29-064,1994,16.3,7,1,0,22,33,12,75,6,4,0,0,0,51,32,41,43.8,Matches
-bfd381b3,Iddrisu Baba,gh GHA,MF,Mallorca,27-079,1996,13.7,5,0,0,27,23,0,0,8,14,0,0,0,98,23,18,56.1,Matches
-075fe5a3,Srđan Babić,rs SRB,DF,Almería,26-354,1996,24.5,3,0,0,20,4,0,2,21,11,0,0,0,97,44,32,57.9,Matches
-114bbdee,Loïc Bade,fr FRA,DF,Sevilla,23-000,2000,9.0,3,0,0,7,4,0,3,14,9,0,0,0,58,16,17,48.5,Matches
-e4346678,Édgar Badía,es ESP,GK,Elche,31-058,1992,28.0,2,0,0,1,4,0,0,0,0,0,1,0,27,5,0,100.0,Matches
-518f2234,Alex Baena,es ESP,"MF,FW",Villarreal,21-265,2001,16.3,12,1,1,47,46,1,16,5,12,1,1,0,74,1,20,4.8,Matches
-5ccc9672,Alejandro Balde,es ESP,DF,Barcelona,19-175,2003,19.4,3,0,0,19,19,2,44,9,20,0,0,0,107,10,13,43.5,Matches
-1fe67e86,Mikel Balenziaga,es ESP,DF,Athletic Club,35-041,1988,1.3,0,0,0,3,0,0,3,1,4,0,0,0,6,0,0,,Matches
-cee88597,Iván Balliu,al ALB,DF,Rayo Vallecano,31-100,1992,26.2,6,0,0,30,23,5,86,19,23,0,2,2,111,22,26,45.8,Matches
-35f6db55,Léo Baptistão,br BRA,"FW,MF",Almería,30-228,1992,15.3,7,0,0,27,17,9,13,17,17,0,0,0,84,20,34,37.0,Matches
-03049c8c,Keidi Bare,al ALB,MF,Espanyol,25-226,1997,3.7,0,0,0,9,7,0,4,11,3,0,0,0,18,4,8,33.3,Matches
-aad53e64,Kike Barja,es ESP,"FW,MF",Osasuna,26-010,1997,9.0,1,0,0,13,11,5,87,3,3,0,0,0,44,7,5,58.3,Matches
-200e89e1,Ander Barrenetxea,es ESP,"DF,FW",Real Sociedad,21-105,2001,4.9,3,0,0,12,3,0,6,4,8,0,0,0,41,7,10,41.2,Matches
-45736cec,Pablo Barrios,es ESP,MF,Atlético Madrid,19-300,2003,5.3,1,0,0,5,7,0,6,7,8,0,0,0,42,5,5,50.0,Matches
-d637fc22,Rodrigo Battaglia,ar ARG,MF,Mallorca,31-273,1991,7.6,5,0,0,11,11,0,1,5,5,0,2,0,29,11,8,57.9,Matches
-d8712bf9,Bebé,cv CPV,FW,Rayo Vallecano,32-273,1990,0.7,1,0,0,2,2,0,16,0,0,0,0,0,6,0,1,0.0,Matches
-f874dd44,Héctor Bellerín,es ESP,DF,Barcelona,28-023,1995,1.6,0,0,0,2,0,0,3,3,0,0,0,0,10,3,0,100.0,Matches
-ed5c5fa3,Fran Beltrán,es ESP,MF,Celta Vigo,24-067,1999,25.2,4,0,0,21,11,2,33,41,18,0,0,0,152,13,39,25.0,Matches
-50cbc806,Iker Benito,es ESP,FW,Osasuna,20-244,2002,0.1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,,Matches
-70d74ece,Karim Benzema,fr FRA,FW,Real Madrid,35-113,1987,16.8,1,0,0,9,5,18,2,1,4,2,0,0,29,11,9,55.0,Matches
-b6e50615,Yuri Berchiche,es ESP,DF,Athletic Club,33-060,1990,16.7,7,1,1,21,22,3,49,26,18,0,0,0,98,34,16,68.0,Matches
-dc1c2fce,Álex Berenguer,es ESP,FW,Athletic Club,27-281,1995,19.5,0,0,0,35,21,15,99,8,28,0,0,0,91,29,32,47.5,Matches
-697295b1,Pedro Bigas,es ESP,DF,Elche,32-208,1990,18.0,3,2,0,13,13,0,5,29,17,1,1,0,107,30,13,69.8,Matches
-47c609d5,El Bilal Touré,ml MLI,FW,Almería,21-190,2001,13.0,0,0,0,25,5,13,4,1,3,0,0,0,42,41,42,49.4,Matches
-506daeac,Blanco,es ESP,MF,Cádiz,22-262,2000,1.8,0,0,0,2,1,0,0,1,4,0,0,0,7,3,0,100.0,Matches
-1657f448,Lautaro Blanco,ar ARG,"MF,DF",Elche,24-051,1999,4.4,1,0,0,2,0,1,38,1,4,0,0,0,25,0,3,0.0,Matches
-0da6a13e,Theo Bongonda,cd COD,MF,Cádiz,27-142,1995,14.2,0,0,0,8,25,4,53,5,13,0,0,0,60,10,12,45.5,Matches
-7f271d74,Wassim Boullif,es ESP,"DF,MF",Espanyol,18-067,2005,1.0,0,0,0,1,0,0,0,0,1,0,0,0,3,0,3,0.0,Matches
-f6798fc3,Yassine Bounou,ma MAR,GK,Sevilla,32-006,1991,22.9,2,0,0,0,1,0,0,2,1,0,0,0,34,4,2,66.7,Matches
-d49f3e6b,Lucas Boyé,ar ARG,FW,Elche,27-042,1996,19.8,6,1,0,48,35,12,11,12,13,0,0,0,75,29,46,38.7,Matches
-fd771f95,Martin Braithwaite,dk DEN,"FW,MF",Espanyol,31-310,1991,21.1,4,1,0,17,31,11,16,5,2,0,0,0,44,42,52,44.7,Matches
-2475cf9b,Juan Brandáriz,es ESP,DF,Almería,24-040,1999,13.3,5,0,0,9,3,0,6,15,13,0,0,0,65,11,5,68.8,Matches
-4accb7e0,Darko Brašanac,rs SRB,MF,Osasuna,31-058,1992,11.6,5,0,0,16,14,3,7,12,20,0,1,0,50,15,15,50.0,Matches
-10072610,Claudio Bravo,cl CHI,GK,Betis,39-363,1983,6.0,1,0,0,0,0,0,0,1,0,0,0,0,9,0,0,,Matches
-7b5ab7f2,Bryan,es ESP,"DF,MF",Sevilla,22-059,2001,5.3,2,0,0,7,10,0,13,3,6,0,0,0,32,2,5,28.6,Matches
-8f3565b3,Ante Budimir,hr CRO,FW,Osasuna,31-263,1991,14.4,3,0,0,36,18,7,2,3,5,1,0,0,29,69,76,47.6,Matches
-edc98fac,Santiago Bueno,uy URU,DF,Girona,24-153,1998,26.9,6,1,1,29,30,2,4,27,26,2,0,0,118,58,34,63.0,Matches
-5ab0ea87,Sergio Busquets,es ESP,MF,Barcelona,34-269,1988,19.3,6,1,1,23,35,0,4,21,25,0,0,0,144,44,40,52.4,Matches
-69cbc8b6,Leandro Cabrera,uy URU,DF,Espanyol,31-298,1991,21.8,7,2,1,23,11,1,7,32,18,0,1,1,109,53,31,63.1,Matches
-fe05804b,Cala,es ESP,DF,Cádiz,33-136,1989,1.5,0,0,0,1,5,0,0,1,1,0,0,0,3,3,4,42.9,Matches
-41b3069f,Fernando Calero,es ESP,"DF,MF",Espanyol,27-209,1995,13.8,5,0,0,16,7,1,4,9,19,0,0,0,70,24,18,57.1,Matches
-af34f10d,Alexander Callens,pe PER,DF,Girona,30-342,1992,0.6,0,0,0,1,0,0,0,1,2,0,0,0,4,0,0,,Matches
-7b9c2d84,Eduardo Camavinga,fr FRA,"MF,DF",Real Madrid,20-152,2002,16.2,4,0,0,25,49,3,5,10,33,0,0,0,94,19,10,65.5,Matches
-873619c6,Sergio Camello,es ESP,FW,Rayo Vallecano,22-060,2001,21.6,1,0,0,10,17,10,3,2,8,0,0,0,43,23,38,37.7,Matches
-a6de370d,Sergio Canales,es ESP,"FW,MF",Betis,32-054,1991,18.6,4,2,1,9,25,3,93,9,11,0,0,0,88,9,12,42.9,Matches
-37f1cf47,Ander Capa,es ESP,"DF,MF",Athletic Club,31-062,1992,0.4,0,0,0,2,0,0,3,0,1,0,0,0,5,1,0,100.0,Matches
-5acc4a10,Étienne Capoue,fr FRA,MF,Villarreal,34-274,1988,16.3,1,0,0,12,27,0,8,14,10,0,0,0,80,21,16,56.8,Matches
-c4b888df,Isaac Carcelen,es ESP,DF,Cádiz,29-353,1993,16.7,2,3,0,13,17,1,32,14,43,0,1,0,97,13,20,39.4,Matches
-688b96e3,Juan Carlos,es ESP,GK,Girona,35-081,1988,10.0,0,0,0,0,0,0,0,1,0,0,0,0,16,1,0,100.0,Matches
-5b93209a,José Carlos Lazo,es ESP,"MF,FW",Almería,27-054,1996,0.2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,,Matches
-5b93209a,José Carlos Lazo,es ESP,"MF,FW",Espanyol,27-054,1996,1.8,0,0,0,2,5,0,4,3,3,0,0,0,9,0,3,0.0,Matches
-2dce876a,Carmona,es ESP,"MF,DF",Elche,21-072,2002,6.5,5,1,1,19,7,2,12,8,9,0,0,0,44,6,11,35.3,Matches
-2dce876a,Carmona,es ESP,DF,Sevilla,21-072,2002,5.9,6,1,1,14,6,0,11,7,11,0,0,0,34,3,8,27.3,Matches
-de39485a,Yannick Carrasco,be BEL,"DF,MF",Atlético Madrid,29-219,1993,17.3,1,0,0,18,13,3,61,12,12,0,0,0,83,4,4,50.0,Matches
-4958bfb2,Dani Carvajal,es ESP,DF,Real Madrid,31-090,1992,16.1,4,0,0,15,12,4,40,13,16,0,1,0,94,7,9,43.8,Matches
-dee86451,William Carvalho,pt POR,MF,Betis,31-004,1992,19.8,6,1,0,23,26,1,3,10,20,0,0,0,113,25,20,55.6,Matches
-4d224fe8,Casemiro,br BRA,MF,Real Madrid,31-047,1992,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches
-da76bab4,Valentín Castellanos,ar ARG,FW,Girona,24-190,1998,22.9,9,0,0,33,36,28,9,5,4,0,0,0,45,43,59,42.2,Matches
-130a7a3f,Samu Castillejo,es ESP,"FW,MF",Valencia,28-083,1995,13.6,6,0,0,30,34,6,71,8,11,0,0,0,60,7,17,29.2,Matches
-274ab13c,Catena,es ESP,DF,Rayo Vallecano,28-165,1994,25.8,11,1,1,21,15,2,1,14,11,0,0,0,134,64,25,71.9,Matches
-527f063d,Edinson Cavani,uy URU,FW,Valencia,36-056,1987,11.6,4,0,0,14,6,10,2,1,1,0,0,0,26,12,16,42.9,Matches
-c0617e2b,Dani Ceballos,es ESP,MF,Real Madrid,26-247,1996,10.2,4,0,0,12,23,0,9,18,18,0,0,0,77,2,5,28.6,Matches
-ae852b7d,Álex Centelles,es ESP,DF,Almería,25-154,1997,4.5,0,1,0,2,0,0,18,3,5,0,0,0,23,1,8,11.1,Matches
-5e1028e5,Franco Cervi,ar ARG,MF,Celta Vigo,28-320,1994,16.4,1,1,0,25,30,1,68,27,36,0,0,0,116,10,20,33.3,Matches
-63c5e56b,Pep Chavarría,es ESP,"FW,MF",Rayo Vallecano,25-001,1998,1.4,1,0,0,4,4,0,8,0,2,0,0,0,7,4,3,57.1,Matches
-873ce3a2,Pape Cheikh Diop,sn SEN,MF,Elche,25-246,1997,0.4,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,,Matches
-1cb49278,Andreas Christensen,dk DEN,DF,Barcelona,27-001,1996,14.0,2,0,0,13,6,0,1,14,10,0,0,0,74,31,13,70.5,Matches
-b8a642fc,Samuel Chukwueze,ng NGA,"FW,MF",Villarreal,23-324,1999,18.4,1,0,0,13,26,9,25,10,6,1,0,0,81,9,12,42.9,Matches
-ec1a731e,Víctor Chust,es ESP,DF,Cádiz,23-037,2000,9.6,3,0,0,8,3,1,0,10,6,0,1,0,45,16,15,51.6,Matches
-9a0408b6,Pathé Ciss,sn SEN,"MF,DF",Rayo Vallecano,29-026,1994,11.6,4,0,0,29,10,0,3,18,24,0,0,1,81,24,23,51.1,Matches
-33a61a52,Carlos Clerc,es ESP,"DF,MF",Elche,31-049,1992,20.3,1,0,0,21,20,2,74,13,35,0,0,0,96,9,14,39.1,Matches
-85dace26,Álex Collado,es ESP,MF,Elche,23-354,1999,6.0,1,0,0,9,7,1,11,2,11,0,0,0,23,4,6,40.0,Matches
-b3f62bfc,Diego Collado,es ESP,FW,Villarreal,22-092,2001,0.1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,Matches
-15937e17,Eray Cömert,ch SUI,DF,Valencia,25-066,1998,17.0,4,1,0,20,10,1,1,24,19,0,0,0,97,41,29,58.6,Matches
-5ae499d0,Santi Comesaña,es ESP,MF,Rayo Vallecano,26-188,1996,19.2,4,0,0,38,20,2,9,19,32,0,0,0,119,20,31,39.2,Matches
-0f26ffd7,Copete,es ESP,DF,Mallorca,23-183,1999,16.9,7,1,0,35,18,2,4,32,19,0,1,0,83,25,10,71.4,Matches
-a6951bf8,Francis Coquelin,fr FRA,MF,Villarreal,31-333,1991,8.3,2,0,0,11,7,0,5,9,13,0,0,0,36,6,4,60.0,Matches
-fb938d24,Jesús Corona,mx MEX,FW,Sevilla,30-095,1993,0.7,0,0,0,1,3,0,2,0,0,0,0,0,2,0,1,0.0,Matches
-01eb744d,Ángel Correa,ar ARG,"FW,MF",Atlético Madrid,28-033,1995,11.2,2,1,0,13,15,6,19,9,2,0,0,0,42,3,12,20.0,Matches
-c78b352d,Thierry Correia,pt POR,"DF,FW",Valencia,24-033,1999,18.1,4,0,0,29,39,1,69,21,40,2,0,0,118,21,18,53.8,Matches
-808d48f3,Jaume Costa,es ESP,DF,Mallorca,35-024,1988,22.4,9,0,0,31,29,6,64,12,25,0,0,0,96,21,23,47.7,Matches
-76c2a023,Samu Costa,pt POR,MF,Almería,22-135,2000,15.8,4,0,0,39,33,4,5,32,25,0,0,0,109,30,15,66.7,Matches
-1840e36d,Thibaut Courtois,be BEL,GK,Real Madrid,30-335,1992,22.0,0,0,0,0,2,0,0,1,0,0,0,0,34,6,0,100.0,Matches
-1944818c,Yan Couto,br BRA,"DF,MF",Girona,20-312,2002,7.9,1,0,0,7,10,2,36,4,13,0,0,0,50,1,4,20.0,Matches
-a56da3ba,Juan Cruz Armada,es ESP,DF,Osasuna,30-257,1992,18.0,6,0,0,15,8,1,34,12,10,0,0,0,74,14,15,48.3,Matches
-cc2dd8a5,Juan Cruz,es ESP,FW,Betis,22-351,2000,1.9,0,0,0,3,2,1,6,0,0,0,0,0,8,1,2,33.3,Matches
-0abc51f2,Jorge Cuenca,es ESP,DF,Villarreal,23-145,1999,4.0,1,0,0,4,1,0,1,5,4,0,1,0,17,9,4,69.2,Matches
-192c89a6,Braian Cufré,ar ARG,DF,Mallorca,26-117,1996,2.4,0,0,0,5,3,2,1,2,2,0,0,0,13,0,1,0.0,Matches
-dc62b55d,Matheus Cunha,br BRA,"FW,MF",Atlético Madrid,23-319,1999,4.2,2,0,0,7,6,1,3,2,1,0,0,0,16,3,14,17.6,Matches
-f9a225f5,Curro,es ESP,MF,Almería,27-098,1996,0.5,1,0,0,1,0,0,1,0,0,0,0,0,3,0,2,0.0,Matches
-f08490a6,Arnaut Danjuma,nl NED,FW,Villarreal,26-070,1997,5.3,0,0,0,2,7,3,6,0,3,0,0,0,10,0,3,0.0,Matches
-070a3904,Sergi Darder,es ESP,MF,Espanyol,29-110,1993,27.7,3,0,0,21,66,2,144,20,27,0,0,0,150,8,7,53.3,Matches
-162efffd,Rodrigo De Paul,ar ARG,MF,Atlético Madrid,28-322,1994,13.5,4,0,0,19,29,0,36,4,11,0,0,0,73,5,7,41.7,Matches
-84a85b48,Alberto Del Moral,es ESP,MF,Villarreal,22-265,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-fe641c1a,Thomas Delaney,dk DEN,MF,Sevilla,31-220,1991,3.4,3,0,0,4,5,1,4,4,2,0,0,0,8,9,2,81.8,Matches
-e7d2a50b,Fran Delgado,es ESP,DF,Betis,21-274,2001,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Matches
-b19db005,Ousmane Dembélé,fr FRA,FW,Barcelona,25-331,1997,12.2,4,0,0,14,13,3,71,0,11,0,0,0,46,2,11,15.4,Matches
-d2110326,Mouctar Diakhaby,gn GUI,DF,Valencia,26-113,1996,18.2,6,1,1,19,7,3,1,12,10,0,0,0,92,28,33,45.9,Matches
-80211dc5,Mamady Diarra,ml MLI,"MF,DF",Cádiz,22-289,2000,0.7,0,0,0,1,1,0,0,0,1,0,0,0,5,0,0,,Matches
-d61759ec,Youba Diarra,ml MLI,MF,Cádiz,25-018,1998,0.6,1,0,0,2,0,0,0,1,0,0,0,0,9,0,2,0.0,Matches
-fc70e345,Stole Dimitrievski,mk MKD,GK,Rayo Vallecano,29-107,1993,27.0,3,0,0,0,3,0,0,1,0,0,0,0,24,9,0,100.0,Matches
-a461f098,Malcom Abdulai Ares Djalo,es ESP,FW,Athletic Club,21-181,2001,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-a4971d84,Djené,tg TOG,DF,Getafe,31-101,1991,24.1,7,0,0,33,32,1,17,32,16,0,2,0,149,45,22,67.2,Matches
-ac295d9e,Marko Dmitrović,rs SRB,GK,Sevilla,31-077,1992,5.1,1,0,0,0,1,0,0,0,0,0,0,0,7,2,0,100.0,Matches
-d557d734,Matt Doherty,ie IRL,DF,Atlético Madrid,31-085,1992,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-cc83b74d,Kasper Dolberg,dk DEN,FW,Sevilla,25-187,1997,2.2,0,0,0,2,4,0,0,0,0,0,0,0,3,3,4,42.9,Matches
-3521abfe,Carlos Dominguez,es ESP,DF,Celta Vigo,22-059,2001,0.2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0,Matches
-5e95c000,John Donald,es ESP,"DF,MF",Elche,22-224,2000,2.6,0,1,0,3,1,0,0,5,1,0,0,0,7,3,2,60.0,Matches
-93090f69,Domingos Duarte,pt POR,DF,Getafe,28-032,1995,25.4,10,1,1,27,20,1,0,36,18,0,2,1,101,43,23,65.2,Matches
-6db116ec,Pablo Durán,es ESP,"MF,DF",Celta Vigo,22-076,2001,0.4,0,0,0,1,0,1,1,1,0,0,0,0,3,1,1,50.0,Matches
-37e103f8,Hugo Duro,es ESP,FW,Valencia,23-152,1999,12.1,4,0,0,15,29,3,2,2,8,0,0,0,30,26,48,35.1,Matches
-3e93f8cf,Íñigo Eguaras,es ESP,MF,Almería,31-035,1992,9.4,5,0,0,7,6,0,3,5,8,0,0,0,55,3,4,42.9,Matches
-f7dc2ae5,Aritz Elustondo,es ESP,DF,Real Sociedad,29-014,1994,11.5,4,1,0,17,8,0,5,18,12,0,0,0,43,14,20,41.2,Matches
-fd47b4f2,Rodrigo Ely,br BRA,DF,Almería,29-159,1993,26.1,6,1,1,20,10,2,2,24,13,0,0,1,107,64,26,71.1,Matches
-db8f0eba,Adri Embarba,es ESP,"FW,MF",Almería,30-339,1992,10.8,5,1,1,13,17,7,82,7,18,0,0,0,58,6,24,20.0,Matches
-db8f0eba,Adri Embarba,es ESP,FW,Espanyol,30-339,1992,0.4,0,0,0,1,1,0,2,0,0,0,0,0,2,0,1,0.0,Matches
-04e17fd5,Youssef En-Nesyri,ma MAR,FW,Sevilla,25-314,1997,13.5,4,0,0,6,10,12,4,3,8,0,0,0,21,40,63,38.8,Matches
-3f79a1c8,Gonzalo Escalante,ar ARG,MF,Cádiz,30-015,1993,6.7,2,0,0,9,11,0,3,9,15,0,1,0,50,12,20,37.5,Matches
-b0616e3d,Sergio Escudero,es ESP,DF,Valladolid,33-221,1989,10.9,3,0,0,10,12,1,34,14,17,0,0,0,56,14,16,46.7,Matches
-db001fa9,Alfonso Espino,uy URU,DF,Cádiz,31-096,1992,25.7,6,0,0,38,25,2,69,32,43,0,3,0,180,23,33,41.1,Matches
-4242011c,Bernardo Espinosa,co COL,DF,Girona,33-274,1989,9.4,3,0,0,7,6,0,0,5,0,0,1,0,48,36,12,75.0,Matches
-283c7121,Edu Expósito,es ESP,MF,Espanyol,26-253,1996,11.4,3,0,0,13,27,0,36,10,18,0,0,0,60,11,11,50.0,Matches
-3409de86,Nicolás Ezequiel Fernández,ar ARG,"MF,DF",Elche,23-090,2000,3.9,2,0,0,7,8,1,19,5,9,0,0,1,32,1,3,25.0,Matches
-bed68338,Abdessamad Ezzalzouli,ma MAR,"FW,MF",Osasuna,21-115,2001,11.4,3,1,1,23,25,0,52,3,12,0,0,0,45,2,12,14.3,Matches
-66116290,Radamel Falcao,co COL,"FW,MF",Rayo Vallecano,37-060,1986,6.0,4,0,0,15,12,11,0,2,3,0,0,0,16,18,20,47.4,Matches
-72a84002,Fali,es ESP,"DF,MF",Cádiz,29-242,1993,15.9,5,0,0,15,18,1,2,7,13,0,0,0,82,25,20,55.6,Matches
-805a2a11,Mamadou Fall,sn SEN,DF,Villarreal,20-141,2002,0.3,0,0,0,1,0,0,1,0,0,0,0,0,4,0,0,,Matches
-0ba976e4,Ansu Fati,es ESP,FW,Barcelona,20-162,2002,12.0,3,0,0,14,12,9,7,3,8,0,0,0,49,5,13,27.8,Matches
-89151b16,Zouhair Feddal,ma MAR,DF,Valladolid,34-100,1989,4.2,1,0,0,4,2,0,1,5,2,0,1,0,19,6,7,46.2,Matches
-bece776f,Nabil Fekir,fr FRA,MF,Betis,29-267,1993,10.7,4,1,0,21,39,7,48,1,5,1,0,0,31,8,11,42.1,Matches
-51a3c4c8,Felipe,br BRA,DF,Atlético Madrid,33-330,1989,2.2,0,0,0,4,3,0,0,0,2,0,0,0,16,6,6,50.0,Matches
-15d0c248,Luiz Felipe,it ITA,DF,Betis,26-020,1997,13.5,1,3,0,9,6,0,1,21,14,0,0,0,52,15,16,48.4,Matches
-8aafd64f,João Félix,pt POR,"FW,MF",Atlético Madrid,23-152,1999,7.2,5,0,0,16,23,3,8,3,7,0,0,0,18,7,8,46.7,Matches
-e5d01ecf,Kiko Femenía,es ESP,DF,Villarreal,32-068,1991,10.0,0,0,0,6,8,0,25,14,5,0,0,0,46,8,3,72.7,Matches
-a01c3d54,Aitor Fernández,es ESP,GK,Osasuna,31-343,1991,15.0,1,0,0,0,0,0,0,1,1,0,0,0,17,2,1,66.7,Matches
-aa677a35,Álex Fernández,es ESP,"MF,FW",Cádiz,30-178,1992,16.1,0,0,0,6,14,0,31,7,6,0,0,0,68,11,28,28.2,Matches
-f127d782,Álvaro Fernández,es ESP,GK,Espanyol,24-363,1998,11.0,0,0,0,0,2,0,0,0,0,0,0,0,15,2,1,66.7,Matches
-e08647d6,Carlos Fernández,es ESP,FW,Real Sociedad,26-324,1996,4.5,5,0,0,11,10,6,0,1,3,0,0,0,27,18,14,56.3,Matches
-f25b010f,Federico Fernández,ar ARG,DF,Elche,34-049,1989,1.0,0,0,0,0,0,0,0,2,1,0,0,0,3,1,2,33.3,Matches
-b86a64b2,Joaquín Fernández,es ESP,DF,Valladolid,26-315,1996,18.8,3,0,0,11,8,3,0,19,23,0,1,0,70,38,26,59.4,Matches
-dabb2827,Fernando,es ESP,GK,Almería,32-305,1990,26.5,3,0,0,0,5,0,0,0,0,0,0,0,25,0,0,,Matches
-41f32541,Fernando,br BRA,"MF,DF",Sevilla,35-260,1987,13.7,2,1,0,14,7,0,2,19,17,0,0,1,80,13,11,54.2,Matches
-eb82b6f1,Fidel,es ESP,"MF,FW",Elche,33-166,1989,11.2,4,0,0,5,14,7,40,3,7,0,0,0,50,2,5,28.6,Matches
-45e17712,Dimitri Foulquier,fr FRA,"DF,MF",Valencia,30-019,1993,13.4,4,0,0,23,5,1,55,7,13,0,0,0,73,12,14,46.2,Matches
-6c7762c3,Juan Foyth,ar ARG,DF,Villarreal,25-089,1998,15.0,5,0,0,26,9,0,6,14,35,0,1,0,86,26,11,70.3,Matches
-29d0f2ac,Iván Fresneda,es ESP,DF,Valladolid,18-195,2004,13.2,2,0,0,10,21,0,41,14,26,0,0,0,77,7,17,29.2,Matches
-a4b00319,Javi Galán,es ESP,DF,Celta Vigo,28-143,1994,27.1,3,0,0,37,58,7,128,29,58,0,0,0,171,27,17,61.4,Matches
-91f7631f,Iñigo Ruiz de Galarreta,es ESP,MF,Mallorca,29-248,1993,21.4,9,0,0,46,32,0,41,23,32,0,0,0,156,15,21,41.7,Matches
-a10361d2,Aleix García,es ESP,MF,Girona,25-287,1997,24.3,1,0,0,13,26,0,164,30,17,0,0,0,126,13,7,65.0,Matches
-90bbd822,Álvaro García,es ESP,"FW,MF",Rayo Vallecano,30-166,1992,23.9,4,0,0,26,24,8,125,23,21,2,0,0,147,11,5,68.8,Matches
-e7f4603c,Borja García,es ESP,"MF,FW",Girona,32-160,1990,7.4,1,0,0,4,20,3,17,5,4,0,0,0,33,6,7,46.2,Matches
-661e2822,Carlos García,es ESP,DF,Cádiz,22-278,2000,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
-240d3a0b,Dani García,es ESP,MF,Athletic Club,32-322,1990,11.8,4,0,0,25,12,0,3,14,19,0,0,0,66,16,15,51.6,Matches
-3e42f707,David García,es ESP,DF,Osasuna,29-056,1994,23.5,7,1,0,44,12,0,2,34,16,0,1,0,125,63,26,70.8,Matches
-2bed3eab,Eric García,es ESP,DF,Barcelona,22-092,2001,12.1,3,0,0,16,5,0,0,16,11,0,1,0,70,19,10,65.5,Matches
-7226539b,Francisco Garcia,es ESP,DF,Rayo Vallecano,23-240,1999,27.9,1,0,0,19,21,3,121,34,34,0,2,0,172,4,16,20.0,Matches
-b418dbd4,Raúl García,es ESP,"FW,MF",Athletic Club,36-274,1986,8.1,2,0,0,11,15,7,10,5,7,0,0,0,25,23,25,47.9,Matches
-5c96b017,Rubén García,es ESP,"MF,FW",Osasuna,29-271,1993,9.0,2,0,0,9,13,0,56,8,5,0,0,0,55,9,26,25.7,Matches
-4a633cfe,Unai García,es ESP,DF,Osasuna,31-067,1992,17.1,6,1,0,19,4,0,3,18,11,0,1,0,82,35,26,57.4,Matches
-9a26fa06,Felix Garreta,es ESP,DF,Betis,18-355,2004,1.0,0,0,0,2,1,0,0,1,0,0,0,0,3,1,1,50.0,Matches
-5757adc3,Aleix Garrido,es ESP,FW,Barcelona,19-048,2004,0.1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,Matches
-475a738b,Sékou Gassama,sn SEN,FW,Valladolid,27-340,1995,0.4,0,0,0,1,0,0,0,0,0,0,0,0,2,2,2,50.0,Matches
-19cae58d,Gavi,es ESP,"MF,FW",Barcelona,18-249,2004,20.8,6,0,0,63,50,8,32,17,25,0,0,0,92,32,23,58.2,Matches
-63d17038,Paulo Gazzaniga,ar ARG,GK,Girona,31-099,1992,18.0,3,0,0,0,5,0,0,0,0,0,0,0,28,3,0,100.0,Matches
-fea23125,David Gil,es ESP,GK,Cádiz,29-090,1994,3.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,Matches
-6652cf96,Óscar Gil,es ESP,DF,Espanyol,25-350,1997,20.6,10,0,0,37,29,0,27,25,25,0,0,0,94,10,27,27.0,Matches
-18017beb,Álvaro Giménez,es ESP,FW,Cádiz,31-327,1991,0.2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,,Matches
-0e5ddc7c,Dani Gómez,es ESP,"MF,FW",Espanyol,24-255,1998,0.8,2,0,0,2,2,4,2,1,1,0,0,0,5,1,0,100.0,Matches
-4c2e9442,Maxi Gómez,uy URU,FW,Valencia,26-240,1996,1.2,0,0,0,4,3,1,0,0,0,0,0,0,0,2,6,25.0,Matches
-5a626448,Moi Gómez,es ESP,"MF,FW",Osasuna,28-292,1994,24.5,4,0,0,13,22,1,105,8,15,0,0,0,155,6,24,20.0,Matches
-6e4df551,Papu Gómez,ar ARG,"MF,FW",Sevilla,35-055,1988,7.4,4,0,0,4,14,2,25,4,4,0,1,0,26,2,3,40.0,Matches
-bc6f5f06,Sergi Gómez,es ESP,DF,Espanyol,31-014,1992,18.7,1,2,0,7,4,0,2,20,11,0,0,0,79,33,24,57.9,Matches
-4ac7608e,Diego González,es ESP,DF,Elche,28-073,1995,10.6,4,0,0,17,5,0,1,7,7,0,1,0,47,19,8,70.4,Matches
-49d028db,Édgar González,es ESP,DF,Betis,26-010,1997,14.5,6,1,1,19,10,0,0,19,15,0,0,0,68,41,22,65.1,Matches
-1fc474ae,Giovanni González,uy URU,DF,Mallorca,28-203,1994,9.8,5,0,0,13,17,1,18,7,8,0,0,0,44,12,11,52.2,Matches
-2c56a792,Nicolás González,es ESP,MF,Valencia,21-098,2002,8.6,1,0,0,19,7,0,1,9,8,0,1,1,59,13,11,54.2,Matches
-56545648,Roberto González,es ESP,"FW,MF",Betis,22-095,2001,0.6,1,0,0,1,4,0,5,1,0,0,0,0,0,0,0,,Matches
-6f5f82c0,Andoni Gorosabel,es ESP,DF,Real Sociedad,26-250,1996,13.0,2,0,0,14,14,0,29,9,16,0,0,0,54,13,22,37.1,Matches
-ee45d138,José Gragera,es ESP,"MF,DF",Espanyol,22-132,2000,4.4,2,0,0,13,2,0,0,7,7,0,0,0,13,11,8,57.9,Matches
-3f034750,Ivo Grbić,hr CRO,GK,Atlético Madrid,27-083,1996,2.3,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
-8b298f56,Clément Grenier,fr FRA,MF,Mallorca,32-094,1991,6.9,7,0,0,19,13,0,26,6,8,0,0,0,37,3,7,30.0,Matches
-df69b544,Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,32-021,1991,21.8,1,0,0,20,30,7,112,16,27,0,0,0,112,23,24,48.9,Matches
-ef322658,Andrés Guardado,mx MEX,MF,Betis,36-195,1986,10.8,5,0,0,11,8,0,9,16,19,0,0,0,84,10,21,32.3,Matches
-32974271,Sergi Guardiola,es ESP,FW,Valladolid,31-317,1991,5.6,1,0,0,14,9,4,3,2,7,0,0,0,14,9,14,39.1,Matches
-32974271,Sergi Guardiola,es ESP,FW,Cádiz,31-317,1991,6.2,1,0,0,5,13,5,8,0,4,0,0,0,17,5,12,29.4,Matches
-0076ab7f,Nemanja Gudelj,rs SRB,"DF,MF",Sevilla,31-146,1991,23.8,6,0,0,14,18,0,0,24,25,0,0,0,81,32,18,64.0,Matches
-8e48dc61,Ander Guevara,es ESP,MF,Real Sociedad,25-278,1997,2.1,2,0,0,4,3,0,0,2,2,0,0,0,14,3,2,60.0,Matches
-7155e3e1,Pape Gueye,sn SEN,MF,Sevilla,24-077,1999,7.0,6,2,2,19,26,0,10,14,12,1,0,0,40,9,10,47.4,Matches
-f7c12fbf,Hugo Guillamón,es ESP,MF,Valencia,23-070,2000,18.0,5,0,0,34,33,0,32,19,12,0,2,1,95,20,20,50.0,Matches
-ac454a4f,Gerard Gumbau,es ESP,MF,Elche,28-114,1994,21.6,9,0,0,39,15,1,104,21,18,0,0,0,115,15,21,41.7,Matches
-6b5ea2f4,Gorka Guruzeta,es ESP,FW,Athletic Club,26-211,1996,10.0,1,0,0,20,8,13,1,4,13,0,0,0,27,21,34,38.2,Matches
-0b2c8585,Raúl Guti,es ESP,MF,Elche,26-102,1996,10.2,1,0,0,7,19,0,6,7,10,0,0,0,54,5,7,41.7,Matches
-7e98cff1,Miguel Gutiérrez,es ESP,DF,Girona,21-258,2001,19.5,6,0,0,17,17,1,73,14,15,0,0,0,108,6,15,28.6,Matches
-8696bc90,Munir El Haddadi,ma MAR,"MF,FW",Getafe,27-222,1995,8.9,4,0,0,12,30,7,51,7,5,0,0,0,47,22,15,59.5,Matches
-82cfae2a,Dennis Hadzikadunic,ba BIH,DF,Mallorca,24-276,1998,1.0,0,0,0,1,0,0,0,0,2,0,0,0,4,2,2,50.0,Matches
-e0979e74,Haissem Hassan,fr FRA,MF,Villarreal,21-062,2002,0.3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
-a39bb753,Eden Hazard,be BEL,FW,Real Madrid,32-094,1991,1.4,0,0,0,1,4,0,0,0,0,0,0,0,3,0,0,,Matches
-8059806f,Luiz Henrique,br BRA,"FW,MF",Betis,22-099,2001,16.0,5,0,0,18,33,2,22,12,29,0,0,0,102,18,33,35.3,Matches
-555f3a0b,Mario Hermoso,es ESP,DF,Atlético Madrid,27-297,1995,13.9,5,2,2,18,7,1,2,12,8,0,0,0,88,22,14,61.1,Matches
-132ac341,Aridane Hernández,gq EQG,DF,Osasuna,34-019,1989,11.6,0,0,0,9,8,0,0,17,7,0,0,0,70,19,11,63.3,Matches
-02d2c436,Luis Hernández,es ESP,DF,Cádiz,33-362,1989,26.0,6,1,1,15,5,2,14,21,14,0,0,0,116,32,14,69.6,Matches
-90162357,Mario Hernández,es ESP,DF,Rayo Vallecano,24-076,1999,1.1,1,0,0,1,1,0,1,2,2,0,0,0,3,0,1,0.0,Matches
-436a9dd0,Ander Herrera,es ESP,MF,Athletic Club,33-240,1989,3.5,3,1,0,11,4,0,1,5,4,0,0,0,21,2,1,66.7,Matches
-a4995f48,Sergio Herrera,es ESP,GK,Osasuna,29-310,1993,13.0,3,0,0,1,2,0,0,1,0,0,1,0,10,2,1,66.7,Matches
-e778654a,Yangel Herrera,ve VEN,"MF,FW",Girona,25-094,1998,8.6,2,0,0,29,18,1,16,2,8,0,0,0,36,17,25,40.5,Matches
-139560df,Omar El Hilali,ma MAR,"DF,MF",Espanyol,19-211,2003,1.0,1,0,0,0,2,0,2,1,2,0,0,0,10,2,1,66.7,Matches
-b85bf253,Martin Hongla,cm CMR,"MF,DF",Valladolid,25-026,1998,6.9,5,1,1,10,1,0,2,4,7,0,1,0,43,5,11,31.3,Matches
-3701906c,Pablo Ibáñez,es ESP,MF,Osasuna,24-203,1998,6.8,0,0,0,13,9,3,3,7,8,0,0,0,37,18,26,40.9,Matches
-974322dc,Iglesias,es ESP,DF,Getafe,24-282,1998,17.9,3,0,0,32,14,1,70,16,24,0,0,0,100,10,12,45.5,Matches
-75645f0e,Borja Iglesias,es ESP,FW,Betis,30-084,1993,21.0,1,1,0,34,42,17,0,1,4,0,0,0,39,18,32,36.0,Matches
-5ce0b5ba,Asier Illarramendi,es ESP,MF,Real Sociedad,33-034,1990,8.9,4,0,0,18,12,0,3,13,13,0,0,0,51,8,14,36.4,Matches
-8e92be30,Alexander Isak,se SWE,FW,Real Sociedad,23-202,1999,1.7,0,0,0,1,0,0,2,0,1,0,0,0,2,0,0,,Matches
-a0b4bb3e,Isco,es ESP,"MF,FW",Sevilla,30-355,1992,8.9,5,0,0,11,34,6,18,10,9,0,0,0,48,5,14,26.3,Matches
-9c36ed83,Nicolas Jackson,sn SEN,FW,Villarreal,21-295,2001,9.1,3,1,1,22,12,6,4,2,6,0,0,0,28,5,19,20.8,Matches
-4737cebe,Adnan Januzaj,be BEL,FW,Sevilla,28-065,1995,0.5,0,0,0,1,2,0,1,1,0,0,0,0,5,0,0,,Matches
-9a76c2e9,Javi,es ESP,DF,Girona,24-344,1998,8.9,2,0,0,7,13,1,12,4,8,0,1,0,50,9,5,64.3,Matches
-eeba07f8,Luis Javier Suárez,co COL,FW,Almería,25-130,1997,10.2,4,0,0,28,11,3,9,1,8,1,0,0,32,27,31,46.6,Matches
-4c5b14d2,Joaquín,es ESP,"FW,MF",Betis,41-264,1981,3.7,2,0,0,0,7,0,25,3,1,0,0,0,17,0,2,0.0,Matches
-1bacc518,Frenkie de Jong,nl NED,MF,Barcelona,25-334,1997,19.8,2,0,0,20,24,1,21,29,18,0,0,0,130,18,10,64.3,Matches
-2a0c8ba4,Joan Jordán,es ESP,MF,Sevilla,28-279,1994,16.6,6,0,0,28,12,0,7,16,16,0,0,0,109,11,10,52.4,Matches
-0107757e,Filip Jörgensen,dk DEN,GK,Villarreal,20-360,2002,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-5b28b2f6,Josan,es ESP,"MF,DF",Elche,33-129,1989,5.3,3,0,0,6,6,4,21,2,5,0,1,0,23,3,3,50.0,Matches
-d87e2cae,Willian José,br BRA,FW,Betis,31-139,1991,4.5,1,0,0,3,2,0,3,0,3,0,0,0,20,10,12,45.5,Matches
-6265208f,Joselu,es ESP,FW,Espanyol,33-015,1990,24.2,2,0,0,19,56,13,11,6,3,2,0,0,55,138,79,63.6,Matches
-84399660,Juanmi,es ESP,FW,Betis,29-326,1993,8.6,3,0,0,12,17,14,0,3,8,0,0,0,38,7,12,36.8,Matches
-1633fc8a,Juanpe,es ESP,DF,Girona,31-346,1991,10.3,3,0,0,8,1,0,1,7,8,0,1,0,36,16,6,72.7,Matches
-360d70f8,Lago Junior,ci CIV,"FW,MF",Mallorca,32-101,1990,0.6,0,0,0,3,1,0,2,0,0,0,0,0,7,4,1,80.0,Matches
-7111d552,Vinicius Júnior,br BRA,FW,Real Madrid,22-273,2000,26.3,8,0,0,43,106,16,52,6,20,1,0,0,84,0,6,0.0,Matches
-7d08063d,Tino Kadewere,zw ZIM,"FW,MF",Mallorca,27-096,1996,4.8,0,0,0,4,3,4,4,0,3,0,0,0,14,25,17,59.5,Matches
-55634fb8,Kaiky,br BRA,DF,Almería,19-089,2004,5.4,5,0,0,7,3,0,1,11,5,0,1,0,19,6,7,46.2,Matches
-8455ad90,Lee Kangin,kr KOR,"MF,FW",Mallorca,22-051,2001,23.4,7,0,0,39,43,1,139,7,18,0,0,0,96,13,47,21.7,Matches
-211589b8,Jon Karrikaburu,es ESP,FW,Real Sociedad,20-204,2002,1.0,1,0,0,3,4,3,1,0,0,0,0,0,5,4,4,50.0,Matches
-5eebbfdf,Kenedy,br BRA,"FW,MF",Valladolid,27-062,1996,1.0,1,0,0,3,0,0,3,0,1,0,0,0,4,1,0,100.0,Matches
-05e19d6a,Franck Kessié,ci CIV,MF,Barcelona,26-113,1996,7.4,4,0,0,14,12,2,3,8,5,0,0,0,41,3,5,37.5,Matches
-e897d8ba,Kike,es ESP,FW,Osasuna,33-137,1989,8.7,3,0,0,21,20,4,5,1,3,2,0,0,28,34,47,42.0,Matches
-4c3a6744,Justin Kluivert,nl NED,"FW,MF",Valencia,23-341,1999,12.1,3,0,0,16,17,6,53,6,13,1,0,0,59,5,14,26.3,Matches
-55126f3b,Koke,es ESP,MF,Atlético Madrid,31-093,1992,19.8,4,0,0,17,24,1,18,14,31,0,0,0,121,9,9,50.0,Matches
-fc076f78,Luca Koleosho,it ITA,"FW,DF",Espanyol,18-208,2004,0.3,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,,Matches
-cce181df,Geoffrey Kondogbia,cf CTA,MF,Atlético Madrid,30-055,1993,10.7,4,0,0,15,18,2,0,25,20,0,0,0,99,12,9,57.1,Matches
-4d1666ff,Jules Koundé,fr FRA,DF,Barcelona,24-150,1998,18.5,1,0,0,15,9,1,18,17,17,0,0,1,110,29,13,69.0,Matches
-6ce1f46f,Toni Kroos,de GER,MF,Real Madrid,33-097,1990,17.7,2,1,1,19,24,0,94,17,22,0,0,0,113,5,4,55.6,Matches
-16aa3654,Takefusa Kubo,jp JPN,"FW,MF",Real Sociedad,21-311,2001,20.1,2,0,0,27,35,18,48,2,20,1,0,0,78,13,17,43.3,Matches
-60abea75,César de la Hoz,es ESP,MF,Almería,31-012,1992,13.4,5,0,0,19,6,0,2,8,17,0,1,0,61,18,15,54.5,Matches
-e9241b40,Luca de la Torre,us USA,MF,Celta Vigo,24-323,1998,9.7,2,0,0,21,6,2,7,6,12,0,0,0,55,2,17,10.5,Matches
-abe66106,Érik Lamela,ar ARG,"FW,MF",Sevilla,31-038,1992,15.3,8,1,1,50,17,7,22,4,17,0,0,0,67,10,23,30.3,Matches
-e7af9060,Cyle Larin,ca CAN,FW,Valladolid,27-359,1995,6.7,4,0,0,13,16,14,1,0,2,0,1,0,13,21,27,43.8,Matches
-2bea832e,Latasa,es ESP,"FW,DF",Getafe,22-019,2001,1.5,0,0,0,5,5,0,0,1,2,0,0,0,4,18,16,52.9,Matches
-8e088e04,Toni Lato,es ESP,"DF,MF",Valencia,25-141,1997,7.3,1,0,0,5,6,4,22,4,7,0,0,0,36,2,12,14.3,Matches
-86ff856b,Lázaro,br BRA,"MF,FW",Almería,21-030,2002,3.3,0,0,0,1,6,1,7,2,1,0,0,0,15,1,4,20.0,Matches
-9a64e67e,Robin Le Normand,fr FRA,DF,Real Sociedad,26-151,1996,23.1,4,0,0,28,23,2,1,23,18,0,0,1,107,77,31,71.3,Matches
-2fa2a875,Benjamin Lecomte,fr FRA,GK,Espanyol,31-350,1991,10.0,1,1,0,1,0,0,0,0,0,0,0,1,16,0,0,,Matches
-6c4776b1,Jeremías Ledesma,ar ARG,GK,Cádiz,30-057,1993,25.0,1,0,0,1,5,0,0,2,1,0,1,0,26,5,2,71.4,Matches
-6eaed4eb,Florian Lejeune,fr FRA,DF,Rayo Vallecano,31-326,1991,24.2,6,2,1,21,8,5,7,13,13,0,1,0,103,53,26,67.1,Matches
-59b7d823,Iñigo Lekue,es ESP,DF,Athletic Club,29-342,1993,13.9,1,0,0,14,5,1,42,13,16,0,0,0,113,17,8,68.0,Matches
-4dbd0916,Thomas Lemar,fr FRA,MF,Atlético Madrid,27-150,1995,10.3,0,0,0,6,9,2,36,5,14,0,0,0,57,4,6,40.0,Matches
-0a0cc13c,Sergio León,es ESP,FW,Valladolid,34-095,1989,12.6,0,1,0,5,19,16,8,0,3,0,0,0,34,16,36,30.8,Matches
-8d78e732,Robert Lewandowski,pl POL,FW,Barcelona,34-233,1988,21.6,3,1,1,33,35,14,14,1,7,0,0,0,40,40,33,54.8,Matches
-ff800ed8,Pol Lirola,es ESP,DF,Elche,25-241,1997,6.3,1,0,0,3,3,0,29,6,6,0,0,0,42,8,6,57.1,Matches
-38b0cf42,Javier Llabrés,es ESP,FW,Mallorca,20-212,2002,0.2,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0.0,Matches
-02c15616,Marcos Llorente,es ESP,"MF,DF",Atlético Madrid,28-071,1995,17.9,4,0,0,29,12,2,42,15,14,0,1,0,101,9,18,33.3,Matches
-d7553721,Giovani Lo Celso,ar ARG,"MF,FW",Villarreal,27-002,1996,7.1,2,0,0,7,17,3,7,5,19,0,0,0,33,1,3,25.0,Matches
-f03f284b,David López,es ESP,DF,Girona,33-184,1989,14.9,4,0,0,12,12,3,0,9,15,0,0,0,81,27,27,50.0,Matches
-73683fa9,Diego López,es ESP,GK,Rayo Vallecano,41-159,1981,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches
-88050721,Unai López,es ESP,MF,Rayo Vallecano,27-163,1995,11.0,1,0,0,16,14,1,45,12,15,0,0,0,83,3,11,21.4,Matches
-38699c72,Anthony Lozano,hn HON,FW,Cádiz,29-351,1993,13.4,3,0,0,35,27,7,6,3,2,0,0,0,36,52,63,45.2,Matches
-ea610f00,Pol Lozano,es ESP,MF,Espanyol,23-187,1999,0.2,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1,50.0,Matches
-b05e2dbd,José Luis Gayà,es ESP,DF,Valencia,27-321,1995,21.1,4,0,0,9,15,7,172,16,30,1,0,0,114,20,11,64.5,Matches
-4a478107,José Luis Morales,es ESP,"FW,MF",Villarreal,35-262,1987,12.2,2,0,0,5,10,9,11,2,5,0,0,0,28,8,15,34.8,Matches
-3061e1ec,Andriy Lunin,ua UKR,GK,Real Madrid,24-059,1999,6.0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,,Matches
-922da988,Awer Mabil,au AUS,"MF,FW",Cádiz,27-208,1995,1.8,0,0,0,0,3,0,9,0,0,0,0,0,6,1,5,16.7,Matches
-ed6ea4d9,Darwin Machís,ve VEN,FW,Valladolid,30-063,1993,4.1,1,0,0,7,7,1,25,2,2,0,0,0,18,2,5,28.6,Matches
-5db04597,Pablo Maffeo,es ESP,DF,Mallorca,25-273,1997,24.1,4,1,0,23,41,5,92,17,33,0,0,0,111,33,23,58.9,Matches
-01a49bd2,Lisandro Magallán,ar ARG,DF,Elche,29-196,1993,4.5,0,1,0,7,3,0,1,5,4,0,0,0,21,7,5,58.3,Matches
-d4808594,Jon Magunacelaya,es ESP,"MF,FW",Real Sociedad,22-272,2000,0.7,0,0,0,1,1,0,2,0,0,0,0,0,4,0,2,0.0,Matches
-00b28772,Nemanja Maksimović,rs SRB,MF,Getafe,28-075,1995,13.6,1,0,0,15,6,0,7,23,13,0,0,0,60,18,18,50.0,Matches
-cb574619,Hugo Mallo,es ESP,DF,Celta Vigo,31-293,1991,18.4,4,0,0,34,20,5,56,19,20,0,1,0,87,40,24,62.5,Matches
-bbc19252,Mickael Malsa,mq MTQ,MF,Valladolid,27-181,1995,0.8,0,0,0,2,0,0,0,2,2,0,0,0,5,1,1,50.0,Matches
-d4b73232,Giorgi Mamardashvili,ge GEO,GK,Valencia,22-194,2000,28.0,2,0,0,1,2,0,0,1,0,0,1,0,47,5,1,83.3,Matches
-c20bdcd7,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,29-080,1994,20.6,4,0,0,32,30,0,16,30,43,0,0,0,129,29,20,59.2,Matches
-fbd6378b,Aïssa Mandi,dz ALG,DF,Villarreal,31-171,1991,7.4,0,0,0,10,7,4,1,13,7,0,0,0,25,8,5,61.5,Matches
-ae86d473,Maranhão,br BRA,"FW,MF",Valencia,26-173,1996,4.8,2,1,0,9,12,1,0,0,1,0,0,0,9,10,13,43.5,Matches
-133faa84,Marcão,br BRA,DF,Sevilla,26-310,1996,4.0,2,0,0,5,6,0,0,5,2,0,0,0,14,6,4,60.0,Matches
-853b7c48,Agustín Marchesín,ar ARG,GK,Celta Vigo,35-026,1988,19.0,2,0,0,0,4,0,0,0,0,0,0,0,22,3,0,100.0,Matches
-9f323c71,Óscar de Marcos,es ESP,DF,Athletic Club,33-362,1989,23.8,5,0,0,37,11,2,97,22,22,0,0,1,153,18,19,48.6,Matches
-6f4c734d,José Mari,es ESP,MF,Cádiz,35-126,1987,3.7,3,0,0,5,7,0,1,5,7,0,0,0,34,5,7,41.7,Matches
-f0da930c,José María Giménez,uy URU,DF,Atlético Madrid,28-081,1995,17.9,7,0,0,14,6,0,0,19,16,0,1,0,99,35,15,70.0,Matches
-5c4dc0ff,Mariano,do DOM,FW,Real Madrid,29-253,1993,0.6,2,0,0,3,0,1,0,0,0,0,0,0,4,1,1,50.0,Matches
-a83c19cf,Pablo Marín,es ESP,MF,Real Sociedad,19-282,2003,3.8,1,0,0,12,2,0,3,4,5,0,0,0,19,4,7,36.4,Matches
-d9235a45,Diego Mariño,es ESP,GK,Almería,32-337,1990,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-0ae4e09a,Roger Martí,es ESP,FW,Elche,32-098,1991,7.3,2,0,0,16,11,4,5,1,2,0,0,0,27,6,12,33.3,Matches
-0ae4e09a,Roger Martí,es ESP,FW,Cádiz,32-098,1991,5.7,1,0,0,20,10,7,0,0,4,0,0,0,19,9,18,33.3,Matches
-e1e75690,Ander Martin,es ESP,"MF,FW",Real Sociedad,22-146,2000,0.5,0,0,0,2,0,0,4,0,2,0,0,0,5,1,3,25.0,Matches
-2ae30661,Andrés Martín,es ESP,"FW,MF",Rayo Vallecano,23-274,1999,1.7,1,0,0,4,3,0,11,0,2,0,0,0,9,3,1,75.0,Matches
-64035864,Carlos Martín,es ESP,DF,Atlético Madrid,20-354,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-ae48c5cb,Iván Martín,es ESP,MF,Girona,24-056,1999,9.6,1,0,0,11,6,3,7,3,4,1,0,0,42,7,12,36.8,Matches
-c3e66ffe,Arnau Martinez,es ESP,DF,Girona,19-351,2003,21.5,9,0,0,26,47,6,42,17,30,0,1,0,129,26,19,57.8,Matches
-3fc45c73,Iñigo Martínez,es ESP,DF,Athletic Club,31-329,1991,12.9,1,0,0,11,9,3,4,18,7,0,0,0,80,24,17,58.5,Matches
-937c6ae6,Roger Martínez,es ESP,DF,Espanyol,19-006,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-11fd2b75,Omar Mascarell,es ESP,MF,Elche,30-068,1993,24.2,6,0,0,21,17,0,22,37,23,0,0,0,143,25,16,61.0,Matches
-8fae77ea,Jordi Masip,es ESP,GK,Valladolid,34-098,1989,17.9,2,0,0,0,3,0,0,1,0,0,0,0,20,6,0,100.0,Matches
-02319ad7,Jaime Mata,es ESP,"FW,MF",Getafe,34-169,1988,0.6,3,0,0,6,1,1,0,0,1,0,0,0,2,2,4,33.3,Matches
-64e8ed6d,Borja Mayoral,es ESP,FW,Getafe,26-006,1997,25.5,4,0,0,14,35,7,26,2,4,1,0,0,92,31,64,32.6,Matches
-8aae94b9,Mamadou Mbaye,sn SEN,DF,Cádiz,24-287,1998,6.2,1,0,0,4,1,2,0,3,3,0,1,0,23,19,14,57.6,Matches
-3902e91b,Gonzalo Melero,es ESP,MF,Almería,29-099,1994,14.3,3,0,0,15,23,3,1,3,12,0,0,0,72,9,10,47.4,Matches
-8f696594,Memphis,nl NED,FW,Barcelona,29-057,1994,1.3,0,0,0,2,2,1,4,0,1,0,0,0,7,1,2,33.3,Matches
-8f696594,Memphis,nl NED,FW,Atlético Madrid,29-057,1994,2.9,1,0,0,2,6,0,5,0,0,0,0,0,3,1,5,16.7,Matches
-1545cf15,Houboulang Mendes,fr FRA,DF,Almería,24-342,1998,8.2,1,0,0,8,3,0,25,5,9,0,1,0,32,1,1,50.0,Matches
-c9e39d91,Brais Méndez,es ESP,MF,Real Sociedad,26-094,1997,23.2,6,0,0,54,44,1,100,11,26,0,0,0,110,21,22,48.8,Matches
-b151a3f2,Diego Méndez,es ESP,MF,Rayo Vallecano,19-225,2003,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,100.0,Matches
-3cefcaef,Ferland Mendy,fr FRA,DF,Real Madrid,27-307,1995,12.8,2,0,0,4,18,0,7,13,9,0,0,0,64,7,7,50.0,Matches
-9f979eb2,Jorge Meré,es ESP,DF,Cádiz,25-359,1997,1.0,0,0,0,0,1,0,0,0,2,0,0,0,4,6,3,66.7,Matches
-d080ed5e,Mikel Merino,es ESP,MF,Real Sociedad,26-293,1996,19.7,4,1,0,51,35,3,19,17,35,0,0,0,157,82,39,67.8,Matches
-7c4243d4,Roque Mesa,es ESP,MF,Valladolid,33-308,1989,15.0,9,1,1,32,24,0,9,10,13,0,1,0,110,7,17,29.2,Matches
-2784f898,Éder Militão,br BRA,DF,Real Madrid,25-083,1998,21.0,3,0,0,28,28,1,8,29,23,0,1,0,116,46,28,62.2,Matches
-19c36442,Luis Milla,es ESP,MF,Getafe,28-186,1994,16.7,6,1,1,24,17,1,68,24,28,0,1,0,125,14,14,50.0,Matches
-335039a2,Pere Milla,es ESP,"FW,MF",Elche,30-200,1992,15.2,5,0,0,14,36,10,13,7,15,1,0,0,80,17,26,39.5,Matches
-1fda2b14,Marko Milovanović,rs SRB,FW,Almería,19-250,2003,0.2,1,0,0,2,0,0,0,0,0,0,0,0,0,5,3,62.5,Matches
-056269d7,Óscar Mingueza,es ESP,DF,Celta Vigo,23-333,1999,12.7,2,0,0,16,6,1,27,10,17,0,2,0,80,7,7,50.0,Matches
-bbf5c11b,Rafa Mir,es ESP,FW,Sevilla,25-297,1997,9.2,1,0,0,9,8,12,5,3,1,0,0,0,27,15,20,42.9,Matches
-ead61f73,Juan Miranda,es ESP,DF,Betis,23-082,2000,8.7,1,0,0,8,10,0,43,11,9,0,1,0,44,14,13,51.9,Matches
-e6777e6b,Stefan Mitrović,rs SRB,DF,Getafe,32-324,1990,12.6,3,0,0,8,3,0,0,11,3,0,0,0,44,27,11,71.1,Matches
-6025fab1,Luka Modrić,hr CRO,MF,Real Madrid,37-214,1985,15.9,6,0,0,19,13,3,53,9,6,0,0,0,69,8,12,40.0,Matches
-608f2092,Johan Mojica,co COL,DF,Villarreal,30-233,1992,6.8,0,0,0,3,12,0,40,4,9,0,0,0,46,7,4,63.6,Matches
-608f2092,Johan Mojica,co COL,"DF,MF",Elche,30-233,1992,3.0,2,0,0,4,3,0,14,4,3,0,1,0,33,4,1,80.0,Matches
-23610943,Nahuel Molina,ar ARG,DF,Atlético Madrid,25-005,1998,21.9,6,1,0,16,11,2,93,8,29,0,0,0,115,15,22,40.5,Matches
-9939e168,Jon Moncayola,es ESP,"MF,DF",Osasuna,24-333,1998,20.1,4,0,0,24,11,3,44,11,27,1,0,0,134,16,12,57.1,Matches
-8ac501f5,Monchu,es ESP,MF,Valladolid,23-210,1999,15.5,7,0,0,34,16,1,53,16,22,0,1,0,78,11,23,32.4,Matches
-28e957d7,César Montes,mx MEX,DF,Espanyol,26-046,1997,9.5,2,0,0,8,4,1,0,8,5,0,0,0,52,24,25,49.0,Matches
-374d5158,Gonzalo Montiel,ar ARG,DF,Sevilla,26-100,1997,11.0,6,1,0,12,7,10,30,12,6,0,0,0,61,11,11,50.0,Matches
-5cec2487,Martín Montoya,es ESP,DF,Betis,31-362,1991,2.0,0,0,0,1,2,0,6,2,5,0,0,0,8,2,0,100.0,Matches
-129af0db,Álvaro Morata,es ESP,FW,Atlético Madrid,30-170,1992,16.5,3,0,0,32,45,21,4,0,8,0,0,0,54,42,27,60.9,Matches
-b7d7f3bf,Jon Morcillo,es ESP,"FW,MF",Athletic Club,24-208,1998,0.8,0,0,0,1,1,0,6,1,0,0,0,0,7,1,1,50.0,Matches
-11b9265b,Alberto Moreno,es ESP,"DF,FW",Villarreal,30-280,1992,9.9,5,0,0,21,5,1,29,15,3,0,0,0,44,10,6,62.5,Matches
-16e9d0ea,Álex Moreno,es ESP,DF,Betis,29-307,1993,15.0,1,0,0,17,19,1,28,17,22,0,1,0,78,9,18,33.3,Matches
-a21417e2,Diego Moreno,es ESP,DF,Osasuna,21-294,2001,6.0,1,0,0,3,4,1,19,1,4,0,0,0,29,4,8,33.3,Matches
-81f0781e,Gerard Moreno,es ESP,FW,Villarreal,31-004,1992,11.9,4,0,0,10,11,12,6,4,5,0,0,0,26,16,14,53.3,Matches
-004d185e,Tete Morente,es ESP,"MF,DF",Elche,26-128,1996,13.4,4,0,0,21,17,5,50,11,13,1,1,0,55,22,11,66.7,Matches
-f4c69aa6,Ilaix Moriba,gn GUI,MF,Valencia,20-082,2003,8.6,4,1,1,28,25,0,2,3,14,0,0,0,59,18,17,51.4,Matches
-a0255c67,Manu Morlanes,es ESP,MF,Villarreal,24-089,1999,1.8,0,1,0,1,1,0,0,1,2,0,0,0,5,1,2,33.3,Matches
-a0255c67,Manu Morlanes,es ESP,MF,Mallorca,24-089,1999,1.1,1,0,0,2,1,0,1,0,1,0,0,0,3,2,3,40.0,Matches
-3aa4a3be,Loren Morón,es ESP,FW,Betis,29-102,1993,0.2,1,0,0,2,0,0,0,0,2,0,0,0,1,0,2,0.0,Matches
-dc1ce4f5,Cristhian Mosquera,co COL,DF,Valencia,18-288,2004,1.6,0,0,0,0,1,0,1,1,2,0,0,0,8,3,2,60.0,Matches
-5487adcd,Abdul Mumin,gh GHA,DF,Rayo Vallecano,24-309,1998,3.7,1,0,0,3,4,0,2,3,2,0,0,0,26,8,6,57.1,Matches
-c05dfb74,Iker Muniain,es ESP,"MF,FW",Athletic Club,30-113,1992,15.7,2,0,0,11,52,0,93,3,13,0,0,0,64,2,13,13.3,Matches
-228b0d9d,Aihen Muñoz,es ESP,DF,Real Sociedad,25-238,1997,11.7,0,0,0,15,6,0,33,4,13,0,0,0,48,15,13,53.6,Matches
-49a6ecbb,Álvaro Muñoz,uy URU,"FW,MF",Real Madrid,18-271,2004,0.2,0,0,0,2,0,1,0,0,0,0,0,0,3,0,3,0.0,Matches
-175ece4c,Iker Muñoz,es ESP,MF,Osasuna,20-157,2002,0.2,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
-44e8521b,Pablo Muñoz,es ESP,MF,Rayo Vallecano,19-219,2003,0.1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,,Matches
-0cadc46d,Vedat Muriqi,xk KVX,FW,Mallorca,28-352,1994,23.9,5,1,0,44,28,22,10,7,6,0,0,0,69,139,120,53.7,Matches
-b51b1b9c,Yunus Musah,us USA,MF,Valencia,20-133,2002,19.5,8,0,0,31,35,2,25,10,26,0,0,0,83,22,26,45.8,Matches
-2946f9a1,Nacho,es ESP,DF,Real Madrid,33-083,1990,11.3,5,0,0,13,9,2,8,8,10,0,0,1,56,23,16,59.0,Matches
-485e4939,Juanjo Narváez,co COL,"MF,FW",Valladolid,28-058,1995,1.6,0,0,0,1,9,1,1,0,1,0,0,0,5,3,6,33.3,Matches
-f35430a4,Matija Nastasić,rs SRB,DF,Mallorca,30-014,1993,9.6,3,0,0,12,0,1,1,18,8,0,0,0,31,9,6,60.0,Matches
-c997b942,Roberto Navarro,es ESP,"MF,FW",Real Sociedad,20-364,2002,3.8,2,0,0,8,6,5,15,2,3,0,0,0,22,6,5,54.5,Matches
-3f10bd22,Jesús Navas,es ESP,"DF,FW",Sevilla,37-141,1985,17.4,4,0,0,5,26,7,114,15,9,0,0,1,103,9,22,29.0,Matches
-63b0ca6b,Álvaro Negredo,es ESP,FW,Cádiz,37-234,1985,6.8,0,0,0,5,7,5,0,0,4,0,0,0,7,26,20,56.5,Matches
-5853ac44,Tanguy Nianzou,fr FRA,DF,Sevilla,20-308,2002,13.7,1,1,0,10,11,0,1,14,13,0,0,0,67,28,11,71.8,Matches
-c14bc029,Saúl Ñíguez,es ESP,"MF,DF",Atlético Madrid,28-141,1994,7.5,7,0,0,26,2,1,11,12,19,0,1,0,34,28,19,59.6,Matches
-81d5c497,Fernando Niño,es ESP,"MF,FW",Villarreal,22-169,2000,0.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
-c487901c,Diego Noguerol,es ESP,"FW,DF",Valencia,20-333,2002,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
-a6103274,Randy Ntekja,fr FRA,FW,Elche,25-126,1997,2.9,1,0,0,9,9,1,0,1,7,0,0,0,14,10,20,33.3,Matches
-a6103274,Randy Ntekja,fr FRA,"FW,MF",Rayo Vallecano,25-126,1997,1.3,0,1,0,4,5,0,0,2,2,0,0,0,11,5,4,55.6,Matches
-be170419,Unai Núñez,es ESP,DF,Celta Vigo,26-071,1997,26.0,6,0,0,21,22,1,1,55,24,0,0,1,152,48,39,55.2,Matches
-ee8508c0,Jan Oblak,si SVN,GK,Atlético Madrid,30-094,1993,25.7,1,0,0,0,3,0,0,0,0,0,0,0,22,1,0,100.0,Matches
-2e3995cd,Brian Ocampo,uy URU,"MF,FW",Cádiz,23-290,1999,12.4,2,0,0,32,27,2,34,3,15,0,0,0,92,7,13,35.0,Matches
-a08b974a,Lucas Ocampos,ar ARG,"FW,MF",Sevilla,28-274,1994,7.9,5,0,0,8,11,4,13,4,7,0,0,0,46,15,11,57.7,Matches
-1d1691ad,Álvaro Odriozola,es ESP,DF,Real Madrid,27-118,1995,0.4,0,0,0,0,1,0,3,0,0,0,0,0,1,0,1,0.0,Matches
-3d99999d,Olasagasti,es ESP,"MF,DF",Real Sociedad,22-238,2000,0.7,0,0,0,1,4,0,0,0,4,0,0,0,6,2,0,100.0,Matches
-4cee5954,Lucas Olaza,uy URU,DF,Valladolid,28-264,1994,13.6,3,0,0,10,16,2,65,13,13,0,0,0,55,21,27,43.8,Matches
-a3e4bf46,Brian Oliván,es ESP,DF,Espanyol,29-010,1994,21.3,6,0,0,27,12,3,102,18,23,0,0,0,115,14,30,31.8,Matches
-5132b92c,Lucas Oliveira Rosa,br BRA,DF,Valladolid,23-008,2000,7.8,2,0,0,14,9,1,19,14,13,0,0,0,42,11,7,61.1,Matches
-7c363088,Aimar Oroz,es ESP,"MF,FW",Osasuna,21-135,2001,14.1,6,0,0,28,39,2,5,15,7,0,0,0,61,13,28,31.7,Matches
-f9358b61,Pedro Ortiz,es ESP,MF,Sevilla,22-235,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-8c3c640c,Mikel Oyarzabal,es ESP,"FW,MF",Real Sociedad,25-355,1997,7.6,0,0,0,5,10,8,9,0,3,1,0,0,32,10,21,32.3,Matches
-9a93efc9,Cenk Özkacar,tr TUR,DF,Valencia,22-187,2000,10.7,1,0,0,4,6,0,1,8,13,0,0,0,83,35,25,58.3,Matches
-97852360,Fernando Pacheco,es ESP,GK,Almería,30-328,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-97852360,Fernando Pacheco,es ESP,GK,Espanyol,30-328,1992,7.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,100.0,Matches
-44150beb,Jon Pacheco,es ESP,DF,Real Sociedad,22-093,2001,9.5,2,0,0,11,7,1,0,6,9,0,1,0,38,19,18,51.4,Matches
-962e54cb,Gonçalo Paciência,pt POR,"FW,MF",Celta Vigo,28-253,1994,4.9,2,1,0,11,12,0,4,0,4,0,0,0,15,18,18,50.0,Matches
-ac8b2421,Helibelton Palacios,co COL,DF,Elche,29-304,1993,19.8,6,0,0,29,18,0,16,18,18,0,0,0,111,21,24,46.7,Matches
-49dbab27,Isaac Palazón Camacho,es ESP,"FW,MF",Rayo Vallecano,28-105,1994,23.8,4,0,0,27,73,7,131,12,23,0,0,0,139,24,64,27.3,Matches
-b906757a,Aitor Paredes,es ESP,DF,Athletic Club,22-347,2000,2.7,1,0,0,5,2,0,0,7,2,0,0,0,18,2,3,40.0,Matches
-7460ca0d,Daniel Parejo,es ESP,MF,Villarreal,33-360,1989,27.5,3,0,0,21,54,0,127,21,32,0,0,0,199,13,14,48.1,Matches
-e2dcc60e,Moises Parra Gutierrez,es ESP,FW,Getafe,20-291,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-647d39d2,Raúl Parra,es ESP,DF,Cádiz,23-136,1999,2.1,1,0,0,4,1,0,4,1,1,0,0,0,10,0,0,,Matches
-881ef58c,Javier Pastore,ar ARG,MF,Elche,33-295,1989,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches
-b7ca5c51,Gabriel Paulista,br BRA,DF,Valencia,32-136,1990,9.7,2,1,0,9,9,0,0,15,5,0,1,0,46,29,12,70.7,Matches
-63f04c6c,Alfonso Pedraza,es ESP,DF,Villarreal,27-002,1996,12.8,2,0,0,14,14,2,49,11,20,0,0,0,56,11,9,55.0,Matches
-0d9b2d31,Pedri,es ESP,MF,Barcelona,20-137,2002,18.1,2,0,0,8,36,3,21,11,20,0,0,0,114,1,2,33.3,Matches
-1f079188,Rubén Peña,es ESP,"DF,MF",Osasuna,31-267,1991,7.5,1,1,0,16,4,0,32,8,8,0,0,0,49,10,11,47.6,Matches
-5496cc91,Alberto Perea,es ESP,MF,Cádiz,32-113,1990,0.5,0,0,0,0,2,0,1,0,0,0,0,0,2,0,2,0.0,Matches
-819aa8e7,Ayoze Pérez,es ESP,"FW,MF",Betis,29-256,1993,6.3,2,0,0,15,9,2,1,4,8,2,0,0,18,4,12,25.0,Matches
-a8f21b9f,Carles Pérez,es ESP,"MF,FW",Celta Vigo,25-054,1998,16.8,5,0,0,28,23,5,20,5,15,1,0,0,80,5,26,16.1,Matches
-3d79a68c,Francisco Perez,es ESP,"FW,MF",Valencia,20-214,2002,1.6,2,0,0,4,3,3,8,0,1,0,0,0,12,0,2,0.0,Matches
-237a3851,Kike Pérez,es ESP,MF,Valladolid,26-056,1997,19.2,5,0,0,36,43,3,47,15,20,0,0,0,135,25,23,52.1,Matches
-a300ac7e,Lucas Pérez,es ESP,FW,Cádiz,34-213,1988,7.0,3,0,0,5,4,6,40,1,2,0,0,0,21,2,8,20.0,Matches
-b7c04927,Luis Pérez,es ESP,DF,Valladolid,28-066,1995,10.3,2,0,0,8,11,2,39,15,20,0,0,0,41,4,14,22.2,Matches
-8c725b43,Germán Pezzella,ar ARG,DF,Betis,31-288,1991,21.0,2,2,0,18,12,1,2,39,21,0,0,0,87,54,23,70.1,Matches
-64ba07c0,Ronaël Pierre-Gabriel,fr FRA,DF,Espanyol,24-302,1998,1.8,2,1,1,3,3,0,7,7,6,0,0,0,12,4,2,66.7,Matches
-540ec57b,Yeremi Pino,es ESP,"FW,MF",Villarreal,20-173,2002,19.1,5,0,0,49,41,12,17,13,28,0,0,0,73,19,31,38.0,Matches
-adfc9123,Gerard Piqué,es ESP,DF,Barcelona,36-068,1987,4.3,2,1,0,7,2,0,0,2,4,0,0,0,26,20,6,76.9,Matches
-7c388b20,Óscar Plano,es ESP,"FW,MF",Valladolid,32-059,1991,20.5,3,0,0,20,46,4,22,28,23,1,0,0,97,31,42,42.5,Matches
-54bcdeb0,Gonzalo Plata,ec ECU,"FW,MF",Valladolid,22-161,2000,17.4,0,0,0,11,28,2,32,7,24,1,0,0,87,13,34,27.7,Matches
-ccbbe661,Ezequiel Ponce,ar ARG,"FW,MF",Elche,26-013,1997,11.6,2,0,0,28,9,7,1,1,6,1,0,0,35,34,40,45.9,Matches
-8e010ff4,Francisco Portillo,es ESP,"MF,FW",Almería,32-302,1990,4.6,1,0,0,1,2,1,7,5,4,0,0,0,36,3,4,42.9,Matches
-1bda5842,Portu,es ESP,"DF,MF",Getafe,30-325,1992,14.1,5,1,1,19,17,6,65,15,14,0,0,0,66,13,24,35.1,Matches
-fc8b614b,José Pozo,es ESP,"MF,FW",Rayo Vallecano,27-027,1996,0.9,0,0,0,2,3,0,3,1,2,0,0,0,5,2,2,50.0,Matches
-35440884,Manuel Pozo,es ESP,FW,Valladolid,21-120,2001,0.2,0,0,0,0,0,0,1,2,0,0,0,0,4,0,0,,Matches
-3c16d927,Alejandro Pozo Pozo,es ESP,"DF,MF",Almería,24-048,1999,14.0,0,0,0,7,10,1,54,19,14,0,1,0,94,6,14,30.0,Matches
-d1b060e2,Abdón Prats,es ESP,"FW,MF",Mallorca,30-125,1992,3.1,1,0,0,5,6,1,0,0,0,0,0,0,7,6,27,18.2,Matches
-2683eda7,Javi Puado,es ESP,"FW,MF",Espanyol,24-321,1998,18.7,3,0,0,10,16,4,20,9,6,0,0,0,100,14,29,32.6,Matches
-39352da2,Arnau Puigmal,es ESP,"MF,DF",Almería,22-091,2001,5.8,4,0,0,7,8,1,13,9,8,0,1,0,22,3,5,37.5,Matches
-41fb0f4e,Domingos Quina,pt POR,MF,Elche,23-144,1999,3.1,3,1,1,5,11,0,6,3,2,0,0,0,27,0,1,0.0,Matches
-b857bd29,Antonio Raillo,es ESP,DF,Mallorca,31-185,1991,27.0,9,0,0,38,19,3,0,26,21,1,0,0,123,78,45,63.4,Matches
-58ad9383,Predrag Rajković,rs SRB,GK,Mallorca,27-162,1995,28.0,3,0,0,1,3,0,0,0,0,0,1,0,19,1,1,50.0,Matches
-89f951b5,Ivan Rakitić,hr CRO,MF,Sevilla,35-032,1988,14.0,3,1,0,13,22,2,43,18,16,0,0,0,75,16,11,59.3,Matches
-cc9256ef,Largie Ramazani,be BEL,"FW,MF",Almería,22-043,2001,13.6,4,0,0,25,12,11,18,9,7,0,0,0,53,4,16,20.0,Matches
-44e07fac,Chris Ramos,es ESP,"FW,MF",Cádiz,26-083,1997,2.5,1,0,0,10,5,0,2,1,4,0,0,0,11,22,19,53.7,Matches
-3423f250,Raphinha,br BRA,FW,Barcelona,26-118,1996,15.8,6,0,0,12,26,10,127,12,14,0,0,0,71,7,7,50.0,Matches
-3353737a,Sergio Reguilón,es ESP,DF,Atlético Madrid,26-116,1996,1.0,2,1,1,1,3,1,5,1,2,0,0,0,5,3,1,75.0,Matches
-e358587b,Pepe Reina,es ESP,GK,Villarreal,40-223,1982,13.0,2,0,0,0,0,0,0,1,0,0,0,0,11,1,0,100.0,Matches
-6b21b7b5,Reinier,br BRA,"MF,FW",Girona,21-082,2002,3.9,1,1,0,3,10,1,2,2,4,0,0,0,16,2,8,20.0,Matches
-3376a776,Karim Rekik,nl NED,DF,Sevilla,28-130,1994,7.4,1,0,0,13,3,0,1,6,1,0,0,0,34,11,4,73.3,Matches
-374ee424,Álex Remiro,es ESP,GK,Real Sociedad,28-018,1995,28.0,1,0,0,0,2,0,0,0,0,0,0,0,48,4,0,100.0,Matches
-14d5b7ac,Alejandro Revuelta Montero,es ESP,DF,Getafe,22-360,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-b3b9b8b8,Chadi Riad,ma MAR,MF,Barcelona,19-298,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-ce8039aa,Nico Ribaudo,es ESP,"FW,MF",Espanyol,22-000,2001,6.3,3,0,0,17,19,1,8,2,5,0,0,0,29,9,17,34.6,Matches
-d9ba39fc,Diego Rico,es ESP,DF,Real Sociedad,30-047,1993,16.3,3,0,0,26,25,1,50,19,16,0,0,0,89,16,16,50.0,Matches
-65154df0,Rodrigo Riquelme,es ESP,"MF,FW",Girona,23-009,2000,18.5,1,0,0,23,29,5,50,9,7,0,0,0,87,7,12,36.8,Matches
-335fa267,Sergi Roberto,es ESP,"DF,MF",Barcelona,31-063,1992,12.0,3,0,0,17,10,1,20,10,14,0,0,0,54,4,11,26.7,Matches
-a8981944,Lucas Robertone,ar ARG,MF,Almería,26-024,1997,23.3,7,0,0,27,65,3,110,32,21,0,0,0,150,16,31,34.0,Matches
-5f21b94c,Joel Roca,es ESP,"MF,FW",Girona,17-308,2005,0.7,1,0,0,1,4,0,0,0,2,0,0,0,5,0,0,,Matches
-37f827ec,Enzo Roco,cl CHI,DF,Elche,30-238,1992,16.4,6,1,1,31,10,0,1,13,12,0,4,0,71,38,19,66.7,Matches
-85bed4ee,Rodrigo,es ESP,"FW,MF",Betis,22-330,2000,14.1,0,0,0,5,33,2,32,10,8,1,0,0,79,0,9,0.0,Matches
-8cfc2f69,Ángel Rodríguez,es ESP,"FW,MF",Mallorca,35-350,1987,3.0,1,0,0,7,5,2,2,1,1,0,0,0,4,8,3,72.7,Matches
-19709006,Óscar Rodríguez Arnaiz,es ESP,MF,Celta Vigo,24-287,1998,14.5,5,0,0,17,21,1,62,15,21,0,0,0,86,10,15,40.0,Matches
-70f8e0bd,Dani Rodríguez,es ESP,MF,Mallorca,34-309,1988,18.0,7,0,0,38,26,4,24,16,16,0,0,0,100,9,32,22.0,Matches
-34e393f2,Guido Rodríguez,ar ARG,MF,Betis,28-364,1994,21.9,6,0,0,27,42,1,6,27,43,0,0,0,132,28,21,57.1,Matches
-958d67bb,Miguel Rodríguez,es ESP,FW,Celta Vigo,19-347,2003,0.2,0,0,0,1,2,0,0,0,0,0,0,0,3,0,1,0.0,Matches
-8f5e92a6,Rodrygo,br BRA,FW,Real Madrid,22-092,2001,19.4,2,0,0,15,34,6,18,6,6,2,0,0,38,11,17,39.3,Matches
-2fbe6af0,Iván Romero,es ESP,MF,Sevilla,22-001,2001,0.1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
-4b511457,Oriol Romeu,es ESP,MF,Girona,31-199,1991,23.8,7,0,0,46,21,0,12,26,28,0,1,0,144,30,36,45.5,Matches
-35d4f151,Rubén,es ESP,"DF,MF",Espanyol,22-066,2001,8.7,1,0,0,16,6,0,41,16,14,0,0,0,61,13,4,76.5,Matches
-18b896d6,Antonio Rüdiger,de GER,DF,Real Madrid,30-039,1993,18.8,1,0,0,7,4,1,3,13,11,0,0,0,107,26,13,66.7,Matches
-a55d8df5,Aitor Ruibal,es ESP,"DF,FW",Betis,27-020,1996,13.7,3,1,0,20,17,2,24,22,24,0,0,0,82,10,15,40.0,Matches
-b3dc6eca,Víctor Ruiz,es ESP,DF,Betis,34-076,1989,6.2,0,0,0,4,2,1,0,6,3,0,0,0,29,17,7,70.8,Matches
-625c144a,Gerónimo Rulli,ar ARG,GK,Villarreal,30-326,1992,14.0,1,0,0,0,1,0,0,1,0,0,0,0,20,3,0,100.0,Matches
-b75ac54b,Franco Russo,ar ARG,DF,Mallorca,28-168,1994,1.6,0,0,0,0,2,0,0,3,1,0,0,0,12,3,2,60.0,Matches
-fbbb9269,Youssouf Sabaly,sn SEN,DF,Betis,30-037,1993,14.2,1,0,0,15,26,0,14,16,15,0,0,0,86,5,10,33.3,Matches
-686cbe7d,Umar Sadiq,ng NGA,FW,Almería,26-068,1997,2.7,1,0,0,9,2,7,0,0,0,0,0,0,8,4,10,28.6,Matches
-686cbe7d,Umar Sadiq,ng NGA,FW,Real Sociedad,26-068,1997,0.9,0,0,0,3,1,4,0,0,1,0,0,0,1,2,2,50.0,Matches
-13e0eb29,Samuel Sáiz,es ESP,MF,Girona,32-079,1991,2.7,1,0,0,3,4,2,6,0,2,0,0,0,15,2,3,40.0,Matches
-405f267a,Salvi,es ESP,"FW,MF",Rayo Vallecano,32-012,1991,3.6,2,0,0,5,6,2,24,2,5,0,0,0,20,2,4,33.3,Matches
-2a295d33,Samuel,br BRA,"FW,MF",Valencia,23-109,1999,24.9,3,0,0,29,42,13,55,12,30,2,0,0,119,14,28,33.3,Matches
-efecd633,Fede San Emeterio,es ESP,MF,Cádiz,26-026,1997,14.5,8,0,0,40,19,0,3,7,14,0,0,0,54,18,25,41.9,Matches
-bdb624a3,Oihan Sancet,es ESP,MF,Athletic Club,22-351,2000,20.5,3,1,0,32,39,1,10,3,10,0,0,0,110,17,17,50.0,Matches
-a254bbe0,Antonio Sánchez,es ESP,MF,Mallorca,26-100,1997,7.9,4,0,0,19,12,0,18,9,5,1,1,0,58,6,9,40.0,Matches
-70107d4d,Iván Sánchez,es ESP,"MF,FW",Valladolid,30-200,1992,11.8,0,0,0,9,37,1,28,7,14,0,0,0,56,2,12,14.3,Matches
-60359288,Javi Sánchez,es ESP,DF,Valladolid,26-028,1997,20.7,10,0,0,27,4,0,4,37,19,0,1,0,90,37,28,56.9,Matches
-ffacd3d5,Manuel Sánchez,es ESP,DF,Osasuna,22-230,2000,14.5,1,0,0,8,8,0,52,11,24,1,0,0,70,10,7,58.8,Matches
-79f2a5f5,Esteban Saveljich,me MNE,FW,Rayo Vallecano,31-326,1991,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-f6ac68c1,Stefan Savić,me MNE,DF,Atlético Madrid,32-093,1991,19.6,3,2,0,29,8,1,0,31,25,0,0,0,100,52,27,65.8,Matches
-a45eac1f,Haris Seferović,ch SUI,FW,Celta Vigo,31-048,1992,5.3,1,0,0,1,3,4,8,1,2,0,0,0,10,8,8,50.0,Matches
-a62b4888,Jaime Seoane,es ESP,MF,Getafe,26-079,1997,3.4,0,0,0,4,4,0,2,1,4,0,0,0,16,2,3,40.0,Matches
-e2716bd0,David Silva,es ESP,MF,Real Sociedad,37-093,1986,16.3,3,0,0,20,22,3,16,12,12,0,0,0,92,9,11,45.0,Matches
-ea83bfa6,Rui Silva,pt POR,GK,Betis,29-063,1994,22.0,2,0,0,0,2,0,0,0,1,0,0,0,36,3,1,75.0,Matches
-5dcf3e90,Unai Simón,es ESP,GK,Athletic Club,25-304,1997,22.5,2,0,0,0,1,0,0,0,0,0,0,0,27,0,0,,Matches
-19b776e9,Rubén Sobrino,es ESP,"MF,FW",Cádiz,30-314,1992,19.0,9,0,0,39,38,7,9,15,23,0,0,0,113,44,48,47.8,Matches
-5fa714d5,Alex Sola,es ESP,DF,Real Sociedad,23-306,1999,3.9,1,0,0,3,8,0,12,7,9,0,0,0,17,7,3,70.0,Matches
-3ca6106c,Augusto Solari,ar ARG,"MF,FW",Celta Vigo,31-098,1992,2.4,0,0,0,7,3,0,2,4,5,0,0,0,16,4,3,57.1,Matches
-fed17f5a,Carlos Soler,es ESP,MF,Valencia,26-099,1997,2.7,0,0,0,2,4,0,16,0,0,0,0,0,4,1,1,50.0,Matches
-8f8c6934,David Soria,es ESP,GK,Getafe,30-007,1993,28.0,1,0,0,1,2,0,0,1,0,0,0,0,31,4,0,100.0,Matches
-3aa74860,Hugo Sotelo,es ESP,MF,Celta Vigo,19-113,2003,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
-e4738e91,Dyego Sousa,pt POR,FW,Almería,33-209,1989,4.1,1,0,0,7,7,3,1,1,2,0,0,0,13,15,11,57.7,Matches
-6a8a7af8,Vinicius Souza,br BRA,MF,Espanyol,23-298,1999,23.6,7,1,1,58,34,0,4,42,57,0,1,0,135,64,57,52.9,Matches
-f553b2b3,Jørgen Strand Larsen,no NOR,FW,Celta Vigo,23-064,2000,14.3,4,0,0,30,33,11,0,2,5,1,0,0,27,35,33,51.5,Matches
-220c11f1,Cristhian Stuani,uy URU,FW,Girona,36-181,1986,8.3,7,0,0,26,17,5,2,1,3,0,0,0,18,9,15,37.5,Matches
-ba5004e1,Damián Suárez,uy URU,"DF,MF",Getafe,34-349,1988,13.9,3,0,0,25,8,2,59,11,22,0,0,0,82,10,7,58.8,Matches
-12c50af5,Denis Suárez,es ESP,MF,Espanyol,29-095,1994,4.5,1,0,0,9,6,0,14,2,5,0,0,0,23,2,6,25.0,Matches
-7106f0a0,Mario Suárez,es ESP,"DF,MF",Rayo Vallecano,36-046,1987,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-4e219ad2,Suso,es ESP,"MF,FW",Sevilla,29-143,1993,7.7,1,0,0,5,14,6,49,1,7,0,0,0,32,0,4,0.0,Matches
-184fe4b2,Williot Swedberg,se SWE,MF,Celta Vigo,19-069,2004,0.4,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,,Matches
-e92cd3f7,Alexander Sørloth,no NOR,FW,Real Sociedad,27-127,1995,19.4,4,0,0,28,9,14,3,2,8,0,0,0,52,39,32,54.9,Matches
-34269bdf,Renato Tapia,pe PER,"MF,DF",Celta Vigo,27-257,1995,10.1,5,1,1,17,13,0,6,11,15,0,1,0,50,19,11,63.3,Matches
-4f255115,Aurélien Tchouaméni,fr FRA,MF,Real Madrid,23-074,2000,15.8,1,0,0,26,22,0,7,30,28,0,0,0,81,35,16,68.6,Matches
-e73c9bb2,Alex Telles,br BRA,DF,Sevilla,30-117,1992,11.3,5,0,0,20,10,1,65,15,8,1,0,0,51,16,14,53.3,Matches
-6f51e382,Marc-André ter Stegen,de GER,GK,Barcelona,30-346,1992,28.0,0,0,0,0,1,0,0,1,0,0,0,0,46,4,1,80.0,Matches
-f36016a5,Ramón Terrats,es ESP,MF,Villarreal,22-175,2000,4.4,1,0,0,9,11,0,10,2,4,0,0,0,18,5,4,55.6,Matches
-f36016a5,Ramón Terrats,es ESP,MF,Girona,22-175,2000,2.4,0,0,0,3,3,0,2,3,2,0,0,0,9,0,7,0.0,Matches
-02ef8778,Raúl de Tomás,es ESP,FW,Rayo Vallecano,28-176,1994,3.6,1,0,0,10,9,9,2,0,0,0,0,0,6,8,14,36.4,Matches
-04e531b6,Pablo Torre,es ESP,"MF,FW",Barcelona,20-008,2003,0.5,0,0,0,2,0,0,2,1,0,0,0,0,2,1,0,100.0,Matches
-381dbcfc,David Torres,es ESP,DF,Valladolid,20-037,2003,1.5,0,0,0,2,1,0,1,2,1,0,0,0,5,2,2,50.0,Matches
-9e1035f8,Ferrán Torres,es ESP,FW,Barcelona,23-041,2000,12.4,4,1,0,14,22,7,54,2,4,0,0,0,48,7,8,46.7,Matches
-58a9a4d9,Óliver Torres,es ESP,"MF,FW",Sevilla,28-152,1994,19.1,1,0,0,15,37,6,47,9,20,0,0,0,112,5,15,25.0,Matches
-532e1e4f,Pau Torres,es ESP,DF,Villarreal,26-085,1997,24.9,9,0,0,17,15,0,4,9,16,2,0,1,151,37,38,49.3,Matches
-d733aa38,Roberto Torres,es ESP,"FW,MF",Osasuna,34-035,1989,0.1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,,Matches
-0e4fef6e,Lucas Torró,es ESP,MF,Osasuna,28-266,1994,21.9,9,0,0,55,26,0,1,34,28,0,0,0,141,59,41,59.0,Matches
-e96b2583,Nabil Touaizi,ma MAR,MF,Espanyol,22-069,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
-fc647b34,Óscar Trejo,ar ARG,"MF,FW",Rayo Vallecano,34-350,1988,18.7,8,0,0,62,54,4,27,6,26,0,0,0,105,9,31,22.5,Matches
-963829d0,Manu Trigueros,es ESP,MF,Villarreal,31-176,1991,6.9,2,1,0,9,9,1,2,3,8,0,0,0,25,3,10,23.1,Matches
-f7e87032,Viktor Tsyhankov,ua UKR,MF,Girona,25-147,1997,6.8,0,0,0,6,10,1,16,7,1,0,0,0,33,4,8,33.3,Matches
-068f4dec,Beñat Turrientes,es ESP,"MF,FW",Real Sociedad,21-070,2002,1.2,0,0,0,2,1,0,4,0,3,0,0,0,7,0,2,0.0,Matches
-f8eca1b6,Enes Ünal,tr TUR,FW,Getafe,25-336,1997,27.1,4,0,0,42,63,23,14,4,12,1,0,0,76,110,135,44.9,Matches
-2dd7e29d,Oscar Ureña,es ESP,MF,Girona,20-100,2003,1.1,0,0,0,2,1,0,4,1,2,0,0,0,3,0,1,0.0,Matches
-592f3158,Óscar Valentín,es ESP,MF,Rayo Vallecano,28-234,1994,20.4,8,0,0,57,34,1,3,32,37,0,0,0,144,24,32,42.9,Matches
-4acd733a,Valery,es ESP,"MF,DF",Girona,23-139,1999,7.5,1,0,0,3,10,3,15,8,6,1,1,0,37,6,3,66.7,Matches
-0a69de7b,Enrique Valiente,es ESP,DF,Sevilla,20-353,2002,4.1,1,1,0,4,1,0,0,5,1,0,1,0,14,9,6,60.0,Matches
-f2c6ac01,Martin Valjent,sk SVK,DF,Mallorca,27-121,1995,20.5,8,0,0,24,6,0,6,19,14,0,1,0,74,20,13,60.6,Matches
-c2111b45,Jesús Vallejo,es ESP,DF,Real Madrid,26-096,1997,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-0bc4e720,Manu Vallejo,es ESP,"FW,MF",Girona,26-056,1997,2.3,0,0,0,1,6,1,7,1,1,2,0,0,8,0,5,0.0,Matches
-0959c2a2,Federico Valverde,uy URU,"FW,MF",Real Madrid,24-263,1998,22.9,2,0,0,10,14,3,23,16,19,0,0,0,109,26,11,70.3,Matches
-106c142c,Jesus Vazquez,es ESP,"DF,MF",Valencia,20-099,2003,3.1,1,0,0,3,4,0,10,1,8,0,0,0,19,2,4,33.3,Matches
-ee923664,Kevin Vázquez,es ESP,"DF,MF",Celta Vigo,30-019,1993,2.0,0,0,0,5,1,0,3,0,3,0,0,0,15,0,3,0.0,Matches
-fd51b456,Lucas Vázquez,es ESP,DF,Real Madrid,31-284,1991,7.5,1,0,0,13,8,2,22,6,17,0,0,0,37,1,5,16.7,Matches
-35a6e5c7,Gabriel Veiga,es ESP,MF,Celta Vigo,20-319,2002,17.6,5,1,0,30,21,3,21,14,15,0,0,0,94,14,10,58.3,Matches
-4112ace5,Unai Vencedor Paris,es ESP,MF,Athletic Club,22-147,2000,1.7,2,0,0,9,2,0,2,1,1,0,0,0,13,1,0,100.0,Matches
-1c2c55fc,Gonzalo Verdú,es ESP,DF,Elche,34-172,1988,6.7,1,2,0,9,4,0,0,10,3,0,0,0,29,19,12,61.3,Matches
-b0fce72c,Mikel Vesga,es ESP,MF,Athletic Club,29-325,1993,21.6,4,0,0,37,17,0,9,28,23,1,0,1,165,49,35,58.3,Matches
-04965583,Aleix Vidal,es ESP,"FW,MF",Espanyol,33-233,1989,10.5,6,1,1,20,16,1,27,14,5,0,0,0,57,2,7,22.2,Matches
-3a9c4b7b,Nacho Vidal,es ESP,DF,Osasuna,28-077,1995,12.1,4,0,0,27,15,0,28,19,14,0,0,0,55,27,11,71.1,Matches
-636eae97,Toni Villa,es ESP,MF,Valladolid,28-094,1995,1.0,0,0,0,0,1,1,5,0,3,0,0,0,6,0,0,,Matches
-636eae97,Toni Villa,es ESP,"MF,FW",Girona,28-094,1995,9.3,2,0,0,10,18,7,24,7,18,0,0,0,48,1,5,16.7,Matches
-57be54ec,Asier Villalibre,es ESP,FW,Athletic Club,25-193,1997,1.1,0,0,0,3,1,0,0,0,0,0,0,0,2,2,2,50.0,Matches
-bdc74a8f,Gonzalo Villar,es ESP,"MF,FW",Getafe,25-019,1998,2.8,3,0,0,13,5,0,1,4,4,0,0,0,28,3,4,42.9,Matches
-cde52ef5,Iván Villar,es ESP,GK,Celta Vigo,25-276,1997,9.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0.0,Matches
-ab7bf91d,Daniel Vivian,es ESP,DF,Athletic Club,23-270,1999,19.1,4,0,0,26,12,1,5,22,20,0,0,0,150,30,44,40.5,Matches
-379dc075,Shon Weissman,il ISR,FW,Valladolid,27-056,1996,8.3,1,0,0,5,8,7,2,1,1,0,0,0,24,4,23,14.8,Matches
-6a99e0b1,Iñaki Williams,gh GHA,FW,Athletic Club,28-300,1994,22.6,1,0,0,22,20,19,69,5,12,0,0,0,57,23,27,46.0,Matches
-afdc14d7,Nico Williams,es ESP,FW,Athletic Club,20-273,2002,22.7,1,0,0,17,25,12,129,6,12,1,0,0,113,11,20,35.5,Matches
-5dfc6ad5,Axel Witsel,be BEL,"DF,MF",Atlético Madrid,34-089,1989,15.7,2,0,0,10,10,0,2,15,10,0,0,0,78,23,19,54.8,Matches
-f6f6b6e8,Jawad El Yamiq,ma MAR,DF,Valladolid,31-041,1992,11.7,0,1,0,6,4,0,0,24,9,0,0,0,77,30,14,68.2,Matches
-5ca20b7a,Joseba Zaldúa,es ESP,DF,Cádiz,30-291,1992,7.1,4,0,0,11,4,2,12,11,8,0,0,0,23,19,12,61.3,Matches
-968a1c2f,Oier Zarraga,es ESP,MF,Athletic Club,24-097,1999,7.5,4,0,0,12,11,0,22,6,7,0,0,0,44,9,10,47.4,Matches
-5c7845f6,Igor Zubeldia,es ESP,DF,Real Sociedad,26-012,1997,20.0,6,0,0,34,10,1,3,16,14,0,0,1,110,48,35,57.8,Matches
-3ee0dd59,Martín Zubimendi,es ESP,MF,Real Sociedad,24-068,1999,24.8,10,0,0,38,26,1,3,21,23,0,1,0,168,47,23,67.1,Matches
+7f9c5d2d,Abner,br BRA,DF,Betis,22-325,2000,4.4,2,0,0,7,2,0,6,6,8,0,1,0,26,5,9,35.7,Matches
+be6faae0,Álvaro Aceves,es ESP,GK,Valladolid,19-265,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,50.0,Matches
+81442ecb,Marcos Acuña,ar ARG,DF,Sevilla,31-171,1991,16.7,8,2,0,26,30,1,110,19,29,0,1,0,114,27,15,64.3,Matches
+a2c1a8d3,Julen Agirrezabala,es ESP,GK,Athletic Club,22-112,2000,5.5,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,,Matches
+014aa7bd,Álvaro Aguado,es ESP,MF,Valladolid,26-351,1996,15.3,3,0,0,8,20,0,38,9,11,0,1,0,88,12,14,46.2,Matches
+18abe173,Joseph Aidoo,gh GHA,DF,Celta Vigo,27-200,1995,27.8,4,0,0,16,10,0,0,24,30,0,1,0,173,48,47,50.5,Matches
+06efa9dc,Sergio Akieme,es ESP,DF,Almería,25-122,1997,23.5,5,0,0,18,15,0,68,13,16,0,0,0,115,14,13,51.9,Matches
+31f5b89b,Paul Akouokou,ci CIV,MF,Betis,25-118,1997,3.2,2,0,0,6,3,0,0,6,6,0,0,0,19,2,6,25.0,Matches
+05439de2,David Alaba,at AUT,DF,Real Madrid,30-297,1992,18.4,3,0,0,8,3,0,26,14,11,0,1,0,80,8,8,50.0,Matches
+455c26a4,Ángel Alarcón,es ESP,"MF,FW",Barcelona,18-337,2004,0.3,0,0,0,2,1,0,1,0,0,0,0,0,1,0,1,0.0,Matches
+99ea2ddd,Tomás Alarcón,cl CHI,MF,Cádiz,24-088,1999,2.5,2,1,1,4,3,0,6,2,2,0,0,0,14,3,1,75.0,Matches
+4601e194,Jordi Alba,es ESP,DF,Barcelona,34-027,1989,13.0,4,1,1,8,3,10,72,10,14,0,0,0,95,7,15,31.8,Matches
+4bd414c1,Raúl Albiol,es ESP,DF,Villarreal,37-225,1985,22.5,6,0,0,17,13,1,1,14,17,0,0,0,103,37,23,61.7,Matches
+036bba5f,Rubén Alcaraz,es ESP,MF,Cádiz,31-351,1991,17.0,9,1,1,31,23,0,35,15,24,0,0,0,126,23,19,54.8,Matches
+bb08bce9,Omar Alderete,py PAR,DF,Getafe,26-112,1996,15.0,6,0,0,25,8,0,7,20,14,0,0,0,89,42,21,66.7,Matches
+3d7e48ce,Iván Alejo,es ESP,"MF,FW",Cádiz,28-066,1995,10.4,10,1,1,31,29,1,68,2,19,0,1,0,49,15,14,51.7,Matches
+6c811eb7,Carles Aleñá,es ESP,MF,Getafe,25-102,1998,18.2,10,1,1,46,41,3,27,4,10,0,0,0,92,12,26,31.6,Matches
+b907d169,Alejandro Alfaro,es ESP,MF,Elche,20-306,2002,0.2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,Matches
+acc1aefa,Ángel Algobia,es ESP,MF,Getafe,23-298,1999,11.9,3,0,0,28,9,0,11,3,13,0,0,0,65,7,20,25.9,Matches
+f8405304,Mohamed Ali Cho,fr FRA,FW,Real Sociedad,19-088,2004,4.6,1,0,0,7,8,3,22,2,4,1,0,0,23,2,13,13.3,Matches
+e6697917,Domingos André Ribeiro Almeida,pt POR,MF,Valencia,22-322,2000,20.6,2,0,0,23,32,0,74,14,32,0,0,0,119,12,25,32.4,Matches
+f4290206,Marcos Alonso,es ESP,DF,Barcelona,32-110,1990,8.6,1,0,0,7,4,0,11,10,7,0,1,0,46,16,9,64.0,Matches
+629081bd,Carlos Álvarez,es ESP,FW,Sevilla,19-254,2003,0.1,1,0,0,1,0,0,0,0,1,,,0,,,,,Matches
+852ddfb8,Gastón Álvarez,uy URU,DF,Getafe,23-024,2000,10.1,5,1,0,18,9,0,12,10,16,0,1,0,34,22,19,53.7,Matches
+3ecc11d8,Yeray Álvarez,es ESP,DF,Athletic Club,28-083,1995,22.2,6,1,0,19,19,1,9,40,19,0,1,0,156,43,35,55.1,Matches
+00eba9c9,Selim Amallah,ma MAR,"MF,FW",Valladolid,26-153,1996,1.7,1,1,0,6,5,1,1,2,6,0,0,0,9,5,8,38.5,Matches
+f3b1d9a2,Amath,sn SEN,"MF,FW",Mallorca,26-275,1996,7.4,2,0,0,21,10,3,8,3,13,1,0,0,38,3,5,37.5,Matches
+22721b88,Jordan Amavi,fr FRA,DF,Getafe,29-039,1994,2.1,2,1,1,2,2,1,6,4,2,0,0,0,15,8,3,72.7,Matches
+fdd26d71,Fabrizio Angileri,ar ARG,DF,Getafe,29-033,1994,6.0,2,1,0,7,1,0,10,6,8,0,1,0,17,16,9,64.0,Matches
+c93231dc,Anuar,ma MAR,"MF,FW",Valladolid,28-092,1995,2.3,1,0,0,3,6,1,1,3,4,0,0,0,10,2,5,28.6,Matches
+58afe001,Mauro Arambarri,uy URU,MF,Getafe,27-199,1995,9.2,4,1,1,19,11,0,39,12,6,0,0,1,52,13,10,56.5,Matches
+2bef2bca,Ronald Araújo,uy URU,DF,Barcelona,24-041,1999,15.3,5,1,0,12,9,1,4,10,15,0,0,1,70,37,19,66.1,Matches
+1e465e70,Sergio Arribas,es ESP,FW,Real Madrid,21-199,2001,0.1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
+6091cf45,Roberto Arroyo,es ESP,MF,Valladolid,19-235,2003,0.2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,Matches
+5d133e96,Ricard Artero,es ESP,FW,Girona,20-071,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+759d8dd7,Santiago Arzamendia,py PAR,"DF,MF",Cádiz,24-347,1998,4.3,0,0,0,4,2,0,8,1,6,0,0,0,37,5,6,45.5,Matches
+9f0ea33f,Sergio Asenjo,es ESP,GK,Valladolid,33-293,1989,10.0,0,0,0,0,4,0,0,0,0,0,0,0,22,0,0,,Matches
+45af8a54,Marco Asensio,es ESP,"FW,MF",Real Madrid,27-086,1996,10.8,1,0,0,10,11,3,54,4,9,1,1,0,31,3,1,75.0,Matches
+7dcf86f6,Iago Aspas,es ESP,FW,Celta Vigo,35-259,1987,26.4,5,0,0,14,52,9,31,6,2,0,0,0,87,25,36,41.0,Matches
+d5dd5f1f,Pierre-Emerick Aubameyang,ga GAB,FW,Barcelona,33-303,1989,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+9fec8860,Ludwig Augustinsson,se SWE,DF,Mallorca,28-361,1994,1.3,0,0,0,1,1,0,6,1,0,0,0,0,12,3,1,75.0,Matches
+253a06b9,Ezequiel Ávila,ar ARG,"FW,MF",Osasuna,29-070,1994,16.3,7,1,0,22,33,12,75,6,4,0,0,0,51,32,41,43.8,Matches
+bfd381b3,Iddrisu Baba,gh GHA,MF,Mallorca,27-085,1996,13.7,5,0,0,27,23,0,0,8,14,0,0,0,98,23,18,56.1,Matches
+075fe5a3,Srđan Babić,rs SRB,DF,Almería,26-360,1996,25.5,4,0,0,21,5,0,2,22,11,0,0,0,99,44,32,57.9,Matches
+114bbdee,Loïc Bade,fr FRA,DF,Sevilla,23-006,2000,10.0,3,0,0,7,4,0,4,15,11,0,0,0,61,19,18,51.4,Matches
+e4346678,Édgar Badía,es ESP,GK,Elche,31-064,1992,28.0,2,0,0,1,4,0,0,0,0,0,1,0,27,5,0,100.0,Matches
+518f2234,Alex Baena,es ESP,"MF,FW",Villarreal,21-271,2001,16.9,12,1,1,47,49,1,18,5,12,1,1,0,77,1,21,4.5,Matches
+5ccc9672,Alejandro Balde,es ESP,DF,Barcelona,19-181,2003,20.4,3,0,0,19,19,5,49,10,22,0,0,0,112,12,13,48.0,Matches
+1fe67e86,Mikel Balenziaga,es ESP,DF,Athletic Club,35-047,1988,1.3,0,0,0,3,0,0,3,1,4,0,0,0,6,0,0,,Matches
+cee88597,Iván Balliu,al ALB,DF,Rayo Vallecano,31-106,1992,27.2,6,0,0,34,23,5,87,20,24,0,2,2,114,22,29,43.1,Matches
+35f6db55,Léo Baptistão,br BRA,"FW,MF",Almería,30-234,1992,16.1,7,0,0,28,17,9,13,17,17,0,0,0,86,20,34,37.0,Matches
+03049c8c,Keidi Bare,al ALB,MF,Espanyol,25-232,1997,3.9,0,0,0,9,7,0,4,11,3,0,0,0,18,4,9,30.8,Matches
+aad53e64,Kike Barja,es ESP,"FW,MF",Osasuna,26-016,1997,9.9,1,0,0,13,12,5,90,4,4,0,0,0,50,7,5,58.3,Matches
+200e89e1,Ander Barrenetxea,es ESP,"DF,FW",Real Sociedad,21-111,2001,5.4,3,0,0,14,7,0,6,4,11,0,0,0,47,7,11,38.9,Matches
+45736cec,Pablo Barrios,es ESP,MF,Atlético Madrid,19-306,2003,5.5,2,0,0,5,8,0,6,8,8,0,0,0,42,5,6,45.5,Matches
+d637fc22,Rodrigo Battaglia,ar ARG,MF,Mallorca,31-279,1991,7.6,5,0,0,11,11,0,1,5,5,0,2,0,29,11,8,57.9,Matches
+d8712bf9,Bebé,cv CPV,FW,Rayo Vallecano,32-279,1990,0.7,1,0,0,2,2,0,16,0,0,0,0,0,6,0,1,0.0,Matches
+f874dd44,Héctor Bellerín,es ESP,DF,Barcelona,28-029,1995,1.6,0,0,0,2,0,0,3,3,0,0,0,0,10,3,0,100.0,Matches
+ed5c5fa3,Fran Beltrán,es ESP,MF,Celta Vigo,24-073,1999,25.2,4,0,0,21,11,2,33,41,18,0,0,0,152,13,39,25.0,Matches
+50cbc806,Iker Benito,es ESP,FW,Osasuna,20-250,2002,0.1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,,Matches
+70d74ece,Karim Benzema,fr FRA,FW,Real Madrid,35-119,1987,17.8,1,0,0,9,5,18,2,1,5,2,0,0,29,11,10,52.4,Matches
+b6e50615,Yuri Berchiche,es ESP,DF,Athletic Club,33-066,1990,17.7,7,1,1,23,23,3,52,28,21,0,0,0,105,37,18,67.3,Matches
+dc1c2fce,Álex Berenguer,es ESP,FW,Athletic Club,27-287,1995,19.7,0,0,0,35,21,15,99,8,28,0,0,0,92,30,32,48.4,Matches
+697295b1,Pedro Bigas,es ESP,DF,Elche,32-214,1990,19.0,3,2,0,13,14,0,5,30,19,1,1,0,115,33,13,71.7,Matches
+47c609d5,El Bilal Touré,ml MLI,FW,Almería,21-196,2001,13.0,0,0,0,25,5,13,4,1,3,0,0,0,42,41,42,49.4,Matches
+506daeac,Blanco,es ESP,MF,Cádiz,22-268,2000,1.8,0,0,0,2,1,0,0,1,4,0,0,0,7,3,0,100.0,Matches
+1657f448,Lautaro Blanco,ar ARG,"MF,DF",Elche,24-057,1999,4.4,1,0,0,2,0,1,38,1,4,0,0,0,25,0,3,0.0,Matches
+0da6a13e,Theo Bongonda,cd COD,MF,Cádiz,27-148,1995,15.2,0,0,0,8,27,4,56,5,15,0,0,0,64,12,12,50.0,Matches
+7f271d74,Wassim Boullif,es ESP,"DF,MF",Espanyol,18-073,2005,1.0,0,0,0,1,0,0,0,0,1,0,0,0,3,0,3,0.0,Matches
+f6798fc3,Yassine Bounou,ma MAR,GK,Sevilla,32-012,1991,22.9,2,0,0,0,1,0,0,2,1,0,0,0,34,4,2,66.7,Matches
+d49f3e6b,Lucas Boyé,ar ARG,FW,Elche,27-048,1996,20.6,7,1,0,52,35,12,11,12,14,0,0,0,82,29,48,37.7,Matches
+fd771f95,Martin Braithwaite,dk DEN,"FW,MF",Espanyol,31-316,1991,22.1,4,1,0,18,32,12,17,5,2,0,0,0,46,43,53,44.8,Matches
+2475cf9b,Juan Brandáriz,es ESP,DF,Almería,24-046,1999,13.3,5,0,0,9,3,0,6,15,13,0,0,0,65,11,5,68.8,Matches
+4accb7e0,Darko Brašanac,rs SRB,MF,Osasuna,31-064,1992,11.6,5,0,0,16,14,3,7,12,20,0,1,0,50,15,15,50.0,Matches
+10072610,Claudio Bravo,cl CHI,GK,Betis,40-004,1983,6.0,1,0,0,0,0,0,0,1,0,0,0,0,9,0,0,,Matches
+7b5ab7f2,Bryan,es ESP,"DF,FW",Sevilla,22-065,2001,6.3,2,0,0,10,11,1,13,4,7,0,0,0,41,2,6,25.0,Matches
+8f3565b3,Ante Budimir,hr CRO,FW,Osasuna,31-269,1991,14.6,3,0,0,37,18,7,2,3,5,1,0,0,29,71,77,48.0,Matches
+edc98fac,Santiago Bueno,uy URU,DF,Girona,24-159,1998,27.9,7,1,1,29,33,2,4,27,29,2,0,0,122,63,35,64.3,Matches
+5ab0ea87,Sergio Busquets,es ESP,MF,Barcelona,34-275,1988,20.3,6,1,1,25,38,0,6,22,25,0,0,0,149,45,40,52.9,Matches
+69cbc8b6,Leandro Cabrera,uy URU,DF,Espanyol,31-304,1991,22.8,8,2,1,25,12,1,8,33,19,0,1,1,113,53,32,62.4,Matches
+fe05804b,Cala,es ESP,DF,Cádiz,33-142,1989,1.5,0,0,0,1,5,0,0,1,1,0,0,0,3,3,4,42.9,Matches
+41b3069f,Fernando Calero,es ESP,"DF,MF",Espanyol,27-215,1995,13.8,5,0,0,16,7,1,4,9,19,0,0,0,70,24,18,57.1,Matches
+af34f10d,Alexander Callens,pe PER,DF,Girona,30-348,1992,0.6,0,0,0,1,0,0,0,1,2,0,0,0,4,0,0,,Matches
+7b9c2d84,Eduardo Camavinga,fr FRA,"MF,DF",Real Madrid,20-158,2002,16.4,4,0,0,25,50,3,5,10,34,0,0,0,96,19,10,65.5,Matches
+873619c6,Sergio Camello,es ESP,FW,Rayo Vallecano,22-066,2001,22.5,1,0,0,10,17,10,3,2,8,0,0,0,46,23,41,35.9,Matches
+a6de370d,Sergio Canales,es ESP,"FW,MF",Betis,32-060,1991,18.6,4,2,1,9,25,3,93,9,11,0,0,0,88,9,12,42.9,Matches
+37f1cf47,Ander Capa,es ESP,DF,Athletic Club,31-068,1992,1.1,1,0,0,4,0,0,3,0,1,0,0,0,10,4,0,100.0,Matches
+5acc4a10,Étienne Capoue,fr FRA,MF,Villarreal,34-280,1988,16.6,1,0,0,12,30,0,8,14,10,0,0,0,81,22,16,57.9,Matches
+c4b888df,Isaac Carcelen,es ESP,DF,Cádiz,29-359,1993,16.7,2,3,0,13,17,1,32,14,43,0,1,0,97,13,20,39.4,Matches
+688b96e3,Juan Carlos,es ESP,GK,Girona,35-087,1988,10.0,0,0,0,0,0,0,0,1,0,0,0,0,16,1,0,100.0,Matches
+5b93209a,José Carlos Lazo,es ESP,"MF,FW",Almería,27-060,1996,0.2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,,Matches
+5b93209a,José Carlos Lazo,es ESP,"MF,FW",Espanyol,27-060,1996,1.8,0,0,0,2,5,0,4,3,3,0,0,0,9,0,3,0.0,Matches
+2dce876a,Carmona,es ESP,"MF,DF",Elche,21-078,2002,6.5,5,1,1,19,7,2,12,8,9,0,0,0,44,6,11,35.3,Matches
+2dce876a,Carmona,es ESP,DF,Sevilla,21-078,2002,5.9,6,1,1,14,6,0,11,7,11,0,0,0,34,3,8,27.3,Matches
+de39485a,Yannick Carrasco,be BEL,"DF,MF",Atlético Madrid,29-225,1993,18.3,1,0,0,19,13,4,72,12,14,0,0,0,92,4,4,50.0,Matches
+4958bfb2,Dani Carvajal,es ESP,DF,Real Madrid,31-096,1992,16.1,4,0,0,15,12,4,40,13,16,0,1,0,94,7,9,43.8,Matches
+dee86451,William Carvalho,pt POR,MF,Betis,31-010,1992,20.7,6,1,0,23,29,1,3,10,20,0,0,0,115,27,20,57.4,Matches
+4d224fe8,Casemiro,br BRA,MF,Real Madrid,31-053,1992,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches
+da76bab4,Valentín Castellanos,ar ARG,FW,Girona,24-196,1998,23.7,10,0,0,34,37,28,9,5,4,0,0,0,47,44,62,41.5,Matches
+130a7a3f,Samu Castillejo,es ESP,"FW,MF",Valencia,28-089,1995,14.5,6,0,0,31,37,7,77,9,12,0,0,0,63,7,19,26.9,Matches
+274ab13c,Catena,es ESP,DF,Rayo Vallecano,28-171,1994,26.8,12,1,1,22,15,2,1,18,11,0,0,0,139,65,25,72.2,Matches
+527f063d,Edinson Cavani,uy URU,FW,Valencia,36-062,1987,12.4,4,0,0,14,6,10,2,1,1,0,0,0,27,12,20,37.5,Matches
+c0617e2b,Dani Ceballos,es ESP,MF,Real Madrid,26-253,1996,11.2,4,0,0,12,25,0,9,20,19,0,0,0,86,2,5,28.6,Matches
+ae852b7d,Álex Centelles,es ESP,DF,Almería,25-160,1997,5.5,0,1,0,3,1,0,19,4,7,0,0,0,27,2,9,18.2,Matches
+5e1028e5,Franco Cervi,ar ARG,MF,Celta Vigo,28-326,1994,16.4,1,1,0,25,30,1,68,27,36,0,0,0,116,10,20,33.3,Matches
+63c5e56b,Pep Chavarría,es ESP,"FW,MF",Rayo Vallecano,25-007,1998,1.6,1,0,0,5,4,0,8,1,2,0,0,0,10,5,3,62.5,Matches
+873ce3a2,Pape Cheikh Diop,sn SEN,MF,Elche,25-252,1997,0.4,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,,Matches
+1cb49278,Andreas Christensen,dk DEN,DF,Barcelona,27-007,1996,14.0,2,0,0,13,6,0,1,14,10,0,0,0,74,31,13,70.5,Matches
+b8a642fc,Samuel Chukwueze,ng NGA,"FW,MF",Villarreal,23-330,1999,19.4,1,0,0,13,27,9,26,10,6,1,0,0,82,10,13,43.5,Matches
+ec1a731e,Víctor Chust,es ESP,DF,Cádiz,23-043,2000,9.6,3,0,0,8,3,1,0,10,6,0,1,0,45,16,15,51.6,Matches
+9a0408b6,Pathé Ciss,sn SEN,"MF,DF",Rayo Vallecano,29-032,1994,11.9,4,0,0,31,10,0,3,18,25,0,0,1,84,27,23,54.0,Matches
+33a61a52,Carlos Clerc,es ESP,"DF,MF",Elche,31-055,1992,21.3,1,0,0,22,22,2,76,15,37,0,0,0,103,9,14,39.1,Matches
+85dace26,Álex Collado,es ESP,MF,Elche,23-360,1999,6.5,1,0,0,9,7,1,13,2,13,0,0,0,27,4,6,40.0,Matches
+b3f62bfc,Diego Collado,es ESP,FW,Villarreal,22-098,2001,0.1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,Matches
+15937e17,Eray Cömert,ch SUI,DF,Valencia,25-072,1998,17.0,4,1,0,20,10,1,1,24,19,0,0,0,97,41,29,58.6,Matches
+5ae499d0,Santi Comesaña,es ESP,MF,Rayo Vallecano,26-194,1996,20.0,4,0,0,39,20,2,9,20,32,0,0,0,122,21,33,38.9,Matches
+0f26ffd7,Copete,es ESP,DF,Mallorca,23-189,1999,16.9,7,1,0,35,18,2,4,32,19,0,1,0,83,25,10,71.4,Matches
+a6951bf8,Francis Coquelin,fr FRA,MF,Villarreal,31-339,1991,8.3,2,0,0,11,7,0,5,9,13,0,0,0,36,6,4,60.0,Matches
+fb938d24,Jesús Corona,mx MEX,FW,Sevilla,30-101,1993,0.7,0,0,0,1,3,0,2,0,0,0,0,0,2,0,1,0.0,Matches
+01eb744d,Ángel Correa,ar ARG,"FW,MF",Atlético Madrid,28-039,1995,11.9,2,1,0,13,15,9,20,9,2,0,0,0,43,3,12,20.0,Matches
+c78b352d,Thierry Correia,pt POR,"DF,FW",Valencia,24-039,1999,18.1,4,0,0,29,39,1,69,21,40,2,0,0,118,21,18,53.8,Matches
+808d48f3,Jaume Costa,es ESP,DF,Mallorca,35-030,1988,22.4,9,0,0,31,29,6,64,12,25,0,0,0,96,21,23,47.7,Matches
+76c2a023,Samu Costa,pt POR,MF,Almería,22-141,2000,16.8,4,0,0,41,33,4,6,32,26,0,0,0,113,31,15,67.4,Matches
+1840e36d,Thibaut Courtois,be BEL,GK,Real Madrid,30-341,1992,23.0,0,0,0,0,2,0,0,1,0,0,0,0,37,7,0,100.0,Matches
+1944818c,Yan Couto,br BRA,"DF,MF",Girona,20-318,2002,8.1,1,0,0,7,10,2,36,4,13,0,0,0,51,1,4,20.0,Matches
+a56da3ba,Juan Cruz Armada,es ESP,DF,Osasuna,30-263,1992,18.1,6,0,0,15,8,1,34,12,11,0,0,0,75,14,15,48.3,Matches
+cc2dd8a5,Juan Cruz,es ESP,FW,Betis,22-357,2000,1.9,0,0,0,3,2,1,6,0,0,0,0,0,8,1,2,33.3,Matches
+0abc51f2,Jorge Cuenca,es ESP,DF,Villarreal,23-151,1999,4.0,1,0,0,4,1,0,1,5,4,0,1,0,17,9,4,69.2,Matches
+192c89a6,Braian Cufré,ar ARG,DF,Mallorca,26-123,1996,2.4,0,0,0,5,3,2,1,2,2,0,0,0,13,0,1,0.0,Matches
+dc62b55d,Matheus Cunha,br BRA,"FW,MF",Atlético Madrid,23-325,1999,4.2,2,0,0,7,6,1,3,2,1,0,0,0,16,3,14,17.6,Matches
+f9a225f5,Curro,es ESP,MF,Almería,27-104,1996,0.5,1,0,0,1,0,0,1,0,0,0,0,0,3,0,2,0.0,Matches
+f08490a6,Arnaut Danjuma,nl NED,FW,Villarreal,26-076,1997,5.3,0,0,0,2,7,3,6,0,3,0,0,0,10,0,3,0.0,Matches
+070a3904,Sergi Darder,es ESP,MF,Espanyol,29-116,1993,28.6,3,0,0,22,67,2,151,21,27,0,0,0,156,9,8,52.9,Matches
+162efffd,Rodrigo De Paul,ar ARG,MF,Atlético Madrid,28-328,1994,14.3,4,0,0,20,30,0,37,4,14,0,0,0,79,5,7,41.7,Matches
+84a85b48,Alberto Del Moral,es ESP,MF,Villarreal,22-271,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+fe641c1a,Thomas Delaney,dk DEN,MF,Sevilla,31-226,1991,3.4,3,0,0,4,5,1,4,4,2,0,0,0,8,9,2,81.8,Matches
+e7d2a50b,Fran Delgado,es ESP,DF,Betis,21-280,2001,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Matches
+b19db005,Ousmane Dembélé,fr FRA,FW,Barcelona,25-337,1997,12.2,4,0,0,14,13,3,71,0,11,0,0,0,46,2,11,15.4,Matches
+d2110326,Mouctar Diakhaby,gn GUI,DF,Valencia,26-119,1996,19.2,6,1,1,19,8,3,1,12,11,0,0,0,101,29,34,46.0,Matches
+80211dc5,Mamady Diarra,ml MLI,"MF,DF",Cádiz,22-295,2000,0.7,0,0,0,1,1,0,0,0,1,0,0,0,5,0,0,,Matches
+d61759ec,Youba Diarra,ml MLI,MF,Cádiz,25-024,1998,0.6,1,0,0,2,0,0,0,1,0,0,0,0,9,0,2,0.0,Matches
+fc70e345,Stole Dimitrievski,mk MKD,GK,Rayo Vallecano,29-113,1993,28.0,3,0,0,0,3,0,0,1,0,0,0,0,24,9,0,100.0,Matches
+a461f098,Malcom Abdulai Ares Djalo,es ESP,FW,Athletic Club,21-187,2001,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+a4971d84,Djené,tg TOG,DF,Getafe,31-107,1991,25.1,7,0,0,34,33,1,17,32,16,0,2,0,154,46,24,65.7,Matches
+ac295d9e,Marko Dmitrović,rs SRB,GK,Sevilla,31-083,1992,6.1,1,0,0,0,1,0,0,0,0,0,0,0,9,2,0,100.0,Matches
+d557d734,Matt Doherty,ie IRL,DF,Atlético Madrid,31-091,1992,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+cc83b74d,Kasper Dolberg,dk DEN,FW,Sevilla,25-193,1997,2.2,0,0,0,2,4,0,0,0,0,0,0,0,3,3,4,42.9,Matches
+3521abfe,Carlos Dominguez,es ESP,DF,Celta Vigo,22-065,2001,0.2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0,Matches
+5e95c000,John Donald,es ESP,"MF,DF",Elche,22-230,2000,3.6,0,1,0,8,2,0,0,6,1,0,0,0,11,8,3,72.7,Matches
+93090f69,Domingos Duarte,pt POR,DF,Getafe,28-038,1995,26.4,10,1,1,28,20,2,0,36,18,0,2,1,102,43,24,64.2,Matches
+6db116ec,Pablo Durán,es ESP,"MF,DF",Celta Vigo,22-082,2001,0.4,0,0,0,1,0,1,1,1,0,0,0,0,3,1,1,50.0,Matches
+37e103f8,Hugo Duro,es ESP,FW,Valencia,23-158,1999,12.3,5,0,0,16,29,3,2,2,9,0,0,0,31,26,50,34.2,Matches
+3e93f8cf,Íñigo Eguaras,es ESP,MF,Almería,31-041,1992,9.4,5,0,0,7,6,0,3,5,8,0,0,0,55,3,4,42.9,Matches
+f7dc2ae5,Aritz Elustondo,es ESP,DF,Real Sociedad,29-020,1994,12.0,4,1,0,17,8,0,5,18,13,0,0,0,45,15,20,42.9,Matches
+fd47b4f2,Rodrigo Ely,br BRA,DF,Almería,29-165,1993,27.1,7,1,1,20,10,2,2,26,14,0,0,1,113,64,26,71.1,Matches
+db8f0eba,Adri Embarba,es ESP,"FW,MF",Almería,30-345,1992,10.8,5,1,1,13,17,7,86,7,18,0,0,0,58,6,24,20.0,Matches
+db8f0eba,Adri Embarba,es ESP,FW,Espanyol,30-345,1992,0.4,0,0,0,1,1,0,2,0,0,0,0,0,2,0,1,0.0,Matches
+04e17fd5,Youssef En-Nesyri,ma MAR,FW,Sevilla,25-320,1997,14.5,4,0,0,6,10,13,4,3,8,0,0,0,22,45,68,39.8,Matches
+3f79a1c8,Gonzalo Escalante,ar ARG,MF,Cádiz,30-021,1993,6.7,2,0,0,9,11,0,3,9,15,0,1,0,50,12,20,37.5,Matches
+b0616e3d,Sergio Escudero,es ESP,DF,Valladolid,33-227,1989,10.9,3,0,0,10,12,1,34,14,17,0,0,0,56,14,16,46.7,Matches
+db001fa9,Alfonso Espino,uy URU,DF,Cádiz,31-102,1992,26.7,6,0,0,39,25,2,70,34,44,0,3,0,190,24,33,42.1,Matches
+4242011c,Bernardo Espinosa,co COL,DF,Girona,33-280,1989,9.4,3,0,0,7,6,0,0,5,0,0,1,0,48,36,12,75.0,Matches
+283c7121,Edu Expósito,es ESP,MF,Espanyol,26-259,1996,11.4,3,0,0,13,27,0,36,10,18,0,0,0,60,11,11,50.0,Matches
+3409de86,Nicolás Ezequiel Fernández,ar ARG,"MF,DF",Elche,23-096,2000,4.1,2,0,0,7,8,1,22,5,9,0,0,1,32,1,3,25.0,Matches
+bed68338,Abdessamad Ezzalzouli,ma MAR,"FW,MF",Osasuna,21-121,2001,12.3,3,1,1,24,30,0,54,3,13,0,0,0,53,3,12,20.0,Matches
+66116290,Radamel Falcao,co COL,"FW,MF",Rayo Vallecano,37-066,1986,6.1,4,0,0,16,12,11,0,2,3,0,0,0,17,19,21,47.5,Matches
+72a84002,Fali,es ESP,"DF,MF",Cádiz,29-248,1993,16.9,5,0,0,15,18,1,2,10,15,0,0,0,87,25,20,55.6,Matches
+805a2a11,Mamadou Fall,sn SEN,DF,Villarreal,20-147,2002,0.3,0,0,0,1,0,0,1,0,0,0,0,0,4,0,0,,Matches
+0ba976e4,Ansu Fati,es ESP,FW,Barcelona,20-168,2002,12.3,3,0,0,14,12,9,7,3,8,0,0,0,51,5,13,27.8,Matches
+89151b16,Zouhair Feddal,ma MAR,DF,Valladolid,34-106,1989,4.2,1,0,0,4,2,0,1,5,2,0,1,0,19,6,7,46.2,Matches
+bece776f,Nabil Fekir,fr FRA,MF,Betis,29-273,1993,10.7,4,1,0,21,39,7,48,1,5,1,0,0,31,8,11,42.1,Matches
+51a3c4c8,Felipe,br BRA,DF,Atlético Madrid,33-336,1989,2.2,0,0,0,4,3,0,0,0,2,0,0,0,16,6,6,50.0,Matches
+15d0c248,Luiz Felipe,it ITA,DF,Betis,26-026,1997,14.5,2,3,0,10,6,0,1,21,14,0,0,0,54,17,18,48.6,Matches
+8aafd64f,João Félix,pt POR,"FW,MF",Atlético Madrid,23-158,1999,7.2,5,0,0,16,23,3,8,3,7,0,0,0,18,7,8,46.7,Matches
+e5d01ecf,Kiko Femenía,es ESP,DF,Villarreal,32-074,1991,10.8,0,0,0,6,8,0,27,15,6,0,0,0,51,8,3,72.7,Matches
+a01c3d54,Aitor Fernández,es ESP,GK,Osasuna,31-349,1991,16.0,1,0,0,0,0,0,0,1,1,0,0,0,21,2,1,66.7,Matches
+aa677a35,Álex Fernández,es ESP,"MF,FW",Cádiz,30-184,1992,16.3,0,0,0,6,14,0,31,7,7,0,0,0,70,11,28,28.2,Matches
+f127d782,Álvaro Fernández,es ESP,GK,Espanyol,25-004,1998,11.0,0,0,0,0,2,0,0,0,0,0,0,0,15,2,1,66.7,Matches
+e08647d6,Carlos Fernández,es ESP,FW,Real Sociedad,26-330,1996,4.5,5,0,0,11,10,6,0,1,3,0,0,0,27,18,14,56.3,Matches
+f25b010f,Federico Fernández,ar ARG,DF,Elche,34-055,1989,1.0,0,0,0,0,0,0,0,2,1,0,0,0,3,1,2,33.3,Matches
+b86a64b2,Joaquín Fernández,es ESP,DF,Valladolid,26-321,1996,19.8,3,0,0,12,8,3,0,21,24,0,1,0,73,39,26,60.0,Matches
+dabb2827,Fernando,es ESP,GK,Almería,32-311,1990,27.5,3,0,0,0,5,0,0,0,0,0,0,0,25,0,0,,Matches
+41f32541,Fernando,br BRA,"MF,DF",Sevilla,35-266,1987,14.7,2,1,0,15,7,0,2,20,20,0,0,1,85,17,12,58.6,Matches
+eb82b6f1,Fidel,es ESP,"MF,FW",Elche,33-172,1989,11.2,4,0,0,5,14,7,40,3,7,0,0,0,50,2,5,28.6,Matches
+45e17712,Dimitri Foulquier,fr FRA,DF,Valencia,30-025,1993,14.4,4,0,0,23,8,1,61,7,14,0,0,0,80,13,15,46.4,Matches
+6c7762c3,Juan Foyth,ar ARG,DF,Villarreal,25-095,1998,15.0,5,0,0,26,9,0,6,14,35,0,1,0,86,26,11,70.3,Matches
+29d0f2ac,Iván Fresneda,es ESP,DF,Valladolid,18-201,2004,14.2,2,0,0,11,21,0,42,14,28,0,0,0,84,7,17,29.2,Matches
+a4b00319,Javi Galán,es ESP,DF,Celta Vigo,28-149,1994,27.1,3,0,0,37,58,7,128,29,58,0,0,0,171,27,17,61.4,Matches
+91f7631f,Iñigo Ruiz de Galarreta,es ESP,MF,Mallorca,29-254,1993,21.4,9,0,0,46,32,0,41,23,32,0,0,0,156,15,21,41.7,Matches
+a10361d2,Aleix García,es ESP,MF,Girona,25-293,1997,25.2,1,0,0,14,29,0,167,31,19,0,0,0,129,13,6,68.4,Matches
+90bbd822,Álvaro García,es ESP,"FW,MF",Rayo Vallecano,30-172,1992,24.8,5,0,0,27,24,9,127,25,22,2,0,0,151,11,5,68.8,Matches
+e7f4603c,Borja García,es ESP,"MF,FW",Girona,32-166,1990,7.5,1,0,0,4,20,3,17,5,4,0,0,0,33,6,7,46.2,Matches
+661e2822,Carlos García,es ESP,DF,Cádiz,22-284,2000,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+240d3a0b,Dani García,es ESP,MF,Athletic Club,32-328,1990,12.8,5,0,0,27,12,0,3,17,21,0,0,0,77,17,15,53.1,Matches
+3e42f707,David García,es ESP,DF,Osasuna,29-062,1994,24.5,8,1,0,47,12,0,2,36,16,0,1,0,128,69,27,71.9,Matches
+2bed3eab,Eric García,es ESP,DF,Barcelona,22-098,2001,12.9,3,0,0,16,6,0,0,16,12,0,1,0,73,20,12,62.5,Matches
+7226539b,Francisco Garcia,es ESP,DF,Rayo Vallecano,23-246,1999,28.9,1,0,0,19,21,3,125,34,38,0,2,0,182,4,16,20.0,Matches
+b418dbd4,Raúl García,es ESP,"FW,MF",Athletic Club,36-280,1986,8.4,2,0,0,11,16,7,10,5,7,0,0,0,26,23,27,46.0,Matches
+5c96b017,Rubén García,es ESP,"MF,FW",Osasuna,29-277,1993,9.0,2,0,0,9,13,0,56,8,5,0,0,0,55,9,26,25.7,Matches
+4a633cfe,Unai García,es ESP,DF,Osasuna,31-073,1992,17.1,6,1,0,19,4,0,3,18,11,0,1,0,82,35,26,57.4,Matches
+9a26fa06,Felix Garreta,es ESP,DF,Betis,18-361,2004,1.0,0,0,0,2,1,0,0,1,0,0,0,0,3,1,1,50.0,Matches
+5757adc3,Aleix Garrido,es ESP,FW,Barcelona,19-054,2004,0.1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,Matches
+475a738b,Sékou Gassama,sn SEN,FW,Valladolid,27-346,1995,0.4,0,0,0,1,0,0,0,0,0,0,0,0,2,2,2,50.0,Matches
+19cae58d,Gavi,es ESP,"MF,FW",Barcelona,18-255,2004,21.8,7,0,0,65,55,8,33,17,25,0,0,0,95,33,25,56.9,Matches
+63d17038,Paulo Gazzaniga,ar ARG,GK,Girona,31-105,1992,19.0,3,0,0,0,5,0,0,1,0,0,0,0,29,3,0,100.0,Matches
+fea23125,David Gil,es ESP,GK,Cádiz,29-096,1994,4.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,Matches
+6652cf96,Óscar Gil,es ESP,DF,Espanyol,25-356,1997,20.6,10,0,0,37,29,0,27,25,25,0,0,0,94,10,27,27.0,Matches
+18017beb,Álvaro Giménez,es ESP,FW,Cádiz,31-333,1991,0.2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,,Matches
+0e5ddc7c,Dani Gómez,es ESP,"MF,FW",Espanyol,24-261,1998,1.0,2,0,0,3,2,4,2,1,1,0,0,0,5,1,0,100.0,Matches
+4c2e9442,Maxi Gómez,uy URU,FW,Valencia,26-246,1996,1.2,0,0,0,4,3,1,0,0,0,0,0,0,0,2,6,25.0,Matches
+5a626448,Moi Gómez,es ESP,"MF,FW",Osasuna,28-298,1994,24.8,5,0,0,14,24,1,108,9,16,0,0,0,159,6,24,20.0,Matches
+6e4df551,Papu Gómez,ar ARG,"MF,FW",Sevilla,35-061,1988,7.4,4,0,0,4,14,2,25,4,4,0,1,0,26,2,3,40.0,Matches
+bc6f5f06,Sergi Gómez,es ESP,DF,Espanyol,31-020,1992,19.7,1,2,0,7,5,0,2,22,12,0,0,0,83,34,26,56.7,Matches
+4ac7608e,Diego González,es ESP,DF,Elche,28-079,1995,10.6,4,0,0,17,5,0,1,7,7,0,1,0,47,19,8,70.4,Matches
+49d028db,Édgar González,es ESP,DF,Betis,26-016,1997,15.5,6,1,1,20,10,0,0,19,15,0,0,0,70,41,24,63.1,Matches
+1fc474ae,Giovanni González,uy URU,DF,Mallorca,28-209,1994,9.8,5,0,0,13,17,1,18,7,8,0,0,0,44,12,11,52.2,Matches
+2c56a792,Nicolás González,es ESP,MF,Valencia,21-104,2002,8.6,1,0,0,19,7,0,1,9,8,0,1,1,59,13,11,54.2,Matches
+56545648,Roberto González,es ESP,"FW,MF",Betis,22-101,2001,0.6,1,0,0,1,4,0,5,1,0,0,0,0,0,0,0,,Matches
+6f5f82c0,Andoni Gorosabel,es ESP,DF,Real Sociedad,26-256,1996,13.5,2,0,0,15,14,0,31,10,18,0,0,0,57,13,22,37.1,Matches
+ee45d138,José Gragera,es ESP,"MF,DF",Espanyol,22-138,2000,4.4,2,0,0,13,2,0,0,7,7,0,0,0,13,11,8,57.9,Matches
+3f034750,Ivo Grbić,hr CRO,GK,Atlético Madrid,27-089,1996,2.3,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+8b298f56,Clément Grenier,fr FRA,MF,Mallorca,32-100,1991,6.9,7,0,0,19,13,0,26,6,8,0,0,0,37,3,7,30.0,Matches
+df69b544,Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,32-027,1991,22.8,1,0,0,20,32,8,118,16,27,0,0,0,116,24,24,50.0,Matches
+ef322658,Andrés Guardado,mx MEX,MF,Betis,36-201,1986,11.8,5,0,0,11,8,0,9,17,20,0,0,0,86,10,22,31.3,Matches
+32974271,Sergi Guardiola,es ESP,FW,Valladolid,31-323,1991,5.6,1,0,0,14,9,4,3,2,7,0,0,0,14,9,14,39.1,Matches
+32974271,Sergi Guardiola,es ESP,FW,Cádiz,31-323,1991,6.9,1,0,0,5,14,5,8,1,4,0,0,0,20,6,12,33.3,Matches
+0076ab7f,Nemanja Gudelj,rs SRB,"DF,MF",Sevilla,31-152,1991,24.8,7,0,0,16,18,1,1,24,25,0,0,0,87,35,19,64.8,Matches
+3828f130,Javier Guerra,es ESP,FW,Valencia,20-106,2003,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,50.0,Matches
+8e48dc61,Ander Guevara,es ESP,MF,Real Sociedad,25-284,1997,2.1,2,0,0,4,3,0,0,2,2,0,0,0,14,3,2,60.0,Matches
+7155e3e1,Pape Gueye,sn SEN,MF,Sevilla,24-083,1999,7.0,6,2,2,19,26,0,10,14,12,1,0,0,40,9,10,47.4,Matches
+f7c12fbf,Hugo Guillamón,es ESP,MF,Valencia,23-076,2000,18.0,5,0,0,34,33,0,32,19,12,0,2,1,95,20,20,50.0,Matches
+ac454a4f,Gerard Gumbau,es ESP,MF,Elche,28-120,1994,22.6,10,0,0,39,16,1,111,21,19,0,0,0,120,15,21,41.7,Matches
+6b5ea2f4,Gorka Guruzeta,es ESP,FW,Athletic Club,26-217,1996,10.7,2,0,0,21,10,13,1,4,14,0,0,0,30,22,39,36.1,Matches
+0b2c8585,Raúl Guti,es ESP,MF,Elche,26-108,1996,10.7,1,0,0,7,19,0,6,7,10,0,0,0,55,5,9,35.7,Matches
+7e98cff1,Miguel Gutiérrez,es ESP,DF,Girona,21-264,2001,19.8,6,0,0,18,17,1,75,15,17,0,0,0,112,6,15,28.6,Matches
+8696bc90,Munir El Haddadi,ma MAR,"MF,FW",Getafe,27-228,1995,9.8,4,0,0,12,30,8,53,8,7,0,0,0,53,24,16,60.0,Matches
+82cfae2a,Dennis Hadzikadunic,ba BIH,DF,Mallorca,24-282,1998,1.0,0,0,0,1,0,0,0,0,2,0,0,0,4,2,2,50.0,Matches
+e0979e74,Haissem Hassan,fr FRA,MF,Villarreal,21-068,2002,0.3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+a39bb753,Eden Hazard,be BEL,FW,Real Madrid,32-100,1991,1.5,0,0,0,1,5,0,0,0,0,0,0,0,3,0,0,,Matches
+8059806f,Luiz Henrique,br BRA,FW,Betis,22-105,2001,17.0,5,0,0,20,34,2,23,13,29,0,0,0,105,21,36,36.8,Matches
+555f3a0b,Mario Hermoso,es ESP,DF,Atlético Madrid,27-303,1995,14.9,5,2,2,18,7,1,2,15,9,0,0,0,95,22,14,61.1,Matches
+132ac341,Aridane Hernández,gq EQG,DF,Osasuna,34-025,1989,12.6,0,0,0,9,9,0,0,20,10,0,0,1,73,20,12,62.5,Matches
+02d2c436,Luis Hernández,es ESP,DF,Cádiz,34-003,1989,27.0,6,1,1,16,5,2,14,22,17,0,0,0,121,32,14,69.6,Matches
+90162357,Mario Hernández,es ESP,DF,Rayo Vallecano,24-082,1999,1.1,1,0,0,1,1,0,1,2,2,0,0,0,3,0,1,0.0,Matches
+436a9dd0,Ander Herrera,es ESP,MF,Athletic Club,33-246,1989,3.6,3,1,0,12,5,0,1,5,5,0,0,0,22,2,1,66.7,Matches
+a4995f48,Sergio Herrera,es ESP,GK,Osasuna,29-316,1993,13.0,3,0,0,1,2,0,0,1,0,0,1,0,10,2,1,66.7,Matches
+e778654a,Yangel Herrera,ve VEN,"MF,FW",Girona,25-100,1998,8.6,2,0,0,29,18,1,16,2,8,0,0,0,36,17,25,40.5,Matches
+139560df,Omar El Hilali,ma MAR,"DF,MF",Espanyol,19-217,2003,1.0,1,0,0,0,2,0,2,1,2,0,0,0,10,2,1,66.7,Matches
+b85bf253,Martin Hongla,cm CMR,"MF,DF",Valladolid,25-032,1998,7.7,5,1,1,10,2,0,2,6,9,0,1,0,47,5,12,29.4,Matches
+3701906c,Pablo Ibáñez,es ESP,MF,Osasuna,24-209,1998,7.4,0,0,0,13,10,3,5,8,8,0,0,0,38,19,27,41.3,Matches
+974322dc,Iglesias,es ESP,DF,Getafe,24-288,1998,18.6,3,0,0,33,14,1,72,19,24,0,0,0,102,11,14,44.0,Matches
+75645f0e,Borja Iglesias,es ESP,FW,Betis,30-090,1993,21.7,1,1,0,35,43,17,0,1,4,0,0,0,39,18,34,34.6,Matches
+5ce0b5ba,Asier Illarramendi,es ESP,MF,Real Sociedad,33-040,1990,8.9,4,0,0,18,12,0,3,13,13,0,0,0,51,8,14,36.4,Matches
+8e92be30,Alexander Isak,se SWE,FW,Real Sociedad,23-208,1999,1.7,0,0,0,1,0,0,2,0,1,0,0,0,2,0,0,,Matches
+a0b4bb3e,Isco,es ESP,"MF,FW",Sevilla,30-361,1992,8.9,5,0,0,11,34,6,18,10,9,0,0,0,48,5,14,26.3,Matches
+9c36ed83,Nicolas Jackson,sn SEN,FW,Villarreal,21-301,2001,9.5,3,1,1,22,12,7,4,2,7,0,0,0,29,7,20,25.9,Matches
+4737cebe,Adnan Januzaj,be BEL,FW,Sevilla,28-071,1995,0.5,0,0,0,1,2,0,1,1,0,0,0,0,5,0,0,,Matches
+9a76c2e9,Javi,es ESP,DF,Girona,24-350,1998,9.5,2,0,0,7,13,1,12,4,9,0,1,0,54,9,6,60.0,Matches
+eeba07f8,Luis Javier Suárez,co COL,FW,Almería,25-136,1997,11.2,4,0,0,29,13,3,9,1,9,1,0,0,34,27,34,44.3,Matches
+4c5b14d2,Joaquín,es ESP,"FW,MF",Betis,41-270,1981,3.8,2,0,0,1,7,0,25,3,2,0,0,0,18,0,3,0.0,Matches
+1bacc518,Frenkie de Jong,nl NED,MF,Barcelona,25-340,1997,19.8,2,0,0,20,24,1,21,29,18,0,0,0,130,18,10,64.3,Matches
+2a0c8ba4,Joan Jordán,es ESP,MF,Sevilla,28-285,1994,17.4,7,0,0,31,12,0,7,16,16,0,0,0,113,11,12,47.8,Matches
+0107757e,Filip Jörgensen,dk DEN,GK,Villarreal,21-001,2002,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+5b28b2f6,Josan,es ESP,"MF,DF",Elche,33-135,1989,5.3,3,0,0,6,6,4,21,2,5,0,1,0,23,3,3,50.0,Matches
+d87e2cae,Willian José,br BRA,FW,Betis,31-145,1991,4.5,1,0,0,3,2,1,3,0,3,0,0,0,21,10,12,45.5,Matches
+6265208f,Joselu,es ESP,FW,Espanyol,33-021,1990,25.2,2,0,0,19,58,15,12,6,4,2,0,0,56,144,83,63.4,Matches
+84399660,Juanmi,es ESP,FW,Betis,29-332,1993,8.6,3,0,0,12,17,14,0,3,8,0,0,0,38,7,12,36.8,Matches
+1633fc8a,Juanpe,es ESP,DF,Girona,31-352,1991,11.3,3,0,0,9,1,0,3,7,8,0,1,0,41,16,6,72.7,Matches
+360d70f8,Lago Junior,ci CIV,"FW,MF",Mallorca,32-107,1990,0.6,0,0,0,3,1,0,2,0,0,0,0,0,7,4,1,80.0,Matches
+7111d552,Vinicius Júnior,br BRA,FW,Real Madrid,22-279,2000,26.3,8,0,0,43,106,16,52,6,20,1,0,0,84,0,6,0.0,Matches
+7d08063d,Tino Kadewere,zw ZIM,"FW,MF",Mallorca,27-102,1996,4.8,0,0,0,4,3,4,4,0,3,0,0,0,14,25,17,59.5,Matches
+55634fb8,Kaiky,br BRA,DF,Almería,19-095,2004,6.3,5,0,0,7,3,0,1,11,5,0,1,0,22,6,8,42.9,Matches
+8455ad90,Lee Kangin,kr KOR,"MF,FW",Mallorca,22-057,2001,23.4,7,0,0,39,43,1,139,7,18,0,0,0,96,13,47,21.7,Matches
+211589b8,Jon Karrikaburu,es ESP,FW,Real Sociedad,20-210,2002,1.0,1,0,0,3,4,3,1,0,0,0,0,0,5,4,4,50.0,Matches
+5eebbfdf,Kenedy,br BRA,"FW,MF",Valladolid,27-068,1996,1.3,2,0,0,5,0,0,3,0,1,0,0,0,5,1,1,50.0,Matches
+05e19d6a,Franck Kessié,ci CIV,MF,Barcelona,26-119,1996,8.2,4,0,0,14,12,2,4,9,5,0,0,0,44,4,6,40.0,Matches
+e897d8ba,Kike,es ESP,FW,Osasuna,33-143,1989,9.7,4,0,0,23,21,5,5,1,3,2,0,0,28,37,48,43.5,Matches
+4c3a6744,Justin Kluivert,nl NED,"FW,MF",Valencia,23-347,1999,12.1,3,0,0,16,17,6,53,6,13,1,0,0,59,5,14,26.3,Matches
+55126f3b,Koke,es ESP,MF,Atlético Madrid,31-099,1992,20.8,4,0,0,17,24,1,19,15,31,0,0,0,127,9,9,50.0,Matches
+fc076f78,Luca Koleosho,it ITA,"FW,DF",Espanyol,18-214,2004,0.3,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,,Matches
+cce181df,Geoffrey Kondogbia,cf CTA,MF,Atlético Madrid,30-061,1993,10.7,5,0,0,15,18,2,0,25,20,0,0,0,99,12,9,57.1,Matches
+4d1666ff,Jules Koundé,fr FRA,DF,Barcelona,24-156,1998,19.5,1,0,0,18,9,1,23,18,16,0,0,1,115,29,15,65.9,Matches
+6ce1f46f,Toni Kroos,de GER,MF,Real Madrid,33-103,1990,17.7,2,1,1,19,24,0,94,17,22,0,0,0,113,5,4,55.6,Matches
+16aa3654,Takefusa Kubo,jp JPN,"FW,MF",Real Sociedad,21-317,2001,20.7,2,0,0,27,35,18,49,2,22,1,0,0,81,13,17,43.3,Matches
+60abea75,César de la Hoz,es ESP,MF,Almería,31-018,1992,13.7,5,0,0,19,6,0,3,8,17,0,1,0,61,18,16,52.9,Matches
+e9241b40,Luca de la Torre,us USA,MF,Celta Vigo,24-329,1998,9.7,2,0,0,21,6,2,7,6,12,0,0,0,55,2,17,10.5,Matches
+abe66106,Érik Lamela,ar ARG,"FW,MF",Sevilla,31-044,1992,15.4,8,1,1,50,17,7,22,4,18,0,0,0,69,10,23,30.3,Matches
+e7af9060,Cyle Larin,ca CAN,FW,Valladolid,28-000,1995,7.4,4,0,0,13,17,14,1,0,3,0,1,0,17,23,32,41.8,Matches
+2bea832e,Latasa,es ESP,"FW,DF",Getafe,22-025,2001,1.5,0,0,0,5,5,0,0,1,2,0,0,0,4,18,16,52.9,Matches
+8e088e04,Toni Lato,es ESP,"DF,MF",Valencia,25-147,1997,8.0,1,0,0,8,6,4,23,4,8,0,0,0,39,3,14,17.6,Matches
+86ff856b,Lázaro,br BRA,"MF,FW",Almería,21-036,2002,3.3,0,0,0,1,6,1,7,2,1,0,0,0,15,1,4,20.0,Matches
+9a64e67e,Robin Le Normand,fr FRA,DF,Real Sociedad,26-157,1996,24.1,5,0,0,30,26,2,1,27,18,0,0,1,111,81,31,72.3,Matches
+2fa2a875,Benjamin Lecomte,fr FRA,GK,Espanyol,31-356,1991,10.0,1,1,0,1,0,0,0,0,0,0,0,1,16,0,0,,Matches
+6c4776b1,Jeremías Ledesma,ar ARG,GK,Cádiz,30-063,1993,25.0,1,0,0,1,5,0,0,2,1,0,1,0,26,5,2,71.4,Matches
+6eaed4eb,Florian Lejeune,fr FRA,DF,Rayo Vallecano,31-332,1991,24.2,6,2,1,21,8,5,7,13,13,0,1,0,103,53,26,67.1,Matches
+59b7d823,Iñigo Lekue,es ESP,DF,Athletic Club,29-348,1993,13.9,1,0,0,14,5,1,42,13,16,0,0,0,113,17,8,68.0,Matches
+4dbd0916,Thomas Lemar,fr FRA,MF,Atlético Madrid,27-156,1995,10.3,0,0,0,6,9,2,36,5,14,0,0,0,57,4,6,40.0,Matches
+0a0cc13c,Sergio León,es ESP,FW,Valladolid,34-101,1989,13.0,0,1,0,6,19,18,8,0,4,0,0,0,38,16,36,30.8,Matches
+8d78e732,Robert Lewandowski,pl POL,FW,Barcelona,34-239,1988,22.6,3,1,1,35,37,15,14,1,7,0,0,0,42,43,33,56.6,Matches
+ff800ed8,Pol Lirola,es ESP,DF,Elche,25-247,1997,6.8,1,0,0,3,3,0,32,6,6,0,0,0,43,8,6,57.1,Matches
+38b0cf42,Javier Llabrés,es ESP,FW,Mallorca,20-218,2002,0.2,0,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0.0,Matches
+02c15616,Marcos Llorente,es ESP,"MF,DF",Atlético Madrid,28-077,1995,18.9,5,0,0,30,13,3,44,17,15,0,1,0,108,10,19,34.5,Matches
+d7553721,Giovani Lo Celso,ar ARG,"MF,FW",Villarreal,27-008,1996,8.1,2,0,0,9,21,3,12,5,21,0,0,0,37,1,3,25.0,Matches
+f03f284b,David López,es ESP,DF,Girona,33-190,1989,14.9,4,0,0,12,12,3,0,9,15,0,0,0,81,27,27,50.0,Matches
+73683fa9,Diego López,es ESP,GK,Rayo Vallecano,41-165,1981,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches
+88050721,Unai López,es ESP,MF,Rayo Vallecano,27-169,1995,11.0,1,0,0,16,14,1,45,12,15,0,0,0,83,3,11,21.4,Matches
+38699c72,Anthony Lozano,hn HON,FW,Cádiz,29-357,1993,13.4,3,0,0,35,27,7,6,3,2,0,0,0,36,52,63,45.2,Matches
+ea610f00,Pol Lozano,es ESP,MF,Espanyol,23-193,1999,0.2,1,0,0,1,0,0,1,0,0,0,0,0,1,1,1,50.0,Matches
+b05e2dbd,José Luis Gayà,es ESP,DF,Valencia,27-327,1995,22.1,4,0,0,11,18,7,176,17,31,1,0,0,122,21,13,61.8,Matches
+4a478107,José Luis Morales,es ESP,"FW,MF",Villarreal,35-268,1987,13.2,2,0,0,6,10,10,13,2,6,0,0,0,29,8,15,34.8,Matches
+3061e1ec,Andriy Lunin,ua UKR,GK,Real Madrid,24-065,1999,6.0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,,Matches
+922da988,Awer Mabil,au AUS,"MF,FW",Cádiz,27-214,1995,1.8,0,0,0,0,3,0,9,0,0,0,0,0,6,1,5,16.7,Matches
+ed6ea4d9,Darwin Machís,ve VEN,FW,Valladolid,30-069,1993,4.1,1,0,0,7,7,1,25,2,2,0,0,0,18,2,5,28.6,Matches
+5db04597,Pablo Maffeo,es ESP,DF,Mallorca,25-279,1997,24.1,4,1,0,23,41,5,92,17,33,0,0,0,111,33,23,58.9,Matches
+01a49bd2,Lisandro Magallán,ar ARG,DF,Elche,29-202,1993,4.5,0,1,0,7,3,0,1,5,4,0,0,0,21,7,5,58.3,Matches
+d4808594,Jon Magunacelaya,es ESP,"MF,FW",Real Sociedad,22-278,2000,0.7,0,0,0,1,1,0,2,0,0,0,0,0,4,0,2,0.0,Matches
+00b28772,Nemanja Maksimović,rs SRB,MF,Getafe,28-081,1995,14.4,1,0,0,16,7,0,7,24,14,0,0,0,65,19,19,50.0,Matches
+cb574619,Hugo Mallo,es ESP,DF,Celta Vigo,31-299,1991,18.4,4,0,0,34,20,5,56,19,20,0,1,0,87,40,24,62.5,Matches
+bbc19252,Mickael Malsa,mq MTQ,MF,Valladolid,27-187,1995,0.8,0,0,0,2,0,0,0,2,2,0,0,0,5,1,1,50.0,Matches
+d4b73232,Giorgi Mamardashvili,ge GEO,GK,Valencia,22-200,2000,29.0,2,0,0,1,2,0,0,1,0,0,1,0,49,5,1,83.3,Matches
+c20bdcd7,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,29-086,1994,20.6,4,0,0,32,30,0,16,30,43,0,0,0,129,29,20,59.2,Matches
+fbd6378b,Aïssa Mandi,dz ALG,DF,Villarreal,31-177,1991,8.4,0,0,0,11,8,4,2,13,8,0,0,0,32,10,8,55.6,Matches
+ae86d473,Maranhão,br BRA,"FW,MF",Valencia,26-179,1996,5.0,2,1,0,9,12,1,1,0,1,0,0,0,9,10,15,40.0,Matches
+133faa84,Marcão,br BRA,DF,Sevilla,26-316,1996,4.2,2,0,0,5,6,0,0,6,2,0,0,0,16,8,4,66.7,Matches
+853b7c48,Agustín Marchesín,ar ARG,GK,Celta Vigo,35-032,1988,19.0,2,0,0,0,4,0,0,0,0,0,0,0,22,3,0,100.0,Matches
+9f323c71,Óscar de Marcos,es ESP,DF,Athletic Club,34-003,1989,23.8,5,0,0,37,11,2,97,22,22,0,0,1,153,18,19,48.6,Matches
+6f4c734d,José Mari,es ESP,MF,Cádiz,35-132,1987,3.7,3,0,0,5,7,0,1,5,7,0,0,0,34,5,7,41.7,Matches
+f0da930c,José María Giménez,uy URU,DF,Atlético Madrid,28-087,1995,18.9,7,0,0,17,6,0,0,20,17,0,1,1,105,37,15,71.2,Matches
+5c4dc0ff,Mariano,do DOM,FW,Real Madrid,29-259,1993,0.6,2,0,0,3,0,1,0,0,0,0,0,0,4,1,1,50.0,Matches
+a83c19cf,Pablo Marín,es ESP,MF,Real Sociedad,19-288,2003,3.8,1,0,0,12,2,0,3,4,5,0,0,0,19,4,7,36.4,Matches
+d9235a45,Diego Mariño,es ESP,GK,Almería,32-343,1990,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+0ae4e09a,Roger Martí,es ESP,FW,Elche,32-104,1991,7.3,2,0,0,16,11,4,5,1,2,0,0,0,27,6,12,33.3,Matches
+0ae4e09a,Roger Martí,es ESP,FW,Cádiz,32-104,1991,6.0,1,0,0,23,10,7,0,1,4,0,0,0,19,9,18,33.3,Matches
+e1e75690,Ander Martin,es ESP,"MF,FW",Real Sociedad,22-152,2000,0.5,0,0,0,2,0,0,4,0,2,0,0,0,5,1,3,25.0,Matches
+2ae30661,Andrés Martín,es ESP,"FW,MF",Rayo Vallecano,23-280,1999,1.7,1,0,0,4,3,0,11,0,2,0,0,0,9,3,1,75.0,Matches
+64035864,Carlos Martín,es ESP,DF,Atlético Madrid,20-360,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+ae48c5cb,Iván Martín,es ESP,MF,Girona,24-062,1999,10.4,1,0,0,11,8,3,8,3,5,1,0,0,47,7,13,35.0,Matches
+c3e66ffe,Arnau Martinez,es ESP,DF,Girona,19-357,2003,22.5,9,0,0,26,48,6,47,17,33,0,1,0,132,27,19,58.7,Matches
+3fc45c73,Iñigo Martínez,es ESP,DF,Athletic Club,31-335,1991,13.9,1,0,0,12,9,3,4,18,7,0,0,0,86,24,18,57.1,Matches
+937c6ae6,Roger Martínez,es ESP,DF,Espanyol,19-012,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+11fd2b75,Omar Mascarell,es ESP,"MF,DF",Elche,30-074,1993,25.2,6,0,0,21,17,0,22,40,23,0,0,0,147,25,16,61.0,Matches
+8fae77ea,Jordi Masip,es ESP,GK,Valladolid,34-104,1989,18.9,3,0,0,0,3,0,0,1,0,0,0,0,21,6,1,85.7,Matches
+02319ad7,Jaime Mata,es ESP,"FW,MF",Getafe,34-175,1988,0.6,3,0,0,6,1,1,0,0,1,0,0,0,2,2,4,33.3,Matches
+64e8ed6d,Borja Mayoral,es ESP,FW,Getafe,26-012,1997,26.5,4,0,0,14,35,8,28,2,4,1,0,0,93,32,67,32.3,Matches
+8aae94b9,Mamadou Mbaye,sn SEN,DF,Cádiz,24-293,1998,6.2,1,0,0,4,1,2,0,3,3,0,1,0,23,19,14,57.6,Matches
+3902e91b,Gonzalo Melero,es ESP,MF,Almería,29-105,1994,15.0,3,0,0,16,23,3,1,4,12,0,0,0,76,9,10,47.4,Matches
+8f696594,Memphis,nl NED,FW,Barcelona,29-063,1994,1.3,0,0,0,2,2,1,4,0,1,0,0,0,7,1,2,33.3,Matches
+8f696594,Memphis,nl NED,FW,Atlético Madrid,29-063,1994,2.9,1,0,0,2,6,0,5,0,0,0,0,0,3,1,5,16.7,Matches
+1545cf15,Houboulang Mendes,fr FRA,DF,Almería,24-348,1998,8.8,1,0,0,8,3,0,26,5,10,0,1,0,36,1,1,50.0,Matches
+c9e39d91,Brais Méndez,es ESP,MF,Real Sociedad,26-100,1997,23.7,6,0,0,55,45,1,101,12,29,0,0,0,112,21,25,45.7,Matches
+b151a3f2,Diego Méndez,es ESP,MF,Rayo Vallecano,19-231,2003,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,100.0,Matches
+3cefcaef,Ferland Mendy,fr FRA,DF,Real Madrid,27-313,1995,12.8,2,0,0,4,18,0,7,13,9,0,0,0,64,7,7,50.0,Matches
+9f979eb2,Jorge Meré,es ESP,DF,Cádiz,26-000,1997,1.4,0,0,0,0,1,0,0,0,2,0,0,0,6,7,3,70.0,Matches
+d080ed5e,Mikel Merino,es ESP,MF,Real Sociedad,26-299,1996,20.7,4,1,0,52,38,3,20,17,38,0,0,0,170,86,46,65.2,Matches
+7c4243d4,Roque Mesa,es ESP,MF,Valladolid,33-314,1989,15.2,10,1,1,34,24,0,9,10,14,0,1,0,111,8,18,30.8,Matches
+2784f898,Éder Militão,br BRA,DF,Real Madrid,25-089,1998,22.0,3,0,0,28,29,1,8,31,24,0,1,0,121,51,30,63.0,Matches
+19c36442,Luis Milla,es ESP,MF,Getafe,28-192,1994,17.7,6,1,1,24,18,1,69,28,29,0,1,0,132,14,14,50.0,Matches
+335039a2,Pere Milla,es ESP,"FW,MF",Elche,30-206,1992,16.1,6,0,0,15,36,10,14,7,15,1,0,0,83,18,29,38.3,Matches
+1fda2b14,Marko Milovanović,rs SRB,FW,Almería,19-256,2003,0.2,1,0,0,2,0,0,0,0,0,0,0,0,0,5,3,62.5,Matches
+056269d7,Óscar Mingueza,es ESP,DF,Celta Vigo,23-339,1999,12.7,2,0,0,16,6,1,27,10,17,0,2,0,80,7,7,50.0,Matches
+bbf5c11b,Rafa Mir,es ESP,FW,Sevilla,25-303,1997,9.2,1,0,0,9,8,12,5,3,1,0,0,0,27,15,20,42.9,Matches
+ead61f73,Juan Miranda,es ESP,DF,Betis,23-088,2000,9.7,1,0,0,8,12,0,51,13,10,0,1,0,47,15,14,51.7,Matches
+e6777e6b,Stefan Mitrović,rs SRB,DF,Getafe,32-330,1990,12.6,3,0,0,8,3,0,0,11,3,0,0,0,44,27,11,71.1,Matches
+6025fab1,Luka Modrić,hr CRO,MF,Real Madrid,37-220,1985,16.0,6,0,0,19,13,3,54,10,6,0,0,0,71,8,13,38.1,Matches
+608f2092,Johan Mojica,co COL,DF,Villarreal,30-239,1992,6.8,0,0,0,3,12,0,40,4,9,0,0,0,46,7,4,63.6,Matches
+608f2092,Johan Mojica,co COL,"DF,MF",Elche,30-239,1992,3.0,2,0,0,4,3,0,14,4,3,0,1,0,33,4,1,80.0,Matches
+23610943,Nahuel Molina,ar ARG,DF,Atlético Madrid,25-011,1998,22.9,6,1,0,16,11,2,94,10,33,0,0,0,119,15,22,40.5,Matches
+9939e168,Jon Moncayola,es ESP,"MF,DF",Osasuna,24-339,1998,21.1,4,0,0,26,13,3,44,11,28,1,0,0,144,16,12,57.1,Matches
+8ac501f5,Monchu,es ESP,MF,Valladolid,23-216,1999,16.3,8,0,0,36,16,1,56,16,23,0,1,0,80,12,23,34.3,Matches
+28e957d7,César Montes,mx MEX,DF,Espanyol,26-052,1997,10.5,2,0,0,10,4,1,0,10,6,0,0,0,57,27,26,50.9,Matches
+374d5158,Gonzalo Montiel,ar ARG,DF,Sevilla,26-106,1997,11.3,7,1,0,12,7,10,30,12,7,0,0,0,62,11,12,47.8,Matches
+5cec2487,Martín Montoya,es ESP,DF,Betis,32-003,1991,3.0,1,0,0,3,2,0,6,4,6,0,0,0,12,3,1,75.0,Matches
+129af0db,Álvaro Morata,es ESP,FW,Atlético Madrid,30-176,1992,16.8,3,0,0,33,45,21,4,0,8,0,0,0,54,43,27,61.4,Matches
+b7d7f3bf,Jon Morcillo,es ESP,"FW,MF",Athletic Club,24-214,1998,0.8,0,0,0,1,1,0,6,1,0,0,0,0,7,1,1,50.0,Matches
+11b9265b,Alberto Moreno,es ESP,"DF,FW",Villarreal,30-286,1992,10.2,5,0,0,22,5,1,29,15,3,0,0,0,45,10,6,62.5,Matches
+16e9d0ea,Álex Moreno,es ESP,DF,Betis,29-313,1993,15.0,1,0,0,17,19,1,28,17,22,0,1,0,78,9,18,33.3,Matches
+a21417e2,Diego Moreno,es ESP,DF,Osasuna,21-300,2001,6.0,1,0,0,3,4,1,19,1,4,0,0,0,29,4,8,33.3,Matches
+81f0781e,Gerard Moreno,es ESP,FW,Villarreal,31-010,1992,11.9,4,0,0,10,11,12,6,4,5,0,0,0,26,16,14,53.3,Matches
+004d185e,Tete Morente,es ESP,"MF,DF",Elche,26-134,1996,14.3,4,0,0,22,17,5,55,14,13,1,1,0,60,22,12,64.7,Matches
+f4c69aa6,Ilaix Moriba,gn GUI,MF,Valencia,20-088,2003,9.5,4,2,1,29,27,0,2,3,15,0,0,0,62,20,19,51.3,Matches
+a0255c67,Manu Morlanes,es ESP,MF,Villarreal,24-095,1999,1.8,0,1,0,1,1,0,0,1,2,0,0,0,5,1,2,33.3,Matches
+a0255c67,Manu Morlanes,es ESP,MF,Mallorca,24-095,1999,1.1,1,0,0,2,1,0,1,0,1,0,0,0,3,2,3,40.0,Matches
+3aa4a3be,Loren Morón,es ESP,FW,Betis,29-108,1993,0.2,1,0,0,2,0,0,0,0,2,0,0,0,1,0,2,0.0,Matches
+dc1ce4f5,Cristhian Mosquera,co COL,DF,Valencia,18-294,2004,1.6,0,0,0,0,1,0,1,1,2,0,0,0,8,3,2,60.0,Matches
+5487adcd,Abdul Mumin,gh GHA,DF,Rayo Vallecano,24-315,1998,4.7,1,0,0,3,5,0,2,5,4,0,0,0,28,8,10,44.4,Matches
+c05dfb74,Iker Muniain,es ESP,"MF,FW",Athletic Club,30-119,1992,15.8,2,0,0,11,52,0,93,3,13,0,0,0,64,2,13,13.3,Matches
+228b0d9d,Aihen Muñoz,es ESP,DF,Real Sociedad,25-244,1997,12.7,0,0,0,18,6,0,37,5,16,0,0,0,56,16,16,50.0,Matches
+49a6ecbb,Álvaro Muñoz,uy URU,"FW,MF",Real Madrid,18-277,2004,0.2,0,0,0,2,0,1,0,0,0,0,0,0,3,0,3,0.0,Matches
+175ece4c,Iker Muñoz,es ESP,MF,Osasuna,20-163,2002,0.2,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+44e8521b,Pablo Muñoz,es ESP,MF,Rayo Vallecano,19-225,2003,0.1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,,Matches
+0cadc46d,Vedat Muriqi,xk KVX,FW,Mallorca,28-358,1994,23.9,5,1,0,44,28,22,10,7,6,0,0,0,69,139,120,53.7,Matches
+b51b1b9c,Yunus Musah,us USA,MF,Valencia,20-139,2002,20.1,8,0,0,32,36,2,28,10,29,0,0,0,88,25,28,47.2,Matches
+2946f9a1,Nacho,es ESP,DF,Real Madrid,33-089,1990,12.3,5,0,0,13,9,3,10,11,10,0,0,1,61,24,19,55.8,Matches
+485e4939,Juanjo Narváez,co COL,"MF,FW",Valladolid,28-064,1995,1.6,0,0,0,1,9,1,1,0,1,0,0,0,5,3,6,33.3,Matches
+f35430a4,Matija Nastasić,rs SRB,DF,Mallorca,30-020,1993,9.6,3,0,0,12,0,1,1,18,8,0,0,0,31,9,6,60.0,Matches
+c997b942,Roberto Navarro,es ESP,"MF,FW",Real Sociedad,21-005,2002,3.9,2,0,0,8,6,5,16,2,4,0,0,0,22,7,5,58.3,Matches
+3f10bd22,Jesús Navas,es ESP,"DF,FW",Sevilla,37-147,1985,18.4,4,0,0,6,29,7,116,17,9,0,0,1,107,12,23,34.3,Matches
+63b0ca6b,Álvaro Negredo,es ESP,FW,Cádiz,37-240,1985,7.0,0,0,0,5,7,5,1,0,4,0,0,0,7,27,22,55.1,Matches
+5853ac44,Tanguy Nianzou,fr FRA,DF,Sevilla,20-314,2002,13.7,1,1,0,10,11,0,1,14,13,0,0,0,67,28,11,71.8,Matches
+c14bc029,Saúl Ñíguez,es ESP,"MF,DF",Atlético Madrid,28-147,1994,7.5,7,0,0,26,2,1,11,12,19,0,1,0,34,28,19,59.6,Matches
+81d5c497,Fernando Niño,es ESP,"MF,FW",Villarreal,22-175,2000,0.2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+c487901c,Diego Noguerol,es ESP,"FW,DF",Valencia,20-339,2002,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+a6103274,Randy Ntekja,fr FRA,FW,Elche,25-132,1997,3.1,1,0,0,10,11,2,0,1,7,0,0,0,14,10,20,33.3,Matches
+a6103274,Randy Ntekja,fr FRA,"FW,MF",Rayo Vallecano,25-132,1997,1.3,0,1,0,4,5,0,0,2,2,0,0,0,11,5,4,55.6,Matches
+be170419,Unai Núñez,es ESP,DF,Celta Vigo,26-077,1997,26.0,6,0,0,21,22,1,1,55,24,0,0,1,152,48,39,55.2,Matches
+ee8508c0,Jan Oblak,si SVN,GK,Atlético Madrid,30-100,1993,26.7,1,0,0,0,3,0,0,0,0,0,0,0,24,1,0,100.0,Matches
+2e3995cd,Brian Ocampo,uy URU,"MF,FW",Cádiz,23-296,1999,12.4,2,0,0,32,27,2,34,3,15,0,0,0,92,7,13,35.0,Matches
+a08b974a,Lucas Ocampos,ar ARG,"FW,MF",Sevilla,28-280,1994,8.9,6,0,0,9,16,4,14,5,10,0,0,0,53,19,12,61.3,Matches
+1d1691ad,Álvaro Odriozola,es ESP,DF,Real Madrid,27-124,1995,0.4,0,0,0,0,1,0,3,0,0,0,0,0,1,0,1,0.0,Matches
+3d99999d,Olasagasti,es ESP,"MF,DF",Real Sociedad,22-244,2000,0.7,0,0,0,1,4,0,0,0,4,0,0,0,6,2,0,100.0,Matches
+4cee5954,Lucas Olaza,uy URU,DF,Valladolid,28-270,1994,13.6,3,0,0,10,16,2,65,13,13,0,0,0,55,21,27,43.8,Matches
+a3e4bf46,Brian Oliván,es ESP,DF,Espanyol,29-016,1994,21.3,6,0,0,27,12,3,102,18,23,0,0,0,115,14,30,31.8,Matches
+5132b92c,Lucas Oliveira Rosa,br BRA,DF,Valladolid,23-014,2000,7.8,2,0,0,14,9,1,19,14,13,0,0,0,42,11,7,61.1,Matches
+7c363088,Aimar Oroz,es ESP,"MF,FW",Osasuna,21-141,2001,15.1,6,0,0,29,43,2,5,17,8,0,0,0,69,13,30,30.2,Matches
+f9358b61,Pedro Ortiz,es ESP,MF,Sevilla,22-241,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+8c3c640c,Mikel Oyarzabal,es ESP,"FW,MF",Real Sociedad,25-361,1997,8.3,0,0,0,5,10,10,10,0,3,1,0,0,32,11,22,33.3,Matches
+9a93efc9,Cenk Özkacar,tr TUR,DF,Valencia,22-193,2000,11.7,1,0,0,4,6,0,1,9,13,0,0,0,91,40,31,56.3,Matches
+97852360,Fernando Pacheco,es ESP,GK,Almería,30-334,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+97852360,Fernando Pacheco,es ESP,GK,Espanyol,30-334,1992,8.0,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,100.0,Matches
+44150beb,Jon Pacheco,es ESP,DF,Real Sociedad,22-099,2001,9.5,2,0,0,11,7,1,0,6,9,0,1,0,38,19,18,51.4,Matches
+962e54cb,Gonçalo Paciência,pt POR,"FW,MF",Celta Vigo,28-259,1994,4.9,2,1,0,11,12,0,4,0,4,0,0,0,15,18,18,50.0,Matches
+ac8b2421,Helibelton Palacios,co COL,DF,Elche,29-310,1993,20.3,6,0,0,29,19,0,18,18,20,0,0,0,113,21,24,46.7,Matches
+49dbab27,Isaac Palazón Camacho,es ESP,"FW,MF",Rayo Vallecano,28-111,1994,24.8,4,0,0,30,81,7,135,12,24,0,0,0,148,24,65,27.0,Matches
+b906757a,Aitor Paredes,es ESP,DF,Athletic Club,22-353,2000,2.7,1,0,0,5,2,0,0,7,2,0,0,0,18,2,3,40.0,Matches
+7460ca0d,Daniel Parejo,es ESP,MF,Villarreal,34-001,1989,28.5,3,0,0,23,56,0,129,22,33,0,0,0,210,13,16,44.8,Matches
+e2dcc60e,Moises Parra Gutierrez,es ESP,FW,Getafe,20-297,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+647d39d2,Raúl Parra,es ESP,DF,Cádiz,23-142,1999,2.7,1,0,0,5,2,0,6,1,1,0,0,0,13,2,1,66.7,Matches
+881ef58c,Javier Pastore,ar ARG,MF,Elche,33-301,1989,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches
+b7ca5c51,Gabriel Paulista,br BRA,DF,Valencia,32-142,1990,9.7,2,1,0,9,9,0,0,15,5,0,1,0,46,29,12,70.7,Matches
+63f04c6c,Alfonso Pedraza,es ESP,DF,Villarreal,27-008,1996,13.5,3,0,0,16,14,2,52,12,20,0,0,0,61,11,9,55.0,Matches
+0d9b2d31,Pedri,es ESP,MF,Barcelona,20-143,2002,18.1,2,0,0,8,36,3,21,11,20,0,0,0,114,1,2,33.3,Matches
+112521d1,Pedrosa,es ESP,DF,Espanyol,24-339,1998,0.3,0,0,0,0,0,1,0,2,0,0,0,0,2,0,0,,Matches
+1f079188,Rubén Peña,es ESP,"DF,MF",Osasuna,31-273,1991,7.9,1,1,0,17,4,0,36,10,10,0,0,0,53,10,12,45.5,Matches
+5496cc91,Alberto Perea,es ESP,MF,Cádiz,32-119,1990,0.5,0,0,0,0,2,0,1,0,0,0,0,0,2,0,2,0.0,Matches
+819aa8e7,Ayoze Pérez,es ESP,"FW,MF",Betis,29-262,1993,7.3,2,0,0,16,13,2,2,5,10,2,0,0,26,4,14,22.2,Matches
+a8f21b9f,Carles Pérez,es ESP,"MF,FW",Celta Vigo,25-060,1998,16.8,5,0,0,28,23,5,20,5,15,1,0,0,80,5,26,16.1,Matches
+3d79a68c,Francisco Perez,es ESP,"FW,MF",Valencia,20-220,2002,1.6,2,0,0,4,3,3,8,0,1,0,0,0,12,0,2,0.0,Matches
+237a3851,Kike Pérez,es ESP,MF,Valladolid,26-062,1997,20.2,6,0,0,39,46,3,47,17,23,0,0,0,143,26,23,53.1,Matches
+a300ac7e,Lucas Pérez,es ESP,FW,Cádiz,34-219,1988,7.0,3,0,0,5,4,6,40,1,2,0,0,0,21,2,8,20.0,Matches
+b7c04927,Luis Pérez,es ESP,DF,Valladolid,28-072,1995,11.3,2,0,0,9,11,3,43,15,22,0,0,0,45,4,14,22.2,Matches
+8c725b43,Germán Pezzella,ar ARG,DF,Betis,31-294,1991,21.0,2,2,0,18,12,1,2,39,21,0,0,0,87,54,23,70.1,Matches
+64ba07c0,Ronaël Pierre-Gabriel,fr FRA,DF,Espanyol,24-308,1998,1.9,2,1,1,4,3,0,7,7,6,0,0,0,13,4,2,66.7,Matches
+540ec57b,Yeremi Pino,es ESP,"FW,MF",Villarreal,20-179,2002,19.1,5,0,0,49,41,12,17,13,28,0,0,0,73,19,31,38.0,Matches
+adfc9123,Gerard Piqué,es ESP,DF,Barcelona,36-074,1987,4.3,2,1,0,7,2,0,0,2,4,0,0,0,26,20,6,76.9,Matches
+7c388b20,Óscar Plano,es ESP,"FW,MF",Valladolid,32-065,1991,20.5,3,0,0,20,46,4,22,28,23,1,0,0,97,31,42,42.5,Matches
+54bcdeb0,Gonzalo Plata,ec ECU,"FW,MF",Valladolid,22-167,2000,18.0,0,0,0,11,29,2,33,7,25,1,0,0,92,13,35,27.1,Matches
+ccbbe661,Ezequiel Ponce,ar ARG,"FW,MF",Elche,26-019,1997,11.7,2,1,0,29,9,7,1,1,6,1,0,0,35,34,40,45.9,Matches
+8e010ff4,Francisco Portillo,es ESP,"MF,FW",Almería,32-308,1990,4.8,1,0,0,1,2,2,9,5,4,0,0,0,38,4,4,50.0,Matches
+1bda5842,Portu,es ESP,"DF,MF",Getafe,30-331,1992,14.3,5,1,1,20,19,6,65,16,15,0,0,0,69,13,24,35.1,Matches
+fc8b614b,José Pozo,es ESP,"MF,FW",Rayo Vallecano,27-033,1996,0.9,0,0,0,2,3,0,3,1,2,0,0,0,5,2,2,50.0,Matches
+35440884,Manuel Pozo,es ESP,FW,Valladolid,21-126,2001,0.2,0,0,0,0,0,0,1,2,0,0,0,0,4,0,0,,Matches
+3c16d927,Alejandro Pozo Pozo,es ESP,"DF,MF",Almería,24-054,1999,14.0,0,0,0,7,10,1,54,19,14,0,1,0,94,6,14,30.0,Matches
+d1b060e2,Abdón Prats,es ESP,"FW,MF",Mallorca,30-131,1992,3.1,1,0,0,5,6,1,0,0,0,0,0,0,7,6,27,18.2,Matches
+2683eda7,Javi Puado,es ESP,"FW,MF",Espanyol,24-327,1998,19.4,3,0,0,10,17,4,22,9,6,0,0,0,107,14,31,31.1,Matches
+39352da2,Arnau Puigmal,es ESP,"MF,DF",Almería,22-097,2001,6.1,4,0,0,7,10,1,13,10,9,0,1,0,28,3,5,37.5,Matches
+41fb0f4e,Domingos Quina,pt POR,MF,Elche,23-150,1999,3.1,3,1,1,5,11,0,6,3,2,0,0,0,27,0,1,0.0,Matches
+b857bd29,Antonio Raillo,es ESP,DF,Mallorca,31-191,1991,27.0,9,0,0,38,19,3,0,26,21,1,0,0,123,78,45,63.4,Matches
+58ad9383,Predrag Rajković,rs SRB,GK,Mallorca,27-168,1995,28.0,3,0,0,1,3,0,0,0,0,0,1,0,19,1,1,50.0,Matches
+89f951b5,Ivan Rakitić,hr CRO,MF,Sevilla,35-038,1988,14.3,3,1,0,14,22,2,43,18,16,0,0,0,76,16,11,59.3,Matches
+cc9256ef,Largie Ramazani,be BEL,"FW,MF",Almería,22-049,2001,13.9,5,0,0,26,12,12,18,10,7,0,0,0,53,4,16,20.0,Matches
+44e07fac,Chris Ramos,es ESP,"FW,MF",Cádiz,26-089,1997,3.3,1,0,0,12,6,0,3,1,4,0,0,0,13,27,27,50.0,Matches
+3423f250,Raphinha,br BRA,FW,Barcelona,26-124,1996,16.8,6,0,0,13,28,10,131,12,14,0,0,0,72,9,8,52.9,Matches
+3353737a,Sergio Reguilón,es ESP,DF,Atlético Madrid,26-122,1996,1.0,2,1,1,1,3,1,5,1,2,0,0,0,5,3,1,75.0,Matches
+e358587b,Pepe Reina,es ESP,GK,Villarreal,40-229,1982,14.0,2,0,0,0,0,0,0,1,0,0,0,0,13,1,0,100.0,Matches
+6b21b7b5,Reinier,br BRA,"MF,FW",Girona,21-088,2002,3.9,1,1,0,3,10,1,2,2,4,0,0,0,16,2,8,20.0,Matches
+3376a776,Karim Rekik,nl NED,DF,Sevilla,28-136,1994,8.1,1,0,0,14,4,0,1,6,1,0,0,0,36,14,5,73.7,Matches
+374ee424,Álex Remiro,es ESP,GK,Real Sociedad,28-024,1995,29.0,1,0,0,0,2,0,0,0,0,0,0,0,48,5,0,100.0,Matches
+14d5b7ac,Alejandro Revuelta Montero,es ESP,DF,Getafe,23-001,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+b3b9b8b8,Chadi Riad,ma MAR,MF,Barcelona,19-304,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+ce8039aa,Nico Ribaudo,es ESP,"MF,FW",Espanyol,22-006,2001,6.9,3,0,0,18,19,1,17,2,8,0,0,0,35,9,17,34.6,Matches
+d9ba39fc,Diego Rico,es ESP,DF,Real Sociedad,30-053,1993,16.3,3,0,0,26,25,1,50,19,16,0,0,0,89,16,16,50.0,Matches
+65154df0,Rodrigo Riquelme,es ESP,"MF,FW",Girona,23-015,2000,18.5,1,0,0,23,29,5,50,9,7,0,0,0,87,7,12,36.8,Matches
+335fa267,Sergi Roberto,es ESP,"DF,MF",Barcelona,31-069,1992,12.2,3,0,0,17,10,1,20,10,14,0,0,0,55,4,11,26.7,Matches
+a8981944,Lucas Robertone,ar ARG,MF,Almería,26-030,1997,24.1,7,0,0,27,66,3,111,33,21,0,0,0,153,16,31,34.0,Matches
+5f21b94c,Joel Roca,es ESP,"MF,FW",Girona,17-314,2005,0.7,1,0,0,1,4,0,0,0,2,0,0,0,5,0,0,,Matches
+37f827ec,Enzo Roco,cl CHI,DF,Elche,30-244,1992,16.4,6,1,1,31,10,0,1,13,12,0,4,0,71,38,19,66.7,Matches
+85bed4ee,Rodrigo,es ESP,"FW,MF",Betis,22-336,2000,14.4,0,0,0,5,33,2,33,11,8,1,0,0,81,0,9,0.0,Matches
+8cfc2f69,Ángel Rodríguez,es ESP,"FW,MF",Mallorca,35-356,1987,3.0,1,0,0,7,5,2,2,1,1,0,0,0,4,8,3,72.7,Matches
+19709006,Óscar Rodríguez Arnaiz,es ESP,MF,Celta Vigo,24-293,1998,14.5,5,0,0,17,21,1,62,15,21,0,0,0,86,10,15,40.0,Matches
+70f8e0bd,Dani Rodríguez,es ESP,MF,Mallorca,34-315,1988,18.0,7,0,0,38,26,4,24,16,16,0,0,0,100,9,32,22.0,Matches
+34e393f2,Guido Rodríguez,ar ARG,MF,Betis,29-005,1994,22.9,6,0,0,27,44,1,6,30,48,0,0,0,140,32,22,59.3,Matches
+958d67bb,Miguel Rodríguez,es ESP,FW,Celta Vigo,19-353,2003,0.2,0,0,0,1,2,0,0,0,0,0,0,0,3,0,1,0.0,Matches
+8f5e92a6,Rodrygo,br BRA,FW,Real Madrid,22-098,2001,20.3,2,0,0,18,36,6,20,6,6,2,0,0,40,11,18,37.9,Matches
+2fbe6af0,Iván Romero,es ESP,MF,Sevilla,22-007,2001,0.1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+4b511457,Oriol Romeu,es ESP,MF,Girona,31-205,1991,24.8,8,0,0,49,23,0,12,26,30,0,1,0,152,30,37,44.8,Matches
+35d4f151,Rubén,es ESP,"DF,MF",Espanyol,22-072,2001,9.6,1,0,0,18,6,0,48,17,15,0,0,0,64,14,4,77.8,Matches
+18b896d6,Antonio Rüdiger,de GER,DF,Real Madrid,30-045,1993,19.8,1,0,0,8,5,1,3,13,11,0,0,0,120,27,14,65.9,Matches
+a55d8df5,Aitor Ruibal,es ESP,"DF,FW",Betis,27-026,1996,13.7,3,1,0,20,17,2,24,22,24,0,0,0,82,10,15,40.0,Matches
+b3dc6eca,Víctor Ruiz,es ESP,DF,Betis,34-082,1989,6.2,0,0,0,4,2,1,0,6,3,0,0,0,29,17,7,70.8,Matches
+625c144a,Gerónimo Rulli,ar ARG,GK,Villarreal,30-332,1992,14.0,1,0,0,0,1,0,0,1,0,0,0,0,20,3,0,100.0,Matches
+b75ac54b,Franco Russo,ar ARG,DF,Mallorca,28-174,1994,1.6,0,0,0,0,2,0,0,3,1,0,0,0,12,3,2,60.0,Matches
+fbbb9269,Youssouf Sabaly,sn SEN,DF,Betis,30-043,1993,14.2,1,0,0,15,26,0,14,16,15,0,0,0,86,5,10,33.3,Matches
+686cbe7d,Umar Sadiq,ng NGA,FW,Almería,26-074,1997,2.7,1,0,0,9,2,7,0,0,0,0,0,0,8,4,10,28.6,Matches
+686cbe7d,Umar Sadiq,ng NGA,FW,Real Sociedad,26-074,1997,0.9,0,0,0,3,1,4,0,0,1,0,0,0,1,2,2,50.0,Matches
+13e0eb29,Samuel Sáiz,es ESP,MF,Girona,32-085,1991,2.7,1,0,0,3,4,2,6,0,2,0,0,0,15,2,3,40.0,Matches
+405f267a,Salvi,es ESP,"FW,MF",Rayo Vallecano,32-018,1991,3.8,2,0,0,5,6,2,25,2,5,0,0,0,21,3,4,42.9,Matches
+2a295d33,Samuel,br BRA,"FW,MF",Valencia,23-115,1999,25.2,3,0,0,29,44,13,58,12,30,2,0,0,123,14,28,33.3,Matches
+efecd633,Fede San Emeterio,es ESP,MF,Cádiz,26-032,1997,15.3,8,0,0,42,20,0,3,7,15,0,0,0,56,18,25,41.9,Matches
+bdb624a3,Oihan Sancet,es ESP,MF,Athletic Club,22-357,2000,21.4,3,1,0,32,43,1,11,3,11,0,0,0,116,19,19,50.0,Matches
+a254bbe0,Antonio Sánchez,es ESP,MF,Mallorca,26-106,1997,7.9,4,0,0,19,12,0,18,9,5,1,1,0,58,6,9,40.0,Matches
+70107d4d,Iván Sánchez,es ESP,"MF,FW",Valladolid,30-206,1992,11.8,0,0,0,9,37,1,28,7,14,0,0,0,56,2,12,14.3,Matches
+60359288,Javi Sánchez,es ESP,DF,Valladolid,26-034,1997,21.0,10,0,0,27,4,0,4,37,21,0,1,0,90,37,29,56.1,Matches
+ffacd3d5,Manuel Sánchez,es ESP,DF,Osasuna,22-236,2000,15.5,1,0,0,12,8,0,53,11,26,1,0,0,77,11,7,61.1,Matches
+79f2a5f5,Esteban Saveljich,me MNE,FW,Rayo Vallecano,31-332,1991,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+f6ac68c1,Stefan Savić,me MNE,DF,Atlético Madrid,32-099,1991,19.6,3,2,0,29,8,1,0,31,25,0,0,0,100,52,27,65.8,Matches
+a45eac1f,Haris Seferović,ch SUI,FW,Celta Vigo,31-054,1992,5.3,1,0,0,1,3,4,8,1,2,0,0,0,10,8,8,50.0,Matches
+a62b4888,Jaime Seoane,es ESP,MF,Getafe,26-085,1997,3.4,0,0,0,4,4,0,2,1,4,0,0,0,16,2,3,40.0,Matches
+e2716bd0,David Silva,es ESP,MF,Real Sociedad,37-099,1986,17.2,3,0,0,20,26,3,17,12,14,0,0,0,100,9,11,45.0,Matches
+ea83bfa6,Rui Silva,pt POR,GK,Betis,29-069,1994,23.0,2,0,0,0,2,0,0,0,1,0,0,0,38,4,1,80.0,Matches
+5dcf3e90,Unai Simón,es ESP,GK,Athletic Club,25-310,1997,23.5,2,0,0,0,1,0,0,0,0,0,0,0,27,0,0,,Matches
+19b776e9,Rubén Sobrino,es ESP,"MF,FW",Cádiz,30-320,1992,19.8,9,0,0,39,38,7,9,16,23,0,0,0,115,44,49,47.3,Matches
+5fa714d5,Alex Sola,es ESP,DF,Real Sociedad,23-312,1999,3.9,1,0,0,3,8,0,12,7,9,0,0,0,17,7,3,70.0,Matches
+3ca6106c,Augusto Solari,ar ARG,"MF,FW",Celta Vigo,31-104,1992,2.4,0,0,0,7,3,0,2,4,5,0,0,0,16,4,3,57.1,Matches
+fed17f5a,Carlos Soler,es ESP,MF,Valencia,26-105,1997,2.7,0,0,0,2,4,0,16,0,0,0,0,0,4,1,1,50.0,Matches
+8f8c6934,David Soria,es ESP,GK,Getafe,30-013,1993,29.0,1,0,0,1,2,0,0,1,0,0,0,0,32,4,0,100.0,Matches
+3aa74860,Hugo Sotelo,es ESP,MF,Celta Vigo,19-119,2003,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+e4738e91,Dyego Sousa,pt POR,FW,Almería,33-215,1989,4.1,1,0,0,7,7,3,1,1,2,0,0,0,13,15,11,57.7,Matches
+6a8a7af8,Vinicius Souza,br BRA,MF,Espanyol,23-304,1999,24.5,8,1,1,59,34,0,4,42,62,0,1,0,137,67,58,53.6,Matches
+f553b2b3,Jørgen Strand Larsen,no NOR,FW,Celta Vigo,23-070,2000,14.3,4,0,0,30,33,11,0,2,5,1,0,0,27,35,33,51.5,Matches
+220c11f1,Cristhian Stuani,uy URU,FW,Girona,36-187,1986,8.5,7,0,0,27,17,5,2,1,3,0,0,0,19,10,17,37.0,Matches
+ba5004e1,Damián Suárez,uy URU,"DF,MF",Getafe,34-355,1988,14.8,4,0,0,28,9,2,60,11,25,0,0,0,88,10,8,55.6,Matches
+12c50af5,Denis Suárez,es ESP,MF,Espanyol,29-101,1994,4.9,1,0,0,10,6,0,16,2,5,0,0,0,23,2,6,25.0,Matches
+7106f0a0,Mario Suárez,es ESP,"DF,MF",Rayo Vallecano,36-052,1987,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+4e219ad2,Suso,es ESP,"MF,FW",Sevilla,29-149,1993,8.5,1,0,0,9,14,6,53,2,7,0,0,0,36,2,5,28.6,Matches
+184fe4b2,Williot Swedberg,se SWE,MF,Celta Vigo,19-075,2004,0.4,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,,Matches
+e92cd3f7,Alexander Sørloth,no NOR,FW,Real Sociedad,27-133,1995,19.8,4,0,0,29,9,14,3,2,8,0,0,0,53,40,32,55.6,Matches
+34269bdf,Renato Tapia,pe PER,"MF,DF",Celta Vigo,27-263,1995,10.1,5,1,1,17,13,0,6,11,15,0,1,0,50,19,11,63.3,Matches
+4f255115,Aurélien Tchouaméni,fr FRA,MF,Real Madrid,23-080,2000,16.8,1,0,0,27,25,0,8,32,30,0,0,0,83,39,20,66.1,Matches
+e73c9bb2,Alex Telles,br BRA,DF,Sevilla,30-123,1992,11.3,5,0,0,20,10,1,65,15,8,1,0,0,51,16,14,53.3,Matches
+6f51e382,Marc-André ter Stegen,de GER,GK,Barcelona,30-352,1992,29.0,0,0,0,0,1,0,0,1,0,0,0,0,48,4,1,80.0,Matches
+f36016a5,Ramón Terrats,es ESP,MF,Villarreal,22-181,2000,5.1,1,0,0,9,12,0,10,2,6,0,0,0,22,5,6,45.5,Matches
+f36016a5,Ramón Terrats,es ESP,MF,Girona,22-181,2000,2.4,0,0,0,3,3,0,2,3,2,0,0,0,9,0,7,0.0,Matches
+02ef8778,Raúl de Tomás,es ESP,FW,Rayo Vallecano,28-182,1994,3.6,1,0,0,10,9,9,2,0,0,0,0,0,6,8,14,36.4,Matches
+04e531b6,Pablo Torre,es ESP,"MF,FW",Barcelona,20-014,2003,0.5,0,0,0,3,0,0,4,1,1,0,0,0,3,1,0,100.0,Matches
+381dbcfc,David Torres,es ESP,DF,Valladolid,20-043,2003,1.5,0,0,0,2,1,0,1,2,1,0,0,0,5,2,2,50.0,Matches
+9e1035f8,Ferrán Torres,es ESP,FW,Barcelona,23-047,2000,12.6,4,1,0,14,22,7,55,2,4,0,0,0,48,7,8,46.7,Matches
+58a9a4d9,Óliver Torres,es ESP,"MF,FW",Sevilla,28-158,1994,19.1,1,0,0,15,37,6,47,9,20,0,0,0,112,5,15,25.0,Matches
+532e1e4f,Pau Torres,es ESP,DF,Villarreal,26-091,1997,25.9,9,0,0,17,15,0,4,9,17,2,0,1,155,44,38,53.7,Matches
+d733aa38,Roberto Torres,es ESP,"FW,MF",Osasuna,34-041,1989,0.1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,,Matches
+0e4fef6e,Lucas Torró,es ESP,MF,Osasuna,28-272,1994,21.9,9,0,0,55,26,0,1,34,28,0,0,0,141,59,41,59.0,Matches
+e96b2583,Nabil Touaizi,ma MAR,MF,Espanyol,22-075,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+fc647b34,Óscar Trejo,ar ARG,"MF,FW",Rayo Vallecano,34-356,1988,19.5,8,0,0,62,57,4,27,6,27,0,0,0,111,9,31,22.5,Matches
+963829d0,Manu Trigueros,es ESP,MF,Villarreal,31-182,1991,6.9,2,1,0,9,9,1,2,3,8,0,0,0,25,3,10,23.1,Matches
+f7e87032,Viktor Tsyhankov,ua UKR,MF,Girona,25-153,1997,7.8,0,0,0,6,11,1,19,7,4,0,0,0,42,5,8,38.5,Matches
+068f4dec,Beñat Turrientes,es ESP,"MF,FW",Real Sociedad,21-076,2002,1.2,0,0,0,2,1,0,4,0,3,0,0,0,7,0,2,0.0,Matches
+f8eca1b6,Enes Ünal,tr TUR,FW,Getafe,25-342,1997,28.0,4,0,0,42,67,25,14,5,12,1,0,0,78,114,140,44.9,Matches
+2dd7e29d,Oscar Ureña,es ESP,MF,Girona,20-106,2003,1.1,0,0,0,2,1,0,4,1,2,0,0,0,3,0,1,0.0,Matches
+592f3158,Óscar Valentín,es ESP,MF,Rayo Vallecano,28-240,1994,21.4,8,0,0,61,36,1,3,33,41,0,0,0,152,24,33,42.1,Matches
+4acd733a,Valery,es ESP,"MF,DF",Girona,23-145,1999,7.9,1,0,0,3,10,3,15,8,6,1,1,0,38,6,3,66.7,Matches
+0a69de7b,Enrique Valiente,es ESP,DF,Sevilla,20-359,2002,4.1,1,1,0,4,1,0,0,5,1,0,1,0,14,9,6,60.0,Matches
+f2c6ac01,Martin Valjent,sk SVK,DF,Mallorca,27-127,1995,20.5,8,0,0,24,6,0,6,19,14,0,1,0,74,20,13,60.6,Matches
+c2111b45,Jesús Vallejo,es ESP,DF,Real Madrid,26-102,1997,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+0bc4e720,Manu Vallejo,es ESP,"FW,MF",Girona,26-062,1997,2.3,0,0,0,1,6,1,7,1,1,2,0,0,8,0,5,0.0,Matches
+0959c2a2,Federico Valverde,uy URU,"MF,FW",Real Madrid,24-269,1998,23.8,2,0,0,10,14,3,23,16,19,0,0,0,114,26,11,70.3,Matches
+106c142c,Jesus Vazquez,es ESP,DF,Valencia,20-105,2003,3.3,1,0,0,3,4,0,11,1,8,0,0,0,22,2,4,33.3,Matches
+ee923664,Kevin Vázquez,es ESP,"DF,MF",Celta Vigo,30-025,1993,2.0,0,0,0,5,1,0,3,0,3,0,0,0,15,0,3,0.0,Matches
+fd51b456,Lucas Vázquez,es ESP,DF,Real Madrid,31-290,1991,8.2,1,0,0,14,8,2,24,6,18,0,0,0,41,1,5,16.7,Matches
+35a6e5c7,Gabriel Veiga,es ESP,MF,Celta Vigo,20-325,2002,17.6,5,1,0,30,21,3,21,14,15,0,0,0,94,14,10,58.3,Matches
+4112ace5,Unai Vencedor Paris,es ESP,MF,Athletic Club,22-153,2000,1.7,2,0,0,9,2,0,2,1,1,0,0,0,13,1,0,100.0,Matches
+1c2c55fc,Gonzalo Verdú,es ESP,DF,Elche,34-178,1988,6.7,1,2,0,9,4,0,0,10,3,0,0,0,29,19,12,61.3,Matches
+b0fce72c,Mikel Vesga,es ESP,MF,Athletic Club,29-331,1993,22.6,4,0,0,38,17,0,9,29,23,1,0,1,168,52,37,58.4,Matches
+04965583,Aleix Vidal,es ESP,"FW,MF",Espanyol,33-239,1989,10.5,6,1,1,20,16,1,27,14,5,0,0,0,57,2,7,22.2,Matches
+3a9c4b7b,Nacho Vidal,es ESP,DF,Osasuna,28-083,1995,12.7,4,0,0,27,15,0,29,19,14,0,0,0,58,27,11,71.1,Matches
+636eae97,Toni Villa,es ESP,MF,Valladolid,28-100,1995,1.0,0,0,0,0,1,1,5,0,3,0,0,0,6,0,0,,Matches
+636eae97,Toni Villa,es ESP,"MF,FW",Girona,28-100,1995,9.9,2,0,0,11,18,7,27,8,18,0,0,0,52,1,5,16.7,Matches
+57be54ec,Asier Villalibre,es ESP,FW,Athletic Club,25-199,1997,1.1,0,0,0,3,1,0,0,0,0,0,0,0,2,2,2,50.0,Matches
+bdc74a8f,Gonzalo Villar,es ESP,"MF,FW",Getafe,25-025,1998,2.9,3,0,0,13,5,0,1,4,4,0,0,0,28,3,4,42.9,Matches
+cde52ef5,Iván Villar,es ESP,GK,Celta Vigo,25-282,1997,9.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0.0,Matches
+ab7bf91d,Daniel Vivian,es ESP,DF,Athletic Club,23-276,1999,19.4,5,0,0,29,12,1,5,22,21,0,0,0,152,30,44,40.5,Matches
+379dc075,Shon Weissman,il ISR,FW,Valladolid,27-062,1996,8.3,1,0,0,5,8,7,2,1,1,0,0,0,24,4,23,14.8,Matches
+c0b1a6da,Axel Werner,ar ARG,GK,Elche,27-048,1996,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+6a99e0b1,Iñaki Williams,gh GHA,FW,Athletic Club,28-306,1994,23.6,1,0,0,24,22,21,71,5,12,0,0,0,61,25,30,45.5,Matches
+afdc14d7,Nico Williams,es ESP,FW,Athletic Club,20-279,2002,23.6,1,0,0,17,26,13,137,6,12,1,0,0,120,11,22,33.3,Matches
+5dfc6ad5,Axel Witsel,be BEL,"DF,MF",Atlético Madrid,34-095,1989,16.7,2,0,0,10,12,0,2,15,11,0,0,0,82,24,20,54.5,Matches
+f6f6b6e8,Jawad El Yamiq,ma MAR,DF,Valladolid,31-047,1992,12.7,0,1,0,6,4,0,0,29,9,0,0,0,83,31,14,68.9,Matches
+5ca20b7a,Joseba Zaldúa,es ESP,DF,Cádiz,30-297,1992,7.1,4,0,0,11,4,2,12,11,8,0,0,0,23,19,12,61.3,Matches
+968a1c2f,Oier Zarraga,es ESP,MF,Athletic Club,24-103,1999,7.5,4,0,0,12,11,0,22,6,7,0,0,0,44,9,10,47.4,Matches
+5c7845f6,Igor Zubeldia,es ESP,DF,Real Sociedad,26-018,1997,21.0,7,0,0,35,10,1,3,16,14,0,0,1,114,51,36,58.6,Matches
+3ee0dd59,Martín Zubimendi,es ESP,MF,Real Sociedad,24-074,1999,25.8,10,0,0,40,27,1,3,23,25,0,1,0,177,49,25,66.2,Matches
