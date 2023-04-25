@@ -1,35 +1,35 @@
 id,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
-7a2e46a8,Alisson,br BRA,GK,Liverpool,30-197,1992,29,29,2610,29.0,35,1.21,120,86,72.5,12,8,9,11,37.9,3,2,1,0,33.3,Matches
-2f965a72,Alphonse Areola,fr FRA,GK,West Ham,30-049,1993,5,2,309,3.4,7,2.04,16,9,68.8,0,1,1,1,50.0,2,2,0,0,0.0,Matches
-28d596a0,Kepa Arrizabalaga,es ESP,GK,Chelsea,28-196,1994,23,23,2025,22.5,21,0.93,91,72,76.9,7,8,8,9,39.1,0,0,0,0,,Matches
-c91441dc,Gavin Bazunu,ie IRL,GK,Southampton,21-056,2002,31,31,2790,31.0,53,1.71,115,65,54.8,6,5,20,4,12.9,2,1,1,0,50.0,Matches
-7b4de647,Asmir Begović,ba BIH,GK,Everton,35-301,1987,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
-3a949a25,Martin Dúbravka,sk SVK,GK,Newcastle Utd,34-092,1989,1,0,67,0.7,0,0.00,5,5,100.0,0,0,0,0,,0,0,0,0,,Matches
-3bb7b8b4,Ederson,br BRA,GK,Manchester City,29-243,1993,30,30,2700,30.0,28,0.93,66,39,62.1,22,4,4,10,33.3,3,3,0,0,0.0,Matches
-9328b835,Łukasz Fabiański,pl POL,GK,West Ham,37-364,1985,28,28,2391,26.6,34,1.28,112,78,70.5,8,6,14,6,21.4,3,1,1,1,50.0,Matches
-c3e39f12,Fraser Forster,eng ENG,GK,Tottenham,35-031,1988,7,7,630,7.0,11,1.57,30,18,66.7,3,2,2,2,28.6,2,1,1,0,50.0,Matches
-7ba6d84e,David de Gea,es ESP,GK,Manchester Utd,32-161,1990,30,30,2700,30.0,37,1.23,112,76,67.9,18,5,7,14,46.7,1,1,0,0,0.0,Matches
-ab13a5aa,Vicente Guaita,es ESP,GK,Crystal Palace,36-097,1987,27,27,2430,27.0,34,1.26,116,84,72.4,7,9,11,6,22.2,2,2,0,0,0.0,Matches
-e5a76dfe,Dean Henderson,eng ENG,GK,Nott'ham Forest,26-036,1997,18,18,1620,18.0,31,1.72,85,52,65.9,5,5,8,6,33.3,5,2,2,1,50.0,Matches
-76eca7e2,Wayne Hennessey,wls WAL,GK,Nott'ham Forest,36-083,1987,2,2,180,2.0,4,2.00,11,7,63.6,0,1,1,0,0.0,0,0,0,0,,Matches
-10d221cd,Daniel Iversen,dk DEN,GK,Leicester City,25-272,1997,5,5,450,5.0,9,1.80,27,19,70.4,0,1,4,0,0.0,1,1,0,0,0.0,Matches
-9e5708be,Sam Johnstone,eng ENG,GK,Crystal Palace,30-023,1993,2,2,180,2.0,1,0.50,11,10,90.9,2,0,0,1,50.0,0,0,0,0,,Matches
-2628fd2b,Bernd Leno,de GER,GK,Fulham,31-044,1992,28,28,2520,28.0,39,1.39,152,114,77.0,12,4,12,7,25.0,4,4,0,0,0.0,Matches
-8f62b6ee,Hugo Lloris,fr FRA,GK,Tottenham,36-112,1986,24,24,2160,24.0,34,1.42,111,78,70.3,13,3,8,7,29.2,1,1,0,0,0.0,Matches
-7956236f,Emiliano Martínez,ar ARG,GK,Aston Villa,30-227,1992,29,29,2554,28.4,33,1.16,111,81,73.0,14,5,10,10,34.5,4,3,1,0,25.0,Matches
-33887998,Edouard Mendy,sn SEN,GK,Chelsea,31-047,1992,9,8,765,8.5,12,1.41,37,25,67.6,3,1,4,1,12.5,0,0,0,0,,Matches
-6b625ac2,Illan Meslier,fr FRA,GK,Leeds United,23-046,2000,30,30,2700,30.0,54,1.80,136,83,62.5,7,8,15,5,16.7,3,3,0,0,0.0,Matches
-ecada4fc,Keylor Navas,cr CRC,GK,Nott'ham Forest,36-123,1986,11,11,990,11.0,21,1.91,49,28,63.3,1,3,7,1,9.1,3,3,0,0,0.0,Matches
-a9dc785c,Neto,br BRA,GK,Bournemouth,33-272,1989,21,21,1845,20.5,28,1.37,105,78,77.1,7,6,8,5,23.8,5,4,0,1,0.0,Matches
-e7ee38c3,Robin Olsen,se SWE,GK,Aston Villa,33-099,1990,3,2,236,2.6,7,2.67,16,9,62.5,1,0,1,1,50.0,1,1,0,0,0.0,Matches
-4806ec67,Jordan Pickford,eng ENG,GK,Everton,29-041,1994,30,30,2700,30.0,46,1.53,152,106,73.0,5,9,16,6,20.0,5,5,0,0,0.0,Matches
-4b40d9ca,Nick Pope,eng ENG,GK,Newcastle Utd,30-363,1992,30,30,2631,29.2,24,0.82,94,69,76.6,15,11,4,13,43.3,4,2,1,1,33.3,Matches
-466fb2c5,Aaron Ramsdale,eng ENG,GK,Arsenal,24-338,1998,31,31,2790,31.0,31,1.00,104,74,73.1,23,5,3,12,38.7,5,3,0,2,0.0,Matches
-98ea5115,David Raya,es ESP,GK,Brentford,27-214,1995,31,31,2790,31.0,42,1.35,170,131,76.5,10,13,8,9,29.0,2,2,0,0,0.0,Matches
-17acc2ed,Marek Rodák,sk SVK,GK,Fulham,26-125,1996,2,2,180,2.0,2,1.00,4,2,50.0,0,2,0,1,50.0,0,0,0,0,,Matches
-903b6e8b,José Sá,pt POR,GK,Wolves,30-090,1993,31,31,2790,31.0,42,1.35,131,88,68.7,9,7,15,9,29.0,3,1,2,0,66.7,Matches
-6a713852,Robert Sánchez,es ESP,GK,Brighton,25-150,1997,23,23,2070,23.0,30,1.30,74,46,66.2,11,5,7,6,26.1,6,5,1,0,16.7,Matches
-28300a16,Jason Steele,eng ENG,GK,Brighton,32-242,1990,6,6,540,6.0,7,1.17,20,13,65.0,3,2,1,3,50.0,0,0,0,0,,Matches
-fe558029,Mark Travers,ie IRL,GK,Bournemouth,23-334,1999,11,10,945,10.5,31,2.95,60,31,51.7,2,0,8,2,20.0,2,2,0,0,0.0,Matches
-d3ce0e89,Danny Ward,wls WAL,GK,Leicester City,29-299,1993,26,26,2340,26.0,46,1.77,119,75,63.0,7,3,16,6,23.1,3,2,1,0,33.3,Matches
-3f847d95,Joseph Whitworth,eng ENG,GK,Crystal Palace,19-047,2004,2,2,180,2.0,5,2.50,10,5,50.0,0,0,2,0,0.0,0,0,0,0,,Matches
+7a2e46a8,Alisson,br BRA,GK,Liverpool,30-205,1992,31,31,2790,31.0,38,1.23,128,91,71.9,14,8,9,11,35.5,3,2,1,0,33.3,Matches
+2f965a72,Alphonse Areola,fr FRA,GK,West Ham,30-057,1993,5,2,309,3.4,7,2.04,16,9,68.8,0,1,1,1,50.0,2,2,0,0,0.0,Matches
+28d596a0,Kepa Arrizabalaga,es ESP,GK,Chelsea,28-204,1994,23,23,2025,22.5,21,0.93,91,72,76.9,7,8,8,9,39.1,0,0,0,0,,Matches
+c91441dc,Gavin Bazunu,ie IRL,GK,Southampton,21-064,2002,32,32,2880,32.0,56,1.75,120,67,54.2,6,6,20,4,12.5,2,1,1,0,50.0,Matches
+7b4de647,Asmir Begović,ba BIH,GK,Everton,35-309,1987,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+3a949a25,Martin Dúbravka,sk SVK,GK,Newcastle Utd,34-100,1989,1,0,67,0.7,0,0.00,5,5,100.0,0,0,0,0,,0,0,0,0,,Matches
+3bb7b8b4,Ederson,br BRA,GK,Manchester City,29-251,1993,30,30,2700,30.0,28,0.93,66,39,62.1,22,4,4,10,33.3,3,3,0,0,0.0,Matches
+9328b835,Łukasz Fabiański,pl POL,GK,West Ham,38-007,1985,29,29,2481,27.6,34,1.23,117,83,71.8,9,6,14,7,24.1,3,1,1,1,50.0,Matches
+c3e39f12,Fraser Forster,eng ENG,GK,Tottenham,35-039,1988,8,7,675,7.5,12,1.60,32,19,65.6,3,2,2,2,28.6,2,1,1,0,50.0,Matches
+7ba6d84e,David de Gea,es ESP,GK,Manchester Utd,32-169,1990,30,30,2700,30.0,37,1.23,112,76,67.9,18,5,7,14,46.7,1,1,0,0,0.0,Matches
+ab13a5aa,Vicente Guaita,es ESP,GK,Crystal Palace,36-105,1987,27,27,2430,27.0,34,1.26,116,84,72.4,7,9,11,6,22.2,2,2,0,0,0.0,Matches
+e5a76dfe,Dean Henderson,eng ENG,GK,Nott'ham Forest,26-044,1997,18,18,1620,18.0,31,1.72,85,52,65.9,5,5,8,6,33.3,5,2,2,1,50.0,Matches
+76eca7e2,Wayne Hennessey,wls WAL,GK,Nott'ham Forest,36-091,1987,2,2,180,2.0,4,2.00,11,7,63.6,0,1,1,0,0.0,0,0,0,0,,Matches
+10d221cd,Daniel Iversen,dk DEN,GK,Leicester City,25-280,1997,6,6,540,6.0,10,1.67,30,21,70.0,1,1,4,0,0.0,1,1,0,0,0.0,Matches
+9e5708be,Sam Johnstone,eng ENG,GK,Crystal Palace,30-031,1993,3,3,270,3.0,1,0.33,16,15,93.8,2,1,0,2,66.7,0,0,0,0,,Matches
+2628fd2b,Bernd Leno,de GER,GK,Fulham,31-052,1992,29,29,2610,29.0,40,1.38,154,116,76.6,13,4,12,7,24.1,4,4,0,0,0.0,Matches
+8f62b6ee,Hugo Lloris,fr FRA,GK,Tottenham,36-120,1986,25,25,2205,24.5,39,1.59,117,79,67.5,13,3,9,7,28.0,1,1,0,0,0.0,Matches
+7956236f,Emiliano Martínez,ar ARG,GK,Aston Villa,30-235,1992,30,30,2599,28.9,33,1.14,113,83,73.5,14,6,10,10,33.3,4,3,1,0,25.0,Matches
+33887998,Edouard Mendy,sn SEN,GK,Chelsea,31-055,1992,9,8,765,8.5,12,1.41,37,25,67.6,3,1,4,1,12.5,0,0,0,0,,Matches
+6b625ac2,Illan Meslier,fr FRA,GK,Leeds United,23-054,2000,32,32,2880,32.0,62,1.94,148,87,60.1,7,8,17,5,15.6,3,3,0,0,0.0,Matches
+ecada4fc,Keylor Navas,cr CRC,GK,Nott'ham Forest,36-131,1986,12,12,1080,12.0,24,2.00,54,30,61.1,1,3,8,1,8.3,3,3,0,0,0.0,Matches
+a9dc785c,Neto,br BRA,GK,Bournemouth,33-280,1989,22,22,1935,21.5,32,1.49,115,84,75.7,7,6,9,5,22.7,5,4,0,1,0.0,Matches
+e7ee38c3,Robin Olsen,se SWE,GK,Aston Villa,33-107,1990,4,2,281,3.1,8,2.56,19,11,63.2,1,0,1,1,50.0,1,1,0,0,0.0,Matches
+4806ec67,Jordan Pickford,eng ENG,GK,Everton,29-049,1994,31,31,2790,31.0,46,1.48,154,108,73.4,5,10,16,7,22.6,5,5,0,0,0.0,Matches
+4b40d9ca,Nick Pope,eng ENG,GK,Newcastle Utd,31-006,1992,31,31,2721,30.2,25,0.83,97,71,76.3,16,11,4,13,41.9,4,2,1,1,33.3,Matches
+466fb2c5,Aaron Ramsdale,eng ENG,GK,Arsenal,24-346,1998,32,32,2880,32.0,34,1.06,110,77,71.8,23,6,3,12,37.5,5,3,0,2,0.0,Matches
+98ea5115,David Raya,es ESP,GK,Brentford,27-222,1995,32,32,2880,32.0,43,1.34,172,132,76.2,10,14,8,9,28.1,2,2,0,0,0.0,Matches
+17acc2ed,Marek Rodák,sk SVK,GK,Fulham,26-133,1996,2,2,180,2.0,2,1.00,4,2,50.0,0,2,0,1,50.0,0,0,0,0,,Matches
+903b6e8b,José Sá,pt POR,GK,Wolves,30-098,1993,32,32,2880,32.0,44,1.37,138,93,69.6,9,7,16,9,28.1,4,2,2,0,50.0,Matches
+6a713852,Robert Sánchez,es ESP,GK,Brighton,25-158,1997,23,23,2070,23.0,30,1.30,74,46,66.2,11,5,7,6,26.1,6,5,1,0,16.7,Matches
+28300a16,Jason Steele,eng ENG,GK,Brighton,32-250,1990,6,6,540,6.0,7,1.17,20,13,65.0,3,2,1,3,50.0,0,0,0,0,,Matches
+fe558029,Mark Travers,ie IRL,GK,Bournemouth,23-342,1999,11,10,945,10.5,31,2.95,60,31,51.7,2,0,8,2,20.0,2,2,0,0,0.0,Matches
+d3ce0e89,Danny Ward,wls WAL,GK,Leicester City,29-307,1993,26,26,2340,26.0,46,1.77,119,75,63.0,7,3,16,6,23.1,3,2,1,0,33.3,Matches
+3f847d95,Joseph Whitworth,eng ENG,GK,Crystal Palace,19-055,2004,2,2,180,2.0,5,2.50,10,5,50.0,0,0,2,0,0.0,0,0,0,0,,Matches
